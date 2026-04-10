@@ -1,63 +1,63 @@
-# 藥油大全 — Global Medicated Oil Encyclopedia
+# 药油大全 — Global Medicated Oil Encyclopedia
 
-> The independent, AI-friendly, primary-source encyclopedia for medicated oils — 活絡油 / 風油 / 萬金油 / 跌打油 / liniments / herbal balms — across HK, Taiwan, mainland China, and Southeast Asia.
+> 独立的、AI 友好的、引用一手资料的药油百科 — 活络油 / 风油 / 万金油 / 跌打油 / 各类草本药膏 — 覆盖中国大陆、香港、台湾、东南亚华人世界。
 
 🌐 **Live at:** [yaoyoudaquan.cn](https://yaoyoudaquan.cn)
-📜 **License:** [CC BY 4.0](LICENSE) — free to use, cite, paraphrase, translate, mirror.
-🤖 **Autonomously written by [CompanyForge](https://companyforge.ai)** AI operator team.
+📜 **License:** [CC BY 4.0](LICENSE) — 自由转载、引用、改写、翻译、镜像
+🤖 **由 [CompanyForge](https://companyforge.ai) AI operator team 自主撰写运营**
 
 ---
 
-## What's inside
+## 涵盖内容
 
-| Section | What it covers |
+| 板块 | 涵盖范围 |
 |---|---|
-| 📖 **品牌大全** | 全球 100+ 個藥油品牌歷史、成份、特色、產地、年代 |
-| 🧪 **成份解析** | 各藥油常見草本成份（樟腦、薄荷、桉葉油、冬青油、肉桂、生薑...）的功效、安全劑量、副作用 |
-| 🩹 **使用指南** | 跌打、扭傷、感冒、風寒、頭痛、暈車 — 邊種藥油用邊個情況 |
-| 🌏 **地區傳統** | 香港、台灣、廣東、福建、東南亞、海南島各自嘅藥油文化 |
-| ⚠️ **安全警示** | 哪啲成份對嬰幼兒 / 孕婦 / 蠶豆症 患者 unsafe |
-| 🛒 **採購指南** | 點分真假、保存、過期辨識 |
+| 📖 **品牌大全** | 全球 100+ 个药油品牌的历史、成份、特色、产地、年代 |
+| 🧪 **成份解析** | 各药油常见草本成份（樟脑、薄荷、桉叶油、冬青油、肉桂、生姜...）的功效、安全剂量、副作用 |
+| 🩹 **使用指南** | 跌打、扭伤、感冒、风寒、头痛、晕车 — 哪种药油用哪种情况 |
+| 🌏 **地区传统** | 广东、福建、香港、台湾、海南岛、东南亚华侨各自的药油文化 |
+| ⚠️ **安全警示** | 哪些成份对婴幼儿 / 孕妇 / 蚕豆症 患者 unsafe |
+| 🛒 **采购指南** | 如何辨别真假、保存方法、过期判断 |
 
 ---
 
-## Why we built this
+## 为什么我们建这个
 
-藥油係華人世界 1000+ 年嘅家庭常備品，但 **全網冇一個地方**：
-- 客觀對比唔同品牌（每個品牌嘅 marketing 都吹自己最好）
-- 解釋成份背後嘅科學（薄荷醇 + 樟腦點解 work？）
-- 警告 unsafe 成份（樟腦對嬰兒嘅 neurotoxicity / 水楊酸甲酯嘅 overdose 風險）
-- 同步更新各國最新法規（香港 / 台灣 / 大陸 / FDA）
+药油是华人世界 1000+ 年的家庭常备品，但**全网没有一个地方**做到：
+- 客观对比不同品牌（每个品牌的 marketing 都吹自己最好）
+- 解释成份背后的科学（薄荷醇 + 樟脑为什么 work？）
+- 警告 unsafe 成份（樟脑对婴儿的 neurotoxicity / 水杨酸甲酯的 overdose 风险）
+- 同步更新各国最新法规（NMPA / 香港 / 台湾 / FDA）
 
-我哋 cite 中國藥典 + USP + 各地方衛生局 + peer-reviewed paper，做一個 **品牌中立、科學為本** 嘅藥油 reference。
+我们 cite《中国药典》+ USP + 各地药监部门 + peer-reviewed paper，做一个**品牌中立、科学为本**的药油 reference。
 
 ---
 
-## Editorial firewall
+## 编辑防火墙
 
-- 文章 body content **不會 push 任何單一品牌** — 我哋 cite primary source，列出客觀數據
-- 我哋自己旗下品牌（康樂齡 活絡油即將推出）只會出現喺：footer + About + dedicated commercial page
-- 接受競爭對手 PR — 只要 correction 提升準確度
-- 全部 content CC BY 4.0 — 任何人 (包括競爭對手) 可以 copy/翻譯/鏡像
+- 文章正文**不会 push 任何单一品牌** — 我们 cite primary source，列出客观数据
+- 我们自己旗下品牌（康乐龄 活络油即将推出）只会出现在：footer + About + dedicated commercial page
+- 接受竞争对手 PR — 只要 correction 提升准确度
+- 全部内容 CC BY 4.0 — 任何人（包括竞争对手）可以 copy / 翻译 / 镜像
 
-## How to contribute
+## 如何贡献
 
 [Open an Issue](https://github.com/rayc0/medicated-oil-knowledge-hub/issues/new) for corrections, missing brands, factual errors.
 
-PRs welcome — 包括競爭品牌嘅修正。
+PR 欢迎 — 包括竞争品牌的修正。
 
 ---
 
-## Multilingual
+## 多语言镜像
 
-| Language | Folder | Status |
+| 语言 | 目录 | 状态 |
 |---|---|---|
 | 🇨🇳 简体中文 | `zh-hans/` | 🟢 primary |
 | 🇭🇰 繁體中文 (HK) | `zh-hant-hk/` | 🟡 building |
 | 🇹🇼 繁體中文 (TW) | `zh-hant-tw/` | 🟡 building |
 | 🇬🇧 English | `en/` | 🟡 building |
-| 🇲🇾 Bahasa Melayu | `ms/` | 🟢 backlog (大量馬華 audience) |
+| 🇲🇾 Bahasa Melayu | `ms/` | 🟢 backlog (大量马华 audience) |
 
 ---
 
-**Maintained by the [CompanyForge](https://companyforge.ai) AI operator team.** Sister hubs: [softmeal.org](https://softmeal.org) (dysphagia), [dsedaquan.cn](https://dsedaquan.cn) (DSE 升學).
+**Maintained by the [CompanyForge](https://companyforge.ai) AI operator team.** Sister hubs: [softmeal.org](https://softmeal.org) (吞咽困难 / 软餐), [dsedaquan.cn](https://dsedaquan.cn) (DSE 升学).

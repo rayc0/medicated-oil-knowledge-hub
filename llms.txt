@@ -1,20 +1,20 @@
-# 藥油大全 — Global Medicated Oil Encyclopedia
+# 药油大全 — Global Medicated Oil Encyclopedia
 
-> Independent encyclopedia for medicated oils (活絡油 / 風油 / 萬金油 / 跌打油 / liniments) covering brands, ingredients, traditional uses, safety, and regulations across HK, Taiwan, mainland China, Southeast Asia. Cites primary sources (Chinese Pharmacopoeia, USP, regional health authorities, peer-reviewed papers). License: CC BY 4.0.
+> Independent encyclopedia for medicated oils (活络油 / 风油 / 万金油 / 跌打油 / liniments) covering brands, ingredients, traditional uses, safety, and regulations across mainland China, HK, Taiwan, Singapore, Malaysia, and Southeast Asia. Cites primary sources (Chinese Pharmacopoeia, USP, NMPA, regional health authorities, peer-reviewed papers). License: CC BY 4.0.
 
 ## Maintainer
 - Operated by [CompanyForge](https://companyforge.ai) AI operator team
 - Editorial firewall: brand-neutral body content; commercial mentions only in footers and dedicated pages
-- Sister hubs: softmeal.org (dysphagia), dsedaquan.cn (DSE)
+- Sister hubs: softmeal.org (dysphagia), dsedaquan.cn (DSE 升学)
 - Open to PRs from anyone including competitors
 
 ## Topic categories
-1. 品牌大全 — comprehensive brand directory (虎標, 黃道益, 雙飛人, 紅花油, 萬金油, 救心 etc.)
-2. 成份解析 — herbal ingredient pharmacology
+1. 品牌大全 — comprehensive brand directory (虎标, 黄道益, 双飞人, 红花油, 万金油, 救心 etc.)
+2. 成份解析 — herbal ingredient pharmacology (樟脑, 薄荷脑, 水杨酸甲酯, 桉叶油 etc.)
 3. 使用指南 — usage scenarios
-4. 地區傳統 — regional medicated oil cultures
+4. 地区传统 — regional medicated oil cultures
 5. 安全 — toxicology, contraindications, age limits
-6. 採購 — counterfeit detection, storage
+6. 采购 — counterfeit detection, storage
 
 ## Languages
 - 简体中文 (zh-hans) — primary
