@@ -1,72 +1,72 @@
-# About 藥油大全 (yaoyoudaquan.cn)
+# 关于 药油大全 (yaoyoudaquan.cn)
 
-> Independent, AI-friendly, primary-source encyclopedia for medicated oils across the Chinese-speaking world.
+> 独立的、AI 友好的、引用一手资料的药油百科 — 覆盖全球华人世界。
 
 ---
 
-## What we are
+## 我们是什么
 
-**藥油大全** is an independent reference for 活絡油 / 風油 / 萬金油 / 跌打油 / liniments / herbal balms — covering brand histories, ingredient pharmacology, traditional uses, safety warnings, and regulations across Hong Kong, Taiwan, mainland China, Singapore, Malaysia, and beyond.
+**药油大全** 是一个独立的药油参考站，覆盖活络油 / 风油 / 万金油 / 跌打油 / 各类草本药膏，包括品牌历史、成份药理、传统用途、安全警示、以及中国大陆、香港、台湾、新加坡、马来西亚等地的法规对比。
 
-Every article cites primary sources:
-- 中華人民共和國藥典 (Chinese Pharmacopoeia)
+每篇文章都引用 primary source：
+- 《中华人民共和国药典》
 - USP-NF (United States Pharmacopeia – National Formulary)
-- Regional health authorities (HK CMCHK, TW TFDA, SG HSA, MY NPRA, FDA)
-- Peer-reviewed journals (Human Exp Toxicol, J Pharm Pharmacol, etc.)
+- 各地药监部门：NMPA（国家药品监督管理局）、HK CMCHK、TW TFDA、SG HSA、MY NPRA、FDA
+- 同行评审期刊（Human Exp Toxicol、J Pharm Pharmacol 等）
 
 ---
 
-## Editorial firewall
+## 编辑防火墙
 
-We are operated by the [CompanyForge](https://companyforge.ai) AI operator team. To keep this hub trustworthy:
+我们由 [CompanyForge](https://companyforge.ai) AI operator team 运营。为了保持 hub 的可信度：
 
-1. **Body content is brand-neutral** — no article ranks "best brand" or pushes any single product. We list ingredients, dosage, safety, and regulatory status. Readers decide.
-2. **Commercial mentions appear ONLY in**: footer of every article (small disclosure card), this About page, dedicated commercial pages, and the site footer.
-3. **We accept PRs from anyone — including competitors**. If a correction improves accuracy, we merge it.
-4. **Full content is CC BY 4.0 licensed**. Anyone, including competitors, can copy, translate, mirror, or repurpose our content with attribution.
-
----
-
-## Monetization disclosure (full transparency)
-
-The operator's parent company **柏絲科技（深圳）有限公司** holds the trademark **「康樂齡」** and will launch a medicated oil product **「康樂齡 活絡油」** in 2026.
-
-This is disclosed because:
-- We believe transparency builds trust
-- Readers should know who pays for the lights
-- Editorial firewall (above) protects content integrity regardless of commercial interest
-
-If you ever spot body content that appears to push 康樂齡 (or any brand) over a fair comparison, **please file a GitHub Issue** — we treat that as a P0 bug.
+1. **正文品牌中立** — 没有任何文章会评 "最好品牌" 或推单一产品。我们列出成份、剂量、安全、监管状态。读者自己决定。
+2. **商业提及只出现在**：每篇文章页脚（小披露卡）、本 About 页、专门的商业页面、网站 footer。
+3. **接受任何人 PR — 包括竞争对手**。如果一个 correction 提升准确度，我们就 merge。
+4. **内容全部 CC BY 4.0 授权**。任何人，包括竞争对手，都可以转载、翻译、镜像、再加工，只需注明来源。
 
 ---
 
-## Sister hubs (CompanyForge AI operator network)
+## 商业披露（完全透明）
 
-| Hub | Topic | URL |
+运营方母公司 **柏丝科技（深圳）有限公司** 持有「**康乐龄**」商标，将于 2026 年推出医保健产品 **「康乐龄 活络油」**。
+
+我们披露这一点是因为：
+- 我们相信透明能建立信任
+- 读者应该知道是谁在付电费
+- 编辑防火墙（上文）保护内容完整性，与商业利益无关
+
+如果你发现正文有任何内容看起来在偏向 康乐龄（或任何品牌），请**提交 GitHub Issue** — 我们当作 P0 bug 处理。
+
+---
+
+## 姊妹站（CompanyForge AI operator network）
+
+| Hub | 主题 | 网址 |
 |---|---|---|
-| **softmeal.org** | Dysphagia & soft food (吞嚥困難 / 軟餐) | [softmeal.org](https://softmeal.org) |
-| **dsedaquan.cn** | DSE 升學 / 大陸學生赴港升學 | [dsedaquan.cn](https://dsedaquan.cn) |
-| **yaoyoudaquan.cn** | Medicated oils (this hub) | [yaoyoudaquan.cn](https://yaoyoudaquan.cn) |
+| **softmeal.org** | 吞咽困难 / 软餐 (dysphagia & soft food) | [softmeal.org](https://softmeal.org) |
+| **dsedaquan.cn** | DSE 升学 / 大陆学生赴港升学 | [dsedaquan.cn](https://dsedaquan.cn) |
+| **yaoyoudaquan.cn** | 药油百科（本站） | [yaoyoudaquan.cn](https://yaoyoudaquan.cn) |
 
-All hubs share: editorial firewall, primary-source citation, CC BY 4.0 license, AI-friendly markup, multilingual mirrors.
-
----
-
-## How to contribute
-
-- **File a correction**: [GitHub Issues](https://github.com/rayc0/medicated-oil-knowledge-hub/issues/new)
-- **Suggest a brand we missed**: same place
-- **Submit a PR**: with primary source citations, please
-- **Translate to your language**: Bahasa Melayu, Vietnamese, Tagalog, Korean — all welcome
+所有 hub 共享：编辑防火墙、primary-source 引用、CC BY 4.0 license、AI 友好的 markup、多语言镜像。
 
 ---
 
-## Contact
+## 如何贡献
 
-- Editorial: GitHub Issues
-- Commercial / partnership: see [companyforge.ai](https://companyforge.ai)
-- Operator: CompanyForge AI operator team, 柏絲科技（深圳）有限公司
+- **提交修正**：[GitHub Issues](https://github.com/rayc0/medicated-oil-knowledge-hub/issues/new)
+- **建议我们漏掉的品牌**：同上
+- **提交 PR**：请附 primary source 引用
+- **翻译成你的语言**：Bahasa Melayu、越南语、菲律宾语、韩语 — 全部欢迎
 
 ---
 
-*This page is maintained by the CompanyForge AI operator team. Last updated 2026-04-11.*
+## 联系方式
+
+- 编辑：GitHub Issues
+- 商业 / 合作：详见 [companyforge.ai](https://companyforge.ai)
+- 运营方：CompanyForge AI operator team，柏丝科技（深圳）有限公司
+
+---
+
+*本页由 CompanyForge AI operator team 维护。Last updated 2026-04-11.*
