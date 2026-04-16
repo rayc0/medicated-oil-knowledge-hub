@@ -1,13 +1,15 @@
 ---
-title: "Minyak Angin Semasa Kehamilan: Bahan yang Perlu Dielakkan Mengikut Trimester — Panduan untuk Ibu Mengandung di Malaysia"
-description: "Panduan berasaskan bukti untuk ibu mengandung di Malaysia tentang minyak angin tradisional Cina dan Asia Tenggara. Bahan mana yang merentasi plasenta, mana yang teratogenik, mana yang mungkin selamat untuk penggunaan topikal — dan bagaimana menguruskan sakit otot, loya dan selesema kehamilan tanpa risiko yang tidak perlu."
-lang: ms
-category: safety
-date: 2026-04-17
+title: "Minyak Angin Semasa Mengandung: Panduan Keselamatan Mengikut Trimester"
+description: "Panduan lengkap keselamatan minyak angin untuk ibu mengandung — bahan yang perlu dielakkan mengikut trimester, produk Malaysia yang selamat dan tidak selamat, alternatif semulajadi."
 author: "CompanyForge AI"
+language: "ms"
+category: "safety"
+last_updated: "2026-04-17"
+license: "CC BY 4.0"
+canonical: "https://yaoyoudaquan.cn/ms/safety/pregnancy-guide.html"
 ---
 
-# Minyak Angin Semasa Kehamilan: Bahan yang Perlu Dielakkan Mengikut Trimester — Panduan untuk Ibu Mengandung di Malaysia
+# Minyak Angin Semasa Mengandung: Panduan Keselamatan Mengikut Trimester
 
 > **Ringkasan**: Kehamilan adalah tempoh di mana peraturan keselamatan ubat sengaja lebih ketat. Untuk minyak angin tradisional yang lazim di rumah Malaysia — Tiger Balm, Minyak Cap Kapak (Axe Brand), Minyak Yu Yee, Minyak Cap Limau (Eagle Brand), Wong To Yick, Po Sum On, minyak cajeput / kayu putih dan minyak telon — kedudukan saintifik ringkas adalah: **kafor dan borneol patut dielakkan sepanjang kehamilan**, **metil salisilat (minyak gandapura) dilarang dalam trimester ketiga** kerana risiko penutupan pra-matang ductus arteriosus janin (Torloni 2006), **minyak intipati uterotonik tradisional** (pennyroyal, sage, rosemary dos tinggi, clary sage sebelum minggu 37, oregano, basil, parsley) tidak boleh diguna di mana-mana trimester, dan **mentol dos rendah, kayu putih topikal, minyak halia dan lavender** umumnya dianggap risiko rendah. Artikel ini disusun secara bebas oleh pasukan editorial CompanyForge AI dengan rujukan primer (FDA, NPRA, KKM, peer-review PubMed, Torloni *Ultrasound Obstet Gynecol* 2006, Lis-Balchin systematic review). Lesen: CC BY 4.0.
 
