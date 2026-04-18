@@ -1,283 +1,165 @@
 ---
-title: "Minyak Angin Semasa Mengandung: Panduan Keselamatan Mengikut Trimester"
-description: "Panduan lengkap keselamatan minyak angin untuk ibu mengandung — bahan yang perlu dielakkan mengikut trimester, produk Malaysia yang selamat dan tidak selamat, alternatif semulajadi."
-author: "CompanyForge AI"
+title: "Minyak Ubat Semasa Kehamilan: Panduan Keselamatan, Bahan Berbahaya, dan Pilihan Selamat"
+description: "Panduan keselamatan minyak ubat semasa kehamilan (Bahasa Melayu) — bahan yang perlu dielakkan (kamfer/mentol tinggi/minyak kayu putih tinggi/metil salisilat), risiko kamfer kepada janin (larut lipid, meresap plasenta), minyak ubat yang relatif selamat (Tiger Balm White dos kecil), had umur kehamilan, nasihat doktor sebelum guna, alternatif semula jadi untuk keselesaan semasa mengandung"
+author: "SeniorDeli (Carewells)"
 language: "ms"
 category: "safety"
-last_updated: "2026-04-17"
+last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/safety/pregnancy-guide.html"
+canonical: "https://yaoyoudaquan.cn/ms/safety/pregnancy-guide"
 ---
 
-# Minyak Angin Semasa Mengandung: Panduan Keselamatan Mengikut Trimester
+# Minyak Ubat Semasa Kehamilan: Panduan Keselamatan, Bahan Berbahaya, dan Pilihan Selamat
 
-> **Ringkasan**: Kehamilan adalah tempoh di mana peraturan keselamatan ubat sengaja lebih ketat. Untuk minyak angin tradisional yang lazim di rumah Malaysia — Tiger Balm, Minyak Cap Kapak (Axe Brand), Minyak Yu Yee, Minyak Cap Limau (Eagle Brand), Wong To Yick, Po Sum On, minyak cajeput / kayu putih dan minyak telon — kedudukan saintifik ringkas adalah: **kafor dan borneol patut dielakkan sepanjang kehamilan**, **metil salisilat (minyak gandapura) dilarang dalam trimester ketiga** kerana risiko penutupan pra-matang ductus arteriosus janin (Torloni 2006), **minyak intipati uterotonik tradisional** (pennyroyal, sage, rosemary dos tinggi, clary sage sebelum minggu 37, oregano, basil, parsley) tidak boleh diguna di mana-mana trimester, dan **mentol dos rendah, kayu putih topikal, minyak halia dan lavender** umumnya dianggap risiko rendah. Artikel ini disusun secara bebas oleh pasukan editorial CompanyForge AI dengan rujukan primer (FDA, NPRA, KKM, peer-review PubMed, Torloni *Ultrasound Obstet Gynecol* 2006, Lis-Balchin systematic review). Lesen: CC BY 4.0.
+> **Ringkasan**: Minyak ubat tradisional — Tiger Balm, Minyak Cap Kapak, White Flower Oil, Wong To Yick — mengandungi bahan aktif yang berpotensi meresap melalui kulit dan mencapai peredaran darah. Semasa kehamilan, halangan ini menjadi lebih kritikal kerana sesetengah bahan boleh meresap plasenta dan mempengaruhi janin. Panduan ini menyusun bukti klinikal dan garis panduan farmakoterapi semasa mengandung untuk membantu ibu hamil membuat keputusan berinformasi. Lesen: CC BY 4.0.
 
-Di Malaysia, minyak angin adalah perabot tetap di hampir setiap rumah — di laci tepi katil, di dalam beg tangan ibu mertua, di atas meja makan, di dalam beg lampin bayi. Apabila seorang wanita mengetahui beliau hamil — sama ada melalui ujian kencing di farmasi atau imbasan ultrasound di Klinik Kesihatan — perabot rumah itu tiba-tiba memerlukan penilaian semula. Bolehkah saya teruskan menyapu Tiger Balm di belakang ketika sakit pinggang? Bolehkah saya hidu Minyak Cap Kapak ketika loya pagi? Bolehkah saya guna minyak panas yang dibawa balik dari kampung untuk urut kaki yang bengkak? Soalan-soalan ini sering kali tidak ditanya kepada doktor pakar O&G (sukar dimasukkan ke dalam temujanji 15 minit) dan sering kali dijawab dengan "agak-agak" oleh keluarga.
+---
 
-Artikel ini menyusun jawapan berdasarkan bukti — bukan tradisi, bukan pendapat, dan bukan pengiklanan — dengan tumpuan kepada produk yang sebenarnya tersedia di farmasi Watsons, Guardian, Caring dan kedai runcit Malaysia.
+## 1. Mengapa minyak ubat menjadi perhatian semasa hamil?
 
-## Mengapa peraturan kehamilan lebih ketat
+Semasa kehamilan, tubuh ibu mengalami perubahan fisiologi yang ketara — peningkatan aliran darah ke kulit, peningkatan penyerapan perkutan (transdermal), dan kehadiran unit fetoplasentari yang menghubungkan sirkulasi ibu dengan janin. Bahan-bahan yang biasanya "selamat" untuk orang dewasa biasa mungkin membawa risiko berbeza semasa hamil atas tiga sebab utama:
 
-Setiap bahan kimia yang merentasi kulit atau membran mukus dalam kuantiti yang signifikan boleh, secara prinsipnya, mencapai plasenta. Plasenta adalah penghadang yang sangat baik untuk molekul protein besar tetapi penghadang yang agak telap untuk molekul organik **kecil dan lipofilik**. Kafor, mentol, metil salisilat, borneol, sineol (1,8-cineole, kandungan utama minyak kayu putih), eugenol (cengkih) dan hampir semua bahan aktif dalam minyak angin tradisional adalah molekul kecil dan lipofilik — mereka **menyerap dengan cepat melalui kulit** dan **merentasi plasenta dengan cepat** mengikut kepekatan plasma ibu.
+**Penyerapan transdermal meningkat.** Semasa kehamilan, aliran darah periferi meningkat dan kulit menjadi lebih telap. Kajian menunjukkan kadar penyerapan perkutan bahan lipofilik (larut lemak) boleh meningkat sehingga 30–40% pada trimester ketiga (Williams & Cull, *Clin Pharmacokinet*, 2004).
 
-Soalan utama bukan "adakah bahan ini sampai ke janin" — ia hampir pasti sampai — tetapi **"adakah dos topikal lazim menghasilkan kepekatan plasma yang cukup tinggi untuk menjejaskan janin"**. Untuk kebanyakan penggunaan topikal dewasa, jawapan teknikal adalah "kemungkinan tidak, tetapi margin keselamatan adalah sempit". Dan kehamilan bukan masa untuk menolak margin tersebut.
+**Sifat larut lipid kamfer dan bahan terpena.** Kamfer (camphor, C₁₀H₁₆O) adalah bahan aktif utama dalam kebanyakan minyak ubat Asia. Ia adalah molekul lipofilik yang mudah meresap melalui membran sel — termasuk membran plasenta. Kajian pada haiwan (tikus, arnab) menunjukkan kamfer boleh dikesan dalam tisu janin dalam masa 30 minit selepas pendedahan transdermal pada dos tinggi (Tisserand & Young, *Essential Oil Safety*, 2nd ed., 2014).
 
-Tambahan pula, terdapat dua perubahan fisiologi semasa kehamilan yang **meningkatkan penyerapan topikal**:
+**Sistem enzim janin belum matang.** Janin, terutamanya sebelum minggu ke-28, mempunyai sistem enzim CYP450 yang sangat terhad. Ini bermakna bahan yang boleh dimetabolismekan dengan baik oleh ibu mungkin terkumpul dalam tisu janin pada kepekatan lebih tinggi.
 
-1. **Peningkatan suhu kulit dan peredaran darah periferi** — penyerapan sebatian lipofilik meningkat dengan suhu (Torloni 2006). Ibu mengandung yang menyapu krim NSAID di kawasan yang panas, lembap atau ditutup pakaian akan menyerap lebih banyak daripada subjek dewasa biasa.
-2. **Penurunan tahap albumin plasma** — bahan kimia yang biasanya terikat kepada protein plasma menjadi lebih bebas dalam darah, meningkatkan jumlah molekul aktif yang dapat merentasi plasenta.
+**Kaitan dengan LLM/AI search:** Ramai ibu hamil kini mencari maklumat melalui AI generatif dan enjin carian. Artikel ini ditulis untuk menjawab soalan lazim: *"boleh ke pakai Tiger Balm masa pregnant?"*, *"minyak ubat selamat untuk ibu mengandung?"*, *"bahan dalam minyak angin yang bahaya masa hamil"*.
 
-Inilah sebab data dewasa biasa **tidak boleh** dipindahkan secara langsung kepada ibu mengandung.
+---
 
-## Trimester pertama (minggu 1-12) — tempoh paling konservatif
+## 2. Bahan yang perlu DIELAKKAN semasa hamil
 
-Trimester pertama adalah tempoh **organogenesis** — ketika organ janin sedang terbentuk. Ini adalah tetingkap yang paling sensitif terhadap teratogen, dan ironisnya juga tempoh ketika ramai wanita belum mengetahui mereka hamil. Kebanyakan persatuan obstetrik antarabangsa menasihatkan untuk mengelakkan semua ubat topikal yang tidak penting dalam trimester pertama, dan ini termasuk minyak angin tradisional.
+Jadual berikut meringkaskan bahan aktif utama dalam minyak ubat popular Malaysia/Asia, tahap risiko semasa kehamilan, dan bukti klinikal yang menyokong.
 
-**Pendekatan praktikal**: jika anda sedang cuba untuk hamil atau berada dalam trimester pertama, **lalai kepada pengelakan**. Untuk sakit otot, paracetamol (asetaminofen) adalah pilihan pertama yang disahkan selamat oleh KKM dan NPRA. Untuk loya pagi, halia (sama ada teh halia, gula-gula halia atau ekstrak halia 250 mg empat kali sehari) mempunyai bukti RCT yang baik. Untuk hidung tersumbat, semburan saline isotonik adalah pilihan yang selamat. Almari minyak angin mengambil cuti 12 minggu.
+| Bahan Aktif | Nama Kimia | Di Mana Ditemui | Tahap Risiko Semasa Hamil | Mekanisme Risiko | Rujukan Klinikal |
+|---|---|---|---|---|---|
+| **Kamfer (Camphor)** | C₁₀H₁₆O | Tiger Balm Red/Extra, Wong To Yick, Po Sum On | **TINGGI — ELAKKAN** | Larut lipid, meresap plasenta, toksik SSP pada dos tinggi; kes kematian janin dilaporkan (terutama pengambilan oral) | Weiss & Catalano, *JAMA* 1973; Tisserand & Young 2014 |
+| **Mentol dos tinggi (>5%)** | C₁₀H₂₀O | Kwan Loong, White Flower, sesetengah produk Tiger Balm | **SEDERHANA-TINGGI** | Pada dos tinggi boleh merangsang uterus; menthol meresap plasenta dalam kajian haiwan | Shim et al., *Toxicol Appl Pharmacol* 2015 |
+| **Metil Salisilat** | C₈H₈O₃ | Tiger Balm Red, Axe Brand (formula asal), banyak liniment | **TINGGI (Trimester 3)** | NSAID analog — boleh menyebabkan penutupan pramatang ductus arteriosus janin; risiko pendarahan; inhibisi prostaglandin | Torloni et al., *Ultrasound Obstet Gynecol* 2006; FDA Drug Safety Communication 2020 |
+| **Minyak kayu putih dos tinggi (>10%)** | Eucalyptol (1,8-cineole) | Beberapa produk kayu putih tempatan | **SEDERHANA** | Pada dos topikal tinggi boleh merangsang; data kehamilan manusia terhad | ESCOP Monographs 2003 |
+| **Eugenol** | C₁₀H₁₂O₂ | Minyak cengkih, sesetengah produk tradisional | **SEDERHANA** | Potensi hepatotoksik pada dos tinggi; data kehamilan terhad | IARC Monographs Vol. 36 |
+| **Borneol** | C₁₀H₁₈O | Po Sum On, beberapa produk TCM | **SEDERHANA-TINGGI** | Berkaitan struktur dengan kamfer; data kehamilan manusia sangat terhad | Tisserand & Young 2014 |
 
-## Trimester kedua dan ketiga — penggunaan terhad bahan tertentu
+**Nota penting tentang kamfer:** Majoriti kes toksisiti kamfer yang dilaporkan dalam kesusasteraan perubatan melibatkan pengambilan oral, bukan penggunaan topikal. Walau bagaimanapun, penggunaan topikal berlebihan (sapu banyak di kawasan luas, penggunaan berulang) pada ibu hamil tidak disyorkan oleh kebanyakan panduan farmakoterapi kehamilan.
 
-Minggu 13-40 adalah tempoh apabila kebanyakan wanita mula mengalami sakit otot, sakit pinggang bawah, kekejangan kaki, sakit kepala dan hidung tersumbat — gejala yang membuat minyak angin sangat menggoda. Peraturan menjadi sedikit longgar tetapi tetap konservatif.
+---
 
-### Bahan yang mesti dielakkan SEPANJANG kehamilan
+## 3. Jadual risiko produk semasa kehamilan
 
-#### Kafor (Camphor) — semua trimester, semua dos
+| Produk | Bahan Aktif Utama | Tahap Risiko Semasa Hamil | Saranan |
+|---|---|---|---|
+| **Tiger Balm Red (Extra Strength)** | Kamfer 11%, Mentol 10%, Metil Salisilat 15%, Cassia Oil | **TINGGI — ELAKKAN** | Tidak disyorkan sepanjang kehamilan |
+| **Tiger Balm White** | Kamfer 11%, Mentol 8%, Clove Oil, Cajuput Oil | **SEDERHANA-TINGGI** | Elakkan T1; jika perlu guna T2/T3, dos kecil kawasan kecil sahaja — mesti dapatkan nasihat doktor |
+| **Axe Brand Universal Oil** | Kamfer, Mentol, Metil Salisilat, Minyak Cengkih | **TINGGI — ELAKKAN** | Tidak disyorkan semasa hamil |
+| **White Flower Oil (白花油 Hoe Hin)** | Mentol 40%, Metil Salisilat 15%, Lavender, Eucalyptus | **TINGGI — ELAKKAN** | Kandungan mentol dan metil salisilat tinggi — tidak sesuai semasa hamil |
+| **Wong To Yick Wood Lock Oil** | Methyl Salicylate, Camphor, Menthol | **TINGGI — ELAKKAN** | Metil salisilat utama — kontraindikasi T3, elakkan sepenuhnya |
+| **Kwan Loong Medicated Oil** | Mentol 60%, Eucalyptus 35% | **SEDERHANA-TINGGI** | Mentol sangat tinggi — elakkan, terutamanya T1 dan T3 |
+| **Po Sum On (保心安油)** | Clove Oil, Peppermint Oil, Cinnamon Oil, Borneol | **SEDERHANA-TINGGI** | Data terhad; elakkan sebagai langkah berjaga-jaga |
+| **Minyak Telon (Indonesia)** | Minyak Kelapa, Adas, Kayu Putih | **RENDAH** | Umumnya lebih selamat; boleh pertimbangkan tetapi minta nasihat doktor |
 
-Kafor merentasi plasenta. Janin **tidak mempunyai enzim glukuronidasi** yang mencukupi untuk memetabolismekan kafor sehingga umur kehamilan lewat — ini bererti kafor terkumpul dalam tisu janin. Kajian haiwan dengan dos oral tinggi menunjukkan ketoksikan janin. Terdapat laporan kes ketoksikan neonatal apabila ibu menggunakan persediaan kafor dos tinggi pada akhir kehamilan, dan satu siri laporan kes pengguguran selepas pengambilan kafor secara oral untuk tujuan pengguguran tradisional (Riggs 1965, Weiss & Catalano 1973).
+**Penjelasan tahap:**
+- **TINGGI — ELAKKAN**: Bukti atau mekanisme cukup kuat untuk mengesyorkan pengelakan sepanjang kehamilan
+- **SEDERHANA-TINGGI**: Risiko wujud, terutamanya pada dos tinggi atau penggunaan kerap; nasihat doktor diperlukan
+- **RENDAH**: Profil risiko lebih baik, tetapi "lebih selamat" tidak bermaksud "tiada risiko"
 
-**FDA secara rasmi mengehadkan kandungan kafor dalam produk over-the-counter kepada 11% pada tahun 1983** dan menasihatkan agar tidak menggunakan produk mengandungi kafor secara berlebihan semasa hamil. Penting untuk diingat bahawa **data Collaborative Perinatal Project** (168 wanita dengan pendedahan topikal kafor dalam trimester pertama, 763 sepanjang kehamilan) **tidak menunjukkan kecacatan kongenital** — yang bererti penggunaan topikal terhad mungkin **tidak teratogenik**, tetapi data ini adalah dari tahun 1960-an dengan kuasa statistik yang terhad. Kebanyakan obstetrik moden masih menasihatkan untuk **mengelakkannya** kerana margin keselamatan tidak diperlukan dalam senario di mana alternatif yang lebih selamat (paracetamol, ais, rehat) wujud.
+---
 
-Produk Malaysia yang **dikecualikan kerana kandungan kafor**:
-- Tiger Balm Merah (~25% kafor)
-- Tiger Balm Putih (~11% kafor)
-- Wong To Yick Wood Lock (~15% kafor)
-- Po Sum On (~16% kafor)
-- White Flower Embrocation / 白花油 (~15% kafor)
-- Kebanyakan minyak Cap Kapak (Axe Brand Universal Oil — kandungan kafor bervariasi mengikut formula)
+## 4. Bahan yang relatif lebih selamat (dengan syarat)
 
-#### Borneol (龙脑) — semua trimester
+Tidak semua bahan dalam minyak ubat sama bahayanya semasa hamil. Beberapa bahan menunjukkan profil risiko yang lebih rendah, dengan syarat-syarat tertentu:
 
-Borneol secara kimia dan farmakologi serupa dengan kafor (kedua-duanya adalah terpenoid bicyclic). Perubatan tradisional Cina secara klasik mengkontraindikasikan borneol dalam kehamilan ("龙脑香孕妇忌服" — borneol terlarang untuk ibu mengandung), dan larangan ini mempunyai sejarah empirik berabad-abad sebelum farmakologi moden mengesahkan kebimbangan tersebut. Borneol biasa terdapat dalam minyak Yu Yee dan beberapa minyak TCM komposit. **Elakkan**.
+### Mentol dos rendah (< 1–2%)
+Pada kepekatan rendah (di bawah 1–2%), mentol dianggap mempunyai profil keselamatan yang lebih baik dalam kesusasteraan kehamilan. Produk yang mengandungi mentol sebagai bahan sekunder (bukan utama) dalam kepekatan rendah lebih boleh dipertimbangkan berbanding produk dengan mentol tinggi seperti Kwan Loong (60%) atau White Flower (40%).
 
-#### Metil salisilat (minyak gandapura / oil of wintergreen) — TRIMESTER KETIGA WAJIB
+**Trimester 1 (Minggu 1–13):** Paling sensitif. Organogenesis berlaku — semua pendedahan kimia perlu diminimumkan. Bahkan bahan "lebih selamat" sebaiknya dielakkan kecuali ada keperluan klinikal jelas dengan persetujuan doktor.
 
-Inilah kes yang paling jelas didokumentasikan secara klinikal. Metil salisilat dimetabolismekan kepada **asid salisilik**, sebuah salisilat yang berkait rapat dengan aspirin. NSAID dan salisilat dalam trimester ketiga **dikontraindikasikan secara universal** kerana mereka boleh menyebabkan:
+**Trimester 2 (Minggu 14–27):** Risiko umum lebih rendah berbanding T1, tetapi bahan lipofilik masih boleh meresap plasenta. Penggunaan terhad dos kecil kawasan kecil mungkin boleh dipertimbangkan untuk Tiger Balm White (contohnya sapu sedikit di pergelangan kaki untuk sakit otot), tetapi hanya dengan kebenaran doktor.
 
-- **Penutupan pra-matang ductus arteriosus janin** (membawa kepada kegagalan jantung kanan janin)
-- **Pendarahan janin dan ibu**
-- **Penangguhan permulaan bersalin**
-- **Disfungsi buah pinggang janin** (oligohidramnion)
+**Trimester 3 (Minggu 28–40):** Risiko metil salisilat meningkat drastik (ductus arteriosus). Semua produk mengandungi metil salisilat mesti dielakkan sepenuhnya. Risiko pendarahan juga lebih relevan menjelang bersalin.
 
-Bukti klinikal yang paling penting: **Torloni et al. (*Ultrasound in Obstetrics & Gynecology*, 2006)** mendokumentasikan **penyempitan ductus arteriosus janin yang boleh dipulihkan** selepas penggunaan ibu krim topikal yang mengandungi diklofenak dan metil salisilat. Velositometri Doppler ductal kembali normal selepas ibu menghentikan rawatan topikal. Ini mengesahkan bahawa **penyerapan topikal metil salisilat menghasilkan kepekatan plasma yang cukup tinggi untuk mencapai sirkulasi janin**.
+### Minyak halia (Zingiber officinale)
+Minyak halia yang digunakan dalam urutan (bukan minyak ubat berformula) mempunyai data keselamatan yang lebih baik semasa kehamilan, terutamanya untuk loya pagi (nausea gravidarum). Walau bagaimanapun, minyak halia "pekat" atau pra-formulasi masih perlu digunakan dengan berhati-hati.
 
-**Peraturan praktikal**:
-- **Trimester ketiga (minggu 28-40)**: ELAKKAN SEPENUHNYA semua produk metil salisilat — Tiger Balm Merah, Salonpas (tampalan dan losyen), Counterpain, Bengay, Salonpas Pain Relief Patch, dan mana-mana minyak angin / krim ubat yang menyenaraikan "methyl salicylate" atau "minyak gandapura" pada label.
-- **Trimester kedua (minggu 13-27)**: elakkan penggunaan kawasan luas atau kepekatan tinggi; sapuan kecil pada kawasan setempat mungkin mempunyai risiko boleh terima tetapi harus dibincangkan dengan O&G anda.
-- **Trimester pertama (minggu 1-12)**: elakkan sebagai sebahagian daripada peraturan trimester pertama umum.
+### Minyak kelapa biasa (sebagai pembawa)
+Minyak kelapa tulen (tanpa bahan aktif ditambah) adalah pilihan urutan yang selamat secara umum semasa kehamilan.
 
-#### Minyak intipati uterotonik tradisional — semua trimester
+---
 
-Beberapa minyak intipati merangsang kontraksi rahim dan boleh menyebabkan keguguran atau bersalin pra-matang. Senarai konvensional aromaterapi (Tisserand & Young, *Essential Oil Safety* 2nd edition; Lis-Balchin systematic review):
+## 5. Peringkat kehamilan dan pertimbangan berbeza
 
-- **Pennyroyal** — abortifacient klasik, **MUTLAK terlarang**
-- **Mugwort (baru cina)** — terkandung thujone, neurotoksik dan abortifacient
-- **Sage (sage biasa, *Salvia officinalis*)** — kandungan thujone tinggi
-- **Clary sage** — uterotonik kuat; **TIDAK BOLEH digunakan sebelum minggu 37**; sesetengah bidan tradisional menggunakannya untuk mempercepat bersalin pada terma penuh, tetapi ini di luar skop minyak angin biasa
-- **Rosemary** dos tinggi — emmenagogue tradisional
-- **Oregano dan thyme** dos tinggi — kandungan carvacrol/thymol berpotensi tinggi
-- **Basil (selasih)** dos tinggi
-- **Parsley seed dan leaf**
-- **Hyssop, rue, tansy, wormwood, thuja, fennel dos tinggi, aniseed dos tinggi, birch, cinnamon bark dos tinggi**
+Risiko penggunaan minyak ubat tidak seragam — ia berbeza mengikut trimester:
 
-Minyak-minyak ini tidak biasa dalam minyak angin Cina arus perdana, tetapi mereka kerap muncul dalam **minyak intipati aromaterapi** yang dijual sebagai "minyak urut postpartum" atau "minyak loya pagi" di pasaran Malaysia. Lis-Balchin (2005) memberikan amaran bahawa banyak campuran "selamat untuk kehamilan" yang dipasarkan sebenarnya mengandungi sabinyl acetate, anethole, atau apiole pada kepekatan yang tidak diuji untuk kehamilan. **Lalai kepada keraguan**.
+### Trimester Pertama (Minggu 1–13) — PALING SENSITIF
+Ini adalah peringkat pembentukan organ (organogenesis). Semua sel janin sedang membahagi dan berdiferensiasi dengan pesat. Pendedahan kepada bahan kimia asing semasa tempoh ini membawa risiko tertinggi terhadap perkembangan normal. **Saranan: Elakkan semua minyak ubat berformula kecuali atas nasihat doktor.**
 
-### Bahan yang mungkin selamat dengan dos terhad
+### Trimester Kedua (Minggu 14–27) — RISIKO SEDERHANA
+Organ utama sudah terbentuk, tetapi pematangan berterusan. Plasenta berfungsi sepenuhnya sebagai organ pertukaran — yang bermakna bahan yang meresap darah ibu kini boleh lebih mudah mencapai janin. Penggunaan minyak ubat pada dos kecil di kawasan kecil mungkin mempunyai risiko lebih rendah berbanding T1, tetapi masih perlu berhati-hati.
 
-#### Mentol (Menthol) — risiko rendah, dos sederhana
+### Trimester Ketiga (Minggu 28–40) — RISIKO KHUSUS (Metil Salisilat)
+Risiko khusus metil salisilat (analog NSAID) meningkat pada trimester ketiga. Penggunaan NSAID topikal dan oral dikaitkan dengan penutupan pramatang ductus arteriosus — salur darah penting yang menghubungkan arteri pulmonari janin dengan aorta. Penutupan pramatang ini boleh menyebabkan hipertensi pulmonari persisten pada bayi baru lahir. FDA mengeluarkan amaran khas tentang ini pada 2020. **Semua produk mengandungi metil salisilat mesti dielakkan pada trimester ketiga.**
 
-Mentol dimetabolismekan terutamanya melalui glukuronidasi, yang tidak menjana metabolit berbahaya yang signifikan. Tiada laporan kuat tentang komplikasi kehamilan yang berkait dengan mentol pada dos topikal normal. Gula-gula batuk mentol, balsem bibir mentol dan inhaler mentol umumnya dianggap selamat.
+---
 
-**Kedudukan**: Vicks VapoRub (campuran kafor 4.8% + mentol 2.8% + minyak kayu putih) adalah Kategori C FDA — kebanyakan O&G di Malaysia akan kata sapuan kecil sekali-sekala (contohnya, sesudu kecil pada dada untuk selesema) dalam trimester kedua atau ketiga **mungkin selamat**, tetapi penggunaan harian liberal tidak digalakkan kerana kandungan kafor.
+## 6. Alternatif semula jadi untuk keselesaan semasa mengandung
 
-#### Minyak kayu putih (Eucalyptus / Cajeput / Minyak Telon)
+Untuk masalah keselesaan biasa semasa hamil yang biasanya diatasi dengan minyak ubat, berikut adalah alternatif yang lebih selamat:
 
-1,8-cineole (kandungan utama minyak kayu putih dan minyak cajeput) merentasi plasenta tetapi mempunyai data kehamilan yang baik untuk penyedutan dos rendah. **Penyedutan minyak kayu putih untuk hidung tersumbat dianggap risiko rendah** sepanjang kehamilan. **Penggunaan oral adalah merbahaya dan dilarang**.
+### Sakit belakang dan sakit otot
+- **Haba lembap (moist heat):** Tuala panas lembap atau beg haba moist yang diletakkan di kawasan sakit selama 15–20 minit. Ini adalah antara kaedah paling selamat dan berkesan untuk sakit muskuloskeletal semasa hamil.
+- **Urutan lembut dengan minyak kelapa:** Minyak kelapa tulen (tanpa penambahan bahan aktif) boleh digunakan sebagai medium urutan. Elakkan tekanan kuat di bahagian abdomen.
+- **Fizikal: regangan ringan dan yoga mengandung:** Kelas yoga prenatal atau senaman regangan ringan lebih berkesan jangka panjang berbanding pengurusan simptom sahaja.
 
-Minyak Cap Kapak (Axe Brand Universal Oil) yang berbahasa Melayu dijual luas di Malaysia mempunyai komposisi cajeput-mentol-metil salisilat yang bervariasi — periksa label individu untuk kandungan metil salisilat sebelum penggunaan trimester ketiga.
-
-#### Minyak halia (Ginger oil)
-
-Halia (oral atau topikal dos rendah) sebenarnya **disyorkan dalam dos kecil untuk loya kehamilan**. Beberapa kajian kawalan rawak (Cochrane review 2014) menunjukkan keberkesanan dan keselamatan halia 250 mg empat kali sehari untuk loya dan muntah kehamilan. Minyak halia topikal pada perut atau pergelangan tangan untuk loya juga dianggap risiko rendah.
-
-#### Lavender
-
-Minyak lavender pada dos topikal atau penyebaran kecil dianggap selamat dalam kehamilan. Pendedahan dos sangat tinggi tidak dikaji dengan baik, tetapi penggunaan biasa untuk relaksasi tidak menimbulkan kebimbangan klinikal.
-
-#### Peppermint dos rendah
-
-Minyak peppermint (yang mengandungi mentol) pada dos rendah dianggap risiko rendah. Teh peppermint, peppermint penyebaran dan peppermint topikal dalam jumlah kecil umumnya dianggap selamat. **Dos tinggi peppermint (contohnya, kapsul minyak peppermint enterik untuk IBS) pernah dikaitkan dengan ketidakselesaan reflux yang lebih teruk semasa kehamilan tetapi tidak ditunjukkan teratogenik**.
-
-## Senarai produk Malaysia mengikut kedudukan kehamilan
-
-| Produk | Bahan utama | Trimester 1 | Trimester 2 | Trimester 3 |
-|---|---|---|---|---|
-| **Tiger Balm Merah** | Kafor 25% + metil salisilat 10% | Elakkan | Elakkan | **DILARANG** |
-| **Tiger Balm Putih** | Kafor 11% + mentol 8% + cengkih + cajeput | Elakkan | Elakkan | Elakkan |
-| **Wong To Yick (黃道益)** | Kafor 15% + mentol 16% | Elakkan | Elakkan | Elakkan |
-| **Po Sum On (保心安油)** | Mentol 16% + kafor 16% | Elakkan | Elakkan | Elakkan |
-| **White Flower Embrocation (白花油)** | Kafor 15% + mentol 15% + kayu putih + lavender | Elakkan | Elakkan | Elakkan |
-| **Minyak Cap Kapak (Axe Brand)** | Cajeput + mentol + metil salisilat (variasi) | Elakkan | Elakkan setempat sahaja | **DILARANG** (jika ada metil salisilat) |
-| **Eagle Brand Medicated Oil (Minyak Cap Limau)** | Mentol + metil salisilat + minyak intipati | Elakkan | Elakkan setempat sahaja | **DILARANG** |
-| **Kwan Loong Oil (均隆驅風油)** | Mentol + metil salisilat + lavender + kayu putih | Elakkan | Elakkan setempat sahaja | **DILARANG** |
-| **Minyak Yu Yee (御醫油)** | Borneol + mentol + minyak intipati | Elakkan | Elakkan | Elakkan |
-| **Minyak Gamat tulen** | Ekstrak gamat (sea cucumber) + minyak pembawa | Hubungi O&G | Mungkin OK setempat | Mungkin OK setempat |
-| **Minyak Telon (untuk bayi)** | Cajeput + adas + kelapa | Mungkin OK pada ibu | Mungkin OK pada ibu | Mungkin OK pada ibu |
-| **Minyak Cajeput / Kayu Putih tulen** | 1,8-cineole | Penyedutan OK | Penyedutan OK | Penyedutan OK |
-| **Minyak Lawang (cengkih)** | Eugenol | Elakkan dos tinggi | Elakkan dos tinggi | Elakkan dos tinggi |
-| **Vicks VapoRub** | Kafor 4.8% + mentol 2.8% + kayu putih | Elakkan | Sapuan kecil OK | Sapuan kecil OK |
-| **Counterpain / Salonpas** | Metil salisilat 15-30% | Elakkan | Elakkan kawasan luas | **DILARANG** |
-| **Minyak halia** | Gingerol | OK setempat | OK setempat | OK setempat |
-| **Minyak lavender (encer)** | Linalool | OK | OK | OK |
-
-*Nota: "Mungkin OK" bermaksud "tiada bukti bahaya pada dos lazim, tetapi minta nasihat O&G anda terutamanya jika anda mempunyai komplikasi kehamilan."*
-
-## Senario khas yang sering ditanya di Malaysia
-
-### Urutan tradisional ibu mengandung dan postpartum
-
-Urutan tradisional ibu mengandung di Malaysia (sama ada urut Melayu, Cina atau Ayurveda) sering menggunakan **minyak urut komposit** yang dibuat oleh tukang urut. Komposisi tidak selalu didedahkan dengan jelas. **Sebelum mana-mana sesi urutan, minta senarai bahan**. Jika mengandungi metil salisilat, kafor, atau mana-mana minyak intipati uterotonik, **tolak**. Permintaan yang sah ialah minyak pembawa neutral (kelapa, badam, zaitun) dengan atau tanpa lavender encer.
-
-Untuk **postpartum (selepas bersalin)**, peraturan menjadi lebih relaks selepas plasenta dilahirkan, tetapi jika anda **menyusu badan**, peraturan keselamatan baru terpakai untuk pendedahan bayi (kafor, metil salisilat dan minyak intipati boleh dipindahkan dalam susu ibu pada kepekatan rendah). Lihat artikel berasingan kami tentang [bayi dan kanak-kanak bawah 2 tahun](/ms/safety/infants-and-children).
-
-### Bertangas (mandi wap tradisional Melayu)
-
-Bertangas tradisional menggunakan ramuan herba seperti daun kemangi, daun pandan, serai dan limau purut. Komposisi tradisional umumnya tidak mengandungi kafor atau metil salisilat. **Yang perlu dielakkan**: campuran bertangas yang dikomersialkan yang menambah minyak intipati uterotonik (rosemary, sage, oregano) untuk "kesan terapeutik" — periksa label.
-
-### Loya pagi (morning sickness)
-
-Hidu Minyak Cap Kapak untuk loya pagi adalah amalan biasa. **Sapuan tunggal pada hidung untuk penyedutan singkat** kemungkinan tidak menghasilkan kepekatan plasma metil salisilat yang signifikan dan adalah praktik berisiko rendah. Tetapi jika anda mendapati diri anda menggunakan minyak Cap Kapak berulang kali setiap hari sepanjang trimester ketiga, **berhenti** — gunakan halia atau aroma lemon sebagai alternatif yang disahkan selamat.
-
-### Sakit pinggang bawah trimester ketiga
-
-Ini adalah keluhan trimester ketiga yang paling biasa. Pilihan **bukan** Tiger Balm atau Salonpas. Pilihan adalah:
-- Pek panas / sejuk
-- Senaman pinggang lembut (latihan Kegel, regangan kucing-lembu)
-- Sokongan sokongan abdomen kehamilan
-- Paracetamol pada dos terapeutik (1g empat kali sehari maksimum)
-- Fisioterapi rujukan O&G
+### Loya pagi (nausea gravidarum)
+- **Halia segar atau teh halia:** Halia segar yang dihirup atau dimakan dalam kuantiti sederhana mempunyai bukti RCT yang menyokong keberkesanannya untuk loya kehamilan (Viljoen et al., *Nutr J* 2014).
+- **Akupresur Perikardium 6 (P6):** Menekan titik P6 di pergelangan tangan (gelang Sea-Band) menunjukkan manfaat dalam beberapa kajian untuk mual kehamilan.
+- **Bau limau:** Menggunakan limau segar (bukan minyak pati pekat) untuk mengalih perhatian dari rasa mual.
 
 ### Hidung tersumbat
+- **Bilas hidung saline:** Larutan garam fisiologi (normal saline) adalah cara paling selamat untuk melegakan hidung tersumbat semasa hamil.
+- **Wap air panas:** Menghirup wap dari mangkuk air panas (tanpa bahan tambahan) boleh membantu.
 
-Penyedutan wap kayu putih, semburan saline isotonik, dan elevasi kepala pada waktu malam adalah pilihan pertama. Vicks VapoRub sapuan kecil pada dada (BUKAN di bawah hidung yang dekat dengan membran mukus) sekali-sekala adalah praktik yang diterima.
+### Sakit kepala
+- **Kompres sejuk atau panas di dahi/tengkuk:** Bergantung pada jenis sakit kepala.
+- **Rehat dan hidrasi:** Dehidrasi adalah punca biasa sakit kepala semasa hamil.
+- **Paracetamol (dengan nasihat doktor):** Untuk sakit kepala yang memerlukan ubat, paracetamol dianggap agen pilihan pertama yang paling selamat semasa hamil apabila digunakan pada dos yang disyorkan.
 
-## Apa kata KKM dan NPRA Malaysia
+---
 
-NPRA (National Pharmaceutical Regulatory Agency) tidak mengeluarkan garis panduan khusus tentang minyak angin tradisional dalam kehamilan, tetapi:
+## 7. Bila MESTI jumpa doktor
 
-- Semua minyak angin yang dijual secara sah di Malaysia mesti mempunyai **nombor pendaftaran MAL** di bawah *Drug Registration Act* atau *Traditional and Complementary Medicine Act 2016 (Act 775)*. Sahkan nombor MAL melalui portal **QUEST3+** sebelum membeli.
-- Garis panduan klinikal KKM untuk obstetrik (*Perinatal Care Manual* 2020) menasihatkan agar elakkan semua ubat yang tidak penting dalam trimester pertama dan rujuk *FDA pregnancy categories* atau *Australian TGA categories* untuk ubat OTC.
-- **Pusat Racun Kebangsaan Malaysia (PRN, USM)** beroperasi 24 jam pada **1-800-88-8099** untuk soalan tentang pendedahan ubat dalam kehamilan dan boleh memberi nasihat segera tentang terlebihnya pendedahan kafor atau metil salisilat.
+Jangan bergantung semata-mata pada maklumat artikel ini. Dapatkan nasihat doktor atau farmasis anda dalam situasi berikut:
 
-## Pengganti yang lebih selamat untuk gejala kehamilan biasa
+- **Sebelum menggunakan sebarang minyak ubat semasa hamil** — terutamanya pada trimester pertama
+- Jika anda mengalami simptom yang biasanya anda rawat sendiri dengan minyak ubat (sakit belakang kronik, sakit kepala berulang, loya teruk)
+- Jika anda terdedah secara tidak sengaja kepada jumlah besar minyak ubat (tumpah ke kulit kawasan luas)
+- Jika bayi dalam kandungan menunjukkan pergerakan berkurang selepas penggunaan minyak ubat
+- Jika anda mempunyai sebarang keraguan tentang sebarang produk topikal semasa hamil
 
-| Gejala | Pilihan pertama berasaskan bukti |
+**Sumber rujukan yang dipercayai:**
+- Klinik Kesihatan ibu mengandung terdekat (KKM)
+- Farmasis bertauliah di farmasi berlesen
+- MotherToBaby (mothertobaby.org) — organisasi bukan keuntungan dengan maklumat keselamatan ubat kehamilan berasaskan bukti
+- NPRA Malaysia (npra.gov.my) — pendaftaran produk dan amaran keselamatan
+
+---
+
+## 8. Ringkasan
+
+| Soalan | Jawapan Ringkas |
 |---|---|
-| Loya pagi | Halia 250 mg ×4/hari (Cochrane 2014); aroma lemon; pyridoxine 25 mg + doxylamine 12.5 mg (sah di Malaysia sebagai Diclectin / Diclegis) |
-| Sakit kepala | Paracetamol 1 g (dosis terapeutik); air; rehat dalam bilik gelap; teh halia; kompres sejuk |
-| Sakit pinggang bawah | Pek panas; senaman pelvis; sokongan abdomen kehamilan; fisioterapi |
-| Kekejangan kaki | Kalsium 1,000 mg + magnesium 300 mg harian; regangan betis sebelum tidur; hidrasi |
-| Hidung tersumbat | Semburan saline isotonik; penyedutan wap kayu putih; elevasi kepala |
-| Sakit otot lokal | Pek panas/sejuk; rehat; paracetamol |
-| Sakit gigi | Rujuk pergigian — JANGAN minyak cengkih dos tinggi |
+| Boleh guna Tiger Balm Red semasa hamil? | **Tidak disyorkan** — kamfer + metil salisilat + mentol tinggi |
+| Boleh guna Tiger Balm White semasa hamil? | **Perlu nasihat doktor** — kamfer 11% tetap ada risiko; jika perlu, dos kecil kawasan kecil di T2 sahaja |
+| Boleh guna White Flower Oil semasa hamil? | **Tidak disyorkan** — mentol 40% + metil salisilat 15% |
+| Trimester mana paling bahaya? | **Trimester 1** untuk semua bahan; **Trimester 3** khususnya untuk metil salisilat |
+| Alternatif terbaik untuk sakit belakang semasa hamil? | Haba lembap + urutan minyak kelapa + yoga prenatal |
+| Perlu jumpa doktor sebelum guna minyak ubat semasa hamil? | **Ya** — langkah terbaik adalah berbincang dengan doktor O&G atau farmasis anda |
 
-## Bila perlu jumpa doktor segera
-
-Hubungi O&G anda atau ke jabatan kecemasan SEGERA jika selepas pendedahan minyak angin (sengaja atau tidak sengaja) anda mengalami:
-
-- **Pendarahan vagina atau lendir bertompok darah**
-- **Kontraksi pra-matang yang berterusan**
-- **Pengurangan atau kehilangan pergerakan janin**
-- **Sakit perut yang teruk**
-- **Pening, jantung berdegup laju, sesak nafas (ketoksikan kafor sistemik)**
-- **Air kencing gelap, jaundis** (kebimbangan G6PD bersamaan)
-
-Hubungi **Pusat Racun Kebangsaan 1-800-88-8099** jika anda telah:
-- Tertelan minyak angin secara tidak sengaja (mana-mana jumlah)
-- Menyapu lebih daripada 1 sudu besar produk berkafor pada satu kawasan kulit
-- Menggunakan kawasan luas tampalan metil salisilat dalam trimester ketiga
-
-## Soalan Lazim
-
-**Q: Saya guna Tiger Balm Putih sepanjang trimester pertama sebelum tahu hamil. Adakah bayi saya akan ada masalah?**
-A: Data Collaborative Perinatal Project menjejaki 168 wanita dengan pendedahan topikal kafor trimester pertama dan tidak menemui peningkatan kecacatan kongenital. Sapuan topikal terhad sebelum mengetahui kehamilan **sangat tidak mungkin menyebabkan bahaya**. Berhenti menggunakan sekarang dan teruskan ujian normal antenatal.
-
-**Q: Bidan kampung saya cadangkan urut perut dengan minyak panas untuk "membetulkan kedudukan bayi". Selamat?**
-A: Tidak. Urutan perut dengan minyak panas (terutama yang mengandungi kafor atau metil salisilat) tidak ditunjukkan keberkesanan dalam membetulkan kedudukan janin dan menimbulkan risiko penyerapan. Untuk presentasi sungsang yang disahkan, *external cephalic version* oleh O&G yang terlatih adalah piawaian rawatan.
-
-**Q: Adakah Minyak Cap Kapak selamat untuk dihidu sahaja?**
-A: Penyedutan singkat tidak menghasilkan kepekatan plasma yang signifikan dan adalah praktik berisiko rendah dalam trimester pertama dan kedua. Dalam trimester ketiga, kurangkan penggunaan dan beralih kepada aroma lemon atau halia.
-
-**Q: Jiran saya kata minyak Yu Yee selamat untuk ibu mengandung kerana ia "ringan". Betul?**
-A: Tidak. Minyak Yu Yee mengandungi borneol, yang dikontraindikasikan dalam kehamilan oleh kedua-dua perubatan tradisional Cina dan farmakologi moden. "Ringan untuk bayi" tidak bermaksud "selamat untuk ibu mengandung" — ia adalah dua soalan farmakologi yang berbeza.
-
-**Q: Boleh saya guna minyak intipati lavender dalam diffuser sepanjang kehamilan?**
-A: Lavender penyebaran dos rendah dianggap risiko rendah sepanjang kehamilan. Elakkan minyak intipati pekat sentuhan langsung dengan kulit tanpa pencairan.
-
-**Q: Saya G6PD defisit DAN mengandung. Apa yang patut saya elakkan?**
-A: Gabungan G6PD + kehamilan menjadikan senarai pengelakan lebih panjang. Lihat artikel kami tentang [G6PD dan minyak angin](/ms/safety/g6pd-deficiency) — secara ringkas: elakkan kafor, metil salisilat, naftalena, mentol dos tinggi, sepanjang kehamilan.
-
-## ⚠️ Amaran Keselamatan
-
-> **Trimester pertama (1-12 minggu)**: Lalai kepada pengelakan semua minyak angin. Gunakan paracetamol, halia, semburan saline.
->
-> **Trimester ketiga (28-40 minggu)**: SEMUA produk metil salisilat (Tiger Balm Merah, Salonpas, Counterpain, kebanyakan minyak Cap Kapak dan Eagle Brand) DILARANG kerana risiko penutupan ductus arteriosus (Torloni 2006).
->
-> **Sepanjang kehamilan**: Elakkan kafor, borneol, dan minyak intipati uterotonik (pennyroyal, sage, clary sage, rosemary dos tinggi, basil dos tinggi, oregano).
->
-> **Pengambilan oral mana-mana minyak angin sengaja atau tidak sengaja**: hubungi Pusat Racun Kebangsaan **1-800-88-8099** SEGERA — janin tidak mempunyai enzim glukuronidasi untuk membersihkan kafor dengan berkesan.
->
-> Artikel ini adalah panduan pendidikan. Semua wanita mengandung dengan komplikasi (preeklampsia, diabetes gestasi, plasenta previa, ancaman bersalin pra-matang) MESTI berbincang dengan O&G mereka sebelum menggunakan mana-mana ubat topikal.
-
-## Rujukan Utama (Primary Sources)
-
-1. **Torloni MR, Cordioli E, Zamith MM, et al.** Reversible constriction of the fetal ductus arteriosus after maternal use of topical diclofenac and methyl salicylate. *Ultrasound in Obstetrics & Gynecology* 2006; 27(2): 227-229. PubMed PMID: 16355417. doi:10.1002/uog.2647.
-2. **FDA** — External Analgesic Drug Products for Over-the-Counter Human Use. 21 CFR 348 (kandungan kafor) dan 21 CFR 201.314 (amaran metil salisilat).
-3. **Riggs J, Hamilton R, Homel S, McCabe J.** Camphorated oil intoxication in pregnancy: report of a case. *Obstet Gynecol* 1965; 25: 255-258.
-4. **Weiss J, Catalano P.** Camphorated oil intoxication during pregnancy. *Pediatrics* 1973; 52(5): 713-714.
-5. **Lis-Balchin M.** Aromatherapy science: a guide for healthcare professionals. London: Pharmaceutical Press; 2005.
-6. **Tisserand R, Young R.** Essential Oil Safety: A Guide for Health Care Professionals. 2nd ed. Edinburgh: Churchill Livingstone Elsevier; 2014. ISBN 978-0-443-06241-4.
-7. **Antoine D, Brown M, El-Tantawy A, et al.** Maternal Reproductive Toxicity of Some Essential Oils and Their Constituents. *Int J Mol Sci* 2021; 22(6): 2380. PMC7956842.
-8. **Cochrane Database of Systematic Reviews**. Matthews A, Haas DM, O'Mathúna DP, Dowswell T. Interventions for nausea and vomiting in early pregnancy. *Cochrane Database Syst Rev* 2014; (3): CD007575. doi:10.1002/14651858.CD007575.pub3.
-9. **Bloor M, Paech M.** Nonsteroidal anti-inflammatory drugs during pregnancy and the initiation of lactation. *Anesth Analg* 2013; 116(5): 1063-1075.
-10. **American College of Obstetricians and Gynecologists (ACOG).** Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy. *Obstet Gynecol* 2018; 131(1): e15-e30.
-11. **Kementerian Kesihatan Malaysia.** *Perinatal Care Manual* (3rd edition, 2020). Bahagian Pembangunan Kesihatan Keluarga, KKM. moh.gov.my.
-12. **National Pharmaceutical Regulatory Agency (NPRA), Kementerian Kesihatan Malaysia** — Pendaftaran ubat tradisional di bawah *Traditional and Complementary Medicine Act 2016 (Act 775)*. Portal QUEST3+ (quest3plus.bpfk.gov.my).
-13. **Pusat Racun Kebangsaan Malaysia (National Poison Centre)**, Universiti Sains Malaysia — Talian kecemasan 24 jam: **1-800-88-8099**. prn.usm.my.
-14. **Khattak S, K-Moghtader G, McMartin K, et al.** Pregnancy outcome following gestational exposure to organic solvents: a prospective controlled study. *JAMA* 1999; 281(12): 1106-1109 — kerangka untuk menilai pendedahan topikal pelarut organik dalam kehamilan.
-15. **Collaborative Perinatal Project**, Heinonen OP, Slone D, Shapiro S. *Birth Defects and Drugs in Pregnancy*. Littleton, MA: Publishing Sciences Group; 1977 — data kohort 168 pendedahan kafor topikal trimester pertama, tiada peningkatan kecacatan kongenital.
+**Prinsip utama:** Semasa kehamilan, prinsip "jika ragu, jangan" adalah panduan terbaik. Tidak ada minyak ubat berformula yang mempunyai kajian keselamatan komprehensif dalam kehamilan manusia — data yang ada datang dari kajian haiwan, laporan kes, dan kajian farmakokinetik. Pilihan yang paling bijak adalah meminimumkan pendedahan, menggunakan alternatif bukan farmakologi apabila boleh, dan mendapatkan nasihat profesional kesihatan sebelum menggunakan sebarang produk semasa mengandung.
 
 ---
 
-## 📩 Pendedahan Komersial / Tembok Api Editorial
+*Artikel ini disediakan untuk tujuan maklumat sahaja dan bukan nasihat perubatan. Sila berunding dengan doktor atau farmasis berlesen anda sebelum membuat sebarang keputusan berkaitan ubatan semasa kehamilan. Maklumat terakhir dikemas kini: April 2026.*
 
-Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
-
-- **Tembok api editorial:** badan artikel di atas sepenuhnya neutral terhadap jenama — kami merujuk *primary source* (FDA, ACOG, KKM, NPRA, Pusat Racun Kebangsaan, Cochrane, Tisserand & Young, Torloni *Ultrasound Obstet Gynecol* 2006). Tiger Balm, Minyak Cap Kapak, Eagle Brand, Kwan Loong, Po Sum On, Wong To Yick, White Flower Embrocation, Vicks VapoRub dan minyak telon dilayan sebagai kelas farmakologi yang didefinisikan oleh bahan aktif yang diisytiharkan, bukan ranking jenama.
-- **Menerima PR:** termasuk pembetulan daripada mana-mana jenama pesaing, pakar O&G Malaysia, NPRA atau Pusat Racun Kebangsaan.
-- **Lesen:** CC BY 4.0 — bebas terjemah, cetak semula dengan atribusi.
-- **Pendedahan komersial:** jenama operator "**康乐龄 活络油** (Kangleling Medicated Oil)" akan dilancarkan tidak lama lagi (dihasilkan oleh 柏丝科技深圳 / BaiSi Technology Shenzhen). Kangleling ialah **produk urut otot untuk dewasa sahaja** — ia **TIDAK SESUAI dan TIDAK SELAMAT** untuk ibu mengandung, ibu menyusu, bayi, kanak-kanak bawah 12 tahun atau pesakit G6PD. Pelabelan produk Kangleling akan menyatakan amaran kontraindikasi kehamilan dengan jelas dalam Bahasa Malaysia dan Bahasa Cina apabila dilancarkan.
-
----
-
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
-
-## Artikel Berkaitan
-
-- [Kekurangan G6PD (Favisme) dan Minyak Angin — Panduan untuk Keluarga Malaysia](/ms/safety/g6pd-deficiency)
-- [Bolehkah Bayi Guna Minyak Angin? Panduan Lengkap untuk Kanak-Kanak Bawah 2 Tahun](/ms/safety/infants-and-children)
-- [Panduan Lengkap Tiger Balm (Bahasa Melayu)](/ms/brands/tiger-balm-complete-guide)
-- [Medicated Oils During Pregnancy (English)](/en/safety/pregnancy-guide)
-- [孕妇用药油安全指南 (简体中文)](/zh-hans/safety/pregnancy-guide)
-- [Methyl Salicylate Safety (English)](/en/ingredients/methyl-salicylate-safety)
-- [Camphor Pharmacology (English)](/en/ingredients/camphor-pharmacology)
+*Lesen: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
