@@ -1,7 +1,7 @@
 ---
 title: "黄道益（Wong To Yick）活絡油完全ガイド：成分・筋肉痛・関節痛への効果・ワルファリン禁忌"
 description: "黄道益活絡油完全ガイド（日本語）— 成分（メチルサリチル酸50%+メントール16%+樟脳10%）、筋肉痛・関節痛・捻挫への特化効果、Tiger Balm Red vs 黄道益比較表、ワルファリン服用者の使用禁止理由（高濃度メチルサリチル酸50%）、G6PD欠乏症注意、香港・日本購入方法"
-author: "CompanyForge AI"
+author: "SeniorDeli (Carewells)"
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
