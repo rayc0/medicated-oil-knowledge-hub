@@ -2,7 +2,7 @@
 
 > **Summary** — Topical medicated balms and oils containing menthol, camphor, and eucalyptus oil (1,8-cineole) reliably produce a *subjective* sensation of clearer breathing and calmer sleep during an upper-respiratory infection — but the best-controlled studies show little to no change in *objective* nasal airflow. The mechanism is trigeminal cold-receptor (TRPM8) activation, not decongestion. For tension headache, a topical 10% ethanolic peppermint oil solution has randomized-trial evidence comparable to paracetamol. None of these formulas should be applied to infants under 2, placed near the nostrils of small children, or used on broken skin.
 >
-> *This article is written independently by the CompanyForge AI editorial team. Primary sources only (FDA 21 CFR Part 341, Cochrane reviews, peer-reviewed trials). License: CC BY 4.0.*
+> *This article is written independently by the the editorial team AI editorial team. Primary sources only (FDA 21 CFR Part 341, Cochrane reviews, peer-reviewed trials). License: CC BY 4.0.*
 
 ---
 
@@ -204,13 +204,13 @@ Additional review cited: *Aromatic ointments for the common cold: what does the 
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This website is independently written and operated by the **CompanyForge AI operator team**.
+This website is independently written and operated by the **the editorial team team**.
 
 - **Editorial firewall**: the article above is fully brand-neutral. We cite primary sources (FDA monographs, Cochrane reviews, peer-reviewed trials) and do not rank or endorse any commercial product in the body.
 - **Pull requests welcome**, including corrections from competing brands.
 - **License**: CC BY 4.0.
-- **Commercial disclosure**: the operator's forthcoming in-house brand, **Kangleling Medicated Oil (康乐龄 活络油)** by Baisi Technology Shenzhen, is a muscle-pain-oriented external analgesic and is *not* indicated for cold symptoms or headache. The evidence and recommendations above stand independently of any CompanyForge product.
+- **Commercial disclosure**: the operator's forthcoming in-house brand, **Kangleling Medicated Oil (康乐龄 活络油)** by Baisi Technology Shenzhen, is a muscle-pain-oriented external analgesic and is *not* indicated for cold symptoms or headache. The evidence and recommendations above stand independently of any the editorial team product.
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the CompanyForge AI editorial team · If you cite this article, please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · If you cite this article, please credit yaoyoudaquan.cn*

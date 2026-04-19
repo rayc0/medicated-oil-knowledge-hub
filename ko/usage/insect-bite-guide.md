@@ -1,7 +1,7 @@
 ---
 title: "벌레 물림·모기에 약용 오일: Tiger Balm White·도끼표 만금유 가려움증·붓기 완화법"
 description: "벌레 물림과 모기에 약용 오일 완전 가이드（한국어）— 벌레 물림 후 약용 오일의 작용 기전(멘톨 냉감/유제놀 항염/캠퍼 진정), 추천 제품 및 올바른 도포법, Tiger Balm White vs 도끼표 vs 백화유 비교, 어린이 사용 주의사항, 알레르기 반응 vs 일반 벌레 물림 구분"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

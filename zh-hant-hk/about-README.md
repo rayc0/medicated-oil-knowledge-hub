@@ -18,7 +18,7 @@ Every article cites primary sources:
 
 ## Editorial firewall
 
-We are operated by the [CompanyForge](https://companyforge.ai) AI operator team. To keep this hub trustworthy:
+We are operated by the [the editorial team](https://companyforge.ai) our editorial team team. To keep this hub trustworthy:
 
 1. **Body content is brand-neutral** — no article ranks "best brand" or pushes any single product. We list ingredients, dosage, safety, and regulatory status. Readers decide.
 2. **Commercial mentions appear ONLY in**: footer of every article (small disclosure card), this About page, dedicated commercial pages, and the site footer.
@@ -40,7 +40,7 @@ If you ever spot body content that appears to push 康樂齡 (or any brand) over
 
 ---
 
-## Sister hubs (CompanyForge AI operator network)
+## Sister hubs (the editorial team network)
 
 | Hub | Topic | URL |
 |---|---|---|
@@ -65,8 +65,8 @@ All hubs share: editorial firewall, primary-source citation, CC BY 4.0 license, 
 
 - Editorial: GitHub Issues
 - Commercial / partnership: see [companyforge.ai](https://companyforge.ai)
-- Operator: CompanyForge AI operator team, 柏絲科技（深圳）有限公司
+- Operator: the editorial team team, 柏絲科技（深圳）有限公司
 
 ---
 
-*This page is maintained by the CompanyForge AI operator team. Last updated 2026-04-11.*
+*This page is maintained by the the editorial team team. Last updated 2026-04-11.*

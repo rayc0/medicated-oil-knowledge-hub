@@ -2,7 +2,7 @@
 
 > Ringkasan — Budaya minyak angin di kalangan diaspora Cina Asia Tenggara adalah hasil langsung gelombang migrasi "xia nanyang" (下南洋) pada akhir abad ke-19 dan awal abad ke-20. Pendatang dari China Selatan — terutamanya Kwangtung (Guangdong), Fujian, dan Hakka — membawa ilmu herba nenek moyang ke Tanah Melayu, Hindia Belanda (Indonesia) dan Settlement Selat (Singapura), dan mengadaptasinya kepada iklim tropika yang panas-lembap serta kondisi buruh ladang dan lombong yang keras. Artikel ini meneliti tradisi minyak angin di tiga negara — Singapura (Tiger Balm, Axe Brand), Malaysia (Yu Yee Oil, Minyak Bunga Putih, Cap Kapak), Indonesia (Cap Lang, Freshcare, Tiger Balm) — serta perbezaan rangka kawalan NPRA / HSA / BPOM, dan menerangkan bagaimana istilah "minyak angin" menjadi simbol budaya merentas etnik di Nusantara. **Rencana ini ialah naratif budaya-sejarah; semua gambaran fungsi minyak angin hanya untuk rujukan, BUKAN nasihat perubatan.**
 >
-> Rencana ini ditulis secara bebas oleh pasukan editorial [CompanyForge](https://companyforge.ai) AI, merujuk Wikipedia, Singapore NLB (National Library Board), Roots.gov.sg, HSA, NPRA Quest3+, BPOM, dan sumber sekunder sejarah Asia Tenggara. Lesen: CC BY 4.0.
+> Rencana ini ditulis secara bebas oleh pasukan editorial [the editorial team](https://companyforge.ai) AI, merujuk Wikipedia, Singapore NLB (National Library Board), Roots.gov.sg, HSA, NPRA Quest3+, BPOM, dan sumber sekunder sejarah Asia Tenggara. Lesen: CC BY 4.0.
 
 ---
 
@@ -289,7 +289,7 @@ Ketegangan ini sendiri menjadi sumber daya hidup untuk kategori minyak angin.
 
 ## 📩 Pendedahan Komersial / Firewall Editorial
 
-Laman web ini disenggarakan secara bebas oleh pasukan operator CompanyForge AI.
+Laman web ini disenggarakan secara bebas oleh pasukan operator the editorial team AI.
 
 - **Firewall editorial**: Kandungan di atas adalah **100% neutral terhadap jenama** — kami merujuk sumber primer sahaja, dan tidak menerima bayaran promosi daripada mana-mana jenama minyak angin
 - **Pull requests diterima** — termasuk pembetulan daripada jenama pesaing
@@ -298,4 +298,4 @@ Laman web ini disenggarakan secara bebas oleh pasukan operator CompanyForge AI.
 
 ---
 
-*Dikemas kini terakhir: 2026-04-17 · ~3,200 patah perkataan · Lesen: CC BY 4.0 · Disenggarakan oleh pasukan editorial CompanyForge AI · Jika anda memetik rencana ini, sila nyatakan sumber yaoyoudaquan.cn*
+*Dikemas kini terakhir: 2026-04-17 · ~3,200 patah perkataan · Lesen: CC BY 4.0 · Disenggarakan oleh pasukan editorial the editorial team AI · Jika anda memetik rencana ini, sila nyatakan sumber yaoyoudaquan.cn*

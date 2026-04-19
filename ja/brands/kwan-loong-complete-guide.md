@@ -1,7 +1,7 @@
 ---
 title: "驅風油（Kwan Loong Oil）完全ガイド：成分分析・効能・Tiger Balmとの比較"
 description: "Kwan Loong Oil（驅風油）完全ガイド（日本語）— 主成分メントール40%・ユーカリ油40%の薬理効果、頭痛・筋肉痛・乗り物酔い・虫刺されへの活用法、Tiger Balm Whiteとの比較表、G6PD欠乏症・授乳中の注意事項、日本での入手方法"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
@@ -149,4 +149,4 @@ canonical: "https://yaoyoudaquan.cn/ja/brands/kwan-loong-complete-guide"
 
 *本記事は一般的な情報提供を目的としており、医療診断・治療の代替とはなりません。使用前に必要に応じて医師・薬剤師にご相談ください。*
 
-*ライセンス：CC BY 4.0 — SeniorDeli (Carewells)*
+*ライセンス：CC BY 4.0 — Editorial Team*

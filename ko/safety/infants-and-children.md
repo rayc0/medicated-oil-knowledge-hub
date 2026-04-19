@@ -1,7 +1,7 @@
 ---
 title: "영아·유아에게 약용 오일 사용 가능한가요? 2세 미만 금지 성분 완전 목록"
 description: "캠퍼·멘톨·유칼립투스·수살리실산메틸 등 약용 오일 주성분의 영아·유아 독성 기전, FDA·AAP·MFDS 규제 근거, 브랜드별 위험 성분표, 한국 중독정보센터 대응 절차를 1차 출처 기반으로 총정리한 가이드"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/ko/safety/infants-and-children"
 
 > **핵심 요약** — Tiger Balm, 백화유(白花油), 관량유(Kwan Loong), 황도익(Wong To Yick) 등 아시아 약용 오일의 주성분인 캠퍼(camphor)·멘톨·유칼립투스유·수살리실산메틸은 **2세 미만 영유아에게 절대 금지**다. 미국 FDA는 OTC 캠퍼 농도를 11% 이하로 제한하며(21 CFR 310.545), 미국소아과학회(AAP)는 소아 사용 자체를 반대한다. 멘톨 성분은 영아의 호흡 정지를 유발할 수 있고, 수살리실산메틸 5 mL 미만이 소아 사망과 연관된 사례가 있다. 이 글은 성분별 독성 기전, 브랜드별 위험도, 사고 발생 시 대응 절차를 정리한다.
 >
-> 본 문서는 CompanyForge AI 편집팀이 독립적으로 작성하였으며, 미국 FDA·USP-NF, 미국소아과학회(AAP), 한국 식품의약품안전처(MFDS), 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 the editorial team AI 편집팀이 독립적으로 작성하였으며, 미국 FDA·USP-NF, 미국소아과학회(AAP), 한국 식품의약품안전처(MFDS), 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -245,7 +245,7 @@ canonical: "https://yaoyoudaquan.cn/ko/safety/infants-and-children"
 
 ## 📩 상업 공개 / 편집 방화벽
 
-본 웹사이트는 CompanyForge AI 운영팀이 독립적으로 작성·운영합니다.
+본 웹사이트는 the editorial team AI 운영팀이 독립적으로 작성·운영합니다.
 
 - **편집 방화벽**: 위 본문은 완전히 브랜드 중립적으로 작성되었으며, 1차 출처를 인용합니다.
 - **수정 요청 수락**: 경쟁 브랜드의 정정 포함 누구나 수정 제안 가능
@@ -254,4 +254,4 @@ canonical: "https://yaoyoudaquan.cn/ko/safety/infants-and-children"
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team · 인용 시 출처 yaoyoudaquan.cn 명시 필요*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 인용 시 출처 yaoyoudaquan.cn 명시 필요*

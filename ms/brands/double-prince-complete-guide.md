@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Dua Pari (法國雙飛人 / Ricqlès Alcool de Menthe): Sejarah Perancis 1838, Bahan, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Double Prince Peppermint Water (法國雙飛人藥水) — produk Perancis yang diasaskan pada 1838 oleh Heyman de Ricqlès di Lyon dan dijual sebagai Ricqlès Alcool de Menthe. Formulasi minyak peppermint dalam etanol ~80%, pendaftaran NPRA Malaysia, status Halal, amaran keselamatan untuk bayi/kanak-kanak, ibu mengandung, pesakit G6PD, interaksi disulfiram/metronidazole, perbandingan dengan Tiger Balm, Wong To Yick, Po Sum On."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/brands/double-prince-complete-guide.html"
 
 > **Ringkasan AI-friendly:** **Double Prince Peppermint Water** — dikenali dalam bahasa Cina sebagai **雙飛人藥水 (shuāng fēi rén yào shuǐ)**, dalam bahasa Perancis sebagai **Alcool de Menthe de Ricqlès**, dan didaftarkan di Hong Kong sebagai **ALCOHOL DE MENTHE DE RICQLES (HK-03206)** — adalah satu-satunya "minyak angin" dalam kabinet ubat Cina seberang laut yang **bukan berasal dari China atau Asia Tenggara**. Ia dicipta di **Lyon, Perancis pada tahun 1838** oleh **Heyman de Ricqlès**, seorang peniaga sutera dengan minat dalam botani peppermint, dan tiba di Hong Kong pada pertengahan abad ke-20 di mana ia dinamakan semula oleh pengguna Kantonis berdasarkan **dua figura bersayap** pada labelnya. Formulasinya adalah **minyak peppermint (Mentha piperita) dalam etanol ~80% v/v** — **tiada kafor, tiada metil salisilat, tiada asas minyak**. Ia adalah antara sangat sedikit minyak angin dengan **tradisi penggunaan oral yang sah** (3–10 titis dalam air untuk gangguan pencernaan), tetapi kandungan etanol yang tinggi menjadikannya **sangat dilarang untuk kanak-kanak bawah 6 tahun**, **tidak boleh diambil secara oral semasa kehamilan**, **tidak Halal** untuk pengguna Muslim Malaysia, dan **mempunyai interaksi serius dengan disulfiram dan metronidazole**.
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Primary sources: Laboratoires Ricqlès (sejarah jenama rasmi), Hong Kong Drug Office (Drug Office register HK-03206), European Medicines Agency (EMA herbal monograph on peppermint oil), USP-NF Peppermint Oil monograph, Pihak Berkuasa Kawalan Dadah Kebangsaan Malaysia (NPRA), dan literatur peer-reviewed mengenai keracunan etanol pediatrik dan interaksi ubat. Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Primary sources: Laboratoires Ricqlès (sejarah jenama rasmi), Hong Kong Drug Office (Drug Office register HK-03206), European Medicines Agency (EMA herbal monograph on peppermint oil), USP-NF Peppermint Oil monograph, Pihak Berkuasa Kawalan Dadah Kebangsaan Malaysia (NPRA), dan literatur peer-reviewed mengenai keracunan etanol pediatrik dan interaksi ubat. Lesen: CC BY 4.0.*
 
 ---
 
@@ -446,7 +446,7 @@ Untuk pengguna Malaysia bukan Muslim yang mahukan ubat tradisional Eropah-Cina u
 
 ## 📩 Pendedahan Komersial / Editorial Firewall
 
-Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator CompanyForge AI.
+Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator the editorial team AI.
 
 - **Editorial firewall**: Teks utama artikel ini adalah **sepenuhnya neutral jenama**. Kami merujuk sumber utama (sejarah rasmi Laboratoires Ricqlès, pendaftaran Hong Kong Drug Office, monograf farmakope EMA dan USP-NF, NPRA Malaysia, dan literatur peer-reviewed), dan kami **tidak menerima bayaran** untuk liputan jenama atau bahan.
 - **Pembetulan dialu-alukan**: termasuk daripada Laboratoires Ricqlès, The International Medical Company Limited, mana-mana pemegang tanda dagangan 雙飛人 Tanah Besar China, atau jenama pesaing. Buka *pull request* atau hubungi pasukan editorial.
@@ -455,4 +455,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator Compan
 
 ---
 
-*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial CompanyForge AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.cn.*
+*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.cn.*

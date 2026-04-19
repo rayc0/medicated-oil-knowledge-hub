@@ -1,7 +1,7 @@
 ---
 title: "Metil Salisilat (Minyak Wintergreen / 冬青油): Manfaat, Ketoksikan, dan Kes Maut yang Mengubah Label — Panduan untuk Pengguna Malaysia"
 description: "Panduan klinikal lengkap tentang metil salisilat dalam minyak angin — mekanisme analgesik topikal, dos ketoksikan, kes maut Arielle Newman 2007, larangan bayi, amaran G6PD (favisme) untuk rakyat Malaysia, interaksi warfarin, dan nombor Pusat Racun Kebangsaan Malaysia."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -460,7 +460,7 @@ A: Minyak wintergreen tulen dari kedai aromaterapi adalah biasanya 90–98% meti
 
 ## 📩 Pendedahan Komersial / Editorial Firewall
 
-Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator CompanyForge AI.
+Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator the editorial team AI.
 
 - **Editorial firewall**: Kandungan utama di atas adalah **neutral jenama** sepenuhnya — kami merujuk sumber primer (NPRA Malaysia, FDA, USP-NF, 中国药典, literatur perubatan peer-reviewed) dan tidak menerima bayaran daripada jenama apa-apa pun untuk artikel ini.
 - **Kami menerima Pull Request**: termasuk pembetulan daripada jenama pesaing atau pakar farmasi.
@@ -469,4 +469,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator Compan
 
 ---
 
-*Dikemaskini terakhir: 2026-04-17 · Diselenggarakan oleh pasukan editorial CompanyForge AI · Sila rujuk sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Dikemaskini terakhir: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Sila rujuk sumber yaoyoudaquan.cn apabila memetik artikel ini.*

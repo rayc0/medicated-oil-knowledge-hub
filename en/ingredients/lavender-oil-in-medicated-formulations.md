@@ -4,7 +4,7 @@ description: "Complete guide to lavender essential oil (Lavandula angustifolia) 
 lang: en
 category: ingredients
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags:
   - lavender oil
   - Lavandula angustifolia

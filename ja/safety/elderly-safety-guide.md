@@ -1,7 +1,7 @@
 ---
 title: "高齢者への薬用オイル安全ガイド：皮膚への影響・薬物相互作用と注意事項"
 description: "高齢者向け薬用オイル安全使用ガイド — 加齢による皮膚変化とオイル刺激リスクの増大、ワルファリンなど抗凝固薬とメチルサリチル酸の相互作用、カプサイシン系製品の注意点、認知症・パーキンソン病患者への塗布時の留意事項、安全な製品選択基準"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"

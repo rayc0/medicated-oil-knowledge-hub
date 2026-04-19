@@ -1,7 +1,7 @@
 ---
 title: "Minyak Gandarusa vs Metil Salisilat Sintetik: Perbandingan Klinikal dan Panduan Keselamatan"
 description: "Perbandingan antara minyak gandarusa semula jadi dan metil salisilat sintetik — menolak mitos 'semula jadi lebih selamat', profil toksikologi identik, dan panduan keselamatan menyeluruh untuk pengguna Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "冰片（龍腦）藥理學：抗炎鎮痛、經皮吸收促進與外用藥應用（香港版）"
 description: "冰片（borneol / 龍腦 / 冰片）完整藥理學指南（香港版）— TRPM8冷感受體活化機制、NF-κB抑制抗炎效果、作為經皮吸收促進劑在Tiger Balm等外用藥中的核心功能、與樟腦的藥理學差異比較、安全濃度指南，以及孕婦及嬰幼兒的使用注意事項"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"

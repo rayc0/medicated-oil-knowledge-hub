@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Gatal-Gatal dan Penjagaan Kulit: Panduan Lengkap"
 description: "Panduan penggunaan minyak ubat untuk melegakan gatal-gatal, gigitan serangga, ruam ringan, dan biang keringat di Malaysia. Ketahui bila minyak ubat sesuai, cara mengencerkan untuk kulit sensitif, dan bila perlu berjumpa doktor."
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "usage"
 last_updated: "2026-04-19"

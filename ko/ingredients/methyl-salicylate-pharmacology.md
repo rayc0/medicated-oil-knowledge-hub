@@ -1,7 +1,7 @@
 ---
 title: "메틸살리실산 약리학: COX 억제 기전, 경피 흡수와 와파린 상호작용 경고"
 description: "메틸살리실산(methyl salicylate, 윈터그린 오일) 약리학 완전 가이드 — COX 억제를 통한 항염·진통 기전, 우수한 경피 흡수 특성(근육·관절까지 도달), 사론파스·Deep Heat·Tiger Balm Red 내 함량 비교, 와파린 복용자의 INR 상승 위험, 살리실산 독성(어린이·신장 장애), 안전한 사용 농도 범위"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

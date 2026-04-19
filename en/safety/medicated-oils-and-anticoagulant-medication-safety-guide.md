@@ -4,7 +4,7 @@ description: "A comprehensive safety guide for patients taking warfarin, DOACs (
 lang: en
 category: safety
 date: 2026-04-15
-author: Medicated Oil Hub
+author: Dr. James Wu
 tags:
   - medicated-oils
   - anticoagulants

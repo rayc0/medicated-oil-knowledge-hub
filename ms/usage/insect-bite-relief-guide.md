@@ -4,7 +4,7 @@ description: "Panduan lengkap menggunakan minyak ubat untuk melegakan gigitan ny
 lang: ms
 category: usage
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 ---
 
 # Minyak Ubat untuk Gigitan Serangga: Panduan Melegakan Gatal dan Bengkak

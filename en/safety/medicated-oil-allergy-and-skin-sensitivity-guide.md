@@ -4,7 +4,7 @@ description: "Understanding allergic reactions and skin sensitivity to medicated
 lang: en
 category: safety
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 ---
 
 # Medicated Oil Allergies and Skin Sensitivity: A Complete Safety Guide

@@ -1,7 +1,7 @@
 ---
 title: "香港の薬油文化：白花油・驅風油・萬金油の使い方と薬局文化"
 description: "香港における薬油（メディケイテッドオイル）の伝統的使用文化 — 白花油（Pak Fah Yeow）・驅風油・萬金油の歴史と使い方、香港薬房での購入方法、亜熱帯気候と濕熱体質に合わせた薬油選び、香港在住日本人向け入手情報"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "regions"
 last_updated: "2026-04-18"

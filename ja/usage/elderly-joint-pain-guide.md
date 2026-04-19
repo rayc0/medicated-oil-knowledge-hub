@@ -1,7 +1,7 @@
 ---
 title: "高齢者の関節痛・関節炎に薬用オイル：Tiger Balm White・保心安油の安全な使い方とワーファリン注意"
 description: "高齢者の関節痛と関節炎への薬用オイル活用完全ガイド（日本語）— 変形性関節症 vs 関節リウマチへの薬用オイル適応差、高齢者皮膚の特性と安全使用法、ワーファリン服用者へのTiger Balm Red禁忌、各関節の塗布法、日本市場での購入と選択肢"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "usage"
 canonical: "https://yaoyoudaquan.cn/ja/usage/elderly-joint-pain-guide"

@@ -1,7 +1,7 @@
 ---
 title: "Minyak Pudina vs Kristal Mentol: Perbezaan Klinikal dan Panduan Penggunaan"
 description: "Perbandingan terperinci antara minyak pudina (campuran terpena kompleks) dan kristal mentol tulen — mekanisme TRPM8, perbezaan klinikal, dan panduan keselamatan untuk pengguna Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"

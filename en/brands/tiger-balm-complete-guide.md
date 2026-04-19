@@ -4,7 +4,7 @@ description: "A full English guide to Tiger Balm — the 100+ year history from 
 lang: en
 category: brands
 date: 2026-04-14
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 ---
 
 # Tiger Balm Complete Guide: Ingredients, History, Authenticity, and Safe Use

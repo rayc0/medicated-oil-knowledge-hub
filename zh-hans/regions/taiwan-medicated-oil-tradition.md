@@ -4,7 +4,7 @@ description: "台湾独特的青草药外用疗法传统、青草茶街文化、
 lang: zh-hans
 category: regions
 date: 2026-04-18
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 ---
 
 # 台湾药油传统：青草药、万金油文化与现代草药外用疗法

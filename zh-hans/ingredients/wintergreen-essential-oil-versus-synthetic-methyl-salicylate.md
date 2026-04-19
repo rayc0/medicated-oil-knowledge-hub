@@ -1,7 +1,7 @@
 ---
 title: "冬青精油 vs 合成水杨酸甲酯：临床比较与安全使用指南"
 description: "深度解析冬青精油与合成水杨酸甲酯的成分差异、'天然更安全'误区、中国市场标签解读、华法林相互作用及儿童孕妇禁忌。"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hans"
 category: "ingredients"
 last_updated: "2026-04-19"

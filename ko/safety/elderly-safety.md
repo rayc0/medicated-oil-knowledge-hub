@@ -1,7 +1,7 @@
 ---
 title: "노인을 위한 약용 오일 안전 가이드: 피부 자극, 약물 상호작용과 안전한 사용법"
 description: "노인 약용 오일 안전 가이드 — 노인성 피부 변화로 인한 자극 위험, 항응고제(와파린)·혈압약과의 상호작용, 캡사이신 및 고농도 제품 주의사항, 치매·파킨슨 환자의 도포 시 주의점, 안전한 제품 선택 기준"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "感冒流感季節藥用油應用指南：Tiger Balm、驅風油、白花油紓緩症狀（香港版）"
 description: "感冒流感症狀藥用油應用完全指南（香港繁體中文）— 各症狀推薦產品對照表（鼻塞/頭痛/肌肉痛/惡寒），正確塗抹部位與吸入法，穴位刺激法，小童用藥危險警示，藥用油 vs 感冒藥比較，香港冬季感冒預防應用"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "usage"
 canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/cold-flu-guide"

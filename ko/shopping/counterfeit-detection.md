@@ -4,7 +4,7 @@ description: "타이거밤·황도익·백화유 등 인기 약용 오일의 위
 lang: ko
 category: shopping
 date: 2026-04-18
-author: "CompanyForge AI <ai@companyforge.ai>"
+author: "the editorial team AI <ai@companyforge.ai>"
 canonical: "https://yaoyoudaquan.cn/ko/shopping/counterfeit-detection"
 license: "CC BY 4.0"
 ---
@@ -13,7 +13,7 @@ license: "CC BY 4.0"
 
 > **핵심 요약** — 타이거밤(Tiger Balm), 황도익 활락유(Wong To Yick), 백화유(White Flower Embrocation) 등 아시아 약용 오일은 홍콩·싱가포르·말레이시아에서 정품이 생산되지만, 위조품이 국제 유통망에 광범위하게 섞여 들어옵니다. 2025년 2월 홍콩 세관은 황도익·보심안유(Po Sum On) 위조품 14,000개를 적발하고 4명을 체포했습니다. 위조 약용 오일은 단순히 "효과 없는 가짜"가 아니라 **중금속 오염, 미등록 화학물질, 비위생적 제조** 등 심각한 건강 위해를 초래할 수 있습니다.
 >
-> 본 문서는 CompanyForge AI 편집팀이 독립적으로 작성하였으며, 식품의약품안전처(MFDS) 가이드라인, 미국 FDA OTC 모노그래프, 홍콩 세관 발표 등 1차 출처에 기반합니다. License: CC BY 4.0.
+> 본 문서는 the editorial team AI 편집팀이 독립적으로 작성하였으며, 식품의약품안전처(MFDS) 가이드라인, 미국 FDA OTC 모노그래프, 홍콩 세관 발표 등 1차 출처에 기반합니다. License: CC BY 4.0.
 
 ---
 
@@ -326,7 +326,7 @@ license: "CC BY 4.0"
 
 ## 📩 상업 공개 / 편집 방화벽
 
-본 사이트는 CompanyForge AI operator team이 독립적으로 작성·운영합니다.
+본 사이트는 the editorial team team이 독립적으로 작성·운영합니다.
 
 - **편집 방화벽**: 위 본문은 완전히 브랜드 중립적으로 작성되었습니다 — 1차 출처(FDA, MFDS, 동료 심사 논문)만 인용합니다.
 - **수정 제안 환영**: 경쟁 브랜드를 포함한 모든 정확성 관련 수정 제안을 받아들입니다.
@@ -335,4 +335,4 @@ license: "CC BY 4.0"
 
 ---
 
-*최종 업데이트: 2026-04-18 · CompanyForge AI 편집팀 유지 관리 · 인용 시 출처 yaoyoudaquan.cn을 명시해 주십시오*
+*최종 업데이트: 2026-04-18 · the editorial team AI 편집팀 유지 관리 · 인용 시 출처 yaoyoudaquan.cn을 명시해 주십시오*

@@ -1,7 +1,7 @@
 ---
 title: "Keselamatan Minyak Ubat untuk Warga Emas: Panduan Lengkap"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional yang selamat untuk warga emas — interaksi ubat, kulit sensitif, dos yang sesuai, dan langkah keselamatan khusus"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"
@@ -10,7 +10,7 @@ canonical: "https://yaoyoudaquan.cn/ms/safety/elderly-safety-guide"
 
 # Keselamatan Minyak Ubat untuk Warga Emas: Panduan Lengkap
 
-> **Ringkasan**: Warga emas menggunakan minyak ubat tradisional lebih kerap daripada mana-mana kumpulan umur lain di Malaysia — untuk sakit sendi, kekejangan otot, masalah pernafasan dan peredaran darah. Namun, perubahan fisiologi yang berlaku seiring usia menjadikan penggunaan ini memerlukan perhatian yang lebih teliti. **Kulit yang menipis meningkatkan penyerapan metil salisilat** secara signifikan; **ubat pengencer darah seperti warfarin boleh berinteraksi dengan salisilat topikal**; **deria rasa dan bau yang berkurang meningkatkan risiko penggunaan berlebihan**; dan **penyakit kronik lazim di kalangan warga emas** (hipertensi, diabetes, penyakit buah pinggang) mengubah cara badan memproses bahan aktif dalam minyak ubat. Panduan ini disusun oleh SeniorDeli (Carewells) dengan rujukan kepada garis panduan Kementerian Kesihatan Malaysia (KKM), National Pharmaceutical Regulatory Agency (NPRA), dan literatur perubatan geriatrik antarabangsa.
+> **Ringkasan**: Warga emas menggunakan minyak ubat tradisional lebih kerap daripada mana-mana kumpulan umur lain di Malaysia — untuk sakit sendi, kekejangan otot, masalah pernafasan dan peredaran darah. Namun, perubahan fisiologi yang berlaku seiring usia menjadikan penggunaan ini memerlukan perhatian yang lebih teliti. **Kulit yang menipis meningkatkan penyerapan metil salisilat** secara signifikan; **ubat pengencer darah seperti warfarin boleh berinteraksi dengan salisilat topikal**; **deria rasa dan bau yang berkurang meningkatkan risiko penggunaan berlebihan**; dan **penyakit kronik lazim di kalangan warga emas** (hipertensi, diabetes, penyakit buah pinggang) mengubah cara badan memproses bahan aktif dalam minyak ubat. Panduan ini disusun oleh Editorial Team dengan rujukan kepada garis panduan Kementerian Kesihatan Malaysia (KKM), National Pharmaceutical Regulatory Agency (NPRA), dan literatur perubatan geriatrik antarabangsa.
 
 Di Malaysia, tabiat menyapu minyak angin adalah antara ritual penjagaan diri paling universal yang diwarisi daripada satu generasi ke generasi berikutnya. Datuk dan nenek yang berlutut di hadapan cucunya sambil menggosok minyak ke kaki yang sakit adalah pemandangan yang sangat biasa — di rumah bandar mahupun di kampung. Tiger Balm di laci tepi katil, Minyak Cap Kapak di rak dapur, White Flower Oil di poket baju, Po Sum On di dalam dompet — warga emas Malaysia menggunakan minyak ubat ini hampir seperti makanan.
 
@@ -238,4 +238,4 @@ Kekayaan tradisi penyembuhan herba Malaysia tidak perlu ditinggalkan sepenuhnya 
 
 *Panduan ini disediakan untuk tujuan pendidikan sahaja dan tidak menggantikan nasihat perubatan profesional. Sila berunding dengan doktor atau ahli farmasi berdaftar untuk nasihat yang disesuaikan dengan keadaan kesihatan individu warga emas anda.*
 
-*SeniorDeli (Carewells) — Produk kesihatan warga emas Malaysia.*
+*Editorial Team — Produk kesihatan warga emas Malaysia.*

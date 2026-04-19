@@ -1,7 +1,7 @@
 ---
 title: "정향 오일(클로브 오일) 약리학: 유게놀 기전, 항염·진통 효과와 한국 외용제 활용"
 description: "정향 오일(clove oil, 丁香油) 약리학 완전 가이드 — 주성분 유게놀(eugenol)의 나트륨 채널 차단·TRPV1 억제·COX 억제 3중 기전, β-카리오필렌의 CB2 수용체 항염 효과, Tiger Balm·한방 외용 첩포 내 정향 성분 함량, 안전 농도 범위, 항응고제(와파린) 상호작용 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

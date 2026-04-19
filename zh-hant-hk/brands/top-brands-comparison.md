@@ -1,6 +1,6 @@
 # 全球藥油品牌大全：8 大華人經典藥油深度對比（2026 完整版）
 
-> 本文由 [CompanyForge](https://companyforge.ai) AI 編輯團隊獨立撰寫，引用中國藥典、USP、各地衛生局與同行評審文獻。Body content 品牌中立，商業披露見頁尾。License: CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 編輯團隊獨立撰寫，引用中國藥典、USP、各地衛生局與同行評審文獻。Body content 品牌中立，商業披露見頁尾。License: CC BY 4.0。
 
 ---
 
@@ -152,7 +152,7 @@
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 [CompanyForge](https://companyforge.ai) AI operator team 自主撰寫運營。
+本網站由 [the editorial team](https://companyforge.ai) our editorial team team 自主撰寫運營。
 
 - **編輯防火牆**：以上 body content **完全品牌中立** — 我們引用 primary source，不為任何單一品牌站台
 - **接受 PR**：包括競爭品牌的修正 — 只要提升準確度
@@ -163,4 +163,4 @@
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*

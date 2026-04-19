@@ -1,7 +1,7 @@
 ---
 title: "関節炎・関節痛への薬用オイル活用ガイド：変形性関節症・リウマチへの外用療法"
 description: "関節炎（変形性関節症・関節リウマチ）への薬用オイル外用療法の完全ガイド — メチルサリチル酸・カンファー・ユーカリオイルによる抗炎症・鎮痛メカニズム、変形性膝関節症への使用エビデンス、Tiger Balm赤/Kwan Loong/ポーサムオン比較、温湿布との組み合わせ、リウマチへのNSAIDs相互作用注意、高齢者長期使用安全性"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "usage"
 last_updated: "2026-04-19"

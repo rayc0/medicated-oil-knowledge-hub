@@ -4,7 +4,7 @@ description: "Arthritis affects over 300 million people globally. Traditional As
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags: [medicated-oil, arthritis, osteoarthritis, rheumatoid-arthritis, joint-pain, elderly, TCM]
 ---
 

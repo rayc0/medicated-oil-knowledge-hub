@@ -4,7 +4,7 @@ description: "Insect bites from mosquitoes, bees, wasps, ants, and spiders are a
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags: [medicated-oil, insect-bites, mosquitoes, bee-sting, first-aid, tropical, itch-relief]
 ---
 

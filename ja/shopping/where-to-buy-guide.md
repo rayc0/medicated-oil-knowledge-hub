@@ -3,7 +3,7 @@ title: "日本で薬用オイル・外用薬を購入する方法：ドン・キ
 language: ja
 category: shopping
 description: 日本での薬用オイル購入完全ガイド（日本語）— ドン・キホーテ/マツキヨ/ウエルシア/Amazon Japan/免税店での入手方法と価格比較、Tiger Balm・Kwan Loong Oil・白花油の日本市場での流通状況、並行輸入品 vs 正規品の見分け方、訪日外国人向け購入スポット
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 canonical: "https://yaoyoudaquan.cn/ja/shopping/where-to-buy-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"

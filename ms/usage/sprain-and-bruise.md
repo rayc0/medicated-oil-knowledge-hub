@@ -1,7 +1,7 @@
 ---
 title: "Minyak Angin untuk Terseliuh, Terkehel, dan Lebam: Apa yang Berkesan, Apa yang Tidak, Bila Perlu ke Doktor — Panduan untuk Pengguna Malaysia"
 description: "Panduan berbukti tentang penggunaan minyak angin (Tiger Balm Merah, 黃道益 Wong To Yick, Po Sum On 保心安, White Flower 白花油, Ricqlès/雙飛人, Kwan Loong, Minyak Cap Kapak) untuk terseliuh pergelangan kaki, urat tertarik, dan lebam — rangka kerja PEACE & LOVE 2019 BJSM, ulasan Cochrane Derry 2014, monograf FDA 21 CFR Part 348, amaran G6PD dan bayi, serta talian kecemasan Pusat Racun Kebangsaan untuk keluarga Malaysia."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "usage"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/usage/sprain-and-bruise.html"
 
 > **Ringkasan Pantas:** Untuk terseliuh pergelangan kaki akut, urat paha tertarik, atau lebam tisu lembut, **konsensus 2019 *British Journal of Sports Medicine*** oleh Dubois & Esculier telah menggantikan akronim lama **RICE/PRICE** dengan **PEACE & LOVE**, yang secara eksplisit menasihatkan **mengelakkan ubat anti-radang pada hari-hari pertama** kerana keradangan adalah sebahagian daripada pembaikan tisu. Minyak angin berasaskan **kapur barus, mentol, dan metil salisilat** — seperti Tiger Balm Merah (虎標紅), 黃道益 Wong To Yick, Po Sum On (保心安), White Flower (白花油), Ricqlès/雙飛人, Kwan Loong, dan Minyak Cap Kapak — berfungsi terutamanya sebagai **counterirritant** (mentol pada TRPM8, kapur barus pada TRPV1/TRPV3) dan **rubefacient** (metil salisilat). Ulasan Cochrane **Derry 2014 (CD007403)** menyimpulkan bahawa bukti klinikal **tidak menyokong** rubefacient salisilat sebagai rawatan yang mengubah perjalanan penyakit — ia adalah tindakan keselesaan, bukan penawar. Panduan ini menerangkan cara menggunakannya dengan selamat bersama protokol PEACE & LOVE moden, dengan kontraindikasi wajib untuk **kanak-kanak bawah 2 tahun, kehamilan, kekurangan G6PD (favisme), dan kulit yang luka**. Talian kecemasan keracunan Malaysia: **Pusat Racun Kebangsaan 1-800-88-8099**.
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Kami hanya merujuk sumber utama (BJSM, Cochrane Library, FDA 21 CFR, AAP, HK CMCHK, NPRA Malaysia). Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Kami hanya merujuk sumber utama (BJSM, Cochrane Library, FDA 21 CFR, AAP, HK CMCHK, NPRA Malaysia). Lesen: CC BY 4.0.*
 
 ---
 
@@ -284,7 +284,7 @@ Ya, untuk 24–48 jam pertama. PEACE mensyorkan **elevasi (angkat lebih tinggi d
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial CompanyForge AI.
+Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial the editorial team AI.
 
 - **Tembok api editorial:** badan artikel di atas adalah **sepenuhnya neutral jenama**. Setiap tuntutan klinikal dipautkan kepada sumber utama (jurnal peer-reviewed, monograf regulatori, atau daftar rasmi). Kami **tidak me-*ranking* jenama** dan kami menerima *pull request* daripada mana-mana pihak — termasuk jenama pesaing — untuk membetulkan sebarang ralat.
 - **Pendedahan komersial:** pengendali laman web sedang membangunkan minyak herba dalaman, **Kangleling Huoluo Oil (康乐龄 活络油)**, dihasilkan oleh Baisi Technology Shenzhen. Produk tersebut **tidak dibincangkan di mana-mana dalam badan artikel ini**.
@@ -292,4 +292,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial Compa
 
 ---
 
-*Last updated: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik sebagai yaoyoudaquan.cn*
+*Last updated: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik sebagai yaoyoudaquan.cn*

@@ -1,7 +1,7 @@
 ---
 title: "Kafor (Camphor): Farmakologi, Dos Selamat, dan Amaran Keracunan untuk Bayi"
 description: "Panduan lengkap kafor dalam minyak angin — mekanisme tindakan, dos selamat dewasa vs bayi, risiko keracunan, interaksi G6PD. Rujukan NPRA Malaysia dan FDA."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -408,7 +408,7 @@ Bilas segera dengan air bersih yang banyak selama sekurang-kurangnya 15 minit, k
 
 ## Pendedahan Komersial / Dinding Api Editorial
 
-Laman web ini ditulis dan dikendalikan secara autonomi oleh pasukan editorial CompanyForge AI.
+Laman web ini ditulis dan dikendalikan secara autonomi oleh pasukan editorial the editorial team AI.
 
 - **Dinding api editorial:** Kandungan di atas sepenuhnya neutral dari segi jenama — kami merujuk sumber utama dan tidak membuat cadangan atau kedudukan jenama
 - **Terima PR:** Termasuk pembetulan daripada jenama pesaing, dialu-alukan melalui GitHub Pull Request
@@ -418,4 +418,4 @@ Laman web ini ditulis dan dikendalikan secara autonomi oleh pasukan editorial Co
 
 ---
 
-*Dikemaskini: 2026-04-17 · Dikekalkan oleh pasukan editorial CompanyForge AI · Petikan artikel ini hendaklah menyebut yaoyoudaquan.cn*
+*Dikemaskini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Petikan artikel ini hendaklah menyebut yaoyoudaquan.cn*

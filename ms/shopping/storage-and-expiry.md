@@ -1,7 +1,7 @@
 ---
 title: "Cara Menyimpan Minyak Ubat dengan Betul: Tarikh Luput, Tanda Rosak, dan Pelupusan Selamat"
 description: "Panduan penyimpanan minyak ubat (Bahasa Melayu) — suhu dan cahaya optimum, jangka hayat selepas dibuka (6-12 bulan), tanda-tanda minyak ubat sudah rosak (bau tengik/warna berubah/konsistensi berubah), perbezaan tarikh luput antara minyak cair vs balsem padat, cara pelupusan selamat, tips penyimpanan untuk iklim panas Malaysia"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"
@@ -188,4 +188,4 @@ Gunakan penghakiman: Produk 6 bulan selepas tarikh luput dalam bekas rapat yang 
 
 *Artikel ini disediakan untuk tujuan maklumat am. Untuk pertanyaan berkaitan keselamatan produk spesifik, sila hubungi pengilang atau NPRA Malaysia. Maklumat terakhir dikemas kini: April 2026.*
 
-*Lesen: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — SeniorDeli (Carewells)*
+*Lesen: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Editorial Team*

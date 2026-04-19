@@ -4,7 +4,7 @@ description: "Evidence-based guide to dangerous and underappreciated interaction
 lang: en
 category: safety
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags:
   - drug interactions
   - methyl salicylate

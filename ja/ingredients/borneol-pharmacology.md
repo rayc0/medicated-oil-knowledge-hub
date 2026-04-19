@@ -1,7 +1,7 @@
 ---
 title: "ボルネオール（竜脳）の薬理学：抗炎症・鎮痛効果と伝統的外用薬での役割"
 description: "ボルネオール（borneol / 竜脳 / 冰片）薬理学ガイド — 竜脳の抗炎症・鎮痛・抗菌・皮膚浸透促進効果の作用機序、Tiger Balm・伝統的中医薬外用薬での使用、カンファーとボルネオールの薬理学的違い、安全な使用法と妊婦・乳幼児への注意事項"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

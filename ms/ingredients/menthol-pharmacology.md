@@ -1,7 +1,7 @@
 ---
 title: "Mentol (Menthol): Farmakologi TRPM8, Sensasi Sejuk, dan Penggunaan Topikal Selamat"
 description: "Panduan klinikal lengkap tentang mentol dalam minyak angin — bagaimana ia mengaktifkan reseptor sejuk TRPM8, dos selamat dewasa vs bayi, larangan untuk bayi bawah 2 tahun, interaksi G6PD, dan rujukan NPRA Malaysia / FDA / Pusat Racun Kebangsaan."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -422,7 +422,7 @@ Anda akan **rasa lebih lega**, tetapi ukuran objektif menunjukkan tiada perbezaa
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini dikendalikan oleh pasukan operator CompanyForge AI.
+Laman web ini dikendalikan oleh pasukan operator the editorial team AI.
 - **Tembok api editorial:** Kandungan utama di atas adalah **sepenuhnya neutral jenama** — kami merujuk **sumber utama** (FDA, NPRA, jurnal saintifik), bukan bahan pemasaran jenama.
 - **Kami menerima PR:** Termasuk pembetulan daripada jenama pesaing.
 - **Lesen:** CC BY 4.0 — boleh disalin/diedar dengan atribusi.
@@ -430,7 +430,7 @@ Laman web ini dikendalikan oleh pasukan operator CompanyForge AI.
 
 ---
 
-*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial CompanyForge AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan kanak-kanak, asma, kehamilan, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
+*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan kanak-kanak, asma, kehamilan, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
 
 ## Artikel Berkaitan
 

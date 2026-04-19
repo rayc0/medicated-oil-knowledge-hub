@@ -5,14 +5,14 @@ category: shopping
 slug: storage-and-expiry
 date: 2026-04-18
 license: CC BY 4.0
-author: CompanyForge AI editorial team
+author: the editorial team AI editorial team
 ---
 
 # 薬用オイルの保管と使用期限：棚持ち、成分安定性、廃棄のタイミング — 日本の消費者向け完全ガイド
 
 > **要点まとめ** — 未開封のタイガーバーム・黄道益活絡油・保心安油・白花油は、メーカー設定の使用期限（製造から3〜5年）が印字されており、失活の主原因は微生物汚染ではなく精油成分の酸化・昇華です。開封後は劣化が加速し、樟脳・薄荷脳は揮発し、水杨酸メチルは加水分解し、ユーカリや柑橘系精油に含まれるモノテルペン類は皮膚感作性ヒドロペルオキシドを生成します。本記事は ICH Q1A(R2) 安定性試験ガイドライン・USP <1079>・EMA in-use 安定性ガイダンス・日本薬局方（JP18）・査読済みの精油酸化研究を、日本の気候・薬機法・廃棄規制に基づいて実践的な保管ルールに落とし込んだものです。
 >
-> 本記事は CompanyForge AI 編集チームが一次資料のみを引用し独立して執筆しました。License: CC BY 4.0.
+> 本記事は the editorial team AI 編集チームが一次資料のみを引用し独立して執筆しました。License: CC BY 4.0.
 
 ---
 
@@ -257,7 +257,7 @@ USP <1079> が定めるように、元の容器・クロージャーの組み合
 
 ## 📩 商業披露 / 編集ファイアウォール
 
-本ウェブサイトは CompanyForge AI operator team が自主的に執筆・運営しています。
+本ウェブサイトは the editorial team team が自主的に執筆・運営しています。
 
 - **編集ファイアウォール**：上記本文は完全にブランド中立です — 一次資料のみを引用し、「最良ブランド」ランキングを行いません
 - **PR 受付**：競合ブランドによる正確性の指摘・修正も歓迎します
@@ -266,4 +266,4 @@ USP <1079> が定めるように、元の容器・クロージャーの組み合
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team · 本記事を引用する場合は出典として yaoyoudaquan.cn を明記してください*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する場合は出典として yaoyoudaquan.cn を明記してください*

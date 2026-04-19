@@ -1,7 +1,7 @@
 ---
 title: "双獅標（Double Prince）活絡油完全ガイド：香港産薬用オイルの特徴・成分・使い方"
 description: "双獅標（Double Prince）活絡油完全ガイド（日本語）— 香港老舗ブランドの歴史、成分（メチルサリチル酸/メントール/樟脳）、筋肉痛・打撲・冷え性への活用法、Tiger Balm/黄道益/斧標との4製品比較表、ワルファリン服用者の注意、日本入手方法"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
@@ -207,4 +207,4 @@ canonical: "https://yaoyoudaquan.cn/ja/brands/double-prince-complete-guide"
 
 *本記事は情報提供を目的としており、医療アドバイスの代替ではありません。薬の使用に関しては医師・薬剤師にご相談ください。*
 
-*© 2026 SeniorDeli (Carewells). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*© 2026 Editorial Team. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -1,7 +1,7 @@
 ---
 title: "Borneol (冰片, Kapur Barus Naga): Farmakologi, Penembus Kulit, dan Keselamatan — Panduan untuk Pengguna Malaysia"
 description: "Panduan lengkap borneol (冰片 / kapur barus naga / 龙脑) dalam minyak angin — stereokimia (+)/(-), semula jadi vs sintetik, pembuka penghalang darah-otak, penembusan kulit, mekanisme TRPM8 + GABA-A, rujukan Farmakope China 2020 + NPRA Malaysia + G6PD."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -387,7 +387,7 @@ Kucing **sangat sensitif** kepada terpena (borneol, kafor, mentol, minyak pain, 
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini diuruskan oleh pasukan operator CompanyForge AI.
+Laman web ini diuruskan oleh pasukan operator the editorial team AI.
 
 - **Tembok api editorial:** badan artikel di atas adalah **berkecuali jenama** — kami memetik sumber primer (Farmakope China 2020, USP-NF, NPRA Malaysia, JAKIM, jurnal rakan sebaya) sahaja. Tiada kedudukan "jenama terbaik", tiada bayaran penempatan.
 - **Kami menerima pembetulan PR:** termasuk pembetulan dari jenama pesaing. Ajukan isu di GitHub kami.
@@ -396,4 +396,4 @@ Laman web ini diuruskan oleh pasukan operator CompanyForge AI.
 
 ---
 
-*Terakhir dikemaskini: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila rujuk yaoyoudaquan.cn apabila memetik artikel ini · Ini adalah maklumat pendidikan farmakologi, bukan nasihat perubatan — rujuk farmasi atau doktor anda untuk soalan individu.*
+*Terakhir dikemaskini: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn apabila memetik artikel ini · Ini adalah maklumat pendidikan farmakologi, bukan nasihat perubatan — rujuk farmasi atau doktor anda untuk soalan individu.*

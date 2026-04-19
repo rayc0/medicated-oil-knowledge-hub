@@ -1,7 +1,7 @@
 ---
 title: "孕婦用藥油安全指南：邊啲成分要避免"
 description: "懷孕期間可以用藥油嗎？完整安全指南 — 按孕期分階段建議、危險成分清單、安全替代品。香港準媽媽必讀。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"

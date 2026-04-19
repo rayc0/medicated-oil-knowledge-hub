@@ -1,7 +1,7 @@
 ---
 title: "운동 후 근육 회복에 약용 오일 활용 가이드: DOMS 완화와 스포츠 퍼포먼스 향상"
 description: "운동 후 지연성 근육통(DOMS)과 근육 피로 회복을 위한 약용 오일 활용 가이드 — 메틸살리실산·캄파·멘톨의 항염증·혈류 촉진 메커니즘, Tiger Balm Active/Kwan Loong Sports 등 스포츠 제품 비교, 마사지 절차, 아이싱과의 조합 타이밍 전략"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "usage"
 last_updated: "2026-04-19"

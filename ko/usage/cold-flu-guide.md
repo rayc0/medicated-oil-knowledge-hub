@@ -1,7 +1,7 @@
 ---
 title: "감기·독감 시즌 약용 오일 가이드: Tiger Balm·Kwan Loong Oil로 증상 완화하기"
 description: "감기·독감 증상 약용 오일 활용 완전 가이드（한국어）— 코막힘·두통·근육통·오한에 Tiger Balm White·Kwan Loong Oil·백화유(White Flower Oil) 사용법, 흉부 도포·흡입법·경혈 자극법, 어린이 감기에 약용 오일이 금지되는 이유, 약용 오일 vs 의약품 감기약 비교, 한국 겨울철 감기 예방 관리"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

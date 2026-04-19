@@ -1,7 +1,7 @@
 ---
 title: "Alahan dan Sensitiviti Kulit terhadap Ubat Gosok: Panduan Ujian Tampalan dan Pencegahan"
 description: "Panduan menyeluruh tentang 5 alergen utama dalam ubat gosok, mekanisme hipersensitiviti tipe IV, protokol ujian tampalan 2-langkah, kumpulan berisiko tinggi, dan alternatif selamat untuk pengguna Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ms"
 category: "safety"
 last_updated: "2026-04-19"

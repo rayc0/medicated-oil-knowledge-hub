@@ -1,7 +1,7 @@
 ---
 title: "와파린(항응고제)과 약용 오일: 수양산메틸 성분의 INR 상승 위험과 안전 사용 지침"
 description: "와파린 복용자와 약용 오일 완전 안전 가이드（한국어）— 수양산메틸(Methyl Salicylate)의 경피 흡수 및 와파린 INR 상승 기전, Tiger Balm Red·살론파스 위험 등급, 국내외 임상 사례, INR 모니터링 권고, 안전 대체 제품(Tiger Balm White·구풍유·보심안유)"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"

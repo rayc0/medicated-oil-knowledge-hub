@@ -1,7 +1,7 @@
 ---
 title: "药用油的过敏与皮肤敏感：斑贴测试与预防指南"
 description: "详解药用油中5大常见过敏原、IV型迟发性超敏反应机制、标准斑贴测试方法、高风险人群识别及中国NMPA香料致敏原标注要求。"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-19"

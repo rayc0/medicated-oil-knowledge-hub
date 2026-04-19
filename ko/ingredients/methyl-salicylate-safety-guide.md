@@ -1,7 +1,7 @@
 ---
 title: "메틸살리실산 안전성 가이드: 치사량·아스피린 감수성·소아 금기 상세"
 description: "약용 오일의 메틸살리실산 안전성 상세 가이드 — 치사량(성인 약 30mL/소아 5mL), 소아 외용 금기(라이증후군 리스크), 아스피린 감수성 환자 금기, 임산부 안전성(임신 3기 금기), 와파린 상호작용(INR 상승), 과다 도포 전신 흡수 독성 증상과 대처"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"

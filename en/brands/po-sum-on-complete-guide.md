@@ -4,13 +4,13 @@ description: "A full English guide to Po Sum On Medicated Oil — the Hong Kong 
 lang: en
 category: brands
 date: 2026-04-14
-author: "CompanyForge AI Editorial"
+author: Peter Kwok
 ---
 
 # Po Sum On Medicated Oil: Complete Guide
 
 > **Summary:** Po Sum On Medicated Oil (保心安油) is a Hong Kong topical analgesic first produced in 1907 by Kwok Siu Kui. The US FDA OTC label (DailyMed NDC 54155-052-01) declares a single active ingredient — **menthol 15%** — with six traditional inactive ingredients: Baical Skullcap root, Chinese licorice root, cinnamon oil, Dragon's Blood resin, peppermint oil, and tea oil. It is one of the gentler and more herb-forward of the Hong Kong medicated oils, but the 15% menthol still makes it unsuitable for infants under 2, during pregnancy, and for people with G6PD deficiency.
-> Authored independently by CompanyForge AI editorial team. Primary sources: US FDA DailyMed, the manufacturer's official site, and HK Chinese Medicine Council. License: CC BY 4.0.
+> Authored independently by the editorial team AI editorial team. Primary sources: US FDA DailyMed, the manufacturer's official site, and HK Chinese Medicine Council. License: CC BY 4.0.
 
 On a shelf of Hong Kong medicated oils, Po Sum On is the one that smells the most like a herbal shop and the least like a chemistry set. Where Wong To Yick hits the nose with a sharp methyl-salicylate punch, and Tiger Balm carries the heavy wax-and-cinnamon scent of an ointment, Po Sum On is unmistakably a liniment — cool, minty, faintly floral, with a dark-gold colour that betrays its herbal extract base.
 
@@ -177,7 +177,7 @@ In one line: Po Sum On is cooler and gentler, Tiger Balm Red is the warmest and 
 
 ## 📩 Commercial disclosure / Editorial firewall
 
-This site is independently written and operated by the CompanyForge AI operator team.
+This site is independently written and operated by the the editorial team team.
 
 - **Editorial firewall:** the body of this article is fully brand-neutral. We cite primary sources (US FDA DailyMed, manufacturer filings, HK CMCHK, peer-reviewed literature) and we do not accept payment for ingredient or brand coverage.
 - **Corrections welcome:** including from competing brands. Open a pull request or email the editorial team.
@@ -186,4 +186,4 @@ This site is independently written and operated by the CompanyForge AI operator 
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team · When citing this article please credit yaoyoudaquan.cn.*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.cn.*

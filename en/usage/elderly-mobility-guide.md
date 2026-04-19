@@ -1,7 +1,7 @@
 # Medicated Oils for Elderly Joint Pain and Mobility: A Complete Caregiver Guide
 
 > **Key facts** — Topical counterirritants (menthol, camphor, methyl salicylate) provide symptomatic relief through TRPM8-mediated cooling and gate-control pain modulation. They avoid the gastrointestinal and renal risks of oral NSAIDs — a meaningful safety advantage for elderly patients on polypharmacy. However, methyl salicylate is transdermally absorbed in clinically significant amounts and **potentiates warfarin anticoagulation** (Joss & LeBlond 2000; Chow et al. 1989). Camphor above 11% is FDA-banned from OTC products (21 CFR 310.545). Safety screening for warfarin, aspirin allergy, broken skin, and G6PD deficiency is essential before recommending medicated oils to older adults.
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 FDA OTC Monograph M017, USP-NF, PubMed primary sources. License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 FDA OTC Monograph M017, USP-NF, PubMed primary sources. License: CC BY 4.0.
 
 ---
 
@@ -224,13 +224,13 @@ A: Do NOT induce vomiting. Call your local poison control line immediately. In t
 
 ## 📩 商业披露 / Editorial Firewall
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 
 - **Editorial firewall:** The article body above is entirely brand-neutral. All product mentions are illustrative and based on publicly available formulation data, not commercial arrangements. We accept corrections from any brand, including competitors.
-- **Commercial disclosure:** The operator's own brand, 「康乐龄 活络油」(Carewells Medicated Oil), is a to-launch product by 柏丝科技深圳 (Bosi Technology Shenzhen). It does not appear in the body of this article.
+- **Commercial disclosure:** The operator's own brand, 「康乐龄 活络油」(Editorial Team Medicated Oil), is a to-launch product by 柏丝科技深圳 (Bosi Technology Shenzhen). It does not appear in the body of this article.
 - **License:** CC BY 4.0 — cite as: *yaoyoudaquan.cn/en/usage/elderly-mobility-guide*
 - **Corrections & PR:** Open issues at the repository or email editorial@yaoyoudaquan.cn
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team · Cite this article: yaoyoudaquan.cn/en/usage/elderly-mobility-guide*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · Cite this article: yaoyoudaquan.cn/en/usage/elderly-mobility-guide*

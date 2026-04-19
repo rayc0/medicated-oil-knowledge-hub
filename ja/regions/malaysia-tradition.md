@@ -1,7 +1,7 @@
 ---
 title: "マレーシアの薬用オイル文化：Cap Lang・Minyak Angin・ユーカリオイルのマレー伝統医学"
 description: "マレーシアにおける薬用オイルの伝統的使用文化 — Cap Lang（鷹標）・Minyak Angin Eagle Brand・Minyak Lemusir（生姜オイル）のマレー・プロトラ伝統、ジャムウ（Jamu）ハーブ医学との関係、マレー系・中華系・インド系の多民族薬用オイル文化の融合、熱帯気候と「風邪（Masuk Angin）」の民間療法、日本人向けKLおよびシンガポールでの購入ガイド"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "regions"
 last_updated: "2026-04-18"

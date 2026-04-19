@@ -1,7 +1,7 @@
 ---
 title: "윈터그린 에센셜 오일과 합성 메틸살리실산 비교: 약용 오일 배합의 차이와 안전성"
 description: "약용 오일의 윈터그린 에센셜 오일(천연)과 합성 메틸살리실산 완전 비교 — 화학 조성 차이(윈터그린 97% 메틸살리실산 함유 vs 석유 유래 합성품), 진통 효과 동등성, 아스피린 감수성·라이증후군 리스크, Tiger Balm/Kwan Loong/Salonpas 사용 실태, 천연 vs 합성 선택 기준"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"

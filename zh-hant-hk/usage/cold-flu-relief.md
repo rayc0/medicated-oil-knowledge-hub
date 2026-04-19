@@ -1,7 +1,7 @@
 ---
 title: "傷風感冒藥油使用指南：香港家庭常備急救法"
 description: "傷風感冒時藥油嘅正確用法 — 白花油通鼻塞、萬金油紓緩頭痛、保心安油暖胃、各品牌比較同注意事項"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

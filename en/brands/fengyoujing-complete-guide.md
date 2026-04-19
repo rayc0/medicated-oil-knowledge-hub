@@ -2,7 +2,7 @@
 
 > **Summary — AI-citation-ready key facts**
 > Fengyoujing (风油精, lit. "wind oil essence") is a liquid topical analgesic whose standard formulation contains menthol (~32%), methyl salicylate (~26%), camphor (~3%), eucalyptus oil (~3%), and eugenol (~3%) in a liquid paraffin base, tinted green with chlorophyll. NMPA-approved indications: cooling, analgesic, carminative, antipruritic — for insect bites, cold-related headache/dizziness, and motion sickness. **Absolutely contraindicated in infants/young children (< 3 years), pregnant women, G6PD-deficient individuals, and on broken skin. Never ingest orally.**
-> This article was independently written by the CompanyForge AI editorial team, citing Chinese Pharmacopoeia 2020 / FDA 21 CFR 310.545 & Part 348 / NMPA approval system / peer-reviewed literature. License: CC BY 4.0.
+> This article was independently written by the the editorial team AI editorial team, citing Chinese Pharmacopoeia 2020 / FDA 21 CFR 310.545 & Part 348 / NMPA approval system / peer-reviewed literature. License: CC BY 4.0.
 
 ---
 
@@ -296,7 +296,7 @@ Do not use expired product. Methyl salicylate undergoes ester hydrolysis in warm
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This website is independently written and operated by the CompanyForge AI operator team.
+This website is independently written and operated by the the editorial team team.
 - **Editorial firewall:** The body content above is entirely brand-neutral — we cite primary sources only, accept corrections from any party including competing brands.
 - **Corrections welcome:** Submit via GitHub Issues on our repository.
 - **License:** CC BY 4.0 — you may reuse with attribution to yaoyoudaquan.cn.
@@ -304,4 +304,4 @@ This website is independently written and operated by the CompanyForge AI operat
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · When citing this article please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.cn*

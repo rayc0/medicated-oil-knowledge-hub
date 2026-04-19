@@ -1,7 +1,7 @@
 ---
 title: "嬰幼兒可以用藥油嗎？2歲以下完全禁忌清單"
 description: "BB搽藥油安全嗎？完整解析嬰幼兒藥油禁忌 — 樟腦致死劑量、薄荷醇喉痙攣風險、水楊酸甲酯危害。香港家長必讀安全指南。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/infants-and-children.html"
 
 > **核心結論**：2歲以下嬰幼兒嚴禁使用含樟腦、薄荷醇、水楊酸甲酯、桉葉素等傳統活性成份的藥油。誤用可導致呼吸停頓、癲癇發作，甚至死亡。
 >
-> *本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 AAP、WHO、FDA 及同行評審文獻。License: CC BY 4.0。*
+> *本文由 the editorial team AI 編輯團隊獨立撰寫，引用 AAP、WHO、FDA 及同行評審文獻。License: CC BY 4.0。*
 
 ---
 
@@ -299,7 +299,7 @@ Flaman等人的系列報告共記錄41例幼兒桉樹油中毒事件，平均涉
 
 ## 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立——引用一次性來源，不按贊助排列產品
 - **歡迎更正**：包括競爭品牌提交的資料修正
@@ -308,4 +308,4 @@ Flaman等人的系列報告共記錄41例幼兒桉樹油中毒事件，平均涉
 
 ---
 
-*最後更新：2026-04-17 · 由 CompanyForge AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*

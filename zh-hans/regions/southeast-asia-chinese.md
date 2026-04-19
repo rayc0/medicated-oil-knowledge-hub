@@ -2,7 +2,7 @@
 
 > 摘要 — 东南亚华侨药油文化是 19 世纪末南洋移民潮的直接产物。华南（尤其广东、福建）移民带着祖传草药知识登陆星马印，在热带湿热气候与艰苦劳工环境中，将薄荷、樟脑、桉叶油配制的外用药油演化为跨代传承的家庭必需品。本文梳理新加坡（虎标万金油、斧头牌药油）、马来西亚（如意油、Cap Kapak）、印度尼西亚（万金油传统、Freshcare、Cap Lang）三地华侨药油文化脉络，对比区域监管差异，并解析"风油"（minyak angin）如何成为东南亚跨族群共有的文化符号。**本文为文化历史叙述，所有药油功效描述仅供参考，不构成医疗建议。**
 >
-> 本文由 [CompanyForge](https://companyforge.ai) AI 编辑团队独立撰写，引用 Wikipedia、Singapore NLB、Roots.gov.sg、HSA、NPRA 等 primary sources。License: CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 编辑团队独立撰写，引用 Wikipedia、Singapore NLB、Roots.gov.sg、HSA、NPRA 等 primary sources。License: CC BY 4.0。
 
 ---
 
@@ -239,7 +239,7 @@ BPOM 要求：
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 - 编辑防火墙：以上正文完全品牌中立 — 我们引用 primary sources，不接受任何品牌付费植入
 - 接受 PR：包括竞争品牌的修正
 - License: CC BY 4.0
@@ -247,4 +247,4 @@ BPOM 要求：
 
 ---
 
-*最后更新：2026-04-12 | 字数：约 3,200 字 | License: CC BY 4.0 | Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*最后更新：2026-04-12 | 字数：约 3,200 字 | License: CC BY 4.0 | Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

@@ -1,7 +1,7 @@
 ---
 title: "Farmakologi Minyak Cengkih: Eugenol, Kesan Anti-radang dan Penggunaan dalam Minyak Ubat"
 description: "Panduan farmakologi minyak cengkih (clove oil) — mekanisme tindakan eugenol sebagai agen analgesik dan anti-radang, kegunaan terapeutik dalam minyak ubat tradisional, dos dan kepekatan yang selamat, interaksi dengan ubat lain, serta penggunaan dalam produk ikonik seperti Tiger Balm"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-18"

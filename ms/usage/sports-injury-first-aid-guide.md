@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Kecederaan Sukan: Panduan Pertolongan Cemas dan Pemulihan"
 description: "Panduan lengkap penggunaan minyak ubat tradisional untuk kecederaan sukan — terseliuh, lebam, kesakitan otot, termasuk kaedah RICE, masa yang sesuai untuk sapuan, dan perbandingan produk"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/ms/usage/sports-injury-first-aid-guide"
 
 > **Ringkasan Pantas:** Malaysia adalah negara yang aktif bersukan — badminton, futsal, dan larian adalah sebahagian daripada kehidupan harian jutaan rakyat. Apabila kecederaan berlaku di gelanggang atau trek larian, ramai yang terus meraih botol minyak ubat yang terletak dalam beg sukan. Namun ada **masa yang betul dan masa yang salah** untuk menggunakan minyak ubat selepas kecederaan sukan. Panduan ini menerangkan **protokol RICE** (Rest, Ice, Compression, Elevation) dan di mana minyak ubat — sama ada yang **memanaskan** (Tiger Balm Merah, Wong To Yick) atau **menyejukkan** (Kwan Loong, Axe Brand, White Flower) — sesuai digunakan dalam kitaran pemulihan anda. Kesimpulan utama: **jangan sapu minyak panas pada kecederaan akut (0–48 jam pertama)** kerana ia boleh memburukkan bengkak. Talian kecemasan keracunan Malaysia: **Pusat Racun Kebangsaan 1-800-88-8099**.
 >
-> *Artikel ini ditulis oleh pasukan editorial SeniorDeli (Carewells) untuk tujuan maklumat umum sahaja dan bukan nasihat perubatan. Rujuk doktor atau fisioterapis anda jika kesakitan berterusan lebih daripada 72 jam atau semakin teruk.*
+> *Artikel ini ditulis oleh pasukan editorial Editorial Team untuk tujuan maklumat umum sahaja dan bukan nasihat perubatan. Rujuk doktor atau fisioterapis anda jika kesakitan berterusan lebih daripada 72 jam atau semakin teruk.*
 
 ---
 
@@ -418,7 +418,7 @@ Penggunaan minyak ubat untuk kecederaan sukan adalah amalan yang berakar umbi da
 
 ## Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial SeniorDeli (Carewells).
+Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial Editorial Team.
 
 - **Tembok api editorial:** Setiap tuntutan klinikal dalam artikel ini dipautkan kepada sumber primer (jurnal peer-reviewed, monograf regulatori, atau daftar rasmi). Kami tidak me-ranking jenama secara kewangan dan menerima pembetulan daripada mana-mana pihak.
 - **Pendedahan komersial:** Pengendali laman web sedang membangunkan produk minyak herba dalaman, **Kangleling Huoluo Oil (康乐龄 活络油)**, dihasilkan oleh Baisi Technology Shenzhen. Produk tersebut tidak dibincangkan dalam badan artikel ini.
@@ -426,4 +426,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial Senio
 
 ---
 
-*Last updated: 2026-04-18 · Diselenggara oleh pasukan editorial SeniorDeli (Carewells) · Sila petik sebagai yaoyoudaquan.cn*
+*Last updated: 2026-04-18 · Diselenggara oleh pasukan editorial Editorial Team · Sila petik sebagai yaoyoudaquan.cn*

@@ -1,7 +1,7 @@
 ---
 title: "風邪・インフルエンザシーズンの薬用オイル活用ガイド：Tiger Balm・驅風油で症状緩和"
 description: "感冒・インフルエンザ症状と薬用オイル活用完全ガイド（日本語）— 鼻詰まり・頭痛・筋肉痛・悪寒に対するTiger Balm White・Kwan Loong Oil・白花油の使い方、胸部塗布・吸入法・ツボ刺激法、小児への薬用オイル使用禁忌、薬用オイル vs 市販感冒薬比較"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

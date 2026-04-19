@@ -1,7 +1,7 @@
 ---
 title: "황도익(黃道益) 활락유 완전 가이드: 성분·근육통·관절통 효능·Tiger Balm과 비교"
 description: "황도익(Wong To Yick) 활락유 완전 가이드（한국어）— 성분(수양산메틸 50%+멘톨 16%+캠퍼 10%), 근육통·관절통·삐임 집중 효능, Tiger Balm Red vs 황도익 비교, 와파린 복용자 금지(수양산메틸 고농도), G6PD 결핍증 주의, 홍콩/한국 구매처"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/brands/wong-to-yick-complete-guide"
 
 > **핵심 요약** — 황도익(黃道益, Wong To Yick) 활락유(活絡油, Wood Lock Oil)는 1927년 창립된 홍콩 전통 한방 브랜드의 주력 제품이다. 수양산메틸(Methyl Salicylate) 50%·멘톨 16%·캠퍼 10%의 고농도 삼중 배합으로 **근육통·관절통·삐임 치료에 특화**된 약용 오일이다. 수양산메틸 50%는 아시아 약용 오일 중 최고 수준의 농도이며, 이로 인해 **와파린(Warfarin) 복용자는 사용 금지**, **G6PD 결핍증 환자는 주의**가 필요하다. 두통·벌레 물림 같은 경증 증상에는 과도하게 강한 제품이므로, 심한 근육통·관절통에 집중 사용한다.
 >
-> 본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였으며, 제조사 공식 자료, 홍콩 약무서(Department of Health), 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 Editorial Team 편집팀이 독립적으로 작성하였으며, 제조사 공식 자료, 홍콩 약무서(Department of Health), 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -254,4 +254,4 @@ G6PD(포도당-6-인산탈수소효소) 결핍증은 아시아인(특히 중국 
 
 ---
 
-*최종 업데이트: 2026-04-18 | 저자: SeniorDeli (Carewells) | 라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 출처: Wong To Yick Medicine Factory 공식 자료, 홍콩 약무서, 동료심사 학술 논문*
+*최종 업데이트: 2026-04-18 | 저자: Editorial Team | 라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 출처: Wong To Yick Medicine Factory 공식 자료, 홍콩 약무서, 동료심사 학술 논문*

@@ -4,7 +4,7 @@ description: "Practical guide to purchasing genuine medicated oils when travelin
 lang: en
 category: shopping
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags:
   - medicated oil shopping
   - authentic products

@@ -1,7 +1,7 @@
 ---
 title: "跌打扭傷用邊隻藥油最有效？成分對比與使用步驟"
 description: "扭傷撞傷用藥油完整指南 — 急性期vs慢性期用法、成分對比、RICE急救原則、何時睇醫生。香港繁體中文版。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-17"

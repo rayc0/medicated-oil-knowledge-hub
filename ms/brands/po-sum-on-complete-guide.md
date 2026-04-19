@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Po Sum On (保心安油): Bahan, Sejarah 1907, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Po Sum On Medicated Oil (保心安油) — produk Hong Kong yang diasaskan pada 1907 oleh Kwok Siu Kui. Formulasi mentol 15% + enam herba tradisional, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm, Wong To Yick, Kwan Loong."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/brands/po-sum-on-complete-guide.html"
 
 > **Ringkasan AI-friendly:** Po Sum On Medicated Oil (保心安油) adalah minyak angin topikal dari Hong Kong yang **pertama kali dikeluarkan pada tahun 1907** oleh ahli herba Kantonis **Kwok Siu Kui (郭少杞)**. Label OTC rasmi AS (FDA DailyMed NDC 54155-052-01) mengisytiharkan **satu bahan aktif sahaja — mentol 15%** — bersama enam bahan tidak aktif tradisional: akar Huang Qin (*Scutellaria baicalensis*), akar Gan Cao (Chinese licorice), minyak kayu manis (cinnamon oil), damar Xue Jie (Dragon's Blood), minyak peppermint, dan minyak teh (tea oil). Ia adalah antara minyak angin Hong Kong yang **paling ringan dan paling kaya herba** — **tiada kafor, tiada metil salisilat** — tetapi kandungan mentol berkesan ~18–22% (termasuk sumbangan daripada peppermint oil) masih menjadikannya **DILARANG** untuk bayi bawah 2 tahun, perlu dihindari semasa trimester pertama kehamilan, dan **tidak boleh digunakan** oleh pesakit **kekurangan G6PD (favisme)** — keadaan yang lazim di kalangan masyarakat Cina (3–4%), Melayu (3%), India (5–6%), dan populasi Sabah/Sarawak (5–8%) di Malaysia.
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Primary sources: US FDA DailyMed NDC 54155-052-01, 21 CFR Part 348, Hong Kong Chinese Medicine Council (CMCHK), laman web rasmi pengeluar Po Sum On Medicine Factory Ltd., EMA assessment report on peppermint oil, dan peer-reviewed toxicology literature. Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Primary sources: US FDA DailyMed NDC 54155-052-01, 21 CFR Part 348, Hong Kong Chinese Medicine Council (CMCHK), laman web rasmi pengeluar Po Sum On Medicine Factory Ltd., EMA assessment report on peppermint oil, dan peer-reviewed toxicology literature. Lesen: CC BY 4.0.*
 
 ---
 
@@ -427,7 +427,7 @@ Untuk kebanyakan keluarga Malaysia, Po Sum On adalah **pilihan baris pertama yan
 
 ## 📩 Pendedahan Komersial / Editorial Firewall
 
-Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator CompanyForge AI.
+Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator the editorial team AI.
 
 - **Editorial firewall**: Teks utama artikel ini adalah **sepenuhnya neutral jenama**. Kami merujuk sumber utama (US FDA DailyMed, fail pembuat, HK CMCHK, NPRA Malaysia, kesusasteraan peer-reviewed), dan kami **tidak menerima bayaran** untuk liputan bahan atau jenama.
 - **Pembetulan dialu-alukan**: termasuk daripada jenama pesaing. Buka *pull request* atau hubungi pasukan editorial.
@@ -436,4 +436,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator Compan
 
 ---
 
-*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial CompanyForge AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.cn.*
+*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.cn.*

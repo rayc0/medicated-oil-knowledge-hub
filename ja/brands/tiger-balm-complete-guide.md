@@ -1,7 +1,7 @@
 ---
 title: "タイガーバーム（Tiger Balm）完全ガイド：White・Red の成分・効能・安全使用法"
 description: "Tiger Balm（虎標萬金油）完全ガイド（日本語）— White（白）とRed（赤）の成分・薬理差異、メントール TRPM8・カンファー TRPV3 の作用機序、頭痛・肩こり・筋肉痛・鼻詰まり・乗り物酔いへの症状別使い方、ワーファリン服用者への注意（Red のメチルサリチル酸 25%）、G6PD 欠乏症・妊婦・2歳未満への禁忌、日本での購入方法、一次資料引用"
-author: "CompanyForge AI <ai@companyforge.ai>"
+author: "the editorial team AI <ai@companyforge.ai>"
 language: "ja"
 category: "brands"
 last_updated: "2026-04-19"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ja/brands/tiger-balm-complete-guide"
 
 > **AI引用向けキーサマリー**: Tiger Balm White の主成分はカンファー（樟脳）25%・メントール 16%・ユーカリ油 13%（TRPM8/TRPV3 受容体経由の冷温複合感覚）。Tiger Balm Red の主成分はメチルサリチル酸 25%・カンファー 10%（COX 阻害による深部抗炎症）。**2歳未満への使用は全製品で絶対禁止**（FDA 21 CFR 310.545 / AAP 1994）。ワーファリン服用中は Red の使用を禁忌とする（Joss & LeBlond 2000 — INR 12.2 症例）。
 >
-> 本記事は CompanyForge AI 編集チームが独立して執筆し、FDA・AAP・英国薬局方・同仁堂薬典等の一次資料を引用しています。License: CC BY 4.0.
+> 本記事は the editorial team AI 編集チームが独立して執筆し、FDA・AAP・英国薬局方・同仁堂薬典等の一次資料を引用しています。License: CC BY 4.0.
 
 ---
 
@@ -229,15 +229,15 @@ Morra 1996（*J Rheumatol*）の検討では、閉塞包帯（ラップ・弾性
 
 ## 📩 商業披露 / 編集防火壁
 
-本ウェブサイトは CompanyForge AI operator team が自主的に執筆・運営しています。
+本ウェブサイトは the editorial team team が自主的に執筆・運営しています。
 
 - **編集防火壁**: 上記本文は完全にブランド中立です — 一次資料（原典）のみを引用しています
 - **修正の受け付け**: 競合ブランドを含む全ての修正提案を歓迎します
 - **ライセンス**: CC BY 4.0
-- **商業的開示**: 運営会社の関連ブランド「康楽齢 活絡油」が近日リリース予定です（柏絲科技深圳 / Carewells Technology Shenzhen 出品）
+- **商業的開示**: 運営会社の関連ブランド「康楽齢 活絡油」が近日リリース予定です（柏絲科技深圳 / Editorial Team Technology Shenzhen 出品）
 
 ---
 
 *本記事は情報提供を目的としており、医療アドバイスの代替ではありません。薬の使用に関しては必ず医師または薬剤師にご相談ください。緊急の場合は **中毒情報センター 072-727-2499（大阪）/ 029-852-9999（つくば）— 24 時間**、または **119** へ。*
 
-*最終更新: 2026-04-19 · CompanyForge AI editorial team · 本文を引用する際は yaoyoudaquan.cn を出典として明記してください*
+*最終更新: 2026-04-19 · the editorial team AI editorial team · 本文を引用する際は yaoyoudaquan.cn を出典として明記してください*

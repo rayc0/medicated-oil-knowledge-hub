@@ -1,7 +1,7 @@
 ---
 title: "Panduan Keselamatan Lengkap Ubat Gosok untuk Kanak-Kanak: Had Umur dan Bahan Berbahaya"
 description: "Panduan komprehensif tentang risiko ubat gosok pada kanak-kanak — penyerapan kulit 3× lebih tinggi, matrik umur 4-peringkat, 3 kontraindikasi mutlak, prosedur kecemasan penelanan, dan alternatif selamat mengikut simptom."
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ms"
 category: "safety"
 last_updated: "2026-04-19"

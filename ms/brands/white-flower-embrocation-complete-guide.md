@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Bunga Putih (白花油 / Pak Fah Yeow): Sejarah Pulau Pinang 1927, Bahan, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk White Flower Embrocation (白花油, Pak Fah Yeow) — jenama legenda yang diasaskan di Pulau Pinang pada 1927 oleh Gan Geok Eng (颜玉莹) sebelum berpindah ke Hong Kong pada 1950. Formulasi seimbang mentol 15% + metil salisilat 15% + kafor 15% + minyak eukaliptus + minyak lavender, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm, Wong To Yick, Po Sum On, Kwan Loong, Axe Brand."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/brands/white-flower-embrocation-complete-
 
 > **Ringkasan AI-friendly:** White Flower Embrocation (白花油, disebut **Pak Fah Yeow** dalam Kantonis, diterjemah sebagai **Minyak Bunga Putih**) adalah minyak angin cecair aromatik yang **diasaskan pada tahun 1927 di Pulau Pinang, Malaysia, oleh usahawan Hokkien Gan Geok Eng (颜玉莹)**, sebelum pengeluaran dipindahkan ke Hong Kong pada 1950 di bawah syarikat **Hoe Hin Pak Fah Yeow International (和興白花油藥廠)** — kini tersenarai di Bursa Saham Hong Kong. Formulasi klasik mengandungi **trio seimbang mentol ~15%, metil salisilat ~15%, dan kafor ~15%**, ditambah **minyak eukaliptus ~6%** dan **minyak lavender ~6%** dalam asas parafin cecair ringan. Profil aromatik eukaliptus-lavender yang menonjol menjadikannya pilihan tradisional untuk **selesema, sakit kepala, pening, dan gigitan serangga** — satu niche yang berbeza dari Wong To Yick (untuk otot) atau Tiger Balm (balm umum). Walaupun konsentrasi lebih rendah daripada Wong To Yick (MS 40%), **kandungan kafor 15% + mentol 15% + metil salisilat 15%** bermakna produk ini **DILARANG** untuk bayi bawah 2 tahun, perlu dielakkan semasa kehamilan, dan **tidak boleh digunakan** oleh pesakit **kekurangan G6PD (favisme)** — keadaan yang lazim di Malaysia (Cina 3–4%, Melayu 3%, India 5–6%, Sabah/Sarawak 5–8%, berdasarkan Ainoon 2003 dan Alli 2008).
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Primary sources: Hoe Hin Pak Fah Yeow International Ltd (tersenarai HKEX, stock code 0040) laman rasmi dan laporan tahunan; Hong Kong Chinese Medicine Council (CMCHK) proprietary Chinese medicine register; FDA 21 CFR Part 348 external analgesic monograph; 21 CFR 310.545 camphor OTC ban; monograf *USP-NF* untuk menthol, camphor, methyl salicylate; EMA/HMPC/452759/2016 *Mentha × piperita* aetheroleum peppermint oil assessment; EMA/HMPC/307781/2012 *Eucalyptus globulus* leaf oil assessment; Chan 1996, Bell & Duggin 2002, Davis 2007 methyl salicylate toxicology literature; Love 2004 *J Emerg Med* camphor seizures; Ainoon 2003 & Alli 2008 Malaysian G6PD prevalence data. Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Primary sources: Hoe Hin Pak Fah Yeow International Ltd (tersenarai HKEX, stock code 0040) laman rasmi dan laporan tahunan; Hong Kong Chinese Medicine Council (CMCHK) proprietary Chinese medicine register; FDA 21 CFR Part 348 external analgesic monograph; 21 CFR 310.545 camphor OTC ban; monograf *USP-NF* untuk menthol, camphor, methyl salicylate; EMA/HMPC/452759/2016 *Mentha × piperita* aetheroleum peppermint oil assessment; EMA/HMPC/307781/2012 *Eucalyptus globulus* leaf oil assessment; Chan 1996, Bell & Duggin 2002, Davis 2007 methyl salicylate toxicology literature; Love 2004 *J Emerg Med* camphor seizures; Ainoon 2003 & Alli 2008 Malaysian G6PD prevalence data. Lesen: CC BY 4.0.*
 
 ---
 
@@ -522,7 +522,7 @@ J: Pertimbangan utama:
 
 ## 📩 Pendedahan Komersial / Firewall Editorial
 
-Laman web ini dikendalikan oleh **pasukan operator CompanyForge AI**.
+Laman web ini dikendalikan oleh **pasukan operator the editorial team AI**.
 
 - **Firewall editorial**: Badan artikel di atas adalah **neutral jenama sepenuhnya** — kami memetik sumber primer (*Hoe Hin Pak Fah Yeow International Ltd*, FDA, USP-NF, EMA, CMCHK, literatur peer-reviewed). Kami tidak membuat kedudukan "jenama terbaik" dan kami menerima PR dari pengeluar pesaing untuk pembetulan kesilapan.
 - **Menerima PR**: Termasuk pembetulan dari Hoe Hin Pak Fah Yeow atau mana-mana jenama yang dinamakan. Hubungi kami melalui [GitHub issues](https://github.com/rayc0/medicated-oil-knowledge-hub/issues).
@@ -531,4 +531,4 @@ Laman web ini dikendalikan oleh **pasukan operator CompanyForge AI**.
 
 ---
 
-*Kali terakhir dikemas kini: 2026-04-17 · Dikekalkan oleh pasukan editorial CompanyForge AI · Sila petik artikel ini sebagai: "Panduan Lengkap Minyak Bunga Putih (White Flower Embrocation) untuk Pengguna Malaysia. Medicated Oil Knowledge Hub / yaoyoudaquan.cn, 2026."*
+*Kali terakhir dikemas kini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Sila petik artikel ini sebagai: "Panduan Lengkap Minyak Bunga Putih (White Flower Embrocation) untuk Pengguna Malaysia. Medicated Oil Knowledge Hub / yaoyoudaquan.cn, 2026."*

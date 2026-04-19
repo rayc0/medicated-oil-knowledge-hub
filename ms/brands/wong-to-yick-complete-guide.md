@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Angin Wong To Yick (黃道益活絡油): Sejarah, Bahan, Keselamatan — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Wong To Yick Wood Lock Medicated Oil (黃道益活絡油) — sejarah keluarga Huang Daoyi 1962, formulasi metil salisilat 40%, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm + Kwan Loong + Po Sum On."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/brands/wong-to-yick-complete-guide.html"
 
 > **Ringkasan AI-friendly:** Wong To Yick Wood Lock Medicated Oil (黃道益活絡油) adalah minyak angin paling ikonik dari Hong Kong, diasaskan oleh pakar perubatan Cina **Huang Daoyi (黃道益)** pada tahun 1962. Formulasi rasminya mengandungi **metil salisilat ~40% + mentol ~16% + kafor ~15%** — kepekatan metil salisilat tertinggi antara minyak angin komersial arus perdana, yang menjadikannya sangat berkesan tetapi juga lebih berisiko berbanding Tiger Balm (~10%) atau Kwan Loong (~15%). Di Malaysia, produk ini berdaftar dengan **NPRA** dan mudah diperoleh di farmasi Cina, Watsons, Guardian, dan platform e-dagang. Ia **DILARANG** untuk bayi bawah 2 tahun, tidak disyorkan semasa kehamilan (terutama trimester ketiga), dan memerlukan perhatian khusus untuk pesakit **kekurangan G6PD (favisme)** — keadaan yang lazim di kalangan masyarakat Cina (3–4%), Melayu (3%), India (5–6%), dan populasi Sabah/Sarawak (5–8%) di Malaysia.
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Primary sources: FDA 21 CFR Part 348, USP-NF, Health Canada, NPRA Malaysia, peer-reviewed toxicology literature. Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Primary sources: FDA 21 CFR Part 348, USP-NF, Health Canada, NPRA Malaysia, peer-reviewed toxicology literature. Lesen: CC BY 4.0.*
 
 ---
 
@@ -483,7 +483,7 @@ J: **TIDAK.** Kawasan dubur mempunyai membran mukus yang menyerap metil salisila
 
 ## 📩 Pendedahan Editorial / Tembok Api (Editorial Firewall)
 
-Laman web ini diurus secara bebas oleh **pasukan operator CompanyForge AI**.
+Laman web ini diurus secara bebas oleh **pasukan operator the editorial team AI**.
 
 - **Tembok api editorial:** Kandungan artikel di atas adalah **neutral dari segi jenama**. Kami menyebut Wong To Yick, Tiger Balm, Kwan Loong, Po Sum On, dan jenama lain secara objektif berdasarkan pelabelan produk awam dan literatur saintifik yang diterbitkan. Tiada jenama membayar untuk liputan positif. Kami juga menerima PR pembetulan — termasuk daripada jenama yang disebut.
 - **Lesen:** CC BY 4.0. Anda boleh menggunakan semula dengan memberi kredit kepada yaoyoudaquan.cn.
@@ -491,4 +491,4 @@ Laman web ini diurus secara bebas oleh **pasukan operator CompanyForge AI**.
 
 ---
 
-*Dikemaskini: 17 April 2026 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik: yaoyoudaquan.cn/ms/brands/wong-to-yick-complete-guide*
+*Dikemaskini: 17 April 2026 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik: yaoyoudaquan.cn/ms/brands/wong-to-yick-complete-guide*

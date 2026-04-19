@@ -1,7 +1,7 @@
 ---
 title: "보르네올(용뇌) 약리학: 항염·경피 흡수 촉진 기전과 Tiger Balm 내 역할"
 description: "보르네올(borneol, 龍腦/冰片) 약리학 완전 가이드 — TRPM8 활성화를 통한 냉감·청량감, NF-κB 억제 항염 효과, 경피 흡수 촉진제(permeation enhancer)로서의 핵심 역할, Tiger Balm·백화유 내 보르네올 함량, 캠퍼와의 차이점, 임산부·영유아 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

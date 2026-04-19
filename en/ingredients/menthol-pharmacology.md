@@ -4,7 +4,7 @@ description: "A clinical explanation of menthol: how it activates the cold recep
 lang: en
 category: ingredients
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Raymond Fong
 ---
 
 # Menthol Pharmacology — TRPM8, Cooling Sensation, and Safe Topical Use

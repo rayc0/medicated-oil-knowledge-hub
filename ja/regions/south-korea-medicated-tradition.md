@@ -1,7 +1,7 @@
 ---
 title: "韓国の薬用オイル文化：パス文化の歴史、Tiger Balmの受容と韓国独自の外用薬市場"
 description: "韓国の薬用オイル・外用鎮痛剤文化ガイド（日本語版）— 韓国パス（貼布）文化の歴史的背景、日本製品サロンパスが韓国に与えた影響、1980–90年代の東南アジア薬用オイル（Tiger Balm・Kwan Loong）の受容、韓国独自のパスブランド比較、現代の自然系・スポーツ外用薬トレンド"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "regions"
 last_updated: "2026-04-18"

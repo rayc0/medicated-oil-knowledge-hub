@@ -1,7 +1,7 @@
 ---
 title: "運動後肌肉恢復藥油指南：減輕DOMS同加速恢復"
 description: "運動後肌肉痠痛（DOMS）嘅藥油使用策略 — 各品牌效果比較、按摩手法、最佳使用時機、同專業恢復方法嘅配合"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 # 婴幼儿能用药油吗？2 岁以下完全禁忌清单
 
 > **核心结论**：2 岁以下婴幼儿严禁使用含樟脑、薄荷醇、水杨酸甲酯、桉叶素等传统活性成份的药油。误用可导致呼吸抑制、癫痫发作乃至死亡。
-> 本文由 CompanyForge AI 编辑团队独立撰写，引用 AAP、WHO、中国药典 2020 版、NMPA、FDA 一次性来源。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写，引用 AAP、WHO、中国药典 2020 版、NMPA、FDA 一次性来源。License: CC BY 4.0.
 
 ---
 
@@ -219,7 +219,7 @@ Flaman et al. 系列报告中，一名 3 岁幼儿吞服约 5 mL 的纯桉树精
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 - **编辑防火墙**：以上正文完全品牌中立 — 我们引用 primary source，不推荐任何具体产品品牌
 - **接受 PR**：包括竞争品牌的修正
 - **License**: CC BY 4.0
@@ -227,4 +227,4 @@ Flaman et al. 系列报告中，一名 3 岁幼儿吞服约 5 mL 的纯桉树精
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

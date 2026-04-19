@@ -4,7 +4,7 @@ description: "出行前必读的药油准备指南：针对飞行、高原反应
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Editorial Team
 tags:
   - 旅行药品
   - 高原反应

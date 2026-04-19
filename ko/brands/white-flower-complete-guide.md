@@ -1,7 +1,7 @@
 ---
 title: "화이트 플라워 오일(白花油) 완전 가이드: 효능, 성분 분석과 Tiger Balm 비교"
 description: "White Flower Oil(白花油, 백화유) 완전 가이드（한국어）— 유칼립투스·멘톨·라벤더 복합 성분 분석, 두통·근육통·비염·멀미·소화불량 다목적 활용법, Tiger Balm White vs White Flower Oil 비교 표, 한국 구매 방법, 임산부·영유아 사용 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/brands/white-flower-complete-guide"
 
 > **핵심 요약** — White Flower Oil(白花油, 백화유)은 말레이시아 페낭에서 1927년 탄생한 **다목적 액상 약용 오일**이다. 유칼립투스유(40%)·라벤더유(15%)·페퍼민트유(15%)·위터그린유(wintergreen, 15%)·캠퍼(6%) 5가지 식물 정유의 시너지 배합이 특징으로, "다섯 가지 꽃의 오일"이라는 제품 컨셉에서 이름을 따왔다. 두통·근육통·코막힘·멀미·소화불량·모기 물림 등 **광범위한 용도**로 알려져 있으며, 말레이시아·싱가포르·홍콩 화교 가정에서 수십 년간 가정 상비약으로 쓰여 왔다. 캠퍼를 소량 포함하므로 **2세 미만 영유아에게 절대 사용 금지**이며, 임산부·G6PD 결핍 환자도 사전 상담 후 사용해야 한다.
 >
-> 본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였으며, Leung Kai Fook Medical Company 공식 자료, FDA·USP, 동료심사 학술 논문, MFDS 자료를 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 Editorial Team 편집팀이 독립적으로 작성하였으며, Leung Kai Fook Medical Company 공식 자료, FDA·USP, 동료심사 학술 논문, MFDS 자료를 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -234,7 +234,7 @@ White Flower Oil은 1927년 창업 이래 거의 변하지 않은 5가지 정유
 
 ## 상업적 공개 / 편집 방화벽
 
-본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였습니다.
+본 문서는 Editorial Team 편집팀이 독립적으로 작성하였습니다.
 
 - **편집 방화벽**: 본문은 브랜드 중립이며 1차 출처만 인용합니다. 어떤 브랜드도 추천하지 않습니다.
 - **수정 요청 수락**: 사실 정정을 환영합니다.
@@ -243,4 +243,4 @@ White Flower Oil은 1927년 창업 이래 거의 변하지 않은 5가지 정유
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by SeniorDeli (Carewells) editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*
+*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*

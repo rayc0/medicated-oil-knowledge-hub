@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Pekerja Syif: Panduan Kewaspadaan dan Tidur yang Berkualiti"
 description: "Panduan lengkap penggunaan minyak ubat untuk pekerja syif malam di Malaysia — meningkatkan kewaspadaan semasa kerja, membantu tidur selepas syif, dan menjaga keselamatan pekerjaan. Perbandingan Tiger Balm White vs Red untuk keperluan berbeza."
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ms"
 category: "usage"
 last_updated: "2026-04-19"

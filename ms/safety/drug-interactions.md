@@ -1,7 +1,7 @@
 ---
 title: "Interaksi Minyak Ubat dengan Ubat Preskripsi: Panduan Keselamatan"
 description: "Panduan lengkap interaksi antara minyak ubat tradisional (Tiger Balm, Minyak Kapak, Kwan Loong) dengan ubat preskripsi — warfarin, ubat diabetes, ubat tekanan darah, dan langkah keselamatan penting"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"

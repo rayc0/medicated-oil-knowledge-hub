@@ -1,7 +1,7 @@
 ---
 title: "藥油與處方藥物交互作用：安全使用指南"
 description: "藥油（虎標萬金油、斧標驅風油、均隆驅風油）與處方藥物（薄血丸、糖尿藥、血壓藥）嘅交互作用風險、機制同安全指引"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "In-depth comparison of natural wintergreen essential oil and synth
 lang: en
 category: ingredients
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Helen Cheung
 tags:
   - wintergreen oil
   - methyl salicylate

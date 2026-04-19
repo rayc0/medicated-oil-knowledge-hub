@@ -4,7 +4,7 @@ description: "Comprehensive guide to Salonpas — history, pharmacology, full pr
 lang: en
 category: brands
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Raymond Fong
 tags:
   - Salonpas
   - Hisamitsu

@@ -1,7 +1,7 @@
 ---
 title: "デスクワーカーのための薬用オイル活用ガイド：肩こり・首の張り・頭痛の対処法"
 description: "オフィスワーカーのための薬用オイル使用ガイド — 長時間のPC作業による肩こりと首の筋肉緊張、眼精疲労、緊張性頭痛に効果的な外用薬の選び方と塗布方法、オフィスでの使用マナー、製品比較表"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

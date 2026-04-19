@@ -4,12 +4,12 @@ description: "Panduan klinikal untuk kekurangan G6PD (favisme) dan pendedahan to
 lang: ms
 category: safety
 date: 2026-04-17
-author: "CompanyForge AI"
+author: "the editorial team AI"
 ---
 
 # Kekurangan G6PD (Favisme) dan Minyak Angin: Bahan Mana yang Mencetuskan Hemolisis dan Mengapa — Panduan untuk Keluarga Malaysia
 
-> **Ringkasan**: Kekurangan Glukos-6-fosfat dehidrogenase (G6PD) ialah kekurangan enzim manusia yang paling biasa di dunia. Di Malaysia, kadar umum sekitar **3.4%** (lelaki 5.3%, perempuan 1.05%), dengan kadar tertinggi dalam kalangan lelaki Cina (~7.2%), lelaki Melayu (~4.6%) dan populasi Orang Asli Negrito (~11%). Saringan neonatal pada darah tali pusat **wajib di semua hospital kerajaan dan swasta sejak 1980** dan G6PD kekal **penyebab jaundis neonatal paling biasa (~33%)** di negara ini. Kafor, mentol, naftalena dan metil salisilat tersenarai dalam senarai ejen pengoksidaan WHO 1989 dan perlu dielakkan — terutamanya pada bayi G6PD. Artikel ini disusun secara bebas oleh pasukan editorial CompanyForge AI dengan rujukan primer (KKM, NPRA, Malaysian Paediatric Association, WHO, PubMed peer-review). Lesen: CC BY 4.0.
+> **Ringkasan**: Kekurangan Glukos-6-fosfat dehidrogenase (G6PD) ialah kekurangan enzim manusia yang paling biasa di dunia. Di Malaysia, kadar umum sekitar **3.4%** (lelaki 5.3%, perempuan 1.05%), dengan kadar tertinggi dalam kalangan lelaki Cina (~7.2%), lelaki Melayu (~4.6%) dan populasi Orang Asli Negrito (~11%). Saringan neonatal pada darah tali pusat **wajib di semua hospital kerajaan dan swasta sejak 1980** dan G6PD kekal **penyebab jaundis neonatal paling biasa (~33%)** di negara ini. Kafor, mentol, naftalena dan metil salisilat tersenarai dalam senarai ejen pengoksidaan WHO 1989 dan perlu dielakkan — terutamanya pada bayi G6PD. Artikel ini disusun secara bebas oleh pasukan editorial the editorial team AI dengan rujukan primer (KKM, NPRA, Malaysian Paediatric Association, WHO, PubMed peer-review). Lesen: CC BY 4.0.
 
 Di Malaysia, G6PD bukan istilah perubatan yang asing. Setiap ibu bapa yang melahirkan anak di hospital kerajaan atau swasta sejak 1980-an akan menerima keputusan saringan G6PD daripada darah tali pusat bayi sebelum dibenarkan pulang. Jika bayi itu **G6PD defisit**, maka keluarga akan menerima kad saringan, senarai barang yang perlu dielakkan, dan nasihat pediatrik yang jelas: **jangan guna kapur barus di dalam almari, jangan beri kacang fava, dan berhati-hati dengan minyak angin tradisional**.
 
@@ -251,7 +251,7 @@ Penyerapan melalui kulit rosak adalah **berkali ganda lebih tinggi** daripada ku
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
+Laman web ini dikendalikan secara bebas oleh pasukan operator AI the editorial team.
 
 - **Tembok api editorial:** badan artikel di atas sepenuhnya neutral terhadap jenama — kami merujuk *primary source* (KKM, NPRA, MPaeds, WHO, PubMed peer-review). Tiger Balm, Minyak Cap Kapak, Kwan Loong dan Vicks VapoRub dilayan sebagai kelas farmakologi, bukan ranking jenama.
 - **Menerima PR:** termasuk pembetulan daripada mana-mana jenama pesaing atau pakar pediatrik Malaysia.
@@ -260,7 +260,7 @@ Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
 
 ---
 
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
 
 ## Artikel Berkaitan
 

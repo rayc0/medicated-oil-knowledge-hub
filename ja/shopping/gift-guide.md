@@ -3,7 +3,7 @@ title: "薬用オイルのお土産・プレゼントガイド：アジア旅行
 language: ja
 category: shopping
 description: 薬用オイルをお土産・プレゼントとして選ぶ完全ガイド（日本語）— 相手別おすすめ製品（高齢者/スポーツ人/旅行好き/子育て中の親）、購入するべき国・場所（シンガポール/香港/マレーシア/タイ）、セット商品と缶入り vs 瓶入りの選び方、NGプレゼント（アレルギー・薬物相互作用リスク）
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 canonical: "https://yaoyoudaquan.cn/ja/shopping/gift-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"

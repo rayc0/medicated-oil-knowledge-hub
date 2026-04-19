@@ -1,7 +1,7 @@
 ---
 title: "長者關節痛藥用油指南：Tiger Balm White、驅風油安全使用與華法林注意事項（香港版）"
 description: "長者關節痛及風濕痛藥用油完全指南（香港繁體中文）— 骨關節炎 vs 類風濕關節炎的藥用油應用分別、長者皮膚特性與安全使用注意、華法林使用者與含水楊酸甲酯產品的風險評估、各關節部位塗抹指引"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "zh-hant-hk"
 category: "usage"
 canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/elderly-joint-pain-guide"

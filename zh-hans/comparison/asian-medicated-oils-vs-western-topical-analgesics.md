@@ -4,7 +4,7 @@ description: "亚洲传统药油（虎标、黄道益、白花油）与西方外
 lang: zh-hans
 category: comparison
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 ---
 
 # 中式药油 vs 西式外用止痛药：全面对比指南

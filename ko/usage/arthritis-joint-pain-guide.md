@@ -1,7 +1,7 @@
 ---
 title: "관절염·관절통에 약용 오일 활용 가이드: 퇴행성관절염·류마티스에 대한 외용 요법"
 description: "관절염(퇴행성관절염·류마티스 관절염)에 대한 약용 오일 외용 요법 완전 가이드 — 메틸살리실산·캄파·유칼립투스 오일의 항염증·진통 메커니즘, 퇴행성 슬관절염에 대한 사용 근거, Tiger Balm 적색/Kwan Loong/보심안 비교, 온습포 조합, 류마티스에 대한 NSAIDs 상호작용 주의, 노인 장기 사용 안전성"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "usage"
 last_updated: "2026-04-19"

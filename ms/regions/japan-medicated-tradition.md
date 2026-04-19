@@ -1,7 +1,7 @@
 ---
 title: "Tradisi Minyak Ubat Jepun: Budaya Kouyaku, Salonpas dan Pasaran Ubat Luar Moden"
 description: "Panduan lengkap tradisi minyak ubat dan ubat luar Jepun (Bahasa Melayu) — sejarah kouyaku (膏藥) dalam perubatan tradisional Jepun, perkembangan paas (湿布) era moden, jenama utama Salonpas·Roihi Tsuboko·Vantelin, perbandingan Tiger Balm dengan produk Jepun, trend ubat luar sukan dan semula jadi, serta cara mendapatkan produk Jepun di Malaysia dan Singapura"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"

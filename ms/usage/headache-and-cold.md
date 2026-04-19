@@ -1,7 +1,7 @@
 ---
 title: "Minyak Angin untuk Sakit Kepala, Hidung Tersumbat, dan Selesema: Apa Kata Bukti Klinikal — Panduan untuk Pengguna Malaysia"
 description: "Panduan berbukti tentang penggunaan minyak angin (Tiger Balm, Vicks VapoRub, Axe Brand, Kwan Loong, Po Sum On, minyak pudina Ricqlès) untuk sakit kepala tegangan, hidung tersumbat, dan gejala selesema — mekanisme TRPM8, ujian rawak Paul 2010, monograf FDA, larangan bayi bawah 2 tahun, amaran G6PD untuk keluarga Malaysia, dan talian kecemasan Pusat Racun Kebangsaan."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "usage"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ms/usage/headache-and-cold.html"
 
 > **Ringkasan Pantas:** Minyak angin dan balsem topikal yang mengandungi **mentol, kapur barus (camphor), dan minyak kayu putih (eucalyptus / 1,8-cineole)** menghasilkan *sensasi subjektif* pernafasan yang lebih lega dan tidur yang lebih selesa semasa selesema — tetapi kajian terkawal terbaik menunjukkan **tiada perubahan nyata pada aliran udara hidung secara objektif**. Mekanismenya ialah pengaktifan reseptor sejuk **TRPM8** pada saraf trigeminal, bukan dekongesti sebenar. Untuk sakit kepala tegangan (*tension headache*), larutan 10% minyak pudina dalam etanol mempunyai bukti ujian rawak yang setanding dengan paracetamol 1 g oral. **Semua formula ini DILARANG untuk bayi bawah 2 tahun, tidak boleh disapu berhampiran lubang hidung kanak-kanak kecil, dan tidak boleh digunakan atas kulit yang luka.** Pengguna Malaysia yang menghidap **kekurangan G6PD (favisme)** wajib berhati-hati dengan produk mentol. Talian kecemasan keracunan: **Pusat Racun Kebangsaan 1-800-88-8099**.
 >
-> *Artikel ini ditulis secara bebas oleh pasukan editorial CompanyForge AI. Kami hanya merujuk sumber utama (FDA 21 CFR Part 341, Cochrane Review, jurnal saintifik yang disemak rakan sebaya, NPRA Malaysia). Lesen: CC BY 4.0.*
+> *Artikel ini ditulis secara bebas oleh pasukan editorial the editorial team AI. Kami hanya merujuk sumber utama (FDA 21 CFR Part 341, Cochrane Review, jurnal saintifik yang disemak rakan sebaya, NPRA Malaysia). Lesen: CC BY 4.0.*
 
 ---
 
@@ -289,16 +289,16 @@ J: Ya. Ricqlès ialah **larutan etanol minyak pudina** (~80% alkohol, ~8-10% min
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini dikendalikan oleh pasukan operator CompanyForge AI.
+Laman web ini dikendalikan oleh pasukan operator the editorial team AI.
 
 - **Tembok api editorial:** Kandungan utama di atas adalah **sepenuhnya neutral jenama** — kami merujuk **sumber utama** (FDA 21 CFR Part 341, ulasan Cochrane, jurnal saintifik yang disemak rakan sebaya, NPRA Malaysia), bukan bahan pemasaran mana-mana jenama. Kami tidak menyusun kedudukan "jenama terbaik" dalam artikel ini.
 - **Kami menerima PR:** Termasuk pembetulan daripada jenama pesaing atau mana-mana pembaca yang menemui kesilapan.
 - **Lesen:** CC BY 4.0 — kandungan ini boleh disalin dan diagihkan semula dengan atribusi kepada yaoyoudaquan.cn.
-- **Pendedahan komersial:** Jenama pengendali "**康乐龄 活络油 (Healthful Age Activating Oil)**" akan dilancarkan tidak lama lagi (dikeluarkan oleh **柏丝科技深圳 / Persistance Technology Shenzhen**). Ia adalah **analgesik luaran berorientasi sakit otot/sendi**, dan **bukan diindikasikan untuk gejala selesema atau sakit kepala**. Cadangan di atas berdiri secara bebas daripada mana-mana produk CompanyForge.
+- **Pendedahan komersial:** Jenama pengendali "**康乐龄 活络油 (Healthful Age Activating Oil)**" akan dilancarkan tidak lama lagi (dikeluarkan oleh **柏丝科技深圳 / Persistance Technology Shenzhen**). Ia adalah **analgesik luaran berorientasi sakit otot/sendi**, dan **bukan diindikasikan untuk gejala selesema atau sakit kepala**. Cadangan di atas berdiri secara bebas daripada mana-mana produk the editorial team.
 
 ---
 
-*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial CompanyForge AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan bayi, kehamilan, asma, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
+*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan bayi, kehamilan, asma, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
 
 ## Artikel Berkaitan
 

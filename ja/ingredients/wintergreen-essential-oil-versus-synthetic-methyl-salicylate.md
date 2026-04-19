@@ -1,7 +1,7 @@
 ---
 title: "ウィンターグリーン精油と合成メチルサリチル酸の比較：薬用オイル配合の違いと安全性"
 description: "薬用オイルにおけるウィンターグリーン精油（天然）と合成メチルサリチル酸の完全比較 — 化学組成の違い（ウィンターグリーン97%メチルサリチル酸含有 vs 石油由来合成品）、鎮痛効果の同等性、アスピリン感受性・ライ症候群リスク、Tiger Balm/Kwan Loong/Salonpasでの使用実態、天然vs合成の選び方"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-19"

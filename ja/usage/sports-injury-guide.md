@@ -1,7 +1,7 @@
 ---
 title: "スポーツ障害・運動後の筋肉痛に薬用オイル：Tiger Balm Red・サロンパスの正しい使い方"
 description: "スポーツ障害と運動後回復への薬用オイル活用ガイド（日本語）— RICE原則と薬用オイル組み合わせ方、急性期（0–72時間）vs 回復期の使い分け、Tiger Balm Red・Salonpas・Vantelin・Roihiの比較、スポーツ別筋肉痛対処法、運動前ウォームアップへの活用"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

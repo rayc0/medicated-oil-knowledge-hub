@@ -1,7 +1,7 @@
 ---
 title: "丁香オイルの薬理学：オイゲノール、抗炎症・鎮痛効果と外用薬での使用"
 description: "丁香オイル（clove oil, 丁子油）薬理学完全ガイド — 主成分オイゲノール（eugenol）の作用機序（Naチャネル遮断・TRPV1抑制・COX阻害）、Tiger Balmをはじめとする外用薬での使用濃度、β-カリオフィレンのCB2受容体拮抗による抗炎症効果、安全な使用濃度範囲と禁忌"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "夜勤・シフトワーカーのための薬用オイル活用ガイド：睡眠改善と覚醒促進の両立"
 description: "夜勤・交替勤務者のための薬用オイル活用完全ガイド — 夜勤後の入眠促進にラベンダー・白花油（ユーカリ）、深夜勤務中の覚醒維持にペパーミント・メントール、サーカディアンリズム乱れへの対処、仮眠前30分ルーティン、Tiger Balm White vs Kwan Loongの時間帯別使い分け"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "usage"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "乗り物酔い・吐き気への薬用オイル：Tiger Balm White・保心安油の正しい使い方"
 description: "乗り物酔いと吐き気への薬用オイル完全ガイド（日本語）— 生姜油・メントール・カンファーの抗吐き気成分分析、塗布ポイント（へそ下・鼻下・内関穴）、Tiger Balm White vs 保心安油比較、乗り物酔い薬との比較、妊婦・乳幼児への使用制限"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "usage"
 canonical: "https://yaoyoudaquan.cn/ja/usage/motion-sickness-guide"

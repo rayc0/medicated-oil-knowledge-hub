@@ -1,7 +1,7 @@
 ---
 title: "페퍼민트 오일과 멘톨 크리스탈 비교: 약용 오일에서의 냉감 작용 차이"
 description: "약용 오일에서의 페퍼민트 오일과 멘톨 크리스탈 약리·용도 비교 — 페퍼민트 오일(멘톨 50-78%+멘톤/리모넨)과 멘톨 크리스탈(순 멘톨 99%+)의 성분 차이, TRPM8 냉감 수용체 작용 강도, Tiger Balm·Kwan Loong·백화유에서 어느 쪽이 사용되는지, 두통/근육통/코막힘 용도별 활용법, 안전성 비교(식약처 기준 포함)"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

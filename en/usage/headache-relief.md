@@ -1,7 +1,7 @@
 ---
 title: "Medicated Oil for Headache Relief: White Flower Oil, Tiger Balm and the Science Behind Topical Menthol"
 description: "How menthol-based medicated oils relieve headaches — the counter-irritation mechanism, correct application technique for tension headaches and migraines, comparison of White Flower Oil vs Tiger Balm White, and when topical oils are not enough"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "en"
 category: "usage"
 last_updated: "2026-04-18"

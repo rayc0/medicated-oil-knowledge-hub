@@ -1,7 +1,7 @@
 ---
 title: "염좌·타박상에 약용 오일 응급 처치 가이드: RICE 법과의 조합과 회복 촉진"
 description: "염좌·타박상에 약용 오일을 이용한 응급 처치와 회복 촉진 완전 가이드 — RICE법과 약용 오일 도포 타이밍(급성기 24시간 금지·아급성기 72시간 후부터), 메틸살리실산·보르네올 항염증 효과, Tiger Balm 적색vs백색 구분 사용, 골절 의심 감별법"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "usage"
 last_updated: "2026-04-19"

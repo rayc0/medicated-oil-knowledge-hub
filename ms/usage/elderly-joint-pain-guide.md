@@ -1,7 +1,7 @@
 ---
 title: "Panduan Minyak Ubat untuk Sakit Sendi & Arthritis Warga Emas: Tiger Balm, Kwan Loong & Pilihan Selamat"
 description: "Panduan lengkap minyak ubat untuk sakit sendi dan arthritis warga emas (Bahasa Melayu) — perbezaan osteoarthritis vs rheumatoid arthritis, pilihan minyak ubat yang sesuai, risiko warfarin dengan methyl salicylate, ciri kulit warga emas dan cara penggunaan selamat, amaran produk tertentu, strategi pengurusan sakit sendi jangka panjang"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

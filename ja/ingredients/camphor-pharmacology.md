@@ -1,7 +1,7 @@
 ---
 title: "カンファー（樟脳）の薬理学：外用薬における作用、濃度安全性と禁忌"
 description: "カンファー（樟脳 / camphor）の薬理学ガイド — 外用薬における鎮痛・温感・防虫効果の作用機序、Tiger Balm・湿布・サロンパスにおける使用濃度、幼児・乳児への使用禁止の理由、経皮吸収と全身毒性リスク、適切な使用量と禁忌"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

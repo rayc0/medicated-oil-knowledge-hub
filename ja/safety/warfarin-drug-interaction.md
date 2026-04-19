@@ -1,7 +1,7 @@
 ---
 title: "ワルファリン（抗凝固薬）と薬用オイル：メチルサリチル酸によるINR上昇リスクと安全使用ガイド"
 description: "ワルファリン服用者と薬用オイル完全安全ガイド（日本語）— メチルサリチル酸(Methyl Salicylate)の経皮吸収とワルファリンINR上昇メカニズム、Tiger Balm Red・ゲンタシン・サロンパスの危険度分類、国内外臨床事例、INRモニタリング推奨頻度、安全代替製品（Tiger Balm White・斧標万金油・保心安油）"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"

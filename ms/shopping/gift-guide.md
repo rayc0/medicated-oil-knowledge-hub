@@ -1,7 +1,7 @@
 ---
 title: "Panduan Hadiah Minyak Ubat: Pilihan Terbaik untuk Warga Emas, Hadiah Korporat dan Buah Tangan"
 description: "Panduan membeli minyak ubat sebagai hadiah — perbandingan produk terbaik untuk warga emas, hadiah korporat wellness, buah tangan dari Asia, tip pembungkusan dan peribadatan harga, serta produk ikonik Tiger Balm, Kwan Loong, Po Sum On yang sesuai dijadikan hadiah bermakna"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "香港網購藥油完全指南：正貨辨別、平台比較與跨境購物注意事項"
 description: "香港藥油網購指南 — HKTVmall、淘寶、亞馬遜、官方網站的價格比較、假貨風險辨別、跨境郵寄限制，以及實體藥房vs網購的選擇建議"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "zh-hant-hk"
 category: "shopping"
 last_updated: "2026-04-18"

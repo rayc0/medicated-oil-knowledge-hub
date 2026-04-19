@@ -1,7 +1,7 @@
 ---
 title: "捻挫・打撲への薬用オイル応急処置ガイド：RICE法との組み合わせと回復促進"
 description: "捻挫・打撲への薬用オイルを用いた応急処置と回復促進の完全ガイド — RICE法と薬用オイル塗布のタイミング（急性期24時間はNG・慢性期72時間後から）、メチルサリチル酸・ボルネオールによる抗炎症効果、Tiger Balm赤vs白の使い分け、骨折疑いの見分け方"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "usage"
 last_updated: "2026-04-19"

@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Selsema dan Selesema: Panduan Lengkap Musim Jerebu"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional untuk melegakan gejala selsema, selesema, dan hidung tersumbat — termasuk kaedah penyedutan, sapuan, dan langkah keselamatan"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/ms/usage/cold-flu-season-guide"
 
 > **Ringkasan Pantas:** Minyak ubat tradisional seperti **Tiger Balm, Kwan Loong, Axe Brand (Cap Kapak), dan Vicks VapoRub** telah digunakan selama beberapa generasi di Malaysia dan Singapura untuk melegakan hidung tersumbat, sakit kepala ringan, dan gejala selesema. Semasa musim jerebu (*haze season*), permintaan terhadap produk ini meningkat secara mendadak kerana zarah-zarah halus PM2.5 mencetuskan kerengsaan saluran pernafasan yang serupa dengan gejala selesema dan selsema. Panduan ini menerangkan cara menggunakan minyak-minyak ini dengan betul, kaedah yang paling berkesan, dan **sempadan keselamatan yang WAJIB dipatuhi** — terutama untuk kanak-kanak, wanita hamil, dan individu dengan kekurangan G6PD. Talian kecemasan keracunan Malaysia: **Pusat Racun Kebangsaan 1-800-88-8099**.
 >
-> *Artikel ini ditulis oleh pasukan editorial SeniorDeli (Carewells) untuk tujuan maklumat umum sahaja dan bukan nasihat perubatan. Rujuk doktor anda jika gejala berterusan lebih daripada 7 hari atau disertai demam tinggi.*
+> *Artikel ini ditulis oleh pasukan editorial Editorial Team untuk tujuan maklumat umum sahaja dan bukan nasihat perubatan. Rujuk doktor anda jika gejala berterusan lebih daripada 7 hari atau disertai demam tinggi.*
 
 ---
 
@@ -283,5 +283,5 @@ Kecemasan keracunan: **Pusat Racun Kebangsaan Malaysia 1-800-88-8099** (24 jam, 
 
 ---
 
-*Dikemaskini: 18 April 2026 | Penulis: SeniorDeli (Carewells) | Lesen: CC BY 4.0*
+*Dikemaskini: 18 April 2026 | Penulis: Editorial Team | Lesen: CC BY 4.0*
 *Untuk pertanyaan editorial atau cadangan kandungan, hubungi: raymond@seniordeli.com*

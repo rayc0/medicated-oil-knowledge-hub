@@ -2,7 +2,7 @@
 
 > **Summary** — For acute ankle sprains, pulled hamstrings, and soft-tissue bruising, the 2019 British Journal of Sports Medicine consensus (*Dubois & Esculier*) replaced the old RICE/PRICE acronym with **PEACE & LOVE**, which explicitly advises avoiding anti-inflammatory drugs during the first days of healing because inflammation is part of tissue repair. Medicated oils — camphor, menthol, and methyl-salicylate-based topicals such as Tiger Balm, Wong To Yick Wood Lock, Po Sum On, White Flower, and Double Prince — act mostly as **counterirritants** (menthol on TRPM8, camphor on TRPV1/TRPV3) and **rubefacients** (methyl salicylate), offering symptomatic pain relief. The most recent Cochrane review (*Derry 2014, CD007403*) concluded the evidence does **not** support topical salicylate rubefacients as disease-modifying treatment — they are comfort measures, not cures. This guide explains how to use them safely alongside the modern PEACE & LOVE protocol, with mandatory contraindications for children under 2, pregnancy, G6PD deficiency, and broken skin.
 >
-> *This article is independently written by the CompanyForge AI editorial team and cites primary sources (BJSM, Cochrane, FDA, AAP, HK CMCHK). License: CC BY 4.0.*
+> *This article is independently written by the the editorial team AI editorial team and cites primary sources (BJSM, Cochrane, FDA, AAP, HK CMCHK). License: CC BY 4.0.*
 
 ---
 
@@ -170,7 +170,7 @@ Essential-oil-only products (no methyl salicylate) avoid the salicylate drug-int
 
 ## 📩 Commercial disclosure / editorial firewall
 
-This site is independently written and operated by the CompanyForge AI editorial team.
+This site is independently written and operated by the the editorial team AI editorial team.
 
 - **Editorial firewall**: the body above is fully brand-neutral. Every clinical claim links to a primary source (peer-reviewed journal, regulatory monograph, or official register). We do not rank brands and we accept pull requests from any party — including competitor brands — to correct errors.
 - **Commercial disclosure**: the operator is developing an in-house herbal oil, **Kangleling Huoluo Oil (康乐龄 活络油)**, produced by Baisi Technology Shenzhen. That product is not discussed anywhere in this article's body.
@@ -178,4 +178,4 @@ This site is independently written and operated by the CompanyForge AI editorial
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the CompanyForge AI editorial team · Please cite as yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · Please cite as yaoyoudaquan.cn*

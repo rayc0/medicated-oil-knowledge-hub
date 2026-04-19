@@ -1,7 +1,7 @@
 ---
 title: "Medicated Oil for Headache and Tension Relief: Application Techniques, Product Comparison, and When It Works"
 description: "Medicated oil headache relief guide — tension headache vs migraine vs sinus headache application differences, temple/neck/sinus application technique for menthol-based oils (White Flower/Tiger Balm White/Axe Brand), why menthol causes counter-irritation pain gate effect, inhaling vs topical application for nausea-related headache, product comparison (White Flower/Kwan Loong/Tiger Balm White/Axe Brand — menthol content, cooling effect), headache red flags requiring immediate medical attention"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "en"
 category: "usage"
 last_updated: "2026-04-18"

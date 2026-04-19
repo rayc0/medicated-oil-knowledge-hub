@@ -1,7 +1,7 @@
 ---
 title: "말레이시아의 약용 오일 문화: 캡랑·미냑안긴·유칼립투스 오일의 말레이 전통 의학"
 description: "말레이시아의 약용 오일 전통 사용 문화 — 캡랑(鷹標)·미냑안긴 이글 브랜드·미냑 레무시르(생강 오일)의 말레이·자무(Jamu) 전통, 말레이계·중화계·인도계 다민족 약용 오일 문화의 융합, 열대 기후와 '마숙 안긴(Masuk Angin)' 민간 요법, 한국인 여행자·거주자를 위한 KL·페낭 구매 가이드"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

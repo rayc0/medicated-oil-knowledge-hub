@@ -1,7 +1,7 @@
 ---
 title: "스포츠 부상 약용 오일 가이드: 염좌·타박상·근육통에 Tiger Balm·파스 활용법"
 description: "스포츠 부상 외용 진통제 완전 가이드（한국어）— 염좌(발목·무릎), 타박상, 근육통, 운동 후 회복에 Tiger Balm·Kwan Loong Oil·사론파스 활용법, RICE 원칙과 약용 오일 병행 사용, 급성기vs회복기 제품 선택, 스포츠 의학 관점의 외용 진통제 비교, 사용 금기 상황"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

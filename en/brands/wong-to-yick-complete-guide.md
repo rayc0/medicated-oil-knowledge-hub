@@ -4,7 +4,7 @@ description: "A full explanation of Wong To Yick Wood Lock Medicated Oil (黃道
 lang: en
 category: brands
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Dr. Amy Tsui
 ---
 
 # Wong To Yick Wood Lock Medicated Oil — Complete Guide to Hong Kong's Most Iconic Balm

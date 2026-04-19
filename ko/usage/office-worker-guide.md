@@ -1,7 +1,7 @@
 ---
 title: "직장인을 위한 약용 오일 가이드: 목·어깨 통증, 눈 피로, 두통 완화법"
 description: "사무직 근로자를 위한 약용 오일 활용 가이드 — 장시간 컴퓨터 작업으로 인한 목·어깨 근육 긴장, 눈 피로, 긴장성 두통에 효과적인 외용 제품 선택과 도포 방법, 직장 내 사용 에티켓, 제품 비교표"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "A comprehensive English guide to Axe Brand Universal Oil (斧标�
 lang: en
 category: brands
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 ---
 
 # Axe Brand Universal Oil: The Complete English Guide

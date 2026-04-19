@@ -1,7 +1,7 @@
 ---
 title: "보심안유(保心安油) 완전 가이드: 성분 분석, 효능과 Tiger Balm·白花油와 비교"
 description: "Po Sum On Oil(保心安油, 보심안유) 완전 가이드（한국어）— 주성분 정향유·계피유·캠퍼·생강유의 온열 복합 약리 효과, 두통·소화불량·근육통·멀미 사용법, Tiger Balm White·White Flower Oil·Kwan Loong Oil과 비교 표, 한국 구매 방법, 임산부·영유아 사용 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

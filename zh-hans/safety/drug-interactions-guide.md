@@ -1,7 +1,7 @@
 ---
 title: "药油与药物相互作用：安全用药指南"
 description: "系统解析外用药油（活络油、驱风油、万金油等）与常见处方药的相互作用风险，涵盖抗凝药、降压药、降糖药等，提供安全使用建议"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-18"

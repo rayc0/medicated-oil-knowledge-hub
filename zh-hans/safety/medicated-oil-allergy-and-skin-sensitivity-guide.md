@@ -4,7 +4,7 @@ description: "全面介绍使用药油引起的皮肤过敏、接触性皮炎与
 lang: zh-hans
 category: safety
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Dr. Amy Tsui
 tags:
   - 药油过敏
   - 接触性皮炎

@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Sakit Belakang: Panduan Penggunaan, Perbandingan Produk dan Amaran Bahaya"
 description: "Panduan penggunaan minyak ubat untuk sakit belakang — jenis sakit belakang yang sesuai dengan rawatan topikal, teknik sapu untuk bahagian lumbar dan bahu atas, perbandingan produk Tiger Balm dan Kwan Loong, gabungan terapi haba, serta gejala bahaya yang memerlukan perhatian doktor"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

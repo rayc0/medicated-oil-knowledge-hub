@@ -4,7 +4,7 @@ description: "Comprehensive evidence-based guide to using traditional medicated 
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Editorial Team
 tags:
   - cold and flu
   - medicated oil
