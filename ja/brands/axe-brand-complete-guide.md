@@ -1,7 +1,7 @@
 ---
 title: "斧標万金油（Axe Brand Universal Oil）完全ガイド：成分・効能・正しい使い方・日本での購入方法"
 description: "斧標万金油完全ガイド（日本語）— 成分（メントール7%/樟脳7%/ユーカリ/クローブ油）、万金油・クールエイド・レッドラインの製品比較、Tiger Balm vs 斧標比較表、頭痛・筋肉痛・乗り物酔い・虫刺され別使用法、2歳未満禁止・ワルファリン服用者注意、日本購入方法（Shopee/Lazada直輸入・Amazon）"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"

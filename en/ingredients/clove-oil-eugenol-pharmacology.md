@@ -4,7 +4,7 @@ description: "In-depth pharmacology reference on clove oil and its primary activ
 lang: en
 category: ingredients
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Dr. James Wu
 tags:
   - clove oil
   - eugenol

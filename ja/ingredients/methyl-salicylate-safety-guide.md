@@ -1,7 +1,7 @@
 ---
 title: "メチルサリチル酸の安全性ガイド：致死量・アスピリン感受性・小児禁忌の詳細"
 description: "薬用オイルに含まれるメチルサリチル酸の安全性詳細ガイド — 致死量（成人約30mL/小児5mL）、小児外用禁忌（ライ症候群リスク）、アスピリン感受性患者禁忌、妊婦安全性（第3トリメスター禁忌）、ワルファリン相互作用（INR上昇）、過剰塗布による全身吸収毒性の症状と対処"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-19"

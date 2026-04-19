@@ -1,7 +1,7 @@
 ---
 title: "Tradisi Minyak Ubat Hong Kong: Warisan Ubatan Tradisional Cina dan Jenama Ikonik"
 description: "Panduan tradisi minyak ubat Hong Kong — sejarah perkembangan ubatan tradisional Cina di Hong Kong, jenama ikonik (Tiger Balm, Po Sum On Oil, Kwan Loong, White Flower Embrocation), peranan dalam budaya Kantonis, dan perbezaan formulasi Hong Kong vs Asia Tenggara"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"

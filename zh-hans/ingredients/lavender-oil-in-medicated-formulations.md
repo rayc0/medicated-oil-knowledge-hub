@@ -1,7 +1,7 @@
 ---
 title: "薰衣草精油在药用配方中的应用：镇痛、消炎与芳香疗法"
 description: "深度解析薰衣草精油的核心成分沉香醇与乙酸沉香酯的药理机制，涵盖镇痛、抗炎、减压功效及中国市场主要产品中的应用情况。"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hans"
 category: "ingredients"
 last_updated: "2026-04-19"

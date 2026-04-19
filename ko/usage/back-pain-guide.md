@@ -1,7 +1,7 @@
 ---
 title: "허리 통증에 약용 오일 활용하기: 도포 방법, 제품 비교와 주의사항"
 description: "약용 오일을 이용한 허리 통증 완화 가이드 — 근육 긴장과 요통에 효과적인 외용 제품 선택, 요추와 상부 등 도포 기법, Tiger Balm·관련 제품 비교표, 온열 요법 병용법, 병원 진료가 필요한 응급 증상"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

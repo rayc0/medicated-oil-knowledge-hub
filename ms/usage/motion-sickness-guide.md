@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Mabuk Kenderaan: Tiger Balm White dan Po Sum On untuk Loya dan Mabuk Perjalanan"
 description: "Panduan minyak ubat untuk mabuk kenderaan dan rasa loya (Bahasa Melayu) — bahan aktif dalam minyak ubat yang melegakan loya, cara penggunaan Tiger Balm White dan Po Sum On, titik sapu yang berkesan (pusar/bawah hidung/pergelangan tangan), perbandingan dengan ubat mabuk perjalanan, situasi yang tidak sesuai menggunakan minyak ubat"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

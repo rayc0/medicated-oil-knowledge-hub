@@ -1,7 +1,7 @@
 ---
 title: "メントールの薬理学：作用機序、鎮痛効果と湿布・外用薬における使用"
 description: "メントール（l-メントール）の薬理学完全ガイド — TRPM8受容体を介した冷感作用のメカニズム、鎮痛・抗炎症効果の証拠、外用薬（湿布・チックキンバーム・サロンパス）における使用濃度、安全な使用量と禁忌、肌への浸透性と経皮吸収"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

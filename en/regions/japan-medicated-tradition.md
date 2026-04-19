@@ -1,7 +1,7 @@
 # Japan's Medicated Oil and Patch Tradition: From Kampo Poultices to Salonpas
 
 > **Summary** — Japan is home to the world's #1 OTC topical analgesic patch brand (Salonpas, Hisamitsu Pharmaceutical, est. 1847), a tradition rooted in Kampo herbal medicine introduced from China in the 7th century CE. The modern Japanese pharmacy stocks dozens of patch, plaster, and oil formats regulated under the Pharmaceutical and Medical Device Act (薬機法, *Yakujiho*) and graded Japan Pharmacopoeia 18th Edition (JP18, PMDA, effective 2021). Asian import medicated oils — Tiger Balm, White Flower, Wong To Yick, Po Sum On — are widely available at Japanese drugstores and airport duty-free shops, making Japan a unique crossroads of East Asian topical medicine traditions.
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 primary sources. License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 primary sources. License: CC BY 4.0.
 
 ---
 
@@ -301,7 +301,7 @@ A: Generally, no. Most Asian import medicated oils sold in Japanese Chinatown sh
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 - **编辑防火墙**：以上正文完全品牌中立 — 我们引用 primary sources。本文不为任何品牌背书。
 - 接受 PR：包括竞争品牌的修正与补充
 - License: **CC BY 4.0**
@@ -309,4 +309,4 @@ A: Generally, no. Most Asian import medicated oils sold in Japanese Chinatown sh
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

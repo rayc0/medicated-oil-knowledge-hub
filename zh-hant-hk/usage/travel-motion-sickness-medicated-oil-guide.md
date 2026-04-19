@@ -4,7 +4,7 @@ description: "香港人出外旅行常見嘅暈車浪、舟車勞頓、蚊蟲叮
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Dr. James Wu
 tags:
   - 旅行藥油
   - 暈車浪

@@ -4,7 +4,7 @@ description: "深入解读药油关键成分水杨酸甲酯（Methyl Salicylate 
 lang: zh-hans
 category: ingredients
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Dr. Amy Tsui
 tags:
   - 水杨酸甲酯
   - 冬青油

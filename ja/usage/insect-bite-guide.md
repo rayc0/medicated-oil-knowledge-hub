@@ -1,7 +1,7 @@
 ---
 title: "虫刺されに薬用オイル：Tiger Balm White・斧標萬金油の正しい使い方と効果"
 description: "虫刺され・蚊に薬用オイル完全ガイド（日本語）— メントールの冷感作用機序(TRPM8受容体)・オイゲノール抗炎症効果、Tiger Balm White vs 斧標万金油の比較、子どもへの使用年齢制限、アナフィラキシーと通常の虫刺されの見分け方、正しい塗り方と使用禁忌部位"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

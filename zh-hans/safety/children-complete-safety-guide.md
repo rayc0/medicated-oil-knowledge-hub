@@ -1,7 +1,7 @@
 ---
 title: "儿童使用药用油完全安全指南：禁忌成分与年龄限制"
 description: "系统介绍儿童皮肤高通透性机制、年龄分级禁忌矩阵、薄荷醇/樟脑/桉叶油三项绝对禁忌、误服紧急处置流程及中国中毒控制中心联系方式。"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-19"

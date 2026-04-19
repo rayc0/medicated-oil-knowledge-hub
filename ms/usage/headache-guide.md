@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Sakit Kepala: Cara Penggunaan White Flower Oil dan Minyak Harimau yang Betul"
 description: "Panduan lengkap menggunakan minyak ubat berasaskan mentol untuk melegakan sakit kepala — mekanisme anti-kerengsaan, jenis sakit kepala yang sesuai, cara sapuan yang betul, perbandingan White Flower Oil vs Tiger Balm, dan bila perlu berjumpa doktor"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

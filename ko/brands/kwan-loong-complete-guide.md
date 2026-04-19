@@ -1,7 +1,7 @@
 ---
 title: "驅風油(관풍유) 완전 가이드: 성분, 효능, Tiger Balm과 비교 및 한국 구매처"
 description: "Kwan Loong Oil(驅風油, 관풍유) 완전 가이드（한국어）— 주성분 멘톨 40%·유칼립투스 40% 약리 효과, 두통·근육통·멀미·모기 물림 사용법, Tiger Balm White vs Kwan Loong 비교 표, 한국 구매 방법(쿠팡·올리브영·직구), 사용 주의사항"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/brands/kwan-loong-complete-guide"
 
 > **핵심 요약** — Kwan Loong Oil(驅風油, 관풍유)은 싱가포르에서 70년 이상 판매되어 온 액상형 약용 오일이다. 연고(발삼) 형태의 타이거밤과 달리 **오일 형태**로 빠른 흡수와 넓은 범위 도포가 특징이다. 주성분은 **멘톨 40%와 유칼립투스유 40%**로 냉감 중심 대항자극제이며, 두통·근육통·모기 물림·멀미 등 다목적 용도로 동남아 및 재한 화교 커뮤니티에서 널리 사용된다. 타이거밤 화이트와 작용 기전이 유사하지만 오일 제형 특유의 휘발성과 빠른 흡수가 강점이다. **2세 미만 영유아 사용 금지**, 캠퍼를 포함하지 않아 일부 안전 우려가 Tiger Balm보다 낮지만 멘톨 고농도로 인한 영아 호흡 억제 위험은 동일하게 존재한다.
 >
-> 본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였으며, Kwan Loong Industries 공식 자료, FDA 및 동료심사 학술 논문, MFDS 자료를 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 Editorial Team 편집팀이 독립적으로 작성하였으며, Kwan Loong Industries 공식 자료, FDA 및 동료심사 학술 논문, MFDS 자료를 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -221,7 +221,7 @@ Kwan Loong Oil은 캠퍼 없이 멘톨과 유칼립투스만으로 냉감 효과
 
 ## 상업적 공개 / 편집 방화벽
 
-본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였습니다.
+본 문서는 Editorial Team 편집팀이 독립적으로 작성하였습니다.
 
 - **편집 방화벽**: 본문은 브랜드 중립이며 1차 출처만 인용합니다. 어떤 브랜드도 추천하지 않습니다.
 - **수정 요청 수락**: 사실 정정을 환영합니다.
@@ -230,4 +230,4 @@ Kwan Loong Oil은 캠퍼 없이 멘톨과 유칼립투스만으로 냉감 효과
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by SeniorDeli (Carewells) editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*
+*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*

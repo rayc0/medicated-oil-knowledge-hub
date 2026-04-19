@@ -1,7 +1,7 @@
 ---
 title: "水楊酸甲酯藥理學：COX抑制機制、經皮吸收與華法林相互作用警告（香港版）"
 description: "水楊酸甲酯（methyl salicylate，冬青油）完整藥理學指南（香港版）— COX-1/COX-2抑制抗炎鎮痛機制，優異的經皮吸收特性（滲透至肌肉關節），Salonpas·Deep Heat·Tiger Balm Red含量比較，華法林（Warfarin）INR上升出血風險，水楊酸毒性（兒童·腎功能障礙），安全使用濃度範圍"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
@@ -298,4 +298,4 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/methyl-salicylate-pha
 
 *本文內容僅供教育參考，不構成醫療建議。如有健康問題或用藥疑問，請諮詢醫療專業人員。*
 
-*© 2026 SeniorDeli (Carewells)。依據 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權發佈。*
+*© 2026 Editorial Team。依據 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權發佈。*

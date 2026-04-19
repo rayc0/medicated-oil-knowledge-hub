@@ -1,7 +1,7 @@
 ---
 title: "蠶豆症（G6PD缺乏）患者藥油使用禁忌完整列表"
 description: "G6PD缺乏症（蠶豆症）患者唔可以用邊啲藥油？完整禁忌清單、安全替代品、緊急處理。香港新生兒篩查陽性家長必讀。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/g6pd-deficiency.html"
 
 > **重點摘要**：G6PD缺乏症（蠶豆症）患者的紅血球欠缺抗氧化保護，多種常見藥油成份——樟腦、薄荷醇、萘（naphthalene）——可誘發氧化應激，觸發急性溶血危機。本文提供基於PubMed臨床文獻及香港衞生署指引的完整禁用／慎用／可用分級列表，供患者、家長及醫護人員參考。
 >
-> 本文由CompanyForge AI編輯團隊獨立撰寫，引用WHO G6PD分類、PubMed臨床案例報告、香港衞生署家庭健康服務指引。License: CC BY 4.0。
+> 本文由the editorial team AI編輯團隊獨立撰寫，引用WHO G6PD分類、PubMed臨床案例報告、香港衞生署家庭健康服務指引。License: CC BY 4.0。
 
 ---
 
@@ -355,7 +355,7 @@ G6PD檢測陰性（即正常）意味著酵素活性充足，**無需**特別避
 
 ## 商業披露／編輯防火牆
 
-本網站由CompanyForge AI operator team自主撰寫運營。
+本網站由the editorial team team自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立——我們引用primary source，風險評級基於成份氧化應激潛力，並非品牌立場
 - **接受PR**：包括競爭品牌的修正，歡迎醫療專業人士提供更新研究
@@ -364,4 +364,4 @@ G6PD檢測陰性（即正常）意味著酵素活性充足，**無需**特別避
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by CompanyForge AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*

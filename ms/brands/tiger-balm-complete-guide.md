@@ -4,12 +4,12 @@ description: "Panduan Bahasa Melayu untuk Tiger Balm — sejarah 150 tahun dari 
 lang: ms
 category: brands
 date: 2026-04-16
-author: "CompanyForge AI"
+author: "the editorial team AI"
 ---
 
 # Panduan Lengkap Tiger Balm: Bahan, Sejarah, Cara Kenal Asli dan Palsu, Penggunaan Selamat
 
-> **Ringkasan**: Tiger Balm ialah salap counterirritant berusia lebih 100 tahun yang dihasilkan oleh Haw Par Healthcare (Singapura) dan diedarkan di Malaysia oleh Tiger Balm (Malaysia) Sdn. Bhd. Versi **Merah** (panas, kandungan kayu manis) untuk sakit otot dan sendi; versi **Putih** (sejuk) untuk sakit kepala, hidung tersumbat dan gigitan serangga; versi **Plus** tambah metil salisilat untuk kesan lebih kuat. Tiger Balm White Ointment berdaftar dengan NPRA Malaysia (MAL20046142XS). **TIDAK SELAMAT untuk bayi bawah 2 tahun** kerana risiko ketoksikan kafor. Artikel ini disusun bebas oleh pasukan editorial CompanyForge AI dengan rujukan primer (NPRA Malaysia, FDA DailyMed, USP-NF, AAP). Lesen: CC BY 4.0.
+> **Ringkasan**: Tiger Balm ialah salap counterirritant berusia lebih 100 tahun yang dihasilkan oleh Haw Par Healthcare (Singapura) dan diedarkan di Malaysia oleh Tiger Balm (Malaysia) Sdn. Bhd. Versi **Merah** (panas, kandungan kayu manis) untuk sakit otot dan sendi; versi **Putih** (sejuk) untuk sakit kepala, hidung tersumbat dan gigitan serangga; versi **Plus** tambah metil salisilat untuk kesan lebih kuat. Tiger Balm White Ointment berdaftar dengan NPRA Malaysia (MAL20046142XS). **TIDAK SELAMAT untuk bayi bawah 2 tahun** kerana risiko ketoksikan kafor. Artikel ini disusun bebas oleh pasukan editorial the editorial team AI dengan rujukan primer (NPRA Malaysia, FDA DailyMed, USP-NF, AAP). Lesen: CC BY 4.0.
 
 Kalau ada satu salap herba Cina yang seluruh dunia kenal namanya, itulah Tiger Balm. Dari kedai ubat Burma pada 1870-an ke rak farmasi Amerika pada 2020-an, Tiger Balm ialah salap Cina yang paling jauh mengembara. Balang kaca heksagon kecilnya — penutup merah atau putih — sudah menjadi semacam simbol sejagat untuk "salap yang nenek kau guna untuk semua benda."
 
@@ -229,7 +229,7 @@ Balang di rak nenek anda ada di situ atas sebab. Ia masih berbaloi di rak anda.
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
+Laman web ini dikendalikan secara bebas oleh pasukan operator AI the editorial team.
 - **Tembok api editorial:** badan artikel di atas sepenuhnya neutral terhadap jenama — kami merujuk *primary source* (NPRA, FDA, USP-NF, kajian peer-review)
 - **Menerima PR:** termasuk pembetulan daripada jenama pesaing
 - **Lesen:** CC BY 4.0 — bebas terjemah, cetak semula dengan atribusi
@@ -237,7 +237,7 @@ Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
 
 ---
 
-*Kemaskini terakhir: 2026-04-16 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Kemaskini terakhir: 2026-04-16 · Diselenggara oleh pasukan editorial the editorial team AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
 
 ## Artikel Berkaitan
 

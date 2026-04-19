@@ -1,7 +1,7 @@
 ---
 title: "新加坡药用油传统：虎标万金油的起源、峇峇娘惹草药文化与现代市场"
 description: "新加坡药用油历史与传统完整指南 — 虎标万金油在新加坡的创立历史（胡文虎/胡文豹）、峇峇娘惹（Peranakan）传统草药文化、华人会馆对中医药普及的作用、新加坡标志性产品比较，以及与香港药油传统的异同"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "zh-hans"
 category: "regions"
 date: "2026-04-18"

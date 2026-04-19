@@ -1,7 +1,7 @@
 ---
 title: "Malaysia's Medicated Oil Tradition: Minyak Angin, Chinese Heritage and Malay-Chinese Fusion Remedies"
 description: "Guide to Malaysia's medicated oil heritage — minyak angin (wind oil) tradition in Malay culture, Chinese hakka and Cantonese community healing traditions, Axe Brand Universal Oil's Malaysia connection, comparison of Malaysian heritage products, and where to buy authentic traditional oils in Malaysia"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"

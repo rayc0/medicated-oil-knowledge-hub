@@ -4,7 +4,7 @@ description: "How to use medicated oils for motion sickness prevention and relie
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Raymond Fong
 tags: [motion-sickness, travel, po-sum-on, white-flower, tiger-balm, acupressure, nausea]
 ---
 

@@ -4,7 +4,7 @@ description: "A clinical guide to G6PD deficiency (favism) and topical/aromatic 
 lang: en
 category: safety
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Editorial Team
 ---
 
 # G6PD Deficiency and Medicated Oils — Which Ingredients Trigger Haemolysis and Why

@@ -1,7 +1,7 @@
 ---
 title: "薄荷油 vs 薄荷脑晶体：临床差异与选择指南"
 description: "系统比较薄荷油（复合混合物）与纯薄荷脑晶体（单一化合物）的药理差异、TRPM8冷却机制、临床适用场景及中国市场主流产品分析。"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "zh-hans"
 category: "ingredients"
 last_updated: "2026-04-19"

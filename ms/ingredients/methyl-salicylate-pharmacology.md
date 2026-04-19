@@ -1,7 +1,7 @@
 ---
 title: "Farmakologi Metil Salisilat: Mekanisme Tindakan dan Kesan Analgesik"
 description: "Huraian mendalam tentang farmakologi metil salisilat dalam ubat gosok — struktur kimia, mekanisme penghambatan COX, farmakokinetik penyerapan kulit, dan panduan kepekatan untuk kegunaan klinikal di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"

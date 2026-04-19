@@ -1,7 +1,7 @@
 ---
 title: "药用油缓解腰痛指南：涂抹方法、产品对比与注意事项"
 description: "腰痛药用油使用完全指南 — 适合外用药的腰痛类型与不适合的区分、腰椎和上背部的涂抹技巧、Tiger Balm红色版/正骨水/万金油/撒隆巴斯产品对比表、热敷配合方法，以及需要就医的危险信号"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hans"
 category: "usage"
 date: "2026-04-18"

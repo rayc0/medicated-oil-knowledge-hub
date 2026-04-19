@@ -4,7 +4,7 @@ description: "針對香港麻雀愛好者嘅肩頸痠痛問題：長時間低頭
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Editorial Team
 tags:
   - 麻雀
   - 肩頸痠痛

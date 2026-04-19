@@ -1,7 +1,7 @@
 ---
 title: "쌍비인(双飞人) 완전 가이드: 프랑스산 페퍼민트 워터 리클레스(Ricqlès)의 역사·성분·안전 사용법"
 description: "쌍비인(双飞人) / 리클레스 알콜 드 망트(Ricqlès Alcool de Menthe) 완전 가이드 — 1838년 프랑스 리옹 기원, 홍콩 이름의 유래, 성분(페퍼민트 에센셜 오일 약 80% 에탄올), 외용·구강 전통 사용법, 에탄올 기반 안전 주의사항(소아·임산부·와파린·무슬림), 중국 상표 분리(본토 '双飞人' vs 정품 '리클레스'), 한국 구매처 안내"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/brands/double-prince-complete-guide"
 
 > **핵심 요약** — 쌍비인(双飞人, 쐉페이런)은 **1838년 프랑스 리옹**에서 탄생한 **페퍼민트 에센셜 오일 + 약 80% 에탄올** 제제(Ricqlès Alcool de Menthe)의 중국어·광둥어 속칭이다. 타이거밤·황도익과 달리 **캠퍼(장뇨)도 수양산메틸도 포함하지 않으며**, 에탄올 기반 특유의 구강·외용 이중 사용 전통을 가진 아시아 약용 오일 중 유일한 제품이다. **약 80% 에탄올 함유**로 인해 소아 피부 흡수·임산부 구강 사용·무슬림 할랄 적용 시 별도의 주의가 필요하다. 중국 본토에서는 '双飞人' 상표권이 국내 제조사에 귀속되어, 정품 프랑스 리클레스는 **'利佳薄荷水(리자 박하수)'** 라는 명칭으로 유통되는 이중 구조를 이해해야 한다.
 >
-> 본 문서는 CompanyForge AI 편집팀이 독립적으로 작성하였으며, Laboratoires Ricqlès 공식 브랜드 역사, 홍콩 약무서(Drug Office) 등록 자료, EMA/HMPC 페퍼민트 오일 허브 단행론(EMA/HMPC/522410/2013), USP-NF 페퍼민트 오일 단행론, WHO Aetheroleum Menthae Piperitae 단행론을 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 the editorial team AI 편집팀이 독립적으로 작성하였으며, Laboratoires Ricqlès 공식 브랜드 역사, 홍콩 약무서(Drug Office) 등록 자료, EMA/HMPC 페퍼민트 오일 허브 단행론(EMA/HMPC/522410/2013), USP-NF 페퍼민트 오일 단행론, WHO Aetheroleum Menthae Piperitae 단행론을 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -295,7 +295,7 @@ IATA 규정에 따라 에탄올 70% 초과 액체는 Class 3 가연성 위험물
 
 ## 📩 상업 공시 / 편집 방화벽
 
-본 웹사이트는 CompanyForge AI operator team이 독립적으로 집필·운영합니다.
+본 웹사이트는 the editorial team team이 독립적으로 집필·운영합니다.
 
 - **편집 방화벽**: 이상의 본문은 완전히 브랜드 중립입니다 — 1차 출처만을 인용합니다.
 - **정정 접수**: 경쟁 브랜드를 포함한 수정 제안을 환영합니다.
@@ -304,4 +304,4 @@ IATA 규정에 따라 에탄올 70% 초과 액체는 Class 3 가연성 위험물
 
 ---
 
-*최종 업데이트: 2026-04-18 · 유지관리: CompanyForge AI 편집팀 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*
+*최종 업데이트: 2026-04-18 · 유지관리: the editorial team AI 편집팀 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*

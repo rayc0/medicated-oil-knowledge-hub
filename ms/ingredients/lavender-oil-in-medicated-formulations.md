@@ -1,7 +1,7 @@
 ---
 title: "Minyak Lavender dalam Ubat Gosok: Kesan Analgesik, Anti-radang, dan Aromaterapi"
 description: "Panduan farmakologi minyak lavender dalam ubat gosok topikal — mekanisme analgesik melalui reseptor GABA-A, penghambatan COX-2, bukti klinikal untuk sakit kepala tegangan, dan penggunaan selamat di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"

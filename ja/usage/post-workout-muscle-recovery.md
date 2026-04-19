@@ -1,7 +1,7 @@
 ---
 title: "運動後の筋肉回復に薬用オイルを活用するガイド：DOMS緩和とスポーツパフォーマンス向上"
 description: "運動後の遅発性筋肉痛（DOMS）と筋肉疲労回復への薬用オイル活用ガイド — メチルサリチル酸・カンファー・メントールによる抗炎症・血流促進メカニズム、Tiger Balm Active/Kwan Loong Sports等スポーツ製品比較、マッサージ手順、アイシングとの組み合わせタイミング戦略"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "usage"
 last_updated: "2026-04-19"

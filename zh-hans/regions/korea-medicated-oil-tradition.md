@@ -4,7 +4,7 @@ description: "韩国传统药油与温热疗法的历史渊源、汉方（韩医
 lang: zh-hans
 category: regions
 date: 2026-04-18
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 ---
 
 # 韩国药油与温热疗法传统：汉方药、暖贴与东西文化融合

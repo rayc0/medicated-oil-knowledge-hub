@@ -1,7 +1,7 @@
 ---
 title: "인도 아유르베다와 약용 오일: 마하나라야나 오일·님 오일·피마자 오일의 전통 의학 배경"
 description: "인도 아유르베다 전통에 기반한 약용 오일 완전 가이드 — 마하나라야나 오일(관절·근육)·님 오일(피부·항균)·피마자 오일(변비·통증)의 약리 작용, 아유르베다 트리도샤 이론과 약용 오일 선택법, 한국 한방(韓方)과의 비교, 현대 메디케이티드 오일(Tiger Balm 등)과의 비교, 인도 현지 및 홍콩·싱가포르 인도 식재료점 구매 정보"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

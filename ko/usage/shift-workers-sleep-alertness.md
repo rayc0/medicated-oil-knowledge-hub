@@ -1,7 +1,7 @@
 ---
 title: "야간 근무·교대 근무자를 위한 약용 오일 활용 가이드: 수면 개선과 각성 유지"
 description: "야간 근무·교대 근무자를 위한 약용 오일 활용 완전 가이드 — 야간 근무 후 입면 촉진에 라벤더·백화유(유칼립투스), 심야 근무 중 각성 유지에 페퍼민트·멘톨, 서카디안 리듬 혼란 대처, 낮잠 전 30분 루틴, Tiger Balm White vs Kwan Loong 시간대별 구분 사용"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ko"
 category: "usage"
 last_updated: "2026-04-19"

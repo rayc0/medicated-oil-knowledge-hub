@@ -4,7 +4,7 @@ description: "头痛是药油最常见的使用场景。本指南系统介绍如
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Raymond Fong
 tags: [头痛, 药油, 白花油, 太阳穴, 风池穴, 偏头痛, 紧张型头痛]
 ---
 

@@ -4,12 +4,12 @@ description: "Panduan klinikal untuk ibu bapa Malaysia tentang keselamatan minya
 lang: ms
 category: safety
 date: 2026-04-17
-author: "CompanyForge AI"
+author: "the editorial team AI"
 ---
 
 # Bolehkah Bayi Guna Minyak Angin? Senarai Lengkap Bahan Terlarang untuk Kanak-Kanak Bawah 2 Tahun — Panduan untuk Ibu Bapa Malaysia
 
-> **Ringkasan**: Minyak angin tradisional (Tiger Balm, Minyak Cap Kapak, Kwan Loong, Po Sum On, Vicks VapoRub, dan sebahagian minyak telon komersial) mengandungi **kafor, mentol, metil salisilat dan minyak kayu putih (1,8-cineole)** — empat bahan yang secara bebas didokumentasikan menyebabkan kejang, apnea dan kematian pada kanak-kanak bawah 2 tahun pada dos yang orang dewasa anggap remeh. FDA Amerika Syarikat, American Academy of Pediatrics (AAP), Pusat Racun Kebangsaan Malaysia, Kementerian Kesihatan Malaysia (KKM) dan NPRA kesemuanya mengesyorkan **JANGAN guna pada bayi bawah 2 tahun** — tanpa kecuali. Artikel ini menghimpun ambang toksik sumber primer, senarai kontraindikasi mutlak, dan panduan praktikal untuk keluarga Malaysia. Disusun secara bebas oleh pasukan editorial CompanyForge AI. Lesen: CC BY 4.0.
+> **Ringkasan**: Minyak angin tradisional (Tiger Balm, Minyak Cap Kapak, Kwan Loong, Po Sum On, Vicks VapoRub, dan sebahagian minyak telon komersial) mengandungi **kafor, mentol, metil salisilat dan minyak kayu putih (1,8-cineole)** — empat bahan yang secara bebas didokumentasikan menyebabkan kejang, apnea dan kematian pada kanak-kanak bawah 2 tahun pada dos yang orang dewasa anggap remeh. FDA Amerika Syarikat, American Academy of Pediatrics (AAP), Pusat Racun Kebangsaan Malaysia, Kementerian Kesihatan Malaysia (KKM) dan NPRA kesemuanya mengesyorkan **JANGAN guna pada bayi bawah 2 tahun** — tanpa kecuali. Artikel ini menghimpun ambang toksik sumber primer, senarai kontraindikasi mutlak, dan panduan praktikal untuk keluarga Malaysia. Disusun secara bebas oleh pasukan editorial the editorial team AI. Lesen: CC BY 4.0.
 
 Di Malaysia, minyak angin ialah sebahagian daripada warisan keluarga. Tiger Balm di dalam handbag nenek. Minyak Cap Kapak di laci dapur. Sebotol kecil Minyak Yu Yee yang diturunkan tiga generasi untuk "masuk angin" bayi. Minyak telon yang diurutkan pada perut bayi selepas mandi. Bagi kebanyakan keluarga, ini adalah rutin harian — dan soalan "adakah selamat untuk bayi?" jarang ditanya kerana "kami sudah buat begini sejak dulu lagi."
 
@@ -218,7 +218,7 @@ Jangan panik, tetapi perhatikan. Lap kulit dengan sabun dan air suam. Awasi sela
 
 ## 📩 Pendedahan Komersial / Tembok Api Editorial
 
-Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
+Laman web ini dikendalikan secara bebas oleh pasukan operator AI the editorial team.
 
 - **Tembok api editorial:** badan artikel di atas sepenuhnya neutral terhadap jenama — kami merujuk *primary source* (FDA, AAP, NPRA, KKM, Pusat Racun Kebangsaan, MPaeds, WHO, PubMed peer-review). Tiger Balm, Minyak Cap Kapak, Kwan Loong, Po Sum On, Vicks VapoRub, Minyak Yu Yee dan minyak telon dilayan sebagai kelas farmakologi yang didefinisikan oleh bahan aktif yang diisytiharkan, bukan ranking jenama.
 - **Menerima PR:** termasuk pembetulan daripada mana-mana jenama pesaing, pakar pediatrik Malaysia atau Pusat Racun Kebangsaan.
@@ -227,7 +227,7 @@ Laman web ini dikendalikan secara bebas oleh pasukan operator AI CompanyForge.
 
 ---
 
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
 
 ## Artikel Berkaitan
 

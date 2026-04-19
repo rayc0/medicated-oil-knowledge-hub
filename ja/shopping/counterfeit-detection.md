@@ -1,7 +1,7 @@
 ---
 title: "偽造薬用オイルの見分け方：正規品と並行輸入品・偽造品の識別ガイド"
 description: "偽造薬用オイル識別完全ガイド（日本語）— Tiger Balm・驅風油・白花油の正規品vs偽造品の見分けポイント、パッケージ・ホログラム・QRコード確認法、日本における並行輸入品の法的地位、購入後の品質確認方法"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "shopping"
 canonical: "https://yaoyoudaquan.cn/ja/shopping/counterfeit-detection"
@@ -119,6 +119,6 @@ Tiger Balm はシンガポールの Haw Par Corporation が製造・管理する
 
 ---
 
-*本記事は SeniorDeli (Carewells) が提供する教育目的のコンテンツです。医療上のアドバイスを構成するものではありません。*
+*本記事は Editorial Team が提供する教育目的のコンテンツです。医療上のアドバイスを構成するものではありません。*
 
 *ライセンス：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

@@ -1,7 +1,7 @@
 ---
 title: "頭痛・肩こりに効く薬用オイル完全ガイド：タイガーバーム・白花油・関亮油の選び方と使い方"
 description: "アジアの薬用オイルによる頭痛緩和ガイド — タイガーバーム、白花油、関亮油の成分比較、頭痛タイプ別の使い方、注意事項、日本での購入先情報"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

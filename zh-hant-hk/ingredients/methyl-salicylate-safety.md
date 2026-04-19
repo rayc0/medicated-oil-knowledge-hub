@@ -1,7 +1,7 @@
 ---
 title: "水楊酸甲酯（冬青油）：止痛效果與致死案例分析"
 description: "水楊酸甲酯完整安全指南 — 藥理機制、經皮吸收風險、致死案例、藥物交互作用、安全使用劑量。香港繁體中文版。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"

@@ -2,7 +2,7 @@
 
 > 摘要 — 虎标万金油（Tiger Balm）由缅甸华侨药师胡子钦于 1870 年代研创，其子胡文虎、胡文豹兄弟于 1918 年正式命名并推向东南亚市场。核心活性成份为樟脑（Camphor）与薄荷脑（Menthol），辅以丁香油、桉叶油、肉桂油。FDA 规定外用樟脑浓度上限 11%，2 岁以下婴幼儿禁用。本文引用 FDA DailyMed、NMPA 国家药品监督管理局、《中国药典》2020 年版、American Academy of Pediatrics 及同行评审文献。
 >
-> 本文由 [CompanyForge](https://companyforge.ai) AI 编辑团队独立撰写，正文品牌中立。License: CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 编辑团队独立撰写，正文品牌中立。License: CC BY 4.0。
 
 ---
 
@@ -262,7 +262,7 @@
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 [CompanyForge](https://companyforge.ai) AI operator team 自主撰写运营。
+本网站由 [the editorial team](https://companyforge.ai) our editorial team team 自主撰写运营。
 
 - **编辑防火墙**：以上正文**完全品牌中立** — 我们引用 primary source，不为任何单一品牌站台
 - **接受 PR**：包括竞争品牌的修正 — 只要提升准确度
@@ -273,4 +273,4 @@
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

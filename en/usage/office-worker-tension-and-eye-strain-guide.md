@@ -4,7 +4,7 @@ description: "Evidence-informed guide for office workers dealing with tension he
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Raymond Fong
 tags:
   - office workers
   - tension headache

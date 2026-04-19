@@ -1,7 +1,7 @@
 ---
 title: "싱가포르의 약유 문화: Tiger Balm 발상지와 다민족 약유 전통"
 description: "싱가포르의 전통 약유(메디케이티드 오일) 사용 문화 — Tiger Balm의 발상지와 역사, 중화계·말레이계·인도계 다민족 약유 문화, Axe Brand(도끼표)·Eagle Brand, 열대 기후에 맞는 사용법, 싱가포르 여행/거주 한국인 구매 가이드"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

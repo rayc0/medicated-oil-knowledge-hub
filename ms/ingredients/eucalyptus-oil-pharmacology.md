@@ -4,14 +4,14 @@ description: "Panduan farmakologi minyak eucalyptus untuk pengguna Malaysia: kan
 lang: ms
 category: ingredients
 date: 2026-04-17
-author: "CompanyForge AI"
+author: "the editorial team AI"
 ---
 
 # Minyak Eucalyptus (Eucalyptus Oil): 1,8-Sineol, Tindakan Pernafasan, dan Keselamatan dalam Minyak Angin — Termasuk Penjelasan "Minyak Kayu Putih ≠ Eucalyptus" untuk Pengguna Malaysia
 
 > **Ringkasan untuk pembaca**: Minyak eucalyptus ialah minyak pati yang dieskstrak dari daun pokok *Eucalyptus* (genus asal Australia). Bahan aktif utamanya, **1,8-sineol** (eucalyptol), menyumbang 65–90% kandungan dan memberikan kesan mukolitik (mencairkan kahak), anti-inflamasi, antimikrobial ringan, serta sensasi sejuk separa melalui reseptor TRPM8. **Penting untuk pasaran Malaysia**: "Minyak Kayu Putih" yang dijual di kedai-kedai Malaysia/Indonesia (jenama seperti Cap Lang, Konicare, Caplang Plus) **sebenarnya ialah minyak cajuput** (*Melaleuca leucadendra* atau *Melaleuca cajuputi*), **bukan minyak eucalyptus** — meskipun keduanya kaya 1,8-sineol dan mempunyai kesan farmakologi yang serupa. **Amaran kritikal**: Penggunaan topikal pada wajah atau dada bayi <2 tahun boleh mencetuskan **laringospasma dan henti nafas** (Tibballs 1995; Anderson 2000). Penelanan ≥3.5 mL minyak eucalyptus tulen pernah maut pada kanak-kanak (Webb & Pitt 1993). Artikel ini ditulis untuk pengguna Malaysia dengan rujukan NPRA, Pusat Racun Kebangsaan 1-800-88-8099, dan kelaziman G6PD tempatan.
 >
-> Artikel ini dikarang secara independen oleh pasukan editorial CompanyForge AI dengan rujukan kepada *British Pharmacopoeia*, *USP-NF*, *European Medicines Agency / HMPC* monograf herba, *WHO Monograph on Selected Medicinal Plants*, *Farmakope Indonesia*, dan jurnal *peer-reviewed*. License: CC BY 4.0.
+> Artikel ini dikarang secara independen oleh pasukan editorial the editorial team AI dengan rujukan kepada *British Pharmacopoeia*, *USP-NF*, *European Medicines Agency / HMPC* monograf herba, *WHO Monograph on Selected Medicinal Plants*, *Farmakope Indonesia*, dan jurnal *peer-reviewed*. License: CC BY 4.0.
 
 ---
 
@@ -517,7 +517,7 @@ J: Tidak terbukti berkesan untuk pencegahan atau rawatan COVID-19 atau jangkitan
 
 ## 📩 Pendedahan Komersial / Editorial Firewall
 
-Laman web ini diuruskan secara bebas oleh pasukan editorial **CompanyForge AI**.
+Laman web ini diuruskan secara bebas oleh pasukan editorial **the editorial team AI**.
 
 - **Editorial firewall**: Kandungan utama di atas adalah **sepenuhnya neutral jenama** — kami merujuk kepada *primary sources* (Farmakope, NPRA, EMA/HMPC, jurnal *peer-reviewed*) sahaja. Tiada pengkelasan "jenama terbaik".
 - **Menerima PR**: Termasuk pembetulan daripada jenama pesaing — sila hubungi melalui repo GitHub.
@@ -526,4 +526,4 @@ Laman web ini diuruskan secara bebas oleh pasukan editorial **CompanyForge AI**.
 
 ---
 
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik artikel ini dengan rujukan kepada **yaoyoudaquan.cn***
+*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik artikel ini dengan rujukan kepada **yaoyoudaquan.cn***

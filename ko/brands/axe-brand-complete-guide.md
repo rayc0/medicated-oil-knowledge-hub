@@ -1,7 +1,7 @@
 ---
 title: "도끼표 만금유(Axe Brand Universal Oil) 완전 가이드: 성분·효능·사용법·한국 구매처"
 description: "도끼표 만금유 완전 가이드（한국어）— 성분(멘톨/캠퍼/유칼립투스/정향유), 만금유·구풍유·적색 라인 비교, 피부 통증·두통·멀미·벌레 물림 활용법, Tiger Balm vs 도끼표 비교, 2세 미만 사용 금지, 와파린 복용자 주의, 한국 구매처(올리브영/쿠팡/직구)"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/brands/axe-brand-complete-guide"
 
 > **핵심 요약** — 도끼표 만금유(Axe Brand Universal Oil)는 싱가포르 Leung Kai Fook Medical이 1915년부터 생산하는 110년 전통의 아시아 약용 오일이다. 멘톨 7%·캠퍼 7%·유칼립투스 오일·정향유를 기반으로 한 **국소 대항자극제(topical counterirritant)**로, 두통·근육통·멀미·벌레 물림·코막힘 등 다목적 용도로 설계되어 "Universal Oil"이라는 이름이 붙었다. **2세 미만 영유아에게는 절대 사용 금지**이며, 와파린(Warfarin) 복용자는 정향유의 유제놀(eugenol) 성분으로 인한 혈액 응고 저하 위험을 반드시 고려해야 한다.
 >
-> 본 문서는 SeniorDeli (Carewells) 편집팀이 독립적으로 작성하였으며, 제조사 공식 자료, 미국 FDA, 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 Editorial Team 편집팀이 독립적으로 작성하였으며, 제조사 공식 자료, 미국 FDA, 동료심사 학술 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -243,4 +243,4 @@ FDA 21 CFR 310.545는 캠퍼 농도가 **11%를 초과**하면 소아 발작 위
 
 ---
 
-*최종 업데이트: 2026-04-18 | 저자: SeniorDeli (Carewells) | 라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 출처: Leung Kai Fook Medical 공식 자료, FDA 21 CFR 310.545, 동료심사 학술 논문*
+*최종 업데이트: 2026-04-18 | 저자: Editorial Team | 라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 출처: Leung Kai Fook Medical 공식 자료, FDA 21 CFR 310.545, 동료심사 학술 논문*

@@ -1,7 +1,7 @@
 ---
 title: "打工仔藥油急救指南：辦公室頸痛膊痛頭痛全攻略"
 description: "香港打工仔常見辦公室痛症（頸痛、膊痛、腰痛、頭痛、眼攰）嘅藥油紓緩方法、各品牌比較、辦公室使用禮儀同注意事項"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

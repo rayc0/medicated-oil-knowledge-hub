@@ -1,7 +1,7 @@
 ---
 title: "한국의 약용 오일 전통: 파스 문화, 한방 외용제와 호랑이 연고 수용 역사"
 description: "한국 약용 오일 및 외용 진통제 전통 가이드 — 파스(貼布) 문화의 역사적 배경, 한방 외용제(공진단 오일, 경옥고 외용)와 현대 파스의 공존, 호랑이 연고·관롱유 등 수입 외용제의 수용 과정, 그리고 한국 시장에서 독자적으로 발전한 파스/크림 브랜드 비교"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

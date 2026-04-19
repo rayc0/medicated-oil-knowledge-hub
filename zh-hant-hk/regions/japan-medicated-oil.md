@@ -1,7 +1,7 @@
 ---
 title: "日本藥油與外用貼劑：撒隆巴斯、冷感貼布與漢方外用藥的香港購買指南"
 description: "日本外用止痛產品在香港的完整指南 — 撒隆巴斯貼布、久光製藥系列、小林製藥產品，與中式藥油的使用場合比較，以及香港代購日本藥品的主要渠道"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "zh-hant-hk"
 category: "regions"
 last_updated: "2026-04-18"

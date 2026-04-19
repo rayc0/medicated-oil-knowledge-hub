@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Pelajar Musim Peperiksaan: Panduan Fokus dan Kelegaan"
 description: "Panduan penggunaan minyak ubat untuk pelajar semasa musim peperiksaan — meningkatkan tumpuan, melegakan sakit kepala tekanan, mengurangkan kebimbangan, dan keselamatan untuk remaja"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

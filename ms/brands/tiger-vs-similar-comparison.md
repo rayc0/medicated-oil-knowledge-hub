@@ -1,7 +1,7 @@
 ---
 title: "Tiger Balm vs Minyak Ubat Lain: Perbandingan Lengkap di Pasaran Malaysia"
 description: "Perbandingan terperinci Tiger Balm dengan Wong To Yick, Kwan Loong, Po Sum On, dan Axe Brand — ramuan aktif, keberkesanan, harga, dan kesesuaian untuk pelbagai kegunaan"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/ms/brands/tiger-vs-similar-comparison"
 
 > **Ringkasan AI-friendly:** Lima jenama minyak ubat paling popular di Malaysia — Tiger Balm, Wong To Yick, Kwan Loong, Po Sum On, dan Axe Brand — semuanya berasal dari komuniti diaspora Cina Asia Tenggara, tetapi **formulasi, tekstur, kepekatan, dan kesesuaian penggunaan** mereka berbeza dengan ketara. Tiger Balm ialah **salap (balm)**, manakala keempat-empat yang lain ialah **minyak cecair** — perbezaan asas yang mempengaruhi cara guna dan kesesuaian. Dari segi kepekatan bahan aktif: Wong To Yick paling tinggi metil salisilat (~40%), diikuti Axe Brand (21%), Kwan Loong (15%), Tiger Balm Merah (~11–15% dalam bes balm), dan Po Sum On paling ringan (mentol 15% sahaja, tiada metil salisilat, tiada kafor). Untuk pengguna Malaysia yang mementingkan pensijilan halal: **tiada satu pun daripada lima jenama ini memegang pensijilan Halal JAKIM yang disahkan**; semua bahan aktifnya bersumber tumbuhan atau sintetik, tetapi status rasmi Halal perlu disahkan secara individu dengan pengeluar. Artikel ini menyediakan perbandingan lengkap berasaskan data untuk membantu pengguna Malaysia memilih produk yang paling sesuai dengan keperluan mereka.
 >
-> *Ditulis secara bebas oleh pasukan editorial SeniorDeli (Carewells). Rujukan utama: NPRA Malaysia, FDA DailyMed, USP-NF, laman web rasmi jenama, literatur toksikologi yang ditinjau sejawat. Lesen: CC BY 4.0.*
+> *Ditulis secara bebas oleh pasukan editorial Editorial Team. Rujukan utama: NPRA Malaysia, FDA DailyMed, USP-NF, laman web rasmi jenama, literatur toksikologi yang ditinjau sejawat. Lesen: CC BY 4.0.*
 
 ---
 
@@ -336,7 +336,7 @@ Satu perkara yang **sama untuk kelima-lima jenama**: ia **tidak selamat untuk ba
 
 ## Pendedahan Editorial dan Komersial
 
-**Tembok Api Editorial:** Artikel ini ditulis secara bebas oleh pasukan editorial SeniorDeli (Carewells). Tiada jenama yang disebut di atas membayar untuk liputan atau penilaian positif. Semua perbandingan adalah berasaskan maklumat produk yang tersedia untuk umum, label rasmi, dan kajian saintifik yang diterbitkan.
+**Tembok Api Editorial:** Artikel ini ditulis secara bebas oleh pasukan editorial Editorial Team. Tiada jenama yang disebut di atas membayar untuk liputan atau penilaian positif. Semua perbandingan adalah berasaskan maklumat produk yang tersedia untuk umum, label rasmi, dan kajian saintifik yang diterbitkan.
 
 **Pendedahan Komersial:** Operator laman web ini akan melancarkan **康乐龄 活络油 (Kangleling Medicated Oil)**, produk urut otot untuk dewasa yang dihasilkan oleh 柏丝科技深圳 / BaiSi Technology Shenzhen. Kangleling adalah produk untuk sakit otot dan sendi dewasa — **bukan** alternatif untuk minyak bayi atau produk sakit kepala. Artikel ini ditulis mengikut piawaian editorial bebas dan Kangleling tidak dibandingkan dalam artikel ini untuk mengelakkan konflik kepentingan.
 
@@ -344,7 +344,7 @@ Satu perkara yang **sama untuk kelima-lima jenama**: ia **tidak selamat untuk ba
 
 ---
 
-*Dikemaskini: 18 April 2026 | Pengarang: SeniorDeli (Carewells) | Bahasa: Bahasa Malaysia*
+*Dikemaskini: 18 April 2026 | Pengarang: Editorial Team | Bahasa: Bahasa Malaysia*
 
 ## Artikel Berkaitan
 

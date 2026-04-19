@@ -1,7 +1,7 @@
 ---
 title: "홍콩의 약유（藥油）문화: 백화유·구풍유·만금유의 사용법과 약국 문화"
 description: "홍콩의 전통 약유(메디케이티드 오일) 사용 문화 — 백화유(白花油)·구풍유(驅風油)·만금유(萬金油)의 역사와 사용법, 홍콩 약방(藥房) 구매 정보, 아열대 기후와 습열 체질에 맞는 약유 선택법, 홍콩 거주/여행 한국인을 위한 구매 가이드"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

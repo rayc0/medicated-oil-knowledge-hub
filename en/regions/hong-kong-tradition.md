@@ -1,7 +1,7 @@
 ---
 title: "Medicated Oil Traditions in Hong Kong: White Flower Oil, Wood Lock Oil and the City's Pharmacy Culture"
 description: "Hong Kong's medicated oil heritage — the origin of White Flower Oil (Hoe Hin), Wong To Yick Wood Lock Oil, the dispensary culture of Hong Kong, and how Asian medicated oils remain embedded in everyday HK life"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"

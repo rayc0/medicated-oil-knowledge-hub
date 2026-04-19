@@ -1,7 +1,7 @@
 ---
 title: "藥油致敏與皮膚敏感：致敏成分、貼布測試及預防指南"
 description: "全面介紹藥油中的5大致敏原、IV型遲發性超敏反應機制、2步貼布測試法，以及香港高危人群識別與預防策略，助您安全使用藥油產品。"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"

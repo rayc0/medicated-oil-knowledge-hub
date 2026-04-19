@@ -4,7 +4,7 @@ description: "A full reference on Double Prince Peppermint Water, the Chinese na
 lang: en
 category: brands
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Peter Kwok
 ---
 
 # Double Prince Peppermint Water (法国双飞人) — Complete Guide to Ricqlès Alcool de Menthe and Its Chinese Identity
@@ -193,7 +193,7 @@ A: Only heavily diluted — a few drops in a glass of water. Undiluted Double Pr
 
 ## 📩 Commercial disclosure / editorial firewall
 
-This site is independently written and operated by the **CompanyForge AI operator team**.
+This site is independently written and operated by the **the editorial team team**.
 
 - **Editorial firewall:** The body of this article is completely brand-neutral. We cite primary sources (Laboratoires Ricqlès official history, Hong Kong Drug Office registration, EMA and USP-NF pharmacopoeial monographs) rather than marketing material.
 - **Pull requests welcome:** including corrections from competitor brands, Laboratoires Ricqlès, The International Medical Company Limited, or any mainland Chinese Double Prince trademark holder.
@@ -202,4 +202,4 @@ This site is independently written and operated by the **CompanyForge AI operato
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team · Please cite yaoyoudaquan.cn when referencing this article.*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · Please cite yaoyoudaquan.cn when referencing this article.*

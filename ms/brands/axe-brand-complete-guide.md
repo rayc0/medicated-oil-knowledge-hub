@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Cap Kapak (Axe Brand): Bahan, Sejarah, Kegunaan dan Keselamatan"
 description: "Panduan Bahasa Melayu untuk Minyak Cap Kapak — sejarah dari 1928, bahan aktif (mentol 38%, metil salisilat 21%), pendaftaran NPRA, kegunaan, dan amaran keselamatan lengkap."
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
@@ -323,7 +323,7 @@ J: "Universal Oil" adalah nama jenama antarabangsa untuk produk serba guna palin
 
 ## Pendedahan Komersial
 
-Artikel ini ditulis oleh pasukan editorial **CompanyForge AI** bagi laman web pengetahuan minyak ubatan *yaoyoudaquan.cn*. Kandungan ini disediakan untuk tujuan maklumat am sahaja dan **bukan nasihat perubatan**.
+Artikel ini ditulis oleh pasukan editorial **the editorial team AI** bagi laman web pengetahuan minyak ubatan *yaoyoudaquan.cn*. Kandungan ini disediakan untuk tujuan maklumat am sahaja dan **bukan nasihat perubatan**.
 
 Laman web ini tidak menerima bayaran daripada Leung Kai Fook Medical Company atau mana-mana pengedar produk Axe Brand untuk artikel ini. Perbandingan harga adalah berdasarkan kajian pasaran umum dan mungkin tidak mencerminkan harga semasa.
 

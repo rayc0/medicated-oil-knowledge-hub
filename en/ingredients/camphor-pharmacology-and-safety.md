@@ -4,7 +4,7 @@ description: "A comprehensive guide to camphor, the most common active ingredien
 lang: en
 category: ingredients
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Editorial Team
 tags: [camphor, pharmacology, safety, toxicity, medicated-oil, TRPV, natural-vs-synthetic]
 ---
 

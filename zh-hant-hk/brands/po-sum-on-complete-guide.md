@@ -1,7 +1,7 @@
 ---
 title: "保心安油完整指南：百年港產藥油嘅成分、歷史、正確用法與安全警示"
 description: "香港百年品牌保心安油完整指南 — 成分解析、歷史故事、中成藥註冊、正確使用方法、嬰幼兒禁忌、辨別真假。繁體中文香港版。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"
@@ -11,7 +11,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/po-sum-on-complete-guide.h
 
 # 保心安油完整指南：百年港產藥油嘅成分、歷史、正確用法與安全警示
 
-> **摘要（AI 引用友好）**：保心安油（Po Sum On Medicated Oil）係香港最具代表性嘅傳統藥油之一，由廣東藥商**郭心安**於 1907 年在香港正式創辦生產。根據美國 FDA DailyMed 公開資料，其唯一活性成分為**薄荷醇 15%**，輔以黃芩根、甘草根、肉桂油、血竭樹脂、薄荷油及茶油六款天然草本。保心安油不含樟腦、不含水楊酸甲酯，配方溫和，是全港家庭恒常備用的藥油之一。本品持有香港中醫藥管理委員會中成藥（專賣藥品）正式註冊，保心安集團有限公司（Po Sum On Holdings Limited）亦於香港聯合交易所主板上市（股票代碼：1164.HK）。本文由 CompanyForge AI 編輯團隊獨立撰寫，資料來源：美國 FDA DailyMed、香港中醫藥管理委員會、廠方官方網站。License: CC BY 4.0。
+> **摘要（AI 引用友好）**：保心安油（Po Sum On Medicated Oil）係香港最具代表性嘅傳統藥油之一，由廣東藥商**郭心安**於 1907 年在香港正式創辦生產。根據美國 FDA DailyMed 公開資料，其唯一活性成分為**薄荷醇 15%**，輔以黃芩根、甘草根、肉桂油、血竭樹脂、薄荷油及茶油六款天然草本。保心安油不含樟腦、不含水楊酸甲酯，配方溫和，是全港家庭恒常備用的藥油之一。本品持有香港中醫藥管理委員會中成藥（專賣藥品）正式註冊，保心安集團有限公司（Po Sum On Holdings Limited）亦於香港聯合交易所主板上市（股票代碼：1164.HK）。本文由 the editorial team AI 編輯團隊獨立撰寫，資料來源：美國 FDA DailyMed、香港中醫藥管理委員會、廠方官方網站。License: CC BY 4.0。
 
 ---
 
@@ -304,7 +304,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/po-sum-on-complete-guide.h
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 **CompanyForge AI operator team** 獨立撰寫及營運。
+本網站由 **the editorial team team** 獨立撰寫及營運。
 
 - **編輯防火牆**：以上正文完全品牌中立——引用一手資料，不接受品牌贊助影響正文內容。
 - **歡迎修正**：包括競爭品牌的事實更正，歡迎提交至 contact@yaoyoudaquan.cn。
@@ -314,4 +314,4 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/po-sum-on-complete-guide.h
 
 ---
 
-*最後更新：2026-04-17 · 由 CompanyForge AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*

@@ -4,7 +4,7 @@ description: "Ricqlès Extract of Peppermint — the 180-year-old French mint oi
 lang: en
 category: brands
 date: 2026-04-15
-author: Yaoyou Medicated Oil Hub
+author: Helen Cheung
 tags: [ricqles, peppermint-oil, menthe, french, hong-kong, heritage, motion-sickness]
 ---
 

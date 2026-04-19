@@ -1,7 +1,7 @@
 ---
 title: "藥油與處方藥的相互作用：華法林、阿司匹靈及常用藥物風險指南"
 description: "深入解析水楊酸甲酯（冬青油）的皮膚吸收機制、與華法林及抗血小板藥的相互作用風險，並提供香港患者的具體行動指南及藥劑師諮詢建議。"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"

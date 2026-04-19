@@ -4,7 +4,7 @@ description: "Safety considerations for elderly users of medicated oils — age-
 lang: en
 category: safety
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 ---
 
 # Medicated Oils for the Elderly: A Complete Safety Guide

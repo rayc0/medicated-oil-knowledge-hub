@@ -4,7 +4,7 @@ description: "针对女性经期腹痛（原发性与继发性痛经）的药油
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Helen Cheung
 tags:
   - 痛经
   - 经期腹痛

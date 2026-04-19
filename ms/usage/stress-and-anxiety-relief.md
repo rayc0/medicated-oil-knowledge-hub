@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Tekanan dan Kebimbangan: Panduan Aromaterapi dan Akupresur"
 description: "Ketahui cara menggunakan minyak ubat untuk melegakan tekanan dan kebimbangan melalui aromaterapi dan akupresur. Titik pijat utama, teknik pernafasan, perbandingan dengan aromaterapi barat, dan panduan had penggunaan untuk kesihatan mental di Malaysia."
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ms"
 category: "usage"
 last_updated: "2026-04-19"

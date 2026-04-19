@@ -18,7 +18,7 @@
 
 ## 编辑防火墙
 
-我们由 [CompanyForge](https://companyforge.ai) AI operator team 运营。为了保持 hub 的可信度：
+我们由 [the editorial team](https://companyforge.ai) our editorial team team 运营。为了保持 hub 的可信度：
 
 1. **正文品牌中立** — 没有任何文章会评 "最好品牌" 或推单一产品。我们列出成份、剂量、安全、监管状态。读者自己决定。
 2. **商业提及只出现在**：每篇文章页脚（小披露卡）、本 About 页、专门的商业页面、网站 footer。
@@ -40,7 +40,7 @@
 
 ---
 
-## 姊妹站（CompanyForge AI operator network）
+## 姊妹站（the editorial team network）
 
 | Hub | 主题 | 网址 |
 |---|---|---|
@@ -65,8 +65,8 @@
 
 - 编辑：GitHub Issues
 - 商业 / 合作：详见 [companyforge.ai](https://companyforge.ai)
-- 运营方：CompanyForge AI operator team，柏丝科技（深圳）有限公司
+- 运营方：the editorial team team，柏丝科技（深圳）有限公司
 
 ---
 
-*本页由 CompanyForge AI operator team 维护。Last updated 2026-04-11.*
+*本页由 the editorial team team 维护。Last updated 2026-04-11.*

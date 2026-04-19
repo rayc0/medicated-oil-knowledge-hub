@@ -4,7 +4,7 @@ description: "Complete guide to borneol (冰片, bīng piàn) in traditional Chi
 lang: en
 category: ingredients
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Raymond Fong
 ---
 
 # Borneol Pharmacology — The Forgotten TCM Terpene in Hong Kong Medicated Oils

@@ -1,7 +1,7 @@
 ---
 title: "長者藥油安全使用指南：年齡相關風險同注意事項"
 description: "長者使用藥油嘅特殊風險 — 皮膚老化增加吸收、同長期病藥物嘅交互作用、正確劑量、安全使用原則同家屬照護者注意事項"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"

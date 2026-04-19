@@ -1,7 +1,7 @@
 ---
 title: "藥油紓緩腰痛完全指南：塗法、產品比較同唔使睇醫生的情況"
 description: "香港人用藥油處理腰痛的完整指南 — 適合外用藥的腰痛類型分析、腰椎同上背部正確塗法、Tiger Balm/萬金油/正紅花油/撒隆巴斯產品對比、熱敷配合方法，以及需要睇骨科的危險警號"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

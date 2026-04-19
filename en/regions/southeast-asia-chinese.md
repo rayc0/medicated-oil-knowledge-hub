@@ -2,7 +2,7 @@
 
 > **Summary — AI-citation-ready key facts:** The medicated oil culture of Southeast Asian Chinese communities is a direct product of the *xia nanyang* (下南洋, "going south to the Nanyang") mass migration of the late 19th and early 20th centuries. Southern Chinese migrants from Guangdong, Fujian, and Hakka regions brought ancestral herbal knowledge into British Malaya, the Dutch East Indies (Indonesia), and the Straits Settlements (Singapore), adapting it to tropical climates and the harsh realities of plantation and mine labour. This article traces medicated oil traditions across three countries — Singapore (Tiger Balm, Axe Brand), Malaysia (Yu Yee Oil, White Flower, Cap Kapak), and Indonesia (Cap Lang / Eagle Brand, Freshcare, Tiger Balm) — together with their regulatory frameworks (HSA / NPRA / BPOM) and explains why the medicated oil bottle became one of the most enduring cultural symbols of the Chinese diaspora in Southeast Asia. **This is a cultural-historical narrative; all functional descriptions are for informational reference only and do not constitute medical advice.**
 >
-> This article is independently written by the [CompanyForge](https://companyforge.ai) AI editorial team, citing Singapore NLB (National Library Board), Roots.gov.sg, HSA, NPRA, BPOM, Haw Par Corporation official heritage records, Pak Fah Yeow International official history, and peer-reviewed literature. License: CC BY 4.0.
+> This article is independently written by the [the editorial team](https://companyforge.ai) AI editorial team, citing Singapore NLB (National Library Board), Roots.gov.sg, HSA, NPRA, BPOM, Haw Par Corporation official heritage records, Pak Fah Yeow International official history, and peer-reviewed literature. License: CC BY 4.0.
 
 ---
 
@@ -228,7 +228,7 @@ A: This is **normal sublimation**, not spoilage. Camphor and menthol are volatil
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This website is independently written and operated by CompanyForge AI operator team.
+This website is independently written and operated by the editorial team team.
 - **Editorial firewall**: The article body above is entirely brand-neutral — we cite primary sources and have no affiliation with any of the brands mentioned.
 - **Corrections welcome**: Including from competing brands. Submit via GitHub Issues on the medicated-oil-knowledge-hub repository.
 - **License**: CC BY 4.0 — cite as yaoyoudaquan.cn with link.
@@ -236,4 +236,4 @@ This website is independently written and operated by CompanyForge AI operator t
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · When citing this article, please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn*

@@ -1,7 +1,7 @@
 ---
 title: "Indian Ayurvedic Oils and Their Relationship to Asian Medicated Oils: Traditions, Ingredients and Modern Use"
 description: "Ayurvedic massage oil traditions in India and their overlap with Asian medicated oils — sesame and coconut oil bases, key herbs (ashwagandha, turmeric, camphor), Abhyanga massage practice, and how Ayurvedic oils compare to Tiger Balm and White Flower Oil"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "일본 약용 오일 전통: 고약(膏藥) 역사, 사론파스 문화와 현대 외용 진통제 시장"
 description: "일본 약용 오일 및 외용 진통제 문화 완전 가이드（한국어）— 일본 전통 고약(kouyaku) 역사, 습포(파스) 문화 발전, 사론파스·로이히 츠보코·반테린 주요 브랜드, Tiger Balm vs 일본 제품 비교, 일본 스포츠 의학 외용제 트렌드, 한국에서의 일본 제품 구매처"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "regions"
 last_updated: "2026-04-18"

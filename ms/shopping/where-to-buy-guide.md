@@ -1,7 +1,7 @@
 ---
 title: "Di Mana Beli Minyak Ubat Asli di Malaysia: Panduan Lengkap Saluran Pembelian"
 description: "Panduan lengkap tempat membeli minyak ubat tradisional asli di Malaysia — farmasi, kedai sinseh, dalam talian, pasar raya, dan cara membezakan produk asli daripada palsu"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"

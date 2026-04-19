@@ -1,7 +1,7 @@
 ---
 title: "정품 약용 오일 구별법과 구매 가이드: 위조품 대책과 신뢰할 수 있는 구매처"
 description: "한국어 정품 약용 오일 구매 완전 가이드 — 정품과 위조품 구별법(패키지/향/질감/홀로그램), 한국 내 구매처(서울 차이나타운/아시아 마트/온라인 쇼핑몰), 온라인 구매 주의사항(공식 통판 vs 오픈마켓), 브랜드별 정품 확인 방법(QR코드/배치 번호), 수입 규제(멘톨 함량/한국 의약품 규정), 보관과 유통기한 확인법"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ko"
 category: "shopping"
 last_updated: "2026-04-18"

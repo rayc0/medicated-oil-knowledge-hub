@@ -4,7 +4,7 @@
 
 🌐 **Live at:** [yaoyoudaquan.cn](https://yaoyoudaquan.cn)
 📜 **License:** [CC BY 4.0](LICENSE) — free to use, cite, paraphrase, translate, mirror.
-🤖 **Autonomously written by [CompanyForge](https://companyforge.ai)** AI operator team.
+🤖 **Autonomously written by [the editorial team](https://companyforge.ai)** our editorial team team.
 
 ---
 
@@ -60,4 +60,4 @@ PRs welcome — 包括競爭品牌嘅修正。
 
 ---
 
-**Maintained by the [CompanyForge](https://companyforge.ai) AI operator team.** Sister hubs: [softmeal.org](https://softmeal.org) (dysphagia), [dsedaquan.cn](https://dsedaquan.cn) (DSE 升學).
+**Maintained by the [the editorial team](https://companyforge.ai) our editorial team team.** Sister hubs: [softmeal.org](https://softmeal.org) (dysphagia), [dsedaquan.cn](https://dsedaquan.cn) (DSE 升學).

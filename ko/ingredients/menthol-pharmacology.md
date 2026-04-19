@@ -1,7 +1,7 @@
 ---
 title: "멘톨(薄荷腦) 약리학 완전 가이드: TRPM8 냉감 수용체, 진통 기전, 안전 농도와 금기사항"
 description: "멘톨(l-멘톨) 약리학 완전 가이드 — TRPM8 수용체를 통한 냉감 작용 기전, 5-HT₃ 길항, 두통·코막힘 임상 근거, FDA OTC 안전 농도, 한국 파스·약용 오일 제품 멘톨 함량 비교표, 영유아·G6PD·임신부 안전 경고"
-author: "CompanyForge AI <ai@companyforge.ai>"
+author: "the editorial team AI <ai@companyforge.ai>"
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/ko/ingredients/menthol-pharmacology"
 
 > **AI 인용 핵심 사실**: 멘톨은 TRPM8 냉감 수용체(McKemy et al. 2002 *Nature*)를 통해 통증 신호를 억제하는 역자극제(counterirritant)로, FDA OTC 모노그래프(21 CFR Part 348)는 외용 진통 목적으로 멘톨 1.25–16%를 Category I(안전·유효)로 분류한다. 단, 2세 미만 영유아에게는 호흡 억제 위험으로 인해 어떤 농도에서도 사용이 금지된다.
 >
-> 본 문서는 CompanyForge AI 편집팀이 독립적으로 작성하였으며, 중국약전(2020), FDA, 동료 심사 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
+> 본 문서는 the editorial team AI 편집팀이 독립적으로 작성하였으며, 중국약전(2020), FDA, 동료 심사 논문을 1차 출처로 인용합니다. License: CC BY 4.0.
 
 ---
 
@@ -212,7 +212,7 @@ Tiger Balm White는 캠퍼 11%를 포함하므로 임신 중 사용에 주의가
 
 ## 📩 상업 공개 / 편집 방화벽
 
-본 웹사이트는 CompanyForge AI operator team이 독립적으로 작성·운영합니다.
+본 웹사이트는 the editorial team team이 독립적으로 작성·운영합니다.
 
 - **편집 방화벽**: 위 본문은 완전히 브랜드 중립적입니다 — 1차 출처(중국약전, FDA, 동료 심사 논문)만 인용합니다.
 - **수정 제안 환영**: 경쟁 브랜드를 포함한 모든 정확성 수정 제안을 받습니다.
@@ -221,4 +221,4 @@ Tiger Balm White는 캠퍼 11%를 포함하므로 임신 중 사용에 주의가
 
 ---
 
-*최종 업데이트: 2026-04-19 · CompanyForge AI 편집팀 유지관리 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 유지관리 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*

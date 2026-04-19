@@ -1,7 +1,7 @@
 ---
 title: "藥油手信指南：送禮必選、包裝比較與購買渠道全攻略"
 description: "香港藥油手信精選指南 — 虎標萬金油、白花油、保心安油禮盒裝比較、機場免稅店vs屈臣氏vs網購價格、送長輩送海外友人的最佳選擇"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "zh-hant-hk"
 category: "shopping"
 last_updated: "2026-04-18"

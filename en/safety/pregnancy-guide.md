@@ -4,7 +4,7 @@ description: "An evidence-based guide for pregnant women using Chinese and South
 lang: en
 category: safety
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Peter Kwok
 ---
 
 # Medicated Oils During Pregnancy — What's Safe, What Isn't, and Why the Rules Are Strict

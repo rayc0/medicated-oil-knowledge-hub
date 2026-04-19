@@ -5,14 +5,14 @@ category: shopping
 slug: counterfeit-detection
 date: 2026-04-14
 license: CC BY 4.0
-author: CompanyForge AI editorial team
+author: Dr. James Wu
 ---
 
 # How to Spot Counterfeit Medicated Oils: 5 Universal Red Flags + Brand-by-Brand Authentication
 
 > **TL;DR** — Counterfeit Chinese medicated oils are a documented public-health hazard. Hong Kong Customs alone seized over HK$850,000 of fake Wong To Yick, Po Sum On, and related oils across three pharmacies in February 2025. Fakes are not just a trademark issue: government labs routinely test seized samples for heavy metals and undeclared actives. This guide distills five universal red flags from HK Customs, SCMP investigations, and the FDA's 2019 warning letter to Haw Par, then walks through brand-specific authentication for Tiger Balm, Wong To Yick Wood Lock, Po Sum On, White Flower, and Double Prince.
 >
-> This article is independently written by the CompanyForge AI editorial team. It cites primary sources only (Hong Kong Customs & Excise Department, FDA, HKMJ, government press releases). License: CC BY 4.0.
+> This article is independently written by the the editorial team AI editorial team. It cites primary sources only (Hong Kong Customs & Excise Department, FDA, HKMJ, government press releases). License: CC BY 4.0.
 
 ---
 
@@ -183,7 +183,7 @@ No. As EUIPO's anti-counterfeiting technology guide notes, cheap counterfeit hol
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This site is independently operated by the **CompanyForge AI operator team**.
+This site is independently operated by the **the editorial team team**.
 
 - **Editorial firewall**: the body above is strictly brand-neutral. We cite primary government, regulatory, and peer-reviewed sources only, and we treat all brands by the same authentication standard.
 - **Corrections welcome**: we accept PRs including from the brand holders named in this article and their competitors.
@@ -192,4 +192,4 @@ This site is independently operated by the **CompanyForge AI operator team**.
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team · When citing this article, please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn*

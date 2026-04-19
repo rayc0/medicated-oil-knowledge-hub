@@ -1,7 +1,7 @@
 ---
 title: "Medicated Oils for Back Pain Relief: Application Guide, Best Products and When to Seek Help"
 description: "How to use medicated oils for back pain — types of back pain suited for topical treatment, application techniques for lumbar and upper back, recommended products (Tiger Balm, Kwan Loong, Zheng Gu Shui), heat therapy combination, and red flag symptoms requiring medical attention"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "en"
 category: "usage"
 last_updated: "2026-04-18"

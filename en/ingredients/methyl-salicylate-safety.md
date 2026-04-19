@@ -4,7 +4,7 @@ description: "A clinical explanation of methyl salicylate (oil of wintergreen): 
 lang: en
 category: ingredients
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Peter Kwok
 ---
 
 # Methyl Salicylate Safety — Benefits, Toxicity, and the Fatal Case That Changed the Labels

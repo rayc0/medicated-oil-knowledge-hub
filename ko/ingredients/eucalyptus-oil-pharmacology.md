@@ -1,7 +1,7 @@
 ---
 title: "유칼립투스 오일 약리학: 1,8-시네올 기전, 항염·진통·거담 효과와 외용제 안전 사용"
 description: "유칼립투스 오일 약리학 완전 가이드 — 주성분 1,8-시네올(eucalyptol)의 TRPM8·TRPV1 작용 기전, 항염·진통·기관지 확장 효과의 과학적 근거, Tiger Balm·관롱유·국내 파스 제품 내 유칼립투스 함량, 영유아 호흡 억제 위험, 천식 환자 주의사항과 안전 농도 범위"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

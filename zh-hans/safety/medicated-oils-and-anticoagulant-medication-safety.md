@@ -1,7 +1,7 @@
 ---
 title: "药用油与抗凝血药物的相互作用：华法林、阿司匹林患者使用指南"
 description: "深度解析水杨酸甲酯/冬青油经皮吸收后与华法林的INR升高机制、JAMA病例证据、阿司匹林/抗血小板药叠加风险及中国房颤/DVT患者的实用建议。"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-19"

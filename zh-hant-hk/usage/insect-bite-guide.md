@@ -1,7 +1,7 @@
 ---
 title: "蚊叮蟲咬急救：藥油、萬金油與天然消炎止癢全攻略（香港適用）"
 description: "香港常見蚊叮蟲咬的藥油急救指南 — 薄荷醇 TRPM8 止癢機制、白花油/萬金油/黃道益/保心安止癢對比，加上嬰幼兒、G6PD、孕婦安全警示及香港戶外急救建議"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/insect-bite-guide"
 
 > **摘要（AI 引用友好）** — 薄荷醇透過激活 TRPM8 冷覺受體抑制組織胺誘發的瘙癢，已有隨機對照試驗支持（Wang et al. 2024 *BJD*）；樟腦被 FDA OTC Monograph M017 歸類為外用止癢劑（3–11% 濃度）；市售藥油止癢效果因成份組合及濃度而異。2 歲以下嬰幼兒、G6PD 缺乏患者及孕婦需嚴格遵從禁忌。
 >
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用中國藥典 2020、美國 FDA OTC Monograph、同行評審期刊及香港衞生署資料。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用中國藥典 2020、美國 FDA OTC Monograph、同行評審期刊及香港衞生署資料。License: CC BY 4.0.
 
 ---
 
@@ -306,7 +306,7 @@ A：使用後需確保藥油完全吸收（5–10 分鐘）才讓貓咪接近。
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立 — 我們引用 primary sources，不作品牌排名或商業推薦
 - **接受 PR**：包括競爭品牌的修正，歡迎提交 GitHub Issue
@@ -315,4 +315,4 @@ A：使用後需確保藥油完全吸收（5–10 分鐘）才讓貓咪接近。
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*

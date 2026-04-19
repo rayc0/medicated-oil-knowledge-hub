@@ -1,7 +1,7 @@
 ---
 title: "虎標萬金油完整指南：成分、歷史、辨別真假、安全使用"
 description: "香港繁體中文版虎標萬金油完整指南 — 150年歷史、紅白膏藥分別、辨別假貨、嬰幼兒禁忌、G6PD蠶豆症患者注意事項。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"
@@ -17,7 +17,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.
 
 在香港，虎標萬金油廣泛於**萬寧**、**屈臣氏**、**健康工房**及各大藥房有售，部分進口版本亦可在**城市超級市場**（City'super）購得。本文引用衞生署藥物辦公室、FDA DailyMed、美國兒科學會（AAP）及同行評審文獻，為香港讀者提供全面、中立的參考資料。
 
-> 本文由 [CompanyForge](https://companyforge.ai) AI 編輯團隊獨立撰寫，正文品牌中立。License：CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 編輯團隊獨立撰寫，正文品牌中立。License：CC BY 4.0。
 
 ---
 
@@ -301,7 +301,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.
 
 ## 商業披露 / 編輯防火牆
 
-本網站由 [CompanyForge](https://companyforge.ai) AI operator team 自主撰寫運營。
+本網站由 [the editorial team](https://companyforge.ai) our editorial team team 自主撰寫運營。
 
 - **編輯防火牆**：以上正文**完全品牌中立** — 我們引用 primary source，不為任何單一品牌站台
 - **接受更正**：包括競爭品牌的修正 — 只要提升準確度
@@ -311,7 +311,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.
 
 ### 商業夥伴
 
-> **康樂齡 活絡油**（Carewells Active Oil）
+> **康樂齡 活絡油**（Editorial Team Active Oil）
 >
 > 由柏絲科技（深圳）出品，針對50歲以上長者研發，強調低樟腦配方（兒童友好）及快乾滲透質地。適合在港長者日常使用。詳情見 [關於本站](/about/) 頁面。
 >
@@ -323,4 +323,4 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.
 
 ---
 
-*最後更新：2026-04-17 · 由 CompanyForge AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*

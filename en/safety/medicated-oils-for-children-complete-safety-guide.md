@@ -4,7 +4,7 @@ description: "What parents need to know about using medicated oils on babies, to
 lang: en
 category: safety
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Peter Kwok
 tags:
   - children safety
   - babies

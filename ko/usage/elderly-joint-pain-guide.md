@@ -1,7 +1,7 @@
 ---
 title: "노인 관절통 약용 오일 가이드: 무릎·어깨·손가락 관절 외용 진통제 선택과 안전 사용"
 description: "노인 관절통 약용 오일 완전 가이드（한국어）— 무릎·어깨·손가락 관절염(퇴행성·류마티스)에 Tiger Balm·파스·NSAIDs 외용제 선택법, 노인 피부 특성을 고려한 안전 도포법, 와파린·혈압약 복용 노인의 약물 상호작용, 사용 금기 상황, 한국 노인 장기요양 현장 적용"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

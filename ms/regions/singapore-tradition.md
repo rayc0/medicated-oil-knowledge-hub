@@ -1,7 +1,7 @@
 ---
 title: "Tradisi Minyak Ubat di Singapura: Warisan Tiger Balm, Kebudayaan Peranakan dan Pasaran Moden"
 description: "Sejarah dan tradisi minyak ubat di Singapura — asal-usul Tiger Balm dari keluarga Aw Boon Haw, budaya Peranakan dan penggunaan minyak herba tradisional, kedudukan pasaran minyak ubat Asia di Singapura moden, dan perkembangan industri wellness semasa"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"

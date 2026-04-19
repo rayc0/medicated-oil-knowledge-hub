@@ -1,7 +1,7 @@
 ---
 title: "ユーカリオイルの薬理学：1,8-シネオール、抗炎症・鎮痛効果と外用薬での使用"
 description: "ユーカリオイル（Eucalyptus oil）薬理学完全ガイド — 主成分1,8-シネオール（シネオール/eucalyptol）の作用機序、TRPM8・TRPV1への影響、抗炎症・鎮痛・去痰効果の科学的根拠、外用薬（Tiger Balm・湿布・メンタームなど）での使用濃度、安全な使用法と禁忌（乳児・喘息患者）"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

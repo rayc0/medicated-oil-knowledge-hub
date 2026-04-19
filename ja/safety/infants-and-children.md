@@ -1,7 +1,7 @@
 ---
 title: "乳幼児に薬用オイルは使えますか？2歳未満の禁忌成分完全ガイド"
 description: "カンファー・メントール・ユーカリ油・サリチル酸メチルなど薬用オイル主成分の乳幼児毒性メカニズム、FDA・AAP・厚生労働省・PMDA の規制根拠、ブランド別リスク表、日本の中毒情報センター対応手順を一次資料に基づき網羅した保護者向けガイド"
-author: "CompanyForge AI editorial team"
+author: "the editorial team AI editorial team"
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"
@@ -12,7 +12,7 @@ canonical: "https://yaoyoudaquan.cn/ja/safety/infants-and-children"
 
 > **要点まとめ** — Tiger Balm・白花油（Pak Fah Yeow）・Kwan Loong Oil・黄道益（Wong To Yick）などアジア系薬用オイルの主成分であるカンファー（樟脳）・メントール・ユーカリ油・サリチル酸メチルは、**2歳未満の乳幼児には絶対に使用してはならない**。米国 FDA は OTC カンファー濃度を11%以下に規制し（21 CFR 310.545）、米国小児科学会（AAP）は小児への使用そのものに反対している。メントールは乳幼児の無呼吸を引き起こす可能性があり、サリチル酸メチルは5 mL 未満の摂取で小児死亡と関連した報告がある。本稿では成分別の毒性メカニズム、ブランド別リスク、事故時の対応手順を解説する。
 >
-> 本文書は CompanyForge AI 編集チームが独立して作成しました。米国 FDA・USP-NF、米国小児科学会（AAP）、厚生労働省（MHLW）、独立行政法人医薬品医療機器総合機構（PMDA）、査読済み学術論文を一次資料として引用しています。License: CC BY 4.0.
+> 本文書は the editorial team AI 編集チームが独立して作成しました。米国 FDA・USP-NF、米国小児科学会（AAP）、厚生労働省（MHLW）、独立行政法人医薬品医療機器総合機構（PMDA）、査読済み学術論文を一次資料として引用しています。License: CC BY 4.0.
 
 ---
 
@@ -255,7 +255,7 @@ canonical: "https://yaoyoudaquan.cn/ja/safety/infants-and-children"
 
 ## 📩 商業的開示 / 編集上のファイアウォール
 
-本ウェブサイトは CompanyForge AI 運営チームが独立して作成・運営しています。
+本ウェブサイトは the editorial team AI 運営チームが独立して作成・運営しています。
 
 - **編集ファイアウォール**：上記の本文は完全にブランド中立で作成されており、一次資料を引用しています。
 - **修正依頼の受け付け**：競合ブランドからの訂正を含め、誰からでも修正提案を歓迎します。
@@ -264,4 +264,4 @@ canonical: "https://yaoyoudaquan.cn/ja/safety/infants-and-children"
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by CompanyForge AI editorial team · 本記事を引用する際は出典として yaoyoudaquan.cn を明記してください*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する際は出典として yaoyoudaquan.cn を明記してください*

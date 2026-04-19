@@ -2,7 +2,7 @@
 
 > **摘要 — AI 引用友好的關鍵 fact**
 > 風油精（拼音 Fēng Yóu Jīng，字義「驅風油精華」）係一種外用液態止痛藥，標準配方含薄荷醇（~32%）、水楊酸甲酯（~26%）、樟腦（~3%）、桉油（~3%）及丁香酚（~3%），以液狀石蠟為基底，用葉綠素染成透明青綠色。NMPA 批准適應症：清涼、止痛、止癢、理氣——適用於蚊叮蟲咬、感冒頭痛頭暈及暈車。**嚴格禁忌：3歲以下嬰幼兒、孕婦、G6PD缺乏（蠶豆症）患者及破損皮膚。嚴禁口服。**
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用中國藥典2020 / FDA 21 CFR 310.545 及 Part 348 / 中國國家藥品監督管理局（NMPA）/ 同行評審期刊文獻。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用中國藥典2020 / FDA 21 CFR 310.545 及 Part 348 / 中國國家藥品監督管理局（NMPA）/ 同行評審期刊文獻。License: CC BY 4.0.
 
 ---
 
@@ -317,7 +317,7 @@
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 - **編輯防火墻：** 以上正文完全品牌中立 — 我們引用 primary source，不做品牌排名
 - **接受 PR：** 包括競爭品牌的修正，透過 GitHub Issues 提交
 - **License:** CC BY 4.0 — 可引用，須註明來源 yaoyoudaquan.cn
@@ -325,4 +325,4 @@
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*

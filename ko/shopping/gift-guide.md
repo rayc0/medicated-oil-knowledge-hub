@@ -1,7 +1,7 @@
 ---
 title: "약용 오일 선물 가이드: 아시아 여행 기념품으로 최적의 약용 오일 선택법"
 description: "약용 오일 선물 및 기념품 완전 가이드（한국어）— 받는 사람별 추천 제품（부모님/운동인/직장인/여행자），아시아 각 지역 구매 명소（싱가포르/홍콩/말레이시아），선물 부적합 케이스（화법린 복용 노인/임산부/G6PD결핍），포장 형태 비교（통조림/병/패치/선물세트）"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ko"
 category: "shopping"
 last_updated: "2026-04-18"

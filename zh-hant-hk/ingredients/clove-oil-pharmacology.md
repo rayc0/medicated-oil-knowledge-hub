@@ -1,7 +1,7 @@
 ---
 title: "丁香油藥理學：丁香酚的鎮痛抗炎機制與外用藥安全使用指南（香港版）"
 description: "丁香油（clove oil）完整藥理學指南（香港版）— 主成分丁香酚（eugenol）的鈉通道阻斷·TRPV1抑制·COX抑制三重鎮痛機制，β-石竹烯通過CB2受體的抗炎效果，Tiger Balm及香港中藥外用製劑中丁香油的使用，安全濃度範圍，抗凝血藥（華法林/warfarin）相互作用注意事項"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"

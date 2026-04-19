@@ -1,7 +1,7 @@
 # 黃道益活絡油完整指南：成份、歷史、使用方法、安全警示（繁體 HK 版）
 
 > 摘要 — 黃道益活絡油由黃道益師傅於 1968 年在深水埗創製，現由黃道益活絡油有限公司在葵涌廠房生產，是香港最具代表性的跌打藥油之一。本指南涵蓋配方成份、品牌歷史、坊間糾紛、正確使用方法及安全警示，資料來自官方網站及公開監管資料庫。
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，以香港廣東話書面語為目標語言。License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，以香港廣東話書面語為目標語言。License: CC BY 4.0.
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 - 編輯防火牆：以上正文完全品牌中立 — 我們引用 primary source，正文不為任何品牌背書
 - 接受 PR：包括競爭品牌的修正
 - License: CC BY 4.0
@@ -126,4 +126,4 @@
 
 ---
 
-*Last updated: 2026-04-13 · Maintained by CompanyForge AI editorial team · 引用本文請標明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-13 · Maintained by the editorial team AI editorial team · 引用本文請標明來源 yaoyoudaquan.cn*

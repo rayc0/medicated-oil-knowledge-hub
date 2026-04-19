@@ -1,7 +1,7 @@
 ---
 title: "薬用オイルで腰痛を和らげる：塗布方法・製品比較・注意すべき症状"
 description: "腰痛への薬用オイル活用ガイド — 外用薬が効果的な腰痛の種類と効果が期待できない状態の区別、腰部と上背部への塗布技術、Tiger Balm・サロンパス・ロイヒ製品の比較表、温熱療法との組み合わせ方、医療機関受診が必要な危険サイン"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "樟腦：藥理機制、安全劑量、嬰幼兒毒性完整解析"
 description: "樟腦（Camphor）完整藥理指南 — 作用機制、FDA安全劑量標準、嬰幼兒致死劑量、G6PD蠶豆症禁忌。香港繁體中文版。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -471,7 +471,7 @@ AAP發表聲明（Pediatrics，1994；94(1):127-128），建議：**家長應將
 
 ## 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立——我們引用 primary source，不做品牌推薦或排名
 - **接受更正**：包括競爭品牌的修正，歡迎提交 GitHub Pull Request
@@ -481,4 +481,4 @@ AAP發表聲明（Pediatrics，1994；94(1):127-128），建議：**家長應將
 
 ---
 
-*最後更新：2026-04-17 · 由 CompanyForge AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*

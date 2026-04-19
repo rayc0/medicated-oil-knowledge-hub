@@ -1,7 +1,7 @@
 ---
 title: "シンガポールの薬油文化：Tiger Balmの本拠地と多民族薬油文化"
 description: "シンガポールにおける薬油の伝統的使用文化 — Tiger Balmの発祥地、中華系・マレー系・インド系の多民族薬油文化、Axe Brand・Yee Tin Tongブランド、熱帯気候に合わせた使い方、在住日本人向け購入ガイド"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ja"
 category: "regions"
 last_updated: "2026-04-18"

@@ -1,7 +1,7 @@
 ---
 title: "약용 오일에서의 라벤더 오일 약리 작용과 배합 효과"
 description: "약용 오일(메디케이티드 오일)에 사용되는 라벤더 오일의 약리 작용 — 리나롤·아세트산리나릴의 진정·항염증 메커니즘, 멘톨·캄파와의 배합 상승효과, Tiger Balm·Kwan Loong·백화유(白花油)의 라벤더 배합 사례, 아로마테라피 vs 약용 배합의 차이, 안전성과 금기(임산부·영유아·호르몬 감수성 질환)"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"

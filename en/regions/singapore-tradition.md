@@ -1,7 +1,7 @@
 ---
 title: "Singapore's Medicated Oil Tradition: Tiger Balm Heritage, Peranakan Remedies and the Modern Market"
 description: "Guide to Singapore's medicated oil heritage — Tiger Balm's founding story in Singapore, Peranakan traditional herbal remedies, Chinese clan associations' role in TCM propagation, comparison of iconic Singapore-origin products, and Singapore's current medicated oil retail market"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"

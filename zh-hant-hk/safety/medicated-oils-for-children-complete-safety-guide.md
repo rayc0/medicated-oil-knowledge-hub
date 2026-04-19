@@ -1,7 +1,7 @@
 ---
 title: "兒童使用藥油全面安全指南：禁忌成分、年齡限制及緊急處理"
 description: "詳述兒童皮膚的生理特性、按年齡劃分的藥油使用矩陣、三項絕對禁忌成分的危害機制，以及誤服後的緊急處置流程，包括香港毒藥諮詢服務資訊。"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"

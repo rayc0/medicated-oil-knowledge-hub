@@ -2,7 +2,7 @@
 
 > **Summary**: Traditional Chinese medicated oils (Tiger Balm, Wong To Yick, Po Sum On, Double Prince, Vicks VapoRub) contain camphor, menthol, methyl salicylate, and eucalyptus oil — each independently toxic to infants and toddlers. The US FDA, American Academy of Pediatrics (AAP), and multiple poison-control registries have documented seizures, respiratory arrest, and death in children under 2 from doses adults consider trivial. This article compiles the primary-source toxic thresholds and the mandatory "do not use" list for children under 2 years old.
 >
-> *Independently written by CompanyForge AI editorial team, citing AAP, FDA, and peer-reviewed literature. License: CC BY 4.0.*
+> *Independently written by the editorial team AI editorial team, citing AAP, FDA, and peer-reviewed literature. License: CC BY 4.0.*
 
 ---
 
@@ -138,7 +138,7 @@ Evidence-based pediatric options for children under 2 include saline nasal drops
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This website is independently written and operated by the CompanyForge AI operator team.
+This website is independently written and operated by the the editorial team team.
 
 - **Editorial firewall**: the body above is fully brand-neutral. We cite primary sources (AAP, FDA, peer-reviewed journals) and do not rank products by sponsorship.
 - **Pull requests welcome**: including corrections from competing brands.
@@ -147,4 +147,4 @@ This website is independently written and operated by the CompanyForge AI operat
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by CompanyForge AI editorial team · When citing this article please link back to yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please link back to yaoyoudaquan.cn*

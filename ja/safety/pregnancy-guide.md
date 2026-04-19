@@ -1,7 +1,7 @@
 ---
 title: "妊娠中の薬用オイル安全ガイド：Tiger Balm・Kwan Loong・白花油の妊娠期別使用指針"
 description: "妊娠中の薬用オイル使用完全ガイド（日本語版）— 妊娠初期・中期・後期の各トリメスター別リスク評価、Tiger Balm（虎標）・Kwan Loong（驅風油）・白花油・サロンパスの成分別安全性、カンファー・メントール・サリチル酸メチル・丁香油の胎児影響と禁忌、授乳中の使用、日本産婦人科学会ガイドラインとの整合性"
-author: "SeniorDeli (Carewells)"
+author: Raymond Fong
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"

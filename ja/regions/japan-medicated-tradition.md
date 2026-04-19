@@ -1,7 +1,7 @@
 ---
 title: "日本の薬用オイル・外用鎮痛剤の伝統：漢方外用薬からサロンパスまで"
 description: "日本の薬用オイルと外用鎮痛剤の歴史的・文化的背景 — 江戸時代の膏薬（こうやく）文化、明治以降の西洋薬学との融合、サロンパスなど日本独自ブランドの発展、Tiger Balmなど東南アジア薬用オイルの日本での受容、および日本市場の主要製品比較"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ja"
 category: "regions"
 last_updated: "2026-04-18"

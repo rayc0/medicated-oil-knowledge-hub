@@ -1,7 +1,7 @@
 ---
 title: "薄荷醇：作用機制、涼感原理與安全使用指南"
 description: "薄荷醇（Menthol）完整藥理指南 — TRPM8受體機制、安全濃度、嬰幼兒喉痙攣風險、G6PD蠶豆症注意事項。香港繁體中文版。"
-author: "CompanyForge AI"
+author: "the editorial team AI"
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/menthol-pharmacology.
 
 > **摘要** — 薄荷醇（Menthol，C₁₀H₂₀O）是華人世界藥油產品中最廣泛使用的活性成分之一。它透過激動 TRPM8 冷覺受體產生「涼感」，同時具有弱局部麻醉與抗炎作用。然而，2歲以下嬰幼兒面部或鼻部使用可引發致命性喉痙攣，屬絕對禁忌。G6PD缺乏症（蠶豆症）患者與孕婦亦需特別留意。
 >
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 PubMed、FDA OTC Monograph、歐盟 SCCS 意見及香港衛生署藥物規管資料。License: CC BY 4.0。
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 PubMed、FDA OTC Monograph、歐盟 SCCS 意見及香港衛生署藥物規管資料。License: CC BY 4.0。
 
 ---
 
@@ -320,7 +320,7 @@ G6PD 缺乏症在香港及華南、東南亞人群中高度流行，發病率約
 
 ## 商業披露 / 編輯防火牆
 
-本網站由 **CompanyForge AI operator team** 自主撰寫運營。
+本網站由 **the editorial team team** 自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立——引用內容均來自 PubMed 同行評審文獻、FDA OTC 專論、歐盟 SCCS 評估意見及香港相關法規。無任何品牌贊助正文內容。
 - **接受更正**：包括競爭品牌的事實性更正，請發送至 editorial@yaoyoudaquan.cn
@@ -329,4 +329,4 @@ G6PD 缺乏症在香港及華南、東南亞人群中高度流行，發病率約
 
 ---
 
-*最後更新：2026-04-17 · 由 CompanyForge AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*

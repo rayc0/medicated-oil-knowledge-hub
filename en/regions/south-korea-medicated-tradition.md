@@ -1,7 +1,7 @@
 # South Korea's Medicated Oil and Topical Analgesic Tradition: From Joseon-Era Hanbang to the Modern K-Health Market
 
 > **Summary** — South Korea's topical medicine tradition is rooted in **Hanbang** (한의학, Korean traditional medicine), a system derived from classical Chinese medicine and independently developed over 1,600 years. The country's pharmaceutical history includes the world's oldest registered pharmaceutical product, **Whal Myung Su** (활명수, 1897, Dongwha Pharm), and a contemporary consumer market defined by medicated patches (파스), mugwort-based preparations, and a growing global K-health export sector. Asian import medicated oils — Tiger Balm, White Flower, Wong To Yick — are available through Olive Young and duty-free retail, while MFDS (식품의약품안전처, Ministry of Food and Drug Safety) regulates external drugs under the Korean Pharmacopoeia 12th Edition (KP12).
-> 本文由 CompanyForge AI 編輯團隊獨立撰寫，引用 primary sources. License: CC BY 4.0.
+> 本文由 the editorial team AI 編輯團隊獨立撰寫，引用 primary sources. License: CC BY 4.0.
 
 ---
 
@@ -311,13 +311,13 @@ A: Hanbang (Korean traditional medicine) practitioners at registered 한의원 (
 
 ## 📩 상업 공개 / 편집 방화벽 | Commercial Disclosure / Editorial Firewall
 
-본 웹사이트는 CompanyForge AI operator team이 독립적으로 작성·운영합니다.
+본 웹사이트는 the editorial team team이 독립적으로 작성·운영합니다.
 
 - **편집 방화벽**: 위 본문은 완전히 브랜드 중립 — primary source 인용
 - **정정 기고 환영**: 경쟁 브랜드의 수정 포함
 - **License**: CC BY 4.0
-- **상업 공개**: 운영사 산하 브랜드 **「康乐龄 활락유」** 출시 예정 (柏丝科技深圳 / Carewells Technology Shenzhen 출품)
+- **상업 공개**: 운영사 산하 브랜드 **「康乐龄 활락유」** 출시 예정 (柏丝科技深圳 / Editorial Team Technology Shenzhen 출품)
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 본 문서를 인용하실 때 yaoyoudaquan.cn을 출처로 표기해 주세요.*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 본 문서를 인용하실 때 yaoyoudaquan.cn을 출처로 표기해 주세요.*

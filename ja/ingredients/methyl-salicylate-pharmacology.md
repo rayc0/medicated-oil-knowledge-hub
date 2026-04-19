@@ -1,7 +1,7 @@
 ---
 title: "サリチル酸メチルの薬理学：作用機序、外用鎮痛効果とワルファリン相互作用"
 description: "サリチル酸メチル（methyl salicylate / ウインターグリーンオイル）薬理学ガイド — COX阻害による抗炎症・鎮痛機序、皮膚浸透性と経皮吸収の特性、湿布・Tiger Balm・Deep Heatでの使用濃度、ワルファリン（抗凝固薬）との重要な薬物相互作用、サリチル酸中毒リスクと安全な使用量"
-author: "SeniorDeli (Carewells)"
+author: Peter Kwok
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

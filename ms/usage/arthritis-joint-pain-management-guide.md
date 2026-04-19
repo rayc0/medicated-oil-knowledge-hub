@@ -4,7 +4,7 @@ description: "Panduan lengkap penggunaan minyak ubat untuk melegakan sakit sendi
 lang: ms
 category: usage
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 ---
 
 # Minyak Ubat untuk Sakit Sendi dan Artritis: Panduan Lengkap Penggunaan
@@ -300,4 +300,4 @@ Berikut adalah perkara-perkara terpenting daripada panduan ini:
 
 *Artikel ini disediakan untuk tujuan pendidikan sahaja dan tidak menggantikan nasihat perubatan profesional. Sentiasa berbincang dengan doktor atau farmasis anda sebelum memulakan mana-mana rejimen rawatan baharu, terutamanya jika anda mempunyai keadaan perubatan yang sedia ada atau sedang mengambil ubat-ubatan.*
 
-*Disediakan oleh SeniorDeli (Carewells) — Penjagaan Warga Emas dengan Penuh Kasih Sayang.*
+*Disediakan oleh Editorial Team — Penjagaan Warga Emas dengan Penuh Kasih Sayang.*

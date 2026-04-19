@@ -1,7 +1,7 @@
 ---
 title: "運動傷害藥油急救指南：香港運動愛好者必讀"
 description: "運動傷害時藥油嘅正確使用時機 — 扭傷、拉傷、肌肉痙攣嘅藥油選擇、急性期同恢復期用法、RICE原則配合藥油嘅實際應用"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

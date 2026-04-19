@@ -2,7 +2,7 @@
 
 > 摘要 — 東南亞華僑藥油文化係 19 世紀末南洋移民潮嘅直接產物。華南（尤其廣東、福建、客家）移民帶住祖傳草藥知識登陸星馬印，喺熱帶濕熱氣候同艱苦勞工環境下，將薄荷、樟腦、桉葉油調配嘅外用藥油演化成跨代傳承嘅家庭必需品。本文由香港讀者視角出發，梳理新加坡（虎標萬金油、斧頭牌藥油）、馬來西亞（如意油、Cap Kapak、白花油發源地）、印尼（Cap Lang 鷹標、Freshcare、萬金油傳統）三地華僑藥油文化脈絡，對比區域監管差異，並解析「風油」（minyak angin）點樣成為東南亞跨族群共有嘅文化符號。特別強調南洋 → 香港嘅歷史連結：白花油 1927 年喺檳城誕生而 1950 年遷港、如意油二戰後由黃寧樓攜方遷港、虎標永安堂 1932 年由新加坡再遷港——香港其實係南洋華僑藥油網絡嘅最終匯流點。**本文為文化歷史敘述，所有藥油功效描述僅供參考，不構成醫療建議。**
 >
-> 本文由 [CompanyForge](https://companyforge.ai) AI 編輯團隊獨立撰寫，引用 Wikipedia、Singapore NLB、Roots.gov.sg、HSA、NPRA、BPOM、香港衞生署中醫藥規管辦公室等 primary sources。License: CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 編輯團隊獨立撰寫，引用 Wikipedia、Singapore NLB、Roots.gov.sg、HSA、NPRA、BPOM、香港衞生署中醫藥規管辦公室等 primary sources。License: CC BY 4.0。
 
 ---
 
@@ -304,7 +304,7 @@ BPOM 要求：
 
 ## 📩 商業披露 / 編輯防火牆
 
-本網站由 CompanyForge AI operator team 自主撰寫運營。
+本網站由 the editorial team team 自主撰寫運營。
 - **編輯防火牆**：以上正文完全品牌中立 — 我哋引用 primary sources，不接受任何品牌付費植入
 - **接受 PR**：包括競爭品牌嘅修正
 - **License**: CC BY 4.0
@@ -312,4 +312,4 @@ BPOM 要求：
 
 ---
 
-*最後更新：2026-04-18 · 字數：約 3,300 字 · Maintained by CompanyForge AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-18 · 字數：約 3,300 字 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*

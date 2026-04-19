@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Pemulihan Otot: Panduan Lengkap Selepas Senaman"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional untuk pemulihan otot selepas senaman — teknik urutan, masa sapuan yang optimum, dan perbandingan produk untuk atlet dan pengguna kasual"
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
@@ -368,4 +368,4 @@ Berikut adalah intipati panduan ini:
 
 *Artikel ini disediakan untuk tujuan pendidikan dan maklumat sahaja dan tidak menggantikan nasihat perubatan atau fisioterapi profesional. Jika anda mengalami kesakitan otot yang teruk, berterusan lebih dari 7 hari, atau disertai bengkak, demam, atau ketidakupayaan berfungsi, sila dapatkan nasihat doktor atau fisioterapis.*
 
-*Disediakan oleh SeniorDeli (Carewells) — Penjagaan Kesihatan dengan Penuh Kasih Sayang.*
+*Disediakan oleh Editorial Team — Penjagaan Kesihatan dengan Penuh Kasih Sayang.*

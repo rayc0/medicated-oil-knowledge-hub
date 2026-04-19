@@ -1,7 +1,7 @@
 ---
 title: "尤加利油藥理學：1,8-桉葉素的抗炎鎮痛、呼吸道舒緩與外用藥應用（香港版）"
 description: "尤加利油（eucalyptus oil）完整藥理學指南（香港版）— 主成分1,8-桉葉素（cineole）的NF-κB抑制抗炎機制、TRPV1鎮痛效果、呼吸道舒緩（黏液清除·支氣管擴張），尤加利油在Kwan Loong（驅風油）·白花油·Tiger Balm中的含量，安全濃度指引，嬰幼兒及氣喘患者注意事項"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
@@ -13,7 +13,7 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/eucalyptus-oil-pharma
 
 > **摘要** — 尤加利油（Eucalyptus Oil，又稱桉油）的主要活性成分為 **1,8-桉葉素**（1,8-cineole，亦名 eucalyptol），佔精油成分的 60–90%。1,8-桉葉素透過抑制 **NF-κB 信號通路**發揮抗炎作用，透過 **TRPV1 受體脫敏**緩解疼痛，並透過促進黏液纖毛清除與支氣管擴張舒緩呼吸道不適。本文為香港醫藥消費者提供完整藥理機制分析、主要產品含量對照、安全濃度指引及禁忌人群說明，並與薄荷醇（menthol）進行呼吸道舒緩效果比較。
 >
-> 本文由 SeniorDeli (Carewells) 編輯團隊獨立撰寫，引用 PubMed、歐盟 SCCS 意見、香港衛生署藥物規管資料及相關臨床研究。License: CC BY 4.0。
+> 本文由 Editorial Team 編輯團隊獨立撰寫，引用 PubMed、歐盟 SCCS 意見、香港衛生署藥物規管資料及相關臨床研究。License: CC BY 4.0。
 
 ---
 

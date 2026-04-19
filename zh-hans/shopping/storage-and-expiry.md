@@ -1,7 +1,7 @@
 # 药油怎么保存？过期了还能用吗？
 
 > 摘要 — 药油的活性成份以挥发性精油（樟脑、薄荷醇、水杨酸甲酯）为主，对光照、高温和空气氧化极为敏感。正确保存可将有效期延至标注期限甚至稍长；错误保存会使效力大幅下降甚至产生刺激性分解产物。本文基于药学原理及香港、中国大陆、美国药典相关规定，系统解答「怎么存」与「过期了怎么办」两大问题。
-> 本文由 CompanyForge AI 编辑团队独立撰写。License: CC BY 4.0.
+> 本文由 the editorial team AI 编辑团队独立撰写。License: CC BY 4.0.
 
 ---
 
@@ -140,7 +140,7 @@
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 CompanyForge AI operator team 自主撰写运营。
+本网站由 the editorial team team 自主撰写运营。
 - 编辑防火墙：以上正文完全品牌中立，引用 primary source
 - 接受 PR：包括竞争品牌的修正
 - License: CC BY 4.0
@@ -148,4 +148,4 @@
 
 ---
 
-*Last updated: 2026-04-13 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-13 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

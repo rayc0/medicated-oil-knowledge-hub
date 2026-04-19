@@ -1,7 +1,7 @@
 ---
 title: "멀미·메스꺼움에 약용 오일 활용 가이드: Tiger Balm White·보심안유 사용법"
 description: "멀미 및 메스꺼움에 약용 오일 완전 가이드（한국어）— Tiger Balm White·보심안유의 멀미 완화 성분 분석, 올바른 도포 부위(배꼽 아래/코 아래/관자놀이), 멀미약과의 비교, 차량/선박/항공기별 사용 팁, 임산부 멀미에 약용 오일이 적합하지 않은 이유"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "ko"
 category: "usage"
 canonical: "https://yaoyoudaquan.cn/ko/usage/motion-sickness-guide"

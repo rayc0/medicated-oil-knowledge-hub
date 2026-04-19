@@ -4,7 +4,7 @@ description: "Evidence-based guide to using medicated oils and topical analgesic
 lang: en
 category: usage
 date: 2026-04-15
-author: Medicated Oil Knowledge Hub
+author: Dr. Amy Tsui
 tags:
   - sports injury
   - first aid

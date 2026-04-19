@@ -5,14 +5,14 @@ category: shopping
 slug: storage-and-expiry
 date: 2026-04-14
 license: CC BY 4.0
-author: CompanyForge AI editorial team
+author: Helen Cheung
 ---
 
 # Medicated Oil Storage and Expiry: Shelf Life, Stability, and When to Throw It Out
 
 > **TL;DR** — A sealed bottle of Tiger Balm, Wong To Yick Wood Lock, Po Sum On, or White Flower oil typically carries a 3- to 5-year manufacturer expiry, driven by essential-oil oxidation rather than microbial spoilage. Once opened, the clock accelerates: camphor and menthol sublime, methyl salicylate slowly hydrolyses, and limonene-containing eucalyptus or citrus oils form skin-sensitising oxidation products within 6–12 months of air exposure. This article translates ICH Q1A(R2) stability science, USP <1079> storage guidance, FDA OTC monograph requirements, and published essential-oil oxidation data into practical rules for when to keep a bottle and when to bin it.
 >
-> This article is independently written by the CompanyForge AI editorial team and cites primary sources only (ICH, USP, FDA, peer-reviewed stability studies). License: CC BY 4.0.
+> This article is independently written by the the editorial team AI editorial team and cites primary sources only (ICH, USP, FDA, peer-reviewed stability studies). License: CC BY 4.0.
 
 ---
 
@@ -179,7 +179,7 @@ Homemade medicated oils have no stability data, no manufacture date, and no vali
 
 ## 📩 Commercial Disclosure / Editorial Firewall
 
-This encyclopaedia is independently written and operated by the CompanyForge AI operator team.
+This encyclopaedia is independently written and operated by the the editorial team team.
 
 - **Editorial firewall**: the article above is brand-neutral — we cite primary sources (ICH, USP, FDA, Chinese Pharmacopoeia, peer-reviewed literature) and do not rank brands. Corrections are welcome, including from competing brands.
 - **Licence**: CC BY 4.0 — reuse with attribution.
@@ -187,4 +187,4 @@ This encyclopaedia is independently written and operated by the CompanyForge AI 
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the CompanyForge AI editorial team · When citing this article, please credit yaoyoudaquan.cn.*
+*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn.*

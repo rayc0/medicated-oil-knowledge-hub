@@ -1,7 +1,7 @@
 ---
 title: "ペパーミントオイルとメントールクリスタルの比較：薬用オイルにおける冷感作用の違い"
 description: "薬用オイルにおけるペパーミントオイルとメントールクリスタルの薬理・用途比較 — ペパーミントオイル（メントール50-78%+メントン/リモネン）とメントールクリスタル（純メントール99%+）の成分差、TRPM8冷感受容体への作用強度、Tiger Balm・Kwan Loong・白花油でのどちらが使われているか、頭痛/筋肉痛/鼻詰まりへの使い分け、安全性比較"
-author: "SeniorDeli (Carewells)"
+author: Editorial Team
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

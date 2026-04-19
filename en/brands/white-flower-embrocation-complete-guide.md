@@ -4,7 +4,7 @@ description: "A full reference on White Flower Embrocation: the Gan Geok Eng fam
 lang: en
 category: brands
 date: 2026-04-14
-author: "Medicated Oil Knowledge Hub"
+author: Dr. James Wu
 ---
 
 # White Flower Embrocation (白花油) — Complete Guide to the Hong Kong Cold-and-Headache Classic

@@ -1,7 +1,7 @@
 ---
 title: "Medicated Oil for Sports and Muscle Recovery: Pre-Workout, Post-Workout, and Injury First Aid"
 description: "Medicated oil sports use guide — pre-workout warming application (Tiger Balm Red/Axe Brand/Salonpas patch), post-workout muscle recovery (lactic acid soreness vs DOMS), acute sprain first aid vs chronic pain management, cooling vs heating oil selection for different injuries (acute inflammation = cool/menthol; chronic stiffness = warm/camphor), sports professionals' topical analgesic protocol, when to seek medical attention instead of self-treating"
-author: "SeniorDeli (Carewells)"
+author: Dr. James Wu
 language: "en"
 category: "usage"
 last_updated: "2026-04-18"

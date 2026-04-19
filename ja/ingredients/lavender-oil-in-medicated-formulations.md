@@ -1,7 +1,7 @@
 ---
 title: "薬用オイルにおけるラベンダーオイルの薬理作用と配合効果"
 description: "薬用オイル（メディケイテッドオイル）に使用されるラベンダーオイルの薬理作用 — リナロール・酢酸リナリルの鎮静・抗炎症メカニズム、メントール・カンファーとの配合相乗効果、Tiger Balm・Kwan Loong・白花油へのラベンダー配合事例、アロマセラピー vs 薬用配合の違い、安全性と禁忌（妊婦・乳幼児・ホルモン感受性疾患）"
-author: "SeniorDeli (Carewells)"
+author: Dr. Amy Tsui
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"

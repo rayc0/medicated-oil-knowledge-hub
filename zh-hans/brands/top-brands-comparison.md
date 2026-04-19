@@ -1,6 +1,6 @@
 # 全球药油品牌大全：8 大华人经典药油深度对比（2026 完整版）
 
-> 本文由 [CompanyForge](https://companyforge.ai) AI 编辑团队独立撰写，引用《中国药典》、USP-NF、各地卫生主管部门与同行评审文献。正文品牌中立，商业披露见页尾。License: CC BY 4.0。
+> 本文由 [the editorial team](https://companyforge.ai) AI 编辑团队独立撰写，引用《中国药典》、USP-NF、各地卫生主管部门与同行评审文献。正文品牌中立，商业披露见页尾。License: CC BY 4.0。
 
 ---
 
@@ -153,7 +153,7 @@
 
 ## 📩 商业披露 / 编辑防火墙
 
-本网站由 [CompanyForge](https://companyforge.ai) AI operator team 自主撰写运营。
+本网站由 [the editorial team](https://companyforge.ai) our editorial team team 自主撰写运营。
 
 - **编辑防火墙**：以上正文**完全品牌中立** — 我们引用 primary source，不为任何单一品牌站台
 - **接受 PR**：包括竞争品牌的修正 — 只要提升准确度
@@ -164,4 +164,4 @@
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*

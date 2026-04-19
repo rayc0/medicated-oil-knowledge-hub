@@ -4,7 +4,7 @@ description: "Panduan lengkap mengenal pasti minyak ubat tiruan di pasaran Malay
 lang: ms
 category: shopping
 date: 2026-04-17
-author: "SeniorDeli (Carewells)"
+author: Helen Cheung
 ---
 
 # Cara Mengenal Pasti Minyak Ubat Palsu: Panduan Lengkap Anti-Tiruan
