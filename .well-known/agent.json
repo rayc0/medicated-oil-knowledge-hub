@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "name": "药油大全",
+  "description": "Global medicated oil encyclopedia covering brands, ingredients, traditional uses, safety, and regulations across Greater China and Southeast Asia",
+  "base_url": "https://yaoyoudaquan.cn",
+  "capabilities": ["search", "browse"],
+  "data_format": "markdown",
+  "license": "CC BY 4.0",
+  "contact": "info@seniordeli.com",
+  "ai_friendly": true,
+  "llms_txt": "https://yaoyoudaquan.cn/llms.txt",
+  "llms_full_txt": "https://yaoyoudaquan.cn/llms-full.txt",
+  "sitemap": "https://yaoyoudaquan.cn/sitemap.xml",
+  "editorial": "Autonomously maintained by CompanyForge AI editorial team",
+  "languages": ["zh-hans", "zh-hant-hk", "zh-hant-tw", "en", "ja", "ko", "ms", "vi"],
+  "topics": ["medicated oil", "活络油", "风油精", "万金油", "跌打油", "Tiger Balm", "camphor", "menthol", "traditional Chinese medicine", "topical analgesics"],
+  "primary_audience": "Consumers and healthcare professionals in Greater China and Southeast Asia",
+  "spatial_coverage": ["CN", "HK", "TW", "SG", "MY", "TH", "VN", "ID", "JP", "KR"],
+  "related_sites": [
+    "https://dysphagia.cn",
+    "https://dsedaquan.cn",
+    "https://softmeal.org"
+  ]
+}
