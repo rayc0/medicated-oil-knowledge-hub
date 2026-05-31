@@ -25,3 +25,114 @@ document.addEventListener('DOMContentLoaded',function(){
   document.body.appendChild(f);
 });
 </script>
+
+{% comment %}=== Meta, OG, Schema injected by AI-native update 2026-05-31 ==={% endcomment %}
+
+<!-- Google Search Console verification — uncomment and replace [GOOGLE_VERIFICATION_TOKEN] with token from GSC -->
+<!-- <meta name="google-site-verification" content="[GOOGLE_VERIFICATION_TOKEN]"> -->
+<!-- Baidu webmaster verification — uncomment and replace [BAIDU_TOKEN] with token from ziyuan.baidu.com -->
+<!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
+
+{% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
+{% assign site_url = "https://yaoyoudaquan.cn" %}
+{% if page.canonical %}
+  {% assign full_url = page.canonical %}
+{% else %}
+  {% assign full_url = page.url | prepend: site_url %}
+{% endif %}
+
+<!-- Meta description -->
+{% if page.description %}<meta name="description" content="{{ page.description | escape }}">{% endif %}
+
+<!-- Canonical -->
+{% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+
+<!-- OpenGraph -->
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ full_url }}">
+<meta property="og:image" content="{{ site_url }}/assets/img/og-default.png">
+<meta property="og:site_name" content="藥油大全 yaoyoudaquan.cn">
+<meta property="og:locale" content="{{ page_lang | replace: '-', '_' }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+<meta name="twitter:image" content="{{ site_url }}/assets/img/og-default.png">
+
+<!-- hreflang -->
+<link rel="alternate" hreflang="{{ page_lang }}" href="{{ full_url }}">
+<link rel="alternate" hreflang="zh-Hans" href="{{ site_url }}/zh-hans/">
+<link rel="alternate" hreflang="zh-Hant-HK" href="{{ site_url }}/zh-hant-hk/">
+<link rel="alternate" hreflang="en" href="{{ site_url }}/en/">
+<link rel="alternate" hreflang="x-default" href="{{ site_url }}/zh-hans/">
+
+<!-- Schema: Article -->
+{% if page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ full_url }}#article",
+  "headline": {{ page.title | jsonify }},
+  {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+  "inLanguage": "{{ page_lang }}",
+  {% if page.date %}"datePublished": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  {% if page.last_updated %}"dateModified": "{{ page.last_updated | date: '%Y-%m-%d' }}",{% elsif page.date %}"dateModified": "{{ page.date | date: '%Y-%m-%d' }}",{% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "藥油大全知識庫",
+    "url": "https://yaoyoudaquan.cn"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "{{ site_url }}/#org",
+    "name": "藥油大全 yaoyoudaquan.cn"
+  },
+  {% if page.tags %}"keywords": {{ page.tags | join: ', ' | jsonify }},{% endif %}
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isPartOf": {"@id": "{{ site_url }}/#website"}
+}
+</script>
+{% endif %}
+
+<!-- Schema: BreadcrumbList -->
+{% if page.category and page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": "{{ site_url }}/"},
+    {"@type": "ListItem", "position": 2, "name": "{{ page.category }}", "item": "{{ site_url }}/{{ page_lang }}/{{ page.category }}/"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ full_url }}"}
+  ]
+}
+</script>
+{% endif %}
+
+<!-- Schema: Organization (every page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ site_url }}/#org",
+  "name": "藥油大全知識庫",
+  "url": "{{ site_url }}",
+  "description": "香港常用藥油品牌、成分、用法、地區特色 — 完整知識庫。文化教育內容，CC BY 4.0。",
+  "sameAs": ["https://seniordeli.com","https://ycchau.com"]
+}
+</script>
+
+<!-- Schema: WebSite (every page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ site_url }}/#website",
+  "name": "藥油大全 — 香港藥油知識庫",
+  "url": "{{ site_url }}"
+}
+</script>
