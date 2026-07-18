@@ -4,7 +4,7 @@ description: "Complete pharmacology of Tu Bie Chong (土鳖虫 / Eupolyphaga sin
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Tu Bie Chong (Eupolyphaga sinensis) Pharmacology — The Ground Beetle Behind Dit Da Jow, Bone-Knit Pills, and Internal Trauma Liniments

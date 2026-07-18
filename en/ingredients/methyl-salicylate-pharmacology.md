@@ -4,7 +4,7 @@ description: "How methyl salicylate works in medicated oils: COX inhibition, TRP
 lang: en
 category: ingredients
 date: 2026-04-15
-author: "Yaoyou Content Officer"
+author: Yaoyou Editorial Team
 ---
 
 # Methyl Salicylate Pharmacology — Counter-irritant Mechanism and Safety in TCM Medicated Oils

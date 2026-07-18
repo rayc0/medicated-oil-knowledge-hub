@@ -4,7 +4,7 @@ description: "Complete pharmacology of Niu Huang (Calculus Bovis, ox bezoar): bi
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Niu Huang (Calculus Bovis / Ox Bezoar) Pharmacology — The Heat-Clearing, Mind-Opening Animal Concretion Behind An Gong Niu Huang Wan and the Premium End of the Topical Cooling Pharmacopoeia

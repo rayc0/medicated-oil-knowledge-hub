@@ -4,7 +4,7 @@ description: "深度解析大黃（Rheum palmatum / R. tanguticum / R. officinal
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 大黃（大黃 / Rheum palmatum / Chinese Rhubarb）藥理全解 —— 撐起「雲南白藥」「跌打酒」「萬花油」嗰類活血化瘀方嘅蒽醌錨

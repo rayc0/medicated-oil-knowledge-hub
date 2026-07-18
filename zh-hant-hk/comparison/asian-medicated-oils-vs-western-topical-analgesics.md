@@ -4,7 +4,7 @@ description: "亞洲傳統藥油（虎標、黃道益、白花油）與西方外
 lang: zh-hant-hk
 category: comparison
 date: 2026-04-17
-author: Raymond Fong
+author: 藥油大全編輯部
 ---
 
 # 中式藥油 vs 西式外用止痛藥：全面對比指南

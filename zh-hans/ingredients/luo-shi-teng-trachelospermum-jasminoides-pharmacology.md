@@ -4,7 +4,7 @@ description: "深入解析风湿外洗药酒与跌打配方里常被忽视的络
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 络石藤（Trachelospermum jasminoides）药理全解 — 络石苷、牛蒡苷与那味组『风湿热痹外洗方』凉宣经络的夹竹桃科常绿藤

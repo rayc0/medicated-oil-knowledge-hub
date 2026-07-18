@@ -4,7 +4,7 @@ description: "更年期潮熱（hot flash）和盜汗（night sweats）是困擾
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Medicated Oil Hub
+author: 藥油大全編輯部
 tags:
   - 更年期
   - 潮熱

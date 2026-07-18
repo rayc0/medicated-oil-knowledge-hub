@@ -4,7 +4,7 @@ description: "茶树精油常出现在与亚洲药油同架销售的抗菌急救
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # 茶树精油（Melaleuca alternifolia）药理完整指南：松油烯-4-醇、ISO 4730 标准与氧化才是真正风险

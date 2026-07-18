@@ -4,7 +4,7 @@ description: "A deep-dive into Ammeltz Yoko Yoko (アンメルツ ヨコヨコ):
 lang: en
 category: brands
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Ammeltz Yoko Yoko Complete Guide — Kobayashi's Bent-Neck Bottle and Japan's Invisible Shoulder Pain Remedy

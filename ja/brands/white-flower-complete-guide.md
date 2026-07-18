@@ -1,7 +1,7 @@
 ---
 title: "白花油（White Flower Oil）完全ガイド：成分・効能・Tiger Balmとの使い分け"
 description: "White Flower Oil（白花油）完全ガイド（日本語）— ユーカリ40%・ラベンダー・薄荷・ウィンターグリーン複合成分分析、頭痛・鼻詰まり・筋肉痛・乗り物酔い・軽い消化不良への使い方、Tiger Balm Whiteとの比較、ワーファリン服用者への注意、日本での購入方法"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"

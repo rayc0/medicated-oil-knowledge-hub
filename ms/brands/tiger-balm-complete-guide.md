@@ -4,7 +4,7 @@ description: "Panduan Bahasa Melayu untuk Tiger Balm — sejarah 150 tahun dari 
 lang: ms
 category: brands
 date: 2026-04-16
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 ---
 
 # Panduan Lengkap Tiger Balm: Bahan, Sejarah, Cara Kenal Asli dan Palsu, Penggunaan Selamat

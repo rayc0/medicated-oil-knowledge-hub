@@ -4,7 +4,7 @@ description: "從萬華青草巷到大甲媽祖遶境，從台灣本土如意油
 lang: zh-hant-hk
 category: regions
 date: 2026-04-20
-author: CompanyForge AI editorial team
+author: 藥油大全編輯部
 ---
 
 # 台灣藥油傳統完整指南：青草藥文化、如意油、萬金油與 TFDA 監管（香港讀者版）

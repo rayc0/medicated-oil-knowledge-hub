@@ -4,7 +4,7 @@ description: "Deep-dive into citronella oil pharmacology: Java vs Ceylon chemoty
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Helen Cheung
+author: Yaoyou Editorial Team
 ---
 
 # Citronella Oil Pharmacology — Citronellal, Geraniol, and the Insect-Repellent Note in Medicated Oils

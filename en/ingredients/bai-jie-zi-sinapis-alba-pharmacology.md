@@ -4,7 +4,7 @@ description: "A deep pharmacology brief on Bai Jie Zi (白芥子, Sinapis alba /
 lang: en
 category: ingredients
 date: 2026-05-21
-author: "Yaoyou Medicated Oil Knowledge Hub"
+author: Yaoyou Editorial Team
 ---
 
 # Bai Jie Zi (Sinapis alba / White Mustard Seed) Pharmacology

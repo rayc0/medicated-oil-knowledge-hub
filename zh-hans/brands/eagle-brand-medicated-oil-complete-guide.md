@@ -1,7 +1,7 @@
 ---
 title: "鹰标驱风油完全指南：新加坡百年经典的成分、历史、使用与安全"
 description: "全面解析新加坡鹰标驱风油（Eagle Brand Medicated Oil）的德国药剂师起源、Borden 公司家族史、水杨酸甲酯与薄荷脑成分配比、官方使用方法、与斧标和万应止痛膏的对比、孕妇儿童禁忌及如何辨别真伪"
-author: Helen Cheung
+author: 药油大全编辑部
 language: "zh-hans"
 category: "brands"
 last_updated: "2026-05-03"

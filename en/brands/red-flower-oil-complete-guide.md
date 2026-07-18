@@ -4,7 +4,7 @@ description: "A complete reference on Red Flower Oil: the Imada (依馬打) bran
 lang: en
 category: brands
 date: 2026-05-02
-author: Dr. James Wu
+author: Yaoyou Editorial Team
 ---
 
 # Red Flower Oil (正紅花油) — Complete Guide to the Hong Kong Bruise and Sprain Classic

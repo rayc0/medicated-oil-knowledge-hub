@@ -4,7 +4,7 @@ description: "深度解析中藥苦參（Sophora flavescens）的現代藥理：
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: "Yaoyou 藥油百科"
+author: 藥油大全編輯部
 ---
 
 # 苦參（Sophora flavescens）藥理全解 — 苦參堿、氧化苦參堿與那味與蛇床子搭檔『清熱燥濕、殺蟲止癢』的豆科根

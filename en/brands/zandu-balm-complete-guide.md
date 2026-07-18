@@ -4,7 +4,7 @@ description: "A complete guide to Zandu Balm, the iconic Indian Ayurvedic pain-r
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Zandu Balm — India's 1910 Ayurvedic Pain Balm: Complete Guide to Ingredients, History, Pharmacology, and Safe Use

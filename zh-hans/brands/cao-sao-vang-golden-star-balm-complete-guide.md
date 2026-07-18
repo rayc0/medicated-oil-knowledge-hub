@@ -4,7 +4,7 @@ description: "深入解析越南国民药膏「金星膏」Cao Sao Vang：从 19
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油知识库编辑部
+author: 药油大全编辑部
 ---
 
 # 越南金星膏（Cao Sao Vang / Golden Star Balm）完整指南：成分、历史、药理与安全用法

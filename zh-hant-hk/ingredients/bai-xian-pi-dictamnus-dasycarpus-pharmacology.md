@@ -4,7 +4,7 @@ description: "白鮮皮是中藥外洗止癢方裡的『第三人』。本文系
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: 藥油知識庫編輯部
+author: 藥油大全編輯部
 permalink: /zh-hant-hk/ingredients/bai-xian-pi-dictamnus-dasycarpus-pharmacology/
 ---
 

@@ -4,7 +4,7 @@ description: "A complete guide to Yu Yee Oil, the peppermint-heavy infant colic 
 lang: en
 category: brands
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Yu Yee Oil (如意油) — The Cap Limau Baby Soother of Singapore and Malaysia

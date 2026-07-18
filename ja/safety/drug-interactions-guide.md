@@ -1,7 +1,7 @@
 ---
 title: "薬草油・外用薬と処方薬の相互作用：ワルファリン・降圧薬・糖尿病薬との注意点"
 description: "薬草油と処方薬相互作用完全ガイド（日本語）— メチルサリチル酸経皮吸収とワルファリン出血リスク増大、NSAID重複効果、降圧薬使用者の注意点、糖尿病患者の皮膚感覚障害と局所薬使用リスク、G6PD欠損症とカンファーの溶血リスク、高齢多剤服用患者の安全チェックリスト、医師への申告が必要な状況"
-author: Helen Cheung
+author: Yaoyou Editorial Team
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"

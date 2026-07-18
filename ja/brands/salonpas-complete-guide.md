@@ -1,7 +1,7 @@
 ---
 title: "サロンパス（Salonpas）完全ガイド：成分・製品ラインナップ・効能・安全な使い方"
 description: "久光製薬サロンパス（Salonpas）完全ガイド（日本語）— サリチル酸メチル 10%・ℓ-メントール 3%・酢酸トコフェロール（ビタミンE）2% の薬理作用、サロンパスAe／EX（インドメタシン）／ハイ／温感／ローションの違い、効能・効果、用法・用量、5〜6日ルール、かぶれ・光線過敏症などの副作用、サリチル酸メチルの全身吸収とワーファリン相互作用、妊婦・小児・喘息（アスピリン喘息）への注意、日本での購入と外用薬油との併用、一次資料引用"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-05-18"

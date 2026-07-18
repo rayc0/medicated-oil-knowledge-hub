@@ -1,7 +1,7 @@
 ---
 title: "Metil Salisilat (Minyak Wintergreen / 冬青油): Manfaat, Ketoksikan, dan Kes Maut yang Mengubah Label — Panduan untuk Pengguna Malaysia"
 description: "Panduan klinikal lengkap tentang metil salisilat dalam minyak angin — mekanisme analgesik topikal, dos ketoksikan, kes maut Arielle Newman 2007, larangan bayi, amaran G6PD (favisme) untuk rakyat Malaysia, interaksi warfarin, dan nombor Pusat Racun Kebangsaan Malaysia."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"

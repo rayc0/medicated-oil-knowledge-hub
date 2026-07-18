@@ -4,7 +4,7 @@ description: "深入解析風濕腰膝外洗藥酒與跌打配方裡常被低估
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 桑寄生（Taxillus chinensis）藥理全解 — 槲皮素糖苷、齊墩果酸與那味組『獨活寄生湯外洗方』補肝腎強筋骨的桑科半寄生植物

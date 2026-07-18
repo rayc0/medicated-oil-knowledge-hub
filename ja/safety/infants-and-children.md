@@ -1,7 +1,7 @@
 ---
 title: "乳幼児に薬用オイルは使えますか？2歳未満の禁忌成分完全ガイド"
 description: "カンファー・メントール・ユーカリ油・サリチル酸メチルなど薬用オイル主成分の乳幼児毒性メカニズム、FDA・AAP・厚生労働省・PMDA の規制根拠、ブランド別リスク表、日本の中毒情報センター対応手順を一次資料に基づき網羅した保護者向けガイド"
-author: "the editorial team AI editorial team"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"

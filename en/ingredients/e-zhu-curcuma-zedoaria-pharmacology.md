@@ -4,7 +4,7 @@ description: "Pharmacology of E Zhu (Curcuma phaeocaulis / C. kwangsiensis / C. 
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # E Zhu (Curcuma phaeocaulis / Zedoary Rhizome) — The Blood-Breaking, Mass-Dispersing Rhizome Anchor of San Leng-E Zhu Dit Da Plasters, Trauma Wines, Abdominal Mass Liniments, and Modern β-Elemene Oncology Adjuvants

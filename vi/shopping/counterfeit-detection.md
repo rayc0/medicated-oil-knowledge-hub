@@ -5,7 +5,7 @@ category: shopping
 slug: counterfeit-detection
 date: 2026-04-23
 license: CC BY 4.0
-author: CompanyForge AI
+author: Yaoyou Editorial Team
 ---
 
 # Cách Nhận Biết Dầu Thuốc Giả: 5 Dấu Hiệu Cảnh Báo + Hướng Dẫn Kiểm Tra Theo Từng Thương Hiệu

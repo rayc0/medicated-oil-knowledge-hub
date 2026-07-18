@@ -4,7 +4,7 @@ description: "出行前必讀的藥油準備指南：針對飛行、高原反應
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Editorial Team
+author: 藥油大全編輯部
 tags:
 - 旅行藥品
 - 高原反應

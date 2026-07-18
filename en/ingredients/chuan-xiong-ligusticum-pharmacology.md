@@ -4,7 +4,7 @@ description: "A long-form pharmacology guide to Chuan Xiong, the rhizome that dr
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 If you tip a bottle of Wong To Yick Wood Lock onto your palm and close your eyes, the first thing you smell is camphor and methyl salicylate — sharp, unmistakable, the public face of the formula. But take a slower breath. Underneath the cooling top notes there is something earthier, almost celery-like, slightly sweet, faintly medicinal. That third note is Chuan Xiong (川芎, *Ligusticum chuanxiong* Hort.) — the dried rhizome of a knee-high umbellifer grown almost exclusively on the red-loam terraces of Sichuan's Dujiangyan and Pengzhou counties, and one of the most consistently re-formulated herbs in the Chinese topical pharmacopoeia.

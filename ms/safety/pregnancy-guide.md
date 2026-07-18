@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat Semasa Kehamilan: Panduan Keselamatan, Bahan Berbahaya, dan Pilihan Selamat"
 description: "Panduan keselamatan minyak ubat semasa kehamilan (Bahasa Melayu) — bahan yang perlu dielakkan (kamfer/mentol tinggi/minyak kayu putih tinggi/metil salisilat), risiko kamfer kepada janin (larut lipid, meresap plasenta), minyak ubat yang relatif selamat (Tiger Balm White dos kecil), had umur kehamilan, nasihat doktor sebelum guna, alternatif semula jadi untuk keselesaan semasa mengandung"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"

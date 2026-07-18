@@ -4,7 +4,7 @@ description: "深度解析斑蝥（Mylabris）的藥理：斑蝥素對 PP1/PP2A 
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 斑蝥（Ban Mao / Mylabris phalerata / 南方大斑蝥 / 斑蝥素、羥基斑蝥素）藥理全解

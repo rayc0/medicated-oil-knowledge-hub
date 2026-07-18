@@ -4,7 +4,7 @@ description: "Why Tiger Balm, Vicks VapoRub, White Flower Oil, and other medicat
 lang: en
 category: safety
 date: 2026-05-18
-author: Editorial Team
+author: Yaoyou Editorial Team
 ---
 
 # Medicated Oils and Pets: Camphor, Menthol & Wintergreen Toxicity in Cats and Dogs

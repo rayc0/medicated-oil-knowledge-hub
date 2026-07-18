@@ -4,7 +4,7 @@ description: "從味連、雅連、雲連的來源差異，到小檗鹼、黃連
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Knowledge Hub
+author: 藥油大全編輯部
 ---
 
 # 黃連（Coptis chinensis / deltoidea / teeta）藥理全解

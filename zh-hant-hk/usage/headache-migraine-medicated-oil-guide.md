@@ -4,7 +4,7 @@ description: "詳細解釋張力性頭痛、偏頭痛、叢集性頭痛同竇性
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Editorial Team
+author: 藥油大全編輯部
 tags:
   - 頭痛
   - 偏頭痛

@@ -4,7 +4,7 @@ description: "A complete pharmacology guide to cinnamon essential oil and cinnam
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Cinnamon Oil (Cinnamaldehyde) Pharmacology in Asian Medicated Oils

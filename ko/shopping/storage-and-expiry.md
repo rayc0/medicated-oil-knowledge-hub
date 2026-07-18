@@ -6,7 +6,7 @@ category: shopping
 slug: storage-and-expiry
 date: 2026-04-18
 license: CC BY 4.0
-author: the editorial team AI editorial team
+author: Yaoyou Editorial Team
 canonical: "https://yaoyoudaquan.com/ko/shopping/storage-and-expiry"
 ---
 

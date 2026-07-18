@@ -4,7 +4,7 @@ description: "牛黄（天然牛黄、体外培育牛黄、人工牛黄）完整
 lang: zh-hans
 category: ingredients
 date: 2026-05-21
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 牛黄（Niu Huang / Calculus Bovis）药理全解 —— 那颗以克论价、撑起『安宫牛黄丸』与高端凉性外用药系的动物结石

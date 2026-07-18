@@ -4,7 +4,7 @@ description: "從香豆素化學（羌活醇、異歐前胡素）到 NF-κB、CO
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-04
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 如果你曾經認真聞過一瓶肩頸專用的搽劑——那種武術隊、老跌打館或長輩深櫃裏的無標籤啡色樽——裏頭幾乎一定有一個味道：尖銳、乾燥，帶一點松脂味，又有一點芹科蔬菜的清苦。那就是**羌活**（*Notopterygium incisum* / *N. franchetii*，又名 *Hansenia weberbaueriana*）。它是中醫外用藥裏最經典的「上半身嚮導藥」，專門處理「風寒濕」卡在斜方肌、後枕部、肩胛骨內緣那一帶的痛與僵——而獨活則負責腰以下的對應區域。

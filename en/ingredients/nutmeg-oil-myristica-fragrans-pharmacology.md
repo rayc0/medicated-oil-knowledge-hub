@@ -4,7 +4,7 @@ description: "Nutmeg oil (Myristica fragrans) appears in warming liniments, Sout
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Nutmeg Oil Pharmacology: Myristicin, the Warming Component of Traditional Pain Balms, and Where the Real Risk Lies

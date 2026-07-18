@@ -4,7 +4,7 @@ description: "深入解析薑精油在中式與亞洲藥油中的藥理：薑烯
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-03
-author: 藥油知識中心
+author: 藥油大全編輯部
 ---
 
 # 薑精油（薑油）藥理 — 月子油、薑活絡油與亞洲溫通油嘅真正主角

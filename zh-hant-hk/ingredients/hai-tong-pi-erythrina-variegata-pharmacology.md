@@ -4,7 +4,7 @@ description: "深入解析風濕藥油與跌打外用方裡的海桐皮（刺桐
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 海桐皮（Erythrina variegata，刺桐皮）藥理全解 — 紅厹寧鹼、異黃酮，與風濕藥油裡那味會「祛風濕、通經絡、止痛殺蟲」的喬木樹皮

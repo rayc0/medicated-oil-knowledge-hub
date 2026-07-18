@@ -4,7 +4,7 @@ description: "乌头类生物碱（川乌 Chuan Wu、草乌 Cao Wu、附子 Fu Z
 lang: zh-hans
 category: ingredients
 date: 2026-05-03
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 川乌、草乌、附子（乌头类）药理与安全

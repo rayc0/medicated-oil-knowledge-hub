@@ -4,7 +4,7 @@ description: "深度解析全蝎（全蝎 / Mesobuthus martensii Karsch）的药
 lang: zh-hans
 category: ingredients
 date: 2026-05-05
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 全蝎（Quan Xie / Buthus martensii）药理全解 —— 那一味藏在大活络丹、三叉神经痛酊剂、Nav1.7 现代镇痛研究底下的"整只蝎子"

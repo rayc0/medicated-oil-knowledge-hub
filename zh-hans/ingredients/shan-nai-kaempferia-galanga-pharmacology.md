@@ -4,7 +4,7 @@ description: "深入解析跌打药油、岭南风湿外洗酒、印尼 minyak k
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 山奈（Kaempferia galanga / 沙姜）药理全解 — 对甲氧基肉桂酸乙酯（EPMC）、肉桂酸乙酯与那味组『跌打风湿外洗酒』和印尼 Minyak Kencur 的姜科芳香根茎

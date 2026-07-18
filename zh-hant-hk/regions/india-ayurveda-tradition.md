@@ -1,7 +1,7 @@
 ---
 title: "印度阿育吠陀藥油傳統完整指南：Mahanarayan Taila、Kottamchukkadi、重金屬爭議與香港讀者須知"
 description: "印度阿育吠陀（Ayurveda）藥油傳統 3,000 年歷史，從經典 Charaka Samhita 到 Ministry of AYUSH 監管。Mahanarayan Taila、Pinda Taila、Kottamchukkadi Taila 三大經典配方解析，與華人藥油（虎標、黃道益、保心安）成份對照，Abhyanga 全身自我按摩實務，以及 Saper 2008 JAMA 重金屬檢測研究對香港消費者嘅啟示。重慶大廈印度藥油採購指南。"
-author: Helen Cheung
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "regions"
 last_updated: "2026-04-20"

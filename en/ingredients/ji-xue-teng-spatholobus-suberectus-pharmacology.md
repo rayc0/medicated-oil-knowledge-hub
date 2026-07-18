@@ -4,7 +4,7 @@ description: "Complete pharmacology of Ji Xue Teng (鸡血藤 / Spatholobus sube
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Ji Xue Teng (Spatholobus suberectus) Pharmacology — The 'Chicken-Blood Vine' Behind Dit Da Liniments, Activate-Blood Wines, and Sciatica Topicals

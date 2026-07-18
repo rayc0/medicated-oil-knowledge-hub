@@ -4,7 +4,7 @@ description: "Full pharmacology of patchouli oil (Pogostemon cablin, Guang Huo X
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Patchouli (Huo Xiang / Pogostemon cablin) Pharmacology — The Aromatic Dampness-Resolver Behind Huo Xiang Zheng Qi, Summer-Heat Oils, and Southeast Asian Digestive Liniments

@@ -1,7 +1,7 @@
 ---
 title: "멘톨(薄荷腦) 약리학 완전 가이드: TRPM8 냉감 수용체, 진통 기전, 안전 농도와 금기사항"
 description: "멘톨(l-멘톨) 약리학 완전 가이드 — TRPM8 수용체를 통한 냉감 작용 기전, 5-HT₃ 길항, 두통·코막힘 임상 근거, FDA OTC 안전 농도, 한국 파스·약용 오일 제품 멘톨 함량 비교표, 영유아·G6PD·임신부 안전 경고"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"

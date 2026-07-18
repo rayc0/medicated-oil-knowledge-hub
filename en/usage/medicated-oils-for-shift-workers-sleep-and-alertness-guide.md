@@ -4,7 +4,7 @@ description: "Comprehensive guide for shift workers on using medicated oils to m
 lang: en
 category: usage
 date: 2026-04-15
-author: Raymond Fong
+author: Yaoyou Editorial Team
 tags:
   - shift-work
   - sleep

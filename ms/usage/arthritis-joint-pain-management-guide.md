@@ -4,7 +4,7 @@ description: "Panduan lengkap penggunaan minyak ubat untuk melegakan sakit sendi
 lang: ms
 category: usage
 date: 2026-04-17
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 ---
 
 # Minyak Ubat untuk Sakit Sendi dan Artritis: Panduan Lengkap Penggunaan

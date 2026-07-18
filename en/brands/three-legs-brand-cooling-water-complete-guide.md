@@ -4,7 +4,7 @@ description: "A deep dive into Three Legs Brand Cooling Water — Wen Ken Group'
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Three Legs Brand Cooling Water Complete Guide: Ingredients, History, Pharmacology, and Safe Use

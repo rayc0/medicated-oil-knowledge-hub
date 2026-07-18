@@ -1,7 +1,7 @@
 ---
 title: "영아·유아에게 약용 오일 사용 가능한가요? 2세 미만 금지 성분 완전 목록"
 description: "캠퍼·멘톨·유칼립투스·수살리실산메틸 등 약용 오일 주성분의 영아·유아 독성 기전, FDA·AAP·MFDS 규제 근거, 브랜드별 위험 성분표, 한국 중독정보센터 대응 절차를 1차 출처 기반으로 총정리한 가이드"
-author: "the editorial team AI editorial team"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "A pharmacology-grade deep dive into Shen Jin Cao (伸筋草, Herba
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Shen Jin Cao (Lycopodium japonicum) Pharmacology — The "Stretch-Sinew Herb" Behind Joint Liniments, Tendon Oils, and Wind-Damp Dit Da Jow

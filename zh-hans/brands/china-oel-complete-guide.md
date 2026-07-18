@@ -4,7 +4,7 @@ description: "深度剖析德国百灵油——为什么德国人叫它『中国
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: Raymond Fong
+author: 药油大全编辑部
 tags:
   - 德国百灵油
   - China-Öl

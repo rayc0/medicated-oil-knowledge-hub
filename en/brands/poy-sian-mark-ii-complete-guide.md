@@ -4,7 +4,7 @@ description: "An evidence-based guide to Poy-Sian Mark II, the iconic Thai yaa-d
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Poy-Sian Mark II (ยาดมโพยเซียน) — Thailand's National Nasal Inhaler

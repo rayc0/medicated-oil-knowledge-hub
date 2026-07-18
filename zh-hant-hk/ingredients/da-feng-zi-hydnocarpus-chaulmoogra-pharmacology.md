@@ -4,7 +4,7 @@ description: "大風子（Da Feng Zi / Hydnocarpus anthelminthicus / Semen Hydno
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 大風子（Hydnocarpus anthelminthicus / 大風子油）藥理全解 —— 撐起『苦參丸』『大風子油』『一號癬藥水』『銀屑病外用油』『頑癬外洗方』那一類殺蟲攻毒、祛風燥濕外用方的環戊烯脂肪酸錨

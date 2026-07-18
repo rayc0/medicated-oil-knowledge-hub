@@ -4,7 +4,7 @@ description: "深度解析泰國 Counterpain 鎮痛藥膏——水楊酸甲酯 1
 lang: zh-hant-hk
 category: brands
 date: 2026-05-18
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 # Counterpain（泰國鎮痛藥膏）完整指南：成分、紅藍綠三款區別、源流與安全用法

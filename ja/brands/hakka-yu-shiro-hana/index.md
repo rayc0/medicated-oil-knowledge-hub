@@ -1,7 +1,7 @@
 ---
 title: "白花油（ペナン伝統漢方オイル）完全ガイド：歴史・成分・使い方・日本での購入方法"
 description: "白花油（Hoe Hin Pak Fah Yeow）完全ガイド（日本語）— ペナン発祥の伝統漢方オイルの100年の歴史、メントール・ユーカリ・ウィンターグリーン・カンファーの成分分析、頭痛・乗り物酔い・虫刺されへの使い方、香港での購入法、萬金油との比較"
-author: "Dr. Amy Tsui"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-05-13"

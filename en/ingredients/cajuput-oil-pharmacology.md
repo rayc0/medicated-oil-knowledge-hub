@@ -4,7 +4,7 @@ description: "A pharmacology-focused guide to cajuput oil (minyak kayu putih) â€
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Cajuput Oil (Kayu Putih) Pharmacology â€” Melaleuca Cajuputi and Its Place in Asian Medicated Oils

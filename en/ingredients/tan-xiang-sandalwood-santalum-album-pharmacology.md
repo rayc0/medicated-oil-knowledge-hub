@@ -4,7 +4,7 @@ description: "Deep pharmacology of Tan Xiang (Santalum album) — alpha-santalol
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 Of all the aromatic woods that classical Chinese pharmacology pulled into its materia medica, **Tan Xiang (檀香, Santalum album L.)** — Indian or East Indian sandalwood — holds a peculiar position. It is not native to China. It is not, like Su He Xiang or Ru Xiang, an exudate resin you can wound a tree to harvest in a season. It is the slow heartwood of a hemiparasitic tropical tree from the dry deciduous forests of Mysore and Tamil Nadu, requiring 15 to 30 years of growth before the central wood develops the dense, fragrant oil-bearing core that classical pharmacopoeias actually prized. By the Tang dynasty, sandalwood was already arriving in Guangzhou by sea, channelled into incense, into Buddhist ritual, and — most relevant for this knowledge hub — into the *kai qiao* (开窍, opening the orifices) and *li qi* (理气, regulating Qi) categories of Chinese medicinal compounding, where you still find it today in formulations like An Gong Niu Huang Wan, Suhexiang Wan, Guan Xin Su He Wan, and a small handful of premium chest-rub medicated oils that quietly position themselves at the top of the category.

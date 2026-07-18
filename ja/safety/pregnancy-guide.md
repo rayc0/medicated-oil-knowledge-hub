@@ -1,7 +1,7 @@
 ---
 title: "妊娠中の薬用オイル安全ガイド：トリメスター別の成分別リスクと禁忌"
 description: "妊娠中の薬用オイル使用完全ガイド（日本語版）— トリメスター別リスク評価（T1器官形成期・T2・T3動脈管早期閉鎖）、カンファー・メントール・サリチル酸メチル・ボルネオール・丁香油の胎児影響、Tiger Balm White/Red・サロンパス・黄道益・白花油・Kwan Loong の製品別評価、ACOG 2015・Torloni 2006・Chan 1996・Joss 2000 一次情報に基づく禁忌一覧、日本産婦人科学会ガイドラインと PMDA/MHLW 規制整合性、授乳中の乳頭塗布絶対禁止"
-author: CompanyForge AI
+author: Yaoyou Editorial Team
 language: "ja"
 category: "safety"
 last_updated: "2026-04-19"

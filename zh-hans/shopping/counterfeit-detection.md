@@ -1,7 +1,7 @@
 ---
 title: "药油真伪鉴别指南：教你辨别正品与假货"
 description: "系统介绍常见药油品牌（虎标、均隆、保心安、斧标等）的真伪鉴别方法，涵盖包装细节、防伪标识、气味辨别及正规购买渠道"
-author: Helen Cheung
+author: 药油大全编辑部
 language: "zh-hans"
 category: "shopping"
 last_updated: "2026-04-18"

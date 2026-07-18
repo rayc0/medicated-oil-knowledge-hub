@@ -4,7 +4,7 @@ description: "Full pharmacology of Sichuan pepper essential oil and pericarp ext
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Sichuan Pepper / Hua Jiao (Zanthoxylum bungeanum) Pharmacology — The Tingling Numbness Behind Hong Hua Jiao Warming Liniments, Dit Da Jow, and Modern Sichuan-Style Pain Oils

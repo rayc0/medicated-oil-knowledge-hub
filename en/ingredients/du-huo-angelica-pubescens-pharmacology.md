@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on Du Huo (独活 / Angelica pubescens, A
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 If you have ever opened an old-style **lumbago liniment**, a **sciatica oil** from a Hong Kong medicine hall, or a hand-blended **dit da jow** for lower-body trauma, you have probably smelled it without naming it: a deep, slightly resinous, faintly celery-like warmth sitting underneath the camphor and the wintergreen. That base note is almost always **Du Huo (独活)** — the dried root of *Angelica pubescens* (and in some pharmacopoeias *A. biserrata*).

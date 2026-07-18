@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Kecederaan Sukan: Panduan Pertolongan Cemas dan Pemulihan"
 description: "Panduan lengkap penggunaan minyak ubat tradisional untuk kecederaan sukan — terseliuh, lebam, kesakitan otot, termasuk kaedah RICE, masa yang sesuai untuk sapuan, dan perbandingan produk"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

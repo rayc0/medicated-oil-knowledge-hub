@@ -4,7 +4,7 @@ description: "Deep dive into Bai Xian Pi (Cortex Dictamni) pharmacology — furo
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Bai Xian Pi (Dictamnus dasycarpus) — The Third Herb in Every Chinese Anti-Itch Wash

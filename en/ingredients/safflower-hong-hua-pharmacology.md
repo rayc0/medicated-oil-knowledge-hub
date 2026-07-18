@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on safflower (Carthamus tinctorius / 红�
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Safflower (Hong Hua) Pharmacology — The Crimson Petals That Move Blood and Bruises

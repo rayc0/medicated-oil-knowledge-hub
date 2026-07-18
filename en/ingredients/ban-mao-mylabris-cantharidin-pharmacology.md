@@ -4,7 +4,7 @@ description: "Deep pharmacology dive on Ban Mao (Mylabris): cantharidin's PP1/PP
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Ban Mao (Mylabris phalerata / Chinese Blister Beetle / Cantharidin, Hydroxycantharidin) Pharmacology

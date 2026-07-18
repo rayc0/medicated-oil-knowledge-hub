@@ -4,7 +4,7 @@ description: "专为长途货运、的士、网约车、大巴司机设计的药
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: 药油知识库
+author: 药油大全编辑部
 tags:
   - 长途驾驶
   - 药油提神

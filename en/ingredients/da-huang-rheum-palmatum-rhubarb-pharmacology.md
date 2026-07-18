@@ -4,7 +4,7 @@ description: "Comprehensive pharmacology of Da Huang (大黄): the Rheum palmatu
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Da Huang (大黄 / Rheum palmatum / Chinese Rhubarb) Pharmacology — The Anthraquinone Anchor of Yunnan Baiyao, Dit Da Jow, and Traditional Bruise & Contusion Liniments

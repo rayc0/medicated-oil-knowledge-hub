@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Bunga Putih (白花油 / Pak Fah Yeow): Sejarah Pulau Pinang 1927, Bahan, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk White Flower Embrocation (白花油, Pak Fah Yeow) — jenama legenda yang diasaskan di Pulau Pinang pada 1927 oleh Gan Geok Eng (颜玉莹) sebelum berpindah ke Hong Kong pada 1950. Formulasi seimbang mentol 15% + metil salisilat 15% + kafor 15% + minyak eukaliptus + minyak lavender, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm, Wong To Yick, Po Sum On, Kwan Loong, Axe Brand."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

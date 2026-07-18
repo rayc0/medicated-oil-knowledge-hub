@@ -1,7 +1,7 @@
 ---
 title: "藥油與藥物相互作用：安全用藥指南"
 description: "系統解析外用藥油（活絡油、驅風油、萬金油等）與常見處方藥的相互作用風險，涵蓋抗凝血藥、降血壓藥、降血糖藥等，提供安全使用建議"
-author: Helen Cheung
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"

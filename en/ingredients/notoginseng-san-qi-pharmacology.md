@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on notoginseng (Panax notoginseng / 三�
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Notoginseng (San Qi / Tian Qi) Pharmacology — The Healing Root Behind Yunnan Baiyao

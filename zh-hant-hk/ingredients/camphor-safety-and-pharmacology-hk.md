@@ -4,7 +4,7 @@ description: "由香港使用者角度寫嘅樟腦全面指南：化學與來源
 lang: zh-hant-hk
 category: ingredients
 date: 2026-04-15
-author: 藥油知識中心
+author: 藥油大全編輯部
 tags:
   - 樟腦
   - camphor

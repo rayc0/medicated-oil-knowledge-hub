@@ -1,7 +1,7 @@
 ---
 title: "蠶豆症（G6PD缺乏）患者藥油使用禁忌完整列表"
 description: "G6PD缺乏症（蠶豆症）患者唔可以用邊啲藥油？完整禁忌清單、安全替代品、緊急處理。香港新生兒篩查陽性家長必讀。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"

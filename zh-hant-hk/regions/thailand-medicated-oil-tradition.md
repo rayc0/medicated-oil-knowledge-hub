@@ -1,7 +1,7 @@
 ---
 title: "泰國藥油傳統完整指南：青草藥油、八仙鼻通、拳師油與泰 FDA 監管（香港讀者版）"
 description: "為香港讀者撰寫的泰國藥油百科 — Siang Pure 青草藥油、Poy-Sian 八仙鼻通、Namman Muay 拳師油、Counterpain 酸痛軟膏的成分藥理、泰 FDA《草藥產品法 B.E. 2562 (2019)》監管框架，以及樟腦／薄荷醇／水楊酸甲酯的安全警示。"
-author: CompanyForge AI Editorial Team
+author: 藥油大全編輯部
 canonical: "https://yaoyoudaquan.com/zh-hant-hk/regions/thailand-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"

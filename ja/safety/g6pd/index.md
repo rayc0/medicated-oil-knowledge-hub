@@ -1,7 +1,7 @@
 ---
 title: "G6PD欠損症と薬用オイル：安全な使い方ガイド"
 description: "G6PD欠損症（グルコース6リン酸脱水素酵素欠損症）と薬用オイルの安全ガイド（日本語）— 東アジア人の有病率4〜5%、危険な成分（カンファー・高濃度メントール）、安全な代替品、使用前の確認事項"
-author: "Dr. Amy Tsui"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "safety"
 last_updated: "2026-05-13"

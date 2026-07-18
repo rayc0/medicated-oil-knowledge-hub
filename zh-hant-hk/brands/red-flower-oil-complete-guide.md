@@ -4,7 +4,7 @@ description: "正紅花油（紅花油）是華人家庭常備跌打藥油，本
 lang: "zh-Hant-HK"
 category: "brands"
 date: "2026-04-24"
-author: "Yaoyou AI Editorial Team"
+author: 藥油大全編輯部
 ---
 
 # 正紅花油完整指南：成份藥理、依馬打品牌歷史、48 小時使用法則與安全警示

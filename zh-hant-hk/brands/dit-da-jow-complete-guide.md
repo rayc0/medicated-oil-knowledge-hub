@@ -4,7 +4,7 @@ description: "權威解讀跌打酒（跌打藥酒）：它不是單一品牌，
 lang: zh-hant-hk
 category: brands
 date: 2026-05-18
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 跌打酒：武術傷科流傳數百年的化瘀藥酒

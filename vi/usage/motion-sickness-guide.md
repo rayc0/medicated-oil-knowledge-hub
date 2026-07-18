@@ -6,7 +6,7 @@ permalink: /vi/usage/motion-sickness-guide/
 lang: vi
 category: usage
 date: 2026-05-18
-author: CompanyForge AI Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Say Tàu Xe và Dầu Gió: Hướng Dẫn Toàn Diện 2026 — Cơ Chế Tác Dụng, Cách Dùng Đúng và Lưu Ý An Toàn

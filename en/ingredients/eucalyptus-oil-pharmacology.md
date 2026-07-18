@@ -4,7 +4,7 @@ description: "Deep-dive into eucalyptus oil pharmacology: 1,8-cineole (eucalypto
 lang: en
 category: ingredients
 date: 2026-04-14
-author: Helen Cheung
+author: Yaoyou Editorial Team
 ---
 
 # Eucalyptus Oil Pharmacology — 1,8-Cineole, Respiratory Action, and Safety in Medicated Oils

@@ -1,7 +1,7 @@
 ---
 title: "保心安油（Po Sum On Oil）完全ガイド：香港伝統薬用オイルの成分・効能と使い方"
 description: "Po Sum On Oil（保心安油）完全ガイド（日本語）— 丁香油・シナモン・カンファー・ショウガ油の温感複合成分分析、頭痛・消化不良・乗り物酔い・筋肉痛への効能、Tiger Balm White vs White Flower vs 保心安油の三者比較表、妊婦・授乳中の注意事項、香港・日本での購入方法"
-author: Peter Kwok
+author: Yaoyou Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-04-18"

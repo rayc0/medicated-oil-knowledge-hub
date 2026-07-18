@@ -1,7 +1,7 @@
 ---
 title: "虎標萬金油完整指南：成分、歷史、辨別真假、安全使用"
 description: "香港繁體中文版虎標萬金油完整指南 — 150年歷史、紅白膏藥分別、辨別假貨、嬰幼兒禁忌、G6PD蠶豆症患者注意事項。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"

@@ -4,7 +4,7 @@ description: "深度解析泰国 Devakam Apothecary Hall 出品的泰拳油（Na
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # 泰拳油（Namman Muay 拳师油）完整指南：成分、泰国拳坛源流、热身原理与安全用法

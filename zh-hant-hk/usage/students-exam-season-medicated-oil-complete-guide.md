@@ -4,7 +4,7 @@ description: "為高考、考研、中考學生家庭提供一份全面的藥油
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: 藥油知識中心
+author: 藥油大全編輯部
 tags:
 - 學生
 - 考試季

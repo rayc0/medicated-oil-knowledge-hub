@@ -1,7 +1,7 @@
 ---
 title: "タイガーバーム（Tiger Balm）完全ガイド：White・Red の成分・効能・安全使用法"
 description: "Tiger Balm（虎標萬金油）完全ガイド（日本語）— White（白）とRed（赤）の成分・薬理差異、メントール TRPM8・カンファー TRPV3 の作用機序、頭痛・肩こり・筋肉痛・鼻詰まり・乗り物酔いへの症状別使い方、ワーファリン服用者への注意（Red のメチルサリチル酸 25%）、G6PD 欠乏症・妊婦・2歳未満への禁忌、日本での購入方法、一次資料引用"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "brands"
 last_updated: "2026-04-19"

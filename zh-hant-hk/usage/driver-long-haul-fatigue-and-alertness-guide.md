@@ -4,7 +4,7 @@ description: "專為長途貨運、的士、網約車、巴士司機設計的藥
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: 藥油知識庫
+author: 藥油大全編輯部
 tags:
   - 長途駕駛
   - 藥油提神

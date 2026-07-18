@@ -4,7 +4,7 @@ description: "深入解读刘寄奴（刘寄奴 / 奇蒿 Artemisia anomala）的
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 刘寄奴（奇蒿 / Artemisia anomala）药理全解 — 香豆素、黄酮与跌打药酒里那味战场止血草

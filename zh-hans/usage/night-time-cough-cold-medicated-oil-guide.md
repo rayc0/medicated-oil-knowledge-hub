@@ -4,7 +4,7 @@ description: "为内地家庭准备的夜间咳嗽与感冒护理药油指南：
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: 药油知识中心
+author: 药油大全编辑部
 tags:
   - 感冒
   - 咳嗽

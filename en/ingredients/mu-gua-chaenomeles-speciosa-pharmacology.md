@@ -4,7 +4,7 @@ description: "Pharmacology of Mu Gua (Chaenomeles speciosa fruit): triterpenes, 
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Mu Gua (Chaenomeles speciosa) — The Chinese Quince Behind Cramp-Relieving Liniments, Tendon-Soothing Wines, and Anti-Rheumatic Oils

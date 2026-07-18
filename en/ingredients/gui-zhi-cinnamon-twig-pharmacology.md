@@ -4,7 +4,7 @@ description: "A pharmacology-first guide to Gui Zhi: why the twig of Cinnamomum 
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 If you have read enough Chinese liniment labels you will have noticed that two names from the same plant keep appearing — sometimes in the same bottle. *Rou Gui* (肉桂) is the bark. *Gui Zhi* (桂枝) is the twig. They come from the same tree, *Cinnamomum cassia*, and they share the same headline molecule, cinnamaldehyde. But classical formulators treated them as different drugs, and modern pharmacology has slowly explained why. This guide is about the twig — the lighter, channel-opening, surface-releasing half of the cinnamon pair, and the herb that sits underneath a surprising number of cold-hand oils, wind-cold rubs, and serious Dit Da Jow recipes.

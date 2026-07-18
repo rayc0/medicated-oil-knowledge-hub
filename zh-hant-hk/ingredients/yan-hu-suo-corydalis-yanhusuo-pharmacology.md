@@ -4,7 +4,7 @@ description: "延胡索（Corydalis yanhusuo）外用藥理詳解：四氫巴馬
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-04
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 # 延胡索（Corydalis yanhusuo）— 那味藏在跌打酒、神經痛擦劑與現代止痛貼底下的「四氫巴馬汀」藥源塊莖

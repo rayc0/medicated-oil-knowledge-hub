@@ -4,7 +4,7 @@ description: "Complete guide to Cao Sao Vàng (Golden Star Balm): the 1969 Da Na
 lang: en
 category: brands
 date: 2026-05-18
-author: Medicated Oil Knowledge Hub Editorial Team
+author: Yaoyou Editorial Team
 ---
 
 # Cao Sao Vàng (Golden Star Balm) — Vietnam's Most Travelled Tin

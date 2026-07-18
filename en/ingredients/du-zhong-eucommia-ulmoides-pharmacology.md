@@ -4,7 +4,7 @@ description: "A deep pharmacology guide to Du Zhong (杜仲, Eucommia ulmoides) 
 lang: en
 category: ingredients
 date: 2026-05-05
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Du Zhong (Eucommia ulmoides) Pharmacology — The 'Silk-Threaded Bark' Behind Lumbar Liniments, Elderly Knee Oils, and Kidney-Yang Wines

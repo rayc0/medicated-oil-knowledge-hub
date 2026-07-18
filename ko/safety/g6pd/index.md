@@ -1,7 +1,7 @@
 ---
 title: "G6PD 결핍증과 약용 오일 안전 가이드"
 description: "G6PD 결핍증（포도당-6-인산탈수소효소 결핍증）과 약용 오일 안전 가이드（한국어）— 한국인 유병률, 위험한 성분（캠퍼·고농도 멘톨）, 안전한 사용 지침, 대체 제품 추천"
-author: "Dr. Amy Tsui"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "safety"
 last_updated: "2026-05-13"

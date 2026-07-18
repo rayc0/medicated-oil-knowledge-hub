@@ -1,7 +1,7 @@
 ---
 title: "화이트 플라워 오일(白花油) 완전 가이드: 효능, 성분 분석과 Tiger Balm 비교"
 description: "White Flower Oil(白花油, 백화유) 완전 가이드（한국어）— 유칼립투스·멘톨·라벤더 복합 성분 분석, 두통·근육통·비염·멀미·소화불량 다목적 활용법, Tiger Balm White vs White Flower Oil 비교 표, 한국 구매 방법, 임산부·영유아 사용 주의사항"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "肌肉酸痛是藥油最被低估的用途之一。本指南系統
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Dr. James Wu
+author: 藥油大全編輯部
 tags: [肌肉酸痛, 藥油, 運動恢復, 肩頸痛, 腰背痛, 黃道益, 虎標, DOMS]
 ---
 

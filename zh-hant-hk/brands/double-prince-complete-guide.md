@@ -1,7 +1,7 @@
 ---
 title: "雙飛人藥水完整指南：法國百年薄荷精華嘅成分、歷史與安全使用"
 description: "雙飛人藥水（Ricqlès）完整指南 — 法國到廣東140年歷史、成分解析、內服外用方法、安全警示。香港繁體中文版。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"

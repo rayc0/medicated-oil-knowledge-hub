@@ -4,7 +4,7 @@ description: "深入解读桃仁（Prunus persica 桃的成熟种子）的药理
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 桃仁（Prunus persica）药理全解 — 苦杏仁苷、脂肪油，与跌打药酒里那味活血化瘀的核心种子

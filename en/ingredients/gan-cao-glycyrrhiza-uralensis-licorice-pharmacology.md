@@ -4,7 +4,7 @@ description: "Deep pharmacology of Gan Cao (甘草 / Glycyrrhiza uralensis / Rad
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Gan Cao (Glycyrrhiza uralensis / Licorice Root) Pharmacology

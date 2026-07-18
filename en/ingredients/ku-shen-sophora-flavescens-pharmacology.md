@@ -4,7 +4,7 @@ description: "Deep dive into Ku Shen (Sophora flavescens) pharmacology — how m
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Ku Shen (Sophora flavescens) — Pharmacology of a Bitter Legume Root That Stops Itch

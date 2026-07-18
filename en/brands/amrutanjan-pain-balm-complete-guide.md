@@ -4,7 +4,7 @@ description: "A complete guide to Amrutanjan, the iconic yellow Indian pain balm
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Amrutanjan Pain Balm — India's 1893 Freedom-Fighter Balm: Complete Guide to Ingredients, History, and Safe Use

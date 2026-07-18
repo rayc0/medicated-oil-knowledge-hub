@@ -4,7 +4,7 @@ description: "深入解析菲律宾家喻户晓的 Efficascent Oil：Internation
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油知识库编辑部
+author: 药油大全编辑部
 ---
 
 # Efficascent Oil（菲律宾国民药油）完整指南：成分、历史、药理与安全用法

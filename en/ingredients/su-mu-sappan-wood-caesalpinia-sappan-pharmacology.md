@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on Su Mu (sappan wood, Caesalpinia sappan
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Su Mu (Caesalpinia sappan) Pharmacology — The 'Red-Wood' Behind Dit Da Jow's Bruise-Color, Blood-Moving Liniments, and Hematoma Oils

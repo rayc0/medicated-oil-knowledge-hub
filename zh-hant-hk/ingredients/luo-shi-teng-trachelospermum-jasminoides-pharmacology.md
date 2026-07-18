@@ -4,7 +4,7 @@ description: "深入解析風濕外洗藥酒與跌打配方裏常被忽視的絡
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 絡石藤（Trachelospermum jasminoides）藥理全解 — 絡石苷、牛蒡苷與那味組『風濕熱痹外洗方』涼宣經絡的夾竹桃科常綠藤

@@ -4,7 +4,7 @@ description: "An evidence-based deep dive into Vicks VapoRub — its camphor/men
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Vicks VapoRub Complete Guide: Ingredients, How It Works, the Infant Warning, and Safe Use

@@ -4,7 +4,7 @@ description: "A full English guide to Po Sum On Medicated Oil — the Hong Kong 
 lang: en
 category: brands
 date: 2026-04-14
-author: Peter Kwok
+author: Yaoyou Editorial Team
 ---
 
 # Po Sum On Medicated Oil: Complete Guide

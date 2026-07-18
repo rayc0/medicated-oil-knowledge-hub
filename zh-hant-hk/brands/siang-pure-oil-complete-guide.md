@@ -4,7 +4,7 @@ description: "完整解析泰國 Bertram Chemical 出品的暹羅藥油（Siang 
 lang: zh-hant-hk
 category: brands
 date: 2026-05-03
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 # Siang Pure Oil（暹羅藥油）完整指南：泰國百年華僑吸入式藥油

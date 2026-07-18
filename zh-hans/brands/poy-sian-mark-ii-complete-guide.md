@@ -4,7 +4,7 @@ description: "完整解析泰国 Poy-Sian Mark II 八仙鼻通——薄荷脑 42
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # Poy-Sian Mark II（八仙鼻通）完整指南：泰国国民鼻吸棒的成分、历史、药理与安全用法

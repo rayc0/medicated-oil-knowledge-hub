@@ -4,7 +4,7 @@ description: "Pharmacology of Yan Hu Suo (Corydalis yanhusuo): tetrahydropalmati
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Yan Hu Suo (Corydalis yanhusuo) — The Tetrahydropalmatine-Bearing Tuber Behind Pain Liniments, Dit Da Jow, and Modern Topical Plasters

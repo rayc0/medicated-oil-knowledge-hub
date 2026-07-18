@@ -4,7 +4,7 @@ description: "A pharmacology-first guide to Qiang Huo: the coumarin chemistry of
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 If you have ever opened a serious shoulder-and-neck liniment — the kind that tournament-level martial artists or older bone-setters keep in unmarked brown bottles — there is a good chance you have already met Qiang Huo (羌活, *Notopterygium incisum* / *N. franchetii*). It is the herb that anchors the upper half of the body in classical Chinese topical medicine the way Du Huo anchors the lower half. Where Du Huo goes to the lumbar, the hips, and the sciatic line, Qiang Huo climbs: to the trapezius, the occiput, the rhomboids, the back of the head where wind-cold-damp settles after a long ride on a cold motorbike or a night sleeping under an air conditioner.

@@ -4,7 +4,7 @@ description: "深入介紹均隆驅風油 Kwan Loong Oil：由新加坡發源、
 lang: zh-hant-hk
 category: brands
 date: 2026-04-15
-author: Peter Kwok
+author: 藥油大全編輯部
 tags:
   - 均隆驅風油
   - Kwan Loong Oil

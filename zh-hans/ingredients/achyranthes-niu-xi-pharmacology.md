@@ -4,7 +4,7 @@ description: "怀牛膝与川牛膝（Achyranthes bidentata、Cyathula officinal
 lang: zh-hans
 category: ingredients
 date: 2026-05-04
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 凡是认真做下半身的擦剂——膝盖疼的、腰酸的、坐骨神经痛的、跌打砸到大腿的——配方表里几乎都躲着一根名字怪怪的根：**牛膝（牛膝，Niu Xi）**，字面意思就是"牛的膝盖"，因为它茎节粗大膨出，古人觉得长得像牛的膝关节。它出现在腰膝寒凉的方子里、出现在川派跌打酒里、出现在港式活络油里，甚至出现在某些专门做下肢循环的现代膏方里。

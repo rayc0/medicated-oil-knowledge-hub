@@ -4,7 +4,7 @@ description: "A comprehensive side-by-side comparison of traditional Asian medic
 lang: en
 category: comparison
 date: 2026-04-15
-author: Raymond
+author: Yaoyou Editorial Team
 tags:
   - medicated oil
   - topical analgesic

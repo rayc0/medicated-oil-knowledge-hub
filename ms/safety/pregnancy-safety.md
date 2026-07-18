@@ -1,7 +1,7 @@
 ---
 title: "Keselamatan Minyak Ubat Semasa Kehamilan dan Penyusuan: Panduan Lengkap"
 description: "Panduan keselamatan minyak ubat untuk ibu hamil dan ibu menyusu — bahan-bahan yang perlu dielakkan (kamfer, mentol), minyak pati yang lebih selamat, risiko terhadap bayi, dan panduan penggunaan yang betul"
-author: Helen Cheung
+author: Yaoyou Editorial Team
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "詳解如何正確使用藥油（萬金油、白花油等本地常
 lang: zh-hant-hk
 category: usage
 date: 2026-04-17
-author: Raymond Fong
+author: 藥油大全編輯部
 ---
 
 # 藥油緩解關節炎與關節疼痛：完整使用指南

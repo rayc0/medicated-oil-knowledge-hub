@@ -4,7 +4,7 @@ description: "Deep dive into Commiphora myrrha pharmacology: furanodienes, COX-2
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Myrrh (Mo Yao) Pharmacology — The Bitter Resin That Completes the TCM Trauma Trio

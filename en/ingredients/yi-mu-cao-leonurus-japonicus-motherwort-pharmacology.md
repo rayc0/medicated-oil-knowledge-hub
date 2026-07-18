@@ -4,7 +4,7 @@ description: "Comprehensive pharmacology profile of Yi Mu Cao (Leonurus japonicu
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Knowledge Team
+author: Yaoyou Editorial Team
 ---
 
 # Yi Mu Cao (Leonurus japonicus / Chinese Motherwort): The "Benefit Mother Herb" That Bridges Gynecological and Trauma Liniments

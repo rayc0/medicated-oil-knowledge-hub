@@ -4,7 +4,7 @@ description: "深度藥理簡報：蘇合香（蘇合香 / Storax / Liquidambar 
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: "藥油知識庫"
+author: 藥油大全編輯部
 ---
 
 # 蘇合香（Liquidambar orientalis / Storax）藥理全解

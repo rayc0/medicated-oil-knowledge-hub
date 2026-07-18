@@ -1,7 +1,7 @@
 ---
 title: "타이거밤 완전 가이드: 성분·역사·진품 구별법·안전 사용법"
 description: "타이거밤 레드·화이트의 성분 및 작용 기전, 버마에서 싱가포르까지 150년 역사, 위조품 구별법 5단계, 2세 미만·임산부·G6PD 금기를 포함한 안전 사용 지침을 1차 출처 기반으로 총정리한 한국어 완전 가이드"
-author: "the editorial team AI editorial team"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

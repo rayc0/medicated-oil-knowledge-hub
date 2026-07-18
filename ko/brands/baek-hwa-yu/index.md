@@ -1,7 +1,7 @@
 ---
 title: "백화유 (白花油) 완벽 가이드: 역사, 성분, 효능 및 한국 여행자 구매 방법"
 description: "백화유(白花油, White Flower Oil) 완벽 가이드（한국어）— 페낭 발상 전통 약용 오일의 100년 역사, 멘톨·유칼립투스·위터그린·캠퍼 성분 분석, 두통·멀미·모기 물림 활용법, 홍콩 구매 가이드, 정로환·호랑이 연고와 비교"
-author: "Dr. Amy Tsui"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-05-13"

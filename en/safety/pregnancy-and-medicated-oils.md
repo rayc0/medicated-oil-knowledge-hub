@@ -4,7 +4,7 @@ description: "A comprehensive safety guide for using Chinese medicated oils duri
 lang: en
 category: safety
 date: 2026-04-15
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 tags: [pregnancy, safety, camphor, methyl-salicylate, medicated-oil, morning-sickness, contraindications]
 ---
 

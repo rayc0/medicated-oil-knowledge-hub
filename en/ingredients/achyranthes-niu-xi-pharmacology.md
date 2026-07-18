@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on Niu Xi (牛膝 / Achyranthes bidentata
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 If you read the ingredient list of almost any serious **knee liniment**, **lumbar pain oil**, or **dit da jow** intended for the legs, you will eventually find a root with a strange name: **Niu Xi (牛膝)** — literally "ox knee," named for the swollen, knobby joints along its stem that Chinese herbalists thought looked like the knees of an ox. It sits in nearly every formula that targets the lower body, and it sits there for a very specific reason that classical Chinese medicine took several hundred years to articulate and that modern pharmacology is now starting to back up: **Niu Xi is the herb that pulls the rest of the formula downward.**

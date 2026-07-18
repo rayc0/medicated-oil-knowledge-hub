@@ -4,7 +4,7 @@ description: "从脂溶性丹参酮 IIA、隐丹参酮到水溶性丹酚酸 B，
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: Yaoyou 编辑部
+author: 药油大全编辑部
 ---
 
 # 丹参（Salvia miltiorrhiza）药理全解 — 丹参酮、丹酚酸与这味红根活血药在外用药油里的真实位置

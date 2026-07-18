@@ -4,7 +4,7 @@ description: "Evidence-informed guide for office workers dealing with tension he
 lang: en
 category: usage
 date: 2026-04-15
-author: Raymond Fong
+author: Yaoyou Editorial Team
 tags:
   - office workers
   - tension headache

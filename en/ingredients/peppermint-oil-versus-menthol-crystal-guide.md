@@ -4,7 +4,7 @@ description: "Detailed comparison of peppermint essential oil and isolated menth
 lang: en
 category: ingredients
 date: 2026-04-15
-author: Peter Kwok
+author: Yaoyou Editorial Team
 tags:
   - peppermint oil
   - menthol

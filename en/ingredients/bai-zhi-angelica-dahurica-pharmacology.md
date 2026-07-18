@@ -4,7 +4,7 @@ description: "A pharmacology-first guide to Bai Zhi: why the root of Angelica da
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 If you have ever rubbed a Chinese headache balm into the centre of your forehead and wondered why so many of these formulas smell sharp, slightly celery-like, and faintly resinous underneath the menthol, you have already met Bai Zhi. The root of *Angelica dahurica* is one of the oldest and most consistently used herbs in Chinese topical medicine for one specific reason: classical authors mapped it to the forehead, the brow, the cheekbones, and the sinuses, and modern pharmacology has handed back a coumarin-and-volatile-oil profile that fits that map almost embarrassingly well. It is also the herb that comes with the single most important sun-exposure warning in the medicated-oil cabinet, and most users of supermarket headache rubs have no idea the warning applies to them.

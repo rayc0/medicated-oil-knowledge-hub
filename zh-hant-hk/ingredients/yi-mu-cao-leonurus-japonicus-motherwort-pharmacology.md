@@ -4,7 +4,7 @@ description: "益母草（Leonurus japonicus）藥理全景：益母草鹼（leo
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: 藥油知識團隊
+author: 藥油大全編輯部
 ---
 
 # 益母草（Leonurus japonicus）：貫通婦科與跌打外敷傳統的『益母之草』

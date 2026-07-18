@@ -1,7 +1,7 @@
 ---
 title: "冬青精油 vs 合成水楊酸甲酯：臨床比較與安全使用指引"
 description: "深度解析冬青精油與合成水楊酸甲酯的成分差異、「天然更安全」誤區、中國市場標籤解讀、華法林交互作用及兒童孕婦禁忌。"
-author: Raymond Fong
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-19"

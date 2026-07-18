@@ -4,7 +4,7 @@ description: "深入解析菲律賓家喻戶曉的 Efficascent Oil：Internation
 lang: zh-hant-hk
 category: brands
 date: 2026-05-18
-author: 藥油知識庫編輯部
+author: 藥油大全編輯部
 ---
 
 # Efficascent Oil（菲律賓國民藥油）完整指南：成分、歷史、藥理與安全用法

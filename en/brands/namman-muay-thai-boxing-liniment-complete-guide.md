@@ -4,7 +4,7 @@ description: "A complete guide to Namman Muay, Thailand's iconic boxing liniment
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Namman Muay (น้ำมันมวย) — The Thai Boxing Liniment: Complete Guide

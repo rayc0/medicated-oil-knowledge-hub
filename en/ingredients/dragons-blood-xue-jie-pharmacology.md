@@ -4,7 +4,7 @@ description: "A comprehensive pharmacology guide to Dragon's Blood (Xue Jie / Sa
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Dragon's Blood (Xue Jie) Pharmacology — The Crimson Resin in TCM Trauma Formulations

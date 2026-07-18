@@ -4,7 +4,7 @@ description: "A complete guide to Siang Pure Oil, Thailand's flagship inhalable 
 lang: en
 category: brands
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Siang Pure Oil (ยาหม่องสยามภัณฑ์) — The Thai Inhalable Medicated Oil from Bertram Chemical

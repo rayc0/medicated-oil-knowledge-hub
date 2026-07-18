@@ -4,7 +4,7 @@ description: "A practical and evidence-based guide to using medicated oils in po
 lang: en
 category: usage
 date: 2026-04-15
-author: Raymond
+author: Yaoyou Editorial Team
 tags:
   - DOMS
   - muscle recovery

@@ -1,7 +1,7 @@
 ---
 title: "斧標驅風油完全指南：成分解析、功效評測與使用方法"
 description: "全面解析斧標驅風油（Axe Brand Universal Oil）的歷史淵源、核心成分、藥理機制、適用場景、安全注意事項及與其他驅風油的對比"
-author: Helen Cheung
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-18"

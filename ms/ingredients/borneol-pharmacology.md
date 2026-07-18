@@ -1,7 +1,7 @@
 ---
 title: "Borneol (冰片, Kapur Barus Naga): Farmakologi, Penembus Kulit, dan Keselamatan — Panduan untuk Pengguna Malaysia"
 description: "Panduan lengkap borneol (冰片 / kapur barus naga / 龙脑) dalam minyak angin — stereokimia (+)/(-), semula jadi vs sintetik, pembuka penghalang darah-otak, penembusan kulit, mekanisme TRPM8 + GABA-A, rujukan Farmakope China 2020 + NPRA Malaysia + G6PD."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"

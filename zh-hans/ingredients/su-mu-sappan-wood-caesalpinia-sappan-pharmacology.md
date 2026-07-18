@@ -4,7 +4,7 @@ description: "对苏木（苏木 / Sappan Lignum，豆科云实属植物苏木 C
 lang: zh-hans
 category: ingredients
 date: 2026-05-04
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 苏木（Su Mu / Caesalpinia sappan）药理全解 — 那一味藏在跌打酒、红花油与瘀肿油底下的"红木"之心

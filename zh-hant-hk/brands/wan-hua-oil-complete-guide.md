@@ -4,7 +4,7 @@ description: "權威解讀跌打萬花油（萬花油）：從廣州敬修堂、
 lang: zh-hant-hk
 category: brands
 date: 2026-05-03
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 跌打萬花油（萬花油）：能貼在燙傷上的「萬花」傷藥

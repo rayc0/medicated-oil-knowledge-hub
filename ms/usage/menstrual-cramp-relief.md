@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Sakit Haid (Dismenore): Mekanisme, Bukti Klinikal, dan Panduan Aplikasi yang Selamat"
 description: "Panduan berasaskan bukti tentang penggunaan minyak ubat topikal bagi melegakan sakit haid — mekanisme TRPM8 + terapi haba, titik aplikasi, perbandingan produk di pasaran Malaysia, dan kontraindikasi penting."
-author: "the editorial team AI <ai@companyforge.ai>"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-19"

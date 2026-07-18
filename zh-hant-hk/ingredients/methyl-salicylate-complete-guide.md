@@ -4,7 +4,7 @@ description: "深入解讀藥油關鍵成分水楊酸甲酯（Methyl Salicylate 
 lang: zh-hant-hk
 category: ingredients
 date: 2026-04-15
-author: Dr. Amy Tsui
+author: 藥油大全編輯部
 tags:
 - 水楊酸甲酯
 - 冬青油

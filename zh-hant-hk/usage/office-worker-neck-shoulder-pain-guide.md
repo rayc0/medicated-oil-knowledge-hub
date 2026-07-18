@@ -4,7 +4,7 @@ description: "針對長期伏案、電腦工作導致的頸椎僵硬、斜方肌
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Dr. James Wu
+author: 藥油大全編輯部
 tags:
   - 辦公室
   - 頸肩痛

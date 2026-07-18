@@ -4,7 +4,7 @@ description: "A pharmacology-grade deep dive into Qi She (Deinagkistrodon acutus
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Qi She (Deinagkistrodon acutus / Five-Pace Viper / Bai Hua She) Pharmacology — The Wind-Penetrating Serpent Behind Rheumatic Wines, Da Huo Luo Dan, and Modern Antithrombotic Drugs

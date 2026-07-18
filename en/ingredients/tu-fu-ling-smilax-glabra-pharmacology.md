@@ -4,7 +4,7 @@ description: "Deep pharmacology of Tu Fu Ling (土茯苓 / Smilax glabra Roxb. /
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Tu Fu Ling (Smilax glabra / Glabrous Greenbrier Rhizome) Pharmacology

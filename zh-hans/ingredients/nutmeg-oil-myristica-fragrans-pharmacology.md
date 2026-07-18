@@ -4,7 +4,7 @@ description: "肉豆蔻精油是许多温经活血药膏与跌打油的隐性成
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # 肉豆蔻精油（Myristica fragrans）药理完整指南：肉豆蔻醚、温经止痛膏与真正的风险所在

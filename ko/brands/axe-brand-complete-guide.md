@@ -1,7 +1,7 @@
 ---
 title: "도끼표 만금유(Axe Brand Universal Oil) 완전 가이드: 성분·효능·사용법·한국 구매처"
 description: "도끼표 만금유 완전 가이드（한국어）— 성분(멘톨/캠퍼/유칼립투스/정향유), 만금유·구풍유·적색 라인 비교, 피부 통증·두통·멀미·벌레 물림 활용법, Tiger Balm vs 도끼표 비교, 2세 미만 사용 금지, 와파린 복용자 주의, 한국 구매처(올리브영/쿠팡/직구)"
-author: Dr. James Wu
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

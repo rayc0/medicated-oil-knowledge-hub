@@ -4,7 +4,7 @@ description: "香港冬天潮濕寒冷，老人家關節痛特別嚴重。呢篇
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Raymond
+author: 藥油大全編輯部
 tags:
   - 關節痛
   - 藥油

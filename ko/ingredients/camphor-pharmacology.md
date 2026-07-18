@@ -1,7 +1,7 @@
 ---
 title: "캠퍼(장뇌) 약리학 완전 가이드: 외용 진통 기전, 안전 농도, 영유아 독성과 금기사항"
 description: "캠퍼(camphor, 樟腦, 장뇌) 완전 가이드 — TRPV3·TRPA1·TRPV1 수용체 기전, FDA 11% OTC 상한선, 영아 경련 사례, 만 2세 미만 절대 금기, 임신 중 주의사항, G6PD 상호작용, 식품의약품안전처(MFDS) 규정 및 한국 시장 주요 약용 오일 캠퍼 농도 비교표"
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"

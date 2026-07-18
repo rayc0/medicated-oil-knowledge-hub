@@ -4,7 +4,7 @@ description: "Pharmacology of Jiang Huang (Curcuma longa rhizome): curcuminoids,
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Jiang Huang (Curcuma longa) — The Yellow-Root Behind Dit Da Jow Bruise Pastes, Shoulder Liniments, and the Topical Curcumin Story

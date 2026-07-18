@@ -1,7 +1,7 @@
 ---
 title: "Thiếu men G6PD và Dầu Gió: Hướng Dẫn An Toàn Toàn Diện cho Gia Đình Việt Nam"
 description: "Hướng dẫn đầy đủ về thiếu men G6PD (Glucose-6-Phosphate Dehydrogenase) và việc sử dụng dầu gió, dầu tràm, dầu xanh — danh sách thành phần cấm dùng (long não, bạc hà, salicylate, naphthalene), cơ chế tan máu, biến thể Viangchan phổ biến ở Việt Nam, và quy định của Bộ Y tế."
-author: CompanyForge AI
+author: Yaoyou Editorial Team
 language: "vi"
 category: "safety"
 last_updated: "2026-04-20"

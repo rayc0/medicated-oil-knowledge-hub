@@ -4,7 +4,7 @@ description: "深入解讀桃仁（Prunus persica 桃的成熟種子）的藥理
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-19
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 桃仁（Prunus persica）藥理全解 — 苦杏仁苷、脂肪油，與跌打藥油裡那味活血化瘀的核心種子

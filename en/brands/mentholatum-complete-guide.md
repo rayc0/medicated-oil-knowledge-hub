@@ -4,7 +4,7 @@ description: "A deep-dive into Mentholatum Ointment — the 130-year-old America
 lang: en
 category: brands
 date: 2026-05-03
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Mentholatum Ointment (曼秀雷敦) Complete Guide: The Little Nurse Behind Asia's Most Recognised Tin

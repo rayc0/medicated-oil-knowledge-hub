@@ -1,7 +1,7 @@
 ---
 title: "薄血藥（華法林）與藥用油的危險互動：香港臨床案例與安全指引"
 description: "華法林（薄血藥）使用者與藥用油完全安全指南（香港繁體中文）— 水楊酸甲酯（Methyl Salicylate）的經皮吸收及INR上升機制、Tiger Balm Red/Salonpas風險等級、香港臨床報告案例、INR監測建議、安全替代產品（Tiger Balm White/驅風油/保心安油）"
-author: Peter Kwok
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/warfarin-drug-interaction"

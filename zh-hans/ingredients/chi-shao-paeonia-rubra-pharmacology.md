@@ -4,7 +4,7 @@ description: "深入解析跌打药酒与瘀伤擦剂里的赤芍（Radix Paeoni
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 赤芍（Paeonia lactiflora）药理全解 — 芍药苷、凉血散瘀，与跌打药酒里那味会「降火」的活血根

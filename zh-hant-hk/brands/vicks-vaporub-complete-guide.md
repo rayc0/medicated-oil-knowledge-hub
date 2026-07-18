@@ -4,7 +4,7 @@ description: "循證拆解維克斯 VapoRub（Vicks 通鼻舒緩膏）：樟腦/
 lang: zh-hant-hk
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: 藥油大全編輯部
 ---
 
 # 維克斯 VapoRub（傷風止咳膏）完整指南：成分、作用機制、2 歲以下禁用警示與安全用法

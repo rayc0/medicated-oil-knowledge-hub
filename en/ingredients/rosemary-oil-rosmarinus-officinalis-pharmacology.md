@@ -4,7 +4,7 @@ description: "Deep-dive into rosemary oil (Rosmarinus officinalis) pharmacology:
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Helen Cheung
+author: Yaoyou Editorial Team
 ---
 
 # Rosemary Oil Pharmacology — Chemotypes, 1,8-Cineole/Camphor, and Its Role in Medicated Oils

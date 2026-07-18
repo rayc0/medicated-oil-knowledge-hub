@@ -4,7 +4,7 @@ description: "Tea tree oil (Melaleuca alternifolia) turns up in antiseptic balms
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Tea Tree Oil Pharmacology: Terpinen-4-ol, the ISO 4730 Standard, and Why Oxidised Oil Is the Real Risk

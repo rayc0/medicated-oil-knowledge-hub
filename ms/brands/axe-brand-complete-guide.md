@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Cap Kapak (Axe Brand): Bahan, Sejarah, Kegunaan dan Keselamatan"
 description: "Panduan Bahasa Melayu untuk Minyak Cap Kapak — sejarah dari 1928, bahan aktif (mentol 38%, metil salisilat 21%), pendaftaran NPRA, kegunaan, dan amaran keselamatan lengkap."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

@@ -4,7 +4,7 @@ description: "A complete pharmacological deep-dive into Fang Feng (防风 / Sapo
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 If you have ever scanned the back label of a Hong Kong pharmacy dit da jow, a Taiwanese wind-cold rub, or a classical anti-itch oil and seen 防風 listed alongside Qiang Huo, Bai Zhi, and Jing Jie, you have already met **Fang Feng (防风 / Saposhnikovia divaricata)**. Translated literally as "guarding against wind," Fang Feng is, in the language of classical Chinese medicine, the *润而不燥* — the "moist but not desiccating" — wind-medicine. It is the root the old formularists reached for when they wanted to release wind without scorching the body, and that gentleness is exactly why it survived the centuries-long migration from internal decoctions into the topical category we now call medicated oils.

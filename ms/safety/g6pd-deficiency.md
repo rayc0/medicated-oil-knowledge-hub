@@ -4,7 +4,7 @@ description: "Panduan klinikal untuk kekurangan G6PD (favisme) dan pendedahan to
 lang: ms
 category: safety
 date: 2026-04-17
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 ---
 
 # Kekurangan G6PD (Favisme) dan Minyak Angin: Bahan Mana yang Mencetuskan Hemolisis dan Mengapa — Panduan untuk Keluarga Malaysia

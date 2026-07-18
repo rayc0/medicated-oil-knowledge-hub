@@ -4,7 +4,7 @@ description: "A deep pharmacology and safety guide to Ma Qian Zi (马钱子, Str
 lang: en
 category: ingredients
 date: 2026-05-05
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Ma Qian Zi (Strychnos nux-vomica) Pharmacology — The 'Horse-Money Seed' Behind Zheng Gu Shui, Dit-Da Liniments, and Bone-Setting Wines

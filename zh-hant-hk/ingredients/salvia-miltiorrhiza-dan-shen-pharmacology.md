@@ -4,7 +4,7 @@ description: "從脂溶性丹參酮 IIA、隱丹參酮到水溶性丹酚酸 B，
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-19
-author: Yaoyou 編輯部
+author: 藥油大全編輯部
 ---
 
 # 丹參（Salvia miltiorrhiza）藥理全解 — 丹參酮、丹酚酸與這味紅根活血藥在外用藥油裡的真實位置

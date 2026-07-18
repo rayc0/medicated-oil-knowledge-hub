@@ -4,7 +4,7 @@ description: "完整解析花椒精油与果皮提取物（Zanthoxylum bungeanum
 lang: zh-hans
 category: ingredients
 date: 2026-05-04
-author: 药油知识中心
+author: 药油大全编辑部
 ---
 
 # 花椒（Zanthoxylum bungeanum / 川椒）药理 — 红花椒搽剂、跌打酒与川派热痛油里那阵"麻而不灼"的真正主角

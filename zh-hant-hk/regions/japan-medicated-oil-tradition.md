@@ -4,7 +4,7 @@ description: "日本藥油與中國、東南亞藥油有何不同？本文系統
 lang: zh-hant-hk
 category: regions
 date: 2026-04-15
-author: Raymond
+author: 藥油大全編輯部
 tags:
 - 日本藥油
 - Kampo

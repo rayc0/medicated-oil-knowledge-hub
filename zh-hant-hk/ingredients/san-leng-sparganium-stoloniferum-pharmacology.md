@@ -4,7 +4,7 @@ description: "三棱（Sparganium stoloniferum 乾燥塊莖）藥理深度解析
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Knowledge Hub
+author: 藥油大全編輯部
 ---
 
 # 三棱（Sparganium stoloniferum / 黑三棱 / 荊三棱）—— 與莪術結對、破血中之氣的最鋒利塊莖錨

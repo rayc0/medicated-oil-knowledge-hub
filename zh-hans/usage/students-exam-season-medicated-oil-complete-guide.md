@@ -4,7 +4,7 @@ description: "为高考、考研、中考学生家庭提供一份全面的药油
 lang: zh-hans
 category: usage
 date: 2026-04-15
-author: 药油知识中心
+author: 药油大全编辑部
 tags:
   - 学生
   - 考试季

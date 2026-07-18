@@ -1,7 +1,7 @@
 ---
 title: "두통·코막힘·감기에 좋은 약용 오일 완전 가이드 — 성분, 효과, 안전 사용법"
 description: "박하(멘톨), 캄퍼, 유칼립투스를 주성분으로 하는 아시아 약용 오일의 두통·코막힘·감기 완화 작용 기전, Tiger Balm·백화유·관량유 비교, 한국 구매처, 주의사항(2세 미만·임산부·G6PD)을 1차 출처 기반으로 정리한 완전 가이드"
-author: "the editorial team AI editorial team"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "usage"
 last_updated: "2026-04-18"

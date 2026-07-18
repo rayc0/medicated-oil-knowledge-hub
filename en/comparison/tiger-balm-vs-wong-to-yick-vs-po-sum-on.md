@@ -4,7 +4,7 @@ description: "Head-to-head comparison of Hong Kong's three iconic medicated oils
 lang: en
 category: comparison
 date: 2026-04-14
-author: Raymond Fong
+author: Yaoyou Editorial Team
 ---
 
 # Tiger Balm vs Wong To Yick vs Po Sum On — The Three Hong Kong Classics Compared

@@ -1,7 +1,7 @@
 ---
 title: "頭痛傷風鼻塞：藥油嘅作用機制同正確用法"
 description: "頭痛、傷風、鼻塞用藥油完整指南 — 薄荷醇同桉葉油嘅科學機制、邊隻藥油最適合、正確搽法、幾時應該睇醫生。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-17"

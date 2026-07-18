@@ -4,7 +4,7 @@ description: "深入解读白千层精油（Melaleuca cajuputi、Minyak Kayu Put
 lang: zh-hans
 category: ingredients
 date: 2026-05-03
-author: 药油知识中心
+author: 药油大全编辑部
 ---
 
 # 白千层精油药理学完整指南——从印尼 Kayu Putih 到亚洲药油的核心成分

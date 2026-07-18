@@ -4,7 +4,7 @@ description: "Kwan Loong Medicated Oil is one of the most popular Chinese medica
 lang: en
 category: brands
 date: 2026-04-15
-author: Raymond Fong
+author: Yaoyou Editorial Team
 tags:
   - Kwan Loong
   - Hong Kong medicated oil

@@ -4,7 +4,7 @@ description: "Full pharmacology of Asarum (Xi Xin) — Asarum heterotropoides va
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Asarum / Xi Xin (Asarum heterotropoides, A. sieboldii) Pharmacology — The Acrid Warming Root Behind Classical Headache Powders, Trauma Liniments, and the Aristolochic Acid Debate

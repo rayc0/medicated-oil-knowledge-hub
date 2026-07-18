@@ -4,7 +4,7 @@ description: "深度剖析德國百靈油——為什麼德國人叫它『中國
 lang: zh-hant-hk
 category: brands
 date: 2026-05-18
-author: Raymond Fong
+author: 藥油大全編輯部
 tags:
   - 德國百靈油
   - China-Öl

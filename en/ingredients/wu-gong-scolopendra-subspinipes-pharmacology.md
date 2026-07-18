@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive into Wu Gong (蜈蚣 / Scolopendra subspi
 lang: en
 category: ingredients
 date: 2026-05-05
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Wu Gong (Scolopendra subspinipes) Pharmacology — The 'Chinese Red-Headed Centipede' Behind Da Huo Luo Dan, Stubborn-Headache Powders, and Modern Kv2.1 Analgesic Peptide Research

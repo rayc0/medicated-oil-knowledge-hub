@@ -4,7 +4,7 @@ description: "Deep dive into Zheng Gu Shui, the famous Guangxi Yulin bone-settin
 lang: en
 category: brands
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Zheng Gu Shui (正骨水) — The Complete Guide to China's "Bone-Setting Water"

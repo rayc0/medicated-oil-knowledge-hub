@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on gardenia fruit (Gardenia jasminoides /
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Gardenia (Zhi Zi) Pharmacology — Geniposide, Crocin, and the Yellow-Staining Herb Inside Bruise Liniments

@@ -4,7 +4,7 @@ description: "A pharmacology-grade deep dive into Wei Ling Xian (威灵仙, Radi
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Wei Ling Xian (Clematis chinensis) Pharmacology — The "Wind-Cutting Vine" Behind Dit Da Jow, Wind-Damp Joint Liniments, and Stiff-Neck Oils

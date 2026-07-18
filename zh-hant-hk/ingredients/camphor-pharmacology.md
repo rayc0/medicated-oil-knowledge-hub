@@ -1,7 +1,7 @@
 ---
 title: "樟腦：藥理機制、安全劑量、嬰幼兒毒性完整解析"
 description: "樟腦（Camphor）完整藥理指南 — 作用機制、FDA安全劑量標準、嬰幼兒致死劑量、G6PD蠶豆症禁忌。香港繁體中文版。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"

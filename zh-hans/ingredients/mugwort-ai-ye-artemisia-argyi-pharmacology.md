@@ -4,7 +4,7 @@ description: "深入解析艾叶（艾草 / Artemisia argyi）外用药理：精
 lang: zh-hans
 category: ingredients
 date: 2026-05-03
-author: 药油知识中心
+author: 药油大全编辑部
 ---
 
 # 艾叶（Artemisia argyi）药理 — 艾灸油、月子艾油与暖宫贴背后的真正主角

@@ -4,7 +4,7 @@ description: "A complete guide to Dit Da Jow, the Chinese 'hit-fall wine' linime
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Dit Da Jow (跌打酒) — The Martial Artist's Bruise Liniment: Complete Guide

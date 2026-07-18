@@ -4,7 +4,7 @@ description: "深度解析泰国 Counterpain 镇痛软膏——水杨酸甲酯 1
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # Counterpain（泰国镇痛软膏）完整指南：成分、红蓝绿三款区别、源流与安全用法

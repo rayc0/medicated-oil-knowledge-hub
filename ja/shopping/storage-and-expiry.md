@@ -5,7 +5,7 @@ category: shopping
 slug: storage-and-expiry
 date: 2026-04-18
 license: CC BY 4.0
-author: the editorial team AI editorial team
+author: Yaoyou Editorial Team
 ---
 
 # 薬用オイルの保管と使用期限：棚持ち、成分安定性、廃棄のタイミング — 日本の消費者向け完全ガイド

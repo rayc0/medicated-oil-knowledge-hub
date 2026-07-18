@@ -4,7 +4,7 @@ description: "全面介紹使用藥油引起的皮膚過敏、接觸性皮炎與
 lang: zh-hant-hk
 category: safety
 date: 2026-04-15
-author: Dr. Amy Tsui
+author: 藥油大全編輯部
 tags:
 - 藥油過敏
 - 接觸性皮炎

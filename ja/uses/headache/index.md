@@ -1,7 +1,7 @@
 ---
 title: "薬用オイルで頭痛を和らげる方法：種類別の使い方ガイド"
 description: "薬用オイルによる頭痛ケアガイド（日本語）— 緊張型頭痛・片頭痛・群発頭痛の種類別対策、メントール系オイルの作用機序、こめかみマッサージの正しい方法、日本の頭痛薬との比較、副作用と注意事項"
-author: "Dr. Amy Tsui"
+author: Yaoyou Editorial Team
 language: "ja"
 category: "usage"
 last_updated: "2026-05-13"

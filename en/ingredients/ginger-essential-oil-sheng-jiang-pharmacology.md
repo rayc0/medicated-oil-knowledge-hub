@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on ginger essential oil in Asian medicate
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Ginger Essential Oil (Sheng Jiang) Pharmacology in Asian Medicated Oils

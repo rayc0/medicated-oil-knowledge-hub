@@ -4,7 +4,7 @@ description: "深度解析全蠍（全蠍 / Mesobuthus martensii Karsch）的藥
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-05
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 全蠍（Quan Xie / Buthus martensii）藥理全解 —— 那一味藏在大活絡丹、三叉神經痛酊劑、Nav1.7 現代鎮痛研究底下的「整隻蠍子」

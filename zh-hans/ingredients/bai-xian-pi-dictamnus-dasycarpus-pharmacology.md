@@ -4,7 +4,7 @@ description: "白鲜皮是中药外洗止痒方里的『第三人』。本文系
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油知识库编辑部
+author: 药油大全编辑部
 ---
 
 如果你翻过中医外科书里的『湿疹洗剂』『荨麻疹外洗方』『神经性皮炎方』，三味药几乎雷打不动地一起出现 — **苦参、蛇床子、白鲜皮**。前两味我们在《[苦参（Sophora flavescens）药理全解](./ku-shen-sophora-flavescens-pharmacology.md)》和《[蛇床子（Cnidium monnieri）药理全解](./she-chuang-zi-cnidium-monnieri-pharmacology.md)》里已经拆解过 — 一个是豆科生物碱（苦参碱、氧化苦参碱），一个是伞形科香豆素（蛇床子素、欧前胡素）。今天补齐这套『三联止痒套餐』里的**第三位主角 — 白鲜皮**，看看这片来自**芸香科白鲜（Dictamnus dasycarpus）**的根皮，凭什么和那两味同台演出了一千多年，又为什么在 21 世纪被欧洲药典反复警告。

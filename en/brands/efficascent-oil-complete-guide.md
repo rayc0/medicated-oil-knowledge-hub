@@ -4,7 +4,7 @@ description: "A deep dive into Efficascent Oil — the Philippines' most iconic 
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Efficascent Oil Complete Guide: Ingredients, History, Pharmacology, and Safe Use

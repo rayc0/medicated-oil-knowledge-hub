@@ -1,7 +1,7 @@
 ---
 title: "Tiger Balm vs Minyak Ubat Lain: Perbandingan Lengkap di Pasaran Malaysia"
 description: "Perbandingan terperinci Tiger Balm dengan Wong To Yick, Kwan Loong, Po Sum On, dan Axe Brand — ramuan aktif, keberkesanan, harga, dan kesesuaian untuk pelbagai kegunaan"
-author: Editorial Team
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-18"

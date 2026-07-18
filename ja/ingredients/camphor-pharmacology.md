@@ -1,7 +1,7 @@
 ---
 title: "カンファー（樟脳）の薬理学完全ガイド：TRP チャネル作用機序・安全濃度・乳幼児毒性と禁忌"
 description: "カンファー（樟脳 / camphor）の薬理学完全ガイド — 外用鎮痛・温感・清涼感の分子機序（TRPV1/TRPV3/TRPM8）、Tiger Balm・White Flower Oil・ヴィックスヴェポラッブにおける使用濃度、2歳未満絶対禁忌の根拠（FDA 21 CFR 310.545・AAP 1994・Love 2004）、経皮吸収と全身毒性リスク、妊娠中・G6PD・てんかん患者への禁忌、中毒情報センター 072-727-2499 / 029-852-9999 対応フロー。"
-author: CompanyForge AI editorial team
+author: Yaoyou Editorial Team
 language: "ja"
 category: "ingredients"
 last_updated: "2026-04-19"

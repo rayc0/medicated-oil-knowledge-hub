@@ -5,7 +5,7 @@ lang: zh-hant-hk
 category: shopping
 slug: storage-and-expiry
 date: 2026-04-18
-author: "the editorial team AI editorial team"
+author: 藥油大全編輯部
 ---
 
 # 藥油點樣保存？過期咗仲用唔用得？香港家庭完整指南

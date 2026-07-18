@@ -1,7 +1,7 @@
 ---
 title: "Kafor (Camphor): Farmakologi, Dos Selamat, dan Amaran Keracunan untuk Bayi"
 description: "Panduan lengkap kafor dalam minyak angin — mekanisme tindakan, dos selamat dewasa vs bayi, risiko keracunan, interaksi G6PD. Rujukan NPRA Malaysia dan FDA."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"

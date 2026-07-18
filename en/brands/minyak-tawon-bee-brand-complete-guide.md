@@ -4,7 +4,7 @@ description: "Complete guide to PT Tawon Jaya's Minyak Tawon: the rare lawang-oi
 lang: en
 category: brands
 date: 2026-05-18
-author: Medicated Oil Knowledge Hub Editorial Team
+author: Yaoyou Editorial Team
 ---
 
 # Minyak Tawon (Bee Brand Medicated Oil) — Makassar's Century-Old Lawang Oil

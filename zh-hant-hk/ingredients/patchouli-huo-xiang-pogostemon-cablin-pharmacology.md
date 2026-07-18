@@ -4,7 +4,7 @@ description: "完整解析廣藿香精油（Pogostemon cablin / 廣藿香 / Guan
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-04
-author: 藥油知識中心
+author: 藥油大全編輯部
 ---
 
 # 廣藿香（Pogostemon cablin）藥理 — 藿香正氣水、保濟丸與東南亞藥油裡那個真正「動手」的「芳香化濕」主角

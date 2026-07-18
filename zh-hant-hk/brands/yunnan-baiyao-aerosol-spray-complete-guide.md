@@ -4,7 +4,7 @@ description: "權威解讀雲南白藥氣霧劑：曲煥章 1902 年百寶丹的
 lang: zh-hant-hk
 category: brands
 date: 2026-05-03
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 雲南白藥氣霧劑完全指南：雙罐跌打系統的藥理與用法

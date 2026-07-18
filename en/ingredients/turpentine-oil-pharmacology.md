@@ -4,7 +4,7 @@ description: "How turpentine oil (Terebinthinae aetheroleum) works as a rubefaci
 lang: en
 category: ingredients
 date: 2026-05-18
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Turpentine Oil Pharmacology: Counterirritant Mechanism, Absorption, and Safety in Medicated Oils

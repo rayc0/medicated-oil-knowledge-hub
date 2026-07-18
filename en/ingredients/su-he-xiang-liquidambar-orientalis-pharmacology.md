@@ -4,7 +4,7 @@ description: "A deep pharmacology brief on Su He Xiang (蘇合香 / Storax / Liq
 lang: en
 category: ingredients
 date: 2026-05-21
-author: "Yaoyou Medicated Oil Knowledge Hub"
+author: Yaoyou Editorial Team
 ---
 
 # Su He Xiang (Liquidambar orientalis / Storax) Pharmacology

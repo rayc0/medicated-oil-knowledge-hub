@@ -4,7 +4,7 @@ description: "A full reference on White Flower Embrocation: the Gan Geok Eng fam
 lang: en
 category: brands
 date: 2026-04-14
-author: Dr. James Wu
+author: Yaoyou Editorial Team
 ---
 
 # White Flower Embrocation (白花油) — Complete Guide to the Hong Kong Cold-and-Headache Classic

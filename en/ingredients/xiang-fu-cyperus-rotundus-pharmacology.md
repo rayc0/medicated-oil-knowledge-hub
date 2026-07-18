@@ -4,7 +4,7 @@ description: "Deep pharmacology profile of Xiang Fu (Cyperus rotundus, nutgrass 
 lang: "en"
 category: "ingredients"
 date: 2026-05-21
-author: "Yaoyou Editorial"
+author: Yaoyou Editorial Team
 ---
 
 # Xiang Fu (Cyperus rotundus, Nutgrass Rhizome) Pharmacology — The Qi-Regulating Rhizome Anchoring Dysmenorrhea Plasters, Si Wu Tang Liniments, Gynecological Wines, and Modern NF-κB / Chondrocyte Research

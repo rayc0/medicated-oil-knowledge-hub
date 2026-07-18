@@ -1,7 +1,7 @@
 ---
 title: "Minyak Angin untuk Sakit Kepala, Hidung Tersumbat, dan Selesema: Apa Kata Bukti Klinikal — Panduan untuk Pengguna Malaysia"
 description: "Panduan berbukti tentang penggunaan minyak angin (Tiger Balm, Vicks VapoRub, Axe Brand, Kwan Loong, Po Sum On, minyak pudina Ricqlès) untuk sakit kepala tegangan, hidung tersumbat, dan gejala selesema — mekanisme TRPM8, ujian rawak Paul 2010, monograf FDA, larangan bayi bawah 2 tahun, amaran G6PD untuk keluarga Malaysia, dan talian kecemasan Pusat Racun Kebangsaan."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-17"

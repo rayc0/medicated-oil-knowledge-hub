@@ -4,7 +4,7 @@ description: "Complete pharmacology of Huang Qin (Chinese skullcap root, Scutell
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Huang Qin (Scutellaria baicalensis) Pharmacology — Baicalein, Baicalin, Wogonin, and the Lamiaceae Root That Completes the Three Yellows (San Huang) Heat-Clearing Trio

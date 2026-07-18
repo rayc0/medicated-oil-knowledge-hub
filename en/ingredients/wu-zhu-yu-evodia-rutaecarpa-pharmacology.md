@@ -4,7 +4,7 @@ description: "Full pharmacology of Wu Zhu Yu (Evodia rutaecarpa / Tetradium ruti
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Medicated Oil Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Wu Zhu Yu (Evodia rutaecarpa): The Fruit That Pulls Fire Down to the Sole

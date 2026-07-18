@@ -4,7 +4,7 @@ description: "Deep dive into Huang Lian (Rhizoma Coptidis) pharmacology — the 
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Huang Lian (Coptis chinensis / deltoidea / teeta) — The Rhizome That Defines "Bitter" and Anchors the Three Yellows

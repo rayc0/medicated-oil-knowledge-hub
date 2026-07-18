@@ -4,7 +4,7 @@ description: "為香港行山、露營、遠足愛好者提供一份全面的藥
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: 藥油知識中心
+author: 藥油大全編輯部
 tags:
   - 行山
   - 露營

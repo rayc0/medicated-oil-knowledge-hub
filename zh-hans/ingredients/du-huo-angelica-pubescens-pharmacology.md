@@ -4,7 +4,7 @@ description: "独活（Angelica pubescens、A. biserrata）的药理深度解析
 lang: zh-hans
 category: ingredients
 date: 2026-05-04
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 如果你曾经打开过老式的**腰痛擦剂**、香港药材铺自配的**坐骨神经痛油**，或是南派武馆秘传的**下盘跌打药酒**，你大概闻过那股味道却叫不上名字：在樟脑、冬青油的辛凉之下，垫着一抹深沉、略带树脂感、又像晒干芹菜根的暖香。**那一抹底味，几乎都是独活（Du Huo）**——伞形科植物毛当归 *Angelica pubescens*（部分药典也收 *A. biserrata*）的干燥根。

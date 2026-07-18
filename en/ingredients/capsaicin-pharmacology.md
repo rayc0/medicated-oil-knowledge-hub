@@ -4,7 +4,7 @@ description: "Deep dive into capsaicin pharmacology: TRPV1 agonism, the paradox 
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Capsaicin Pharmacology — How Chili Heat Became a Prescription Analgesic

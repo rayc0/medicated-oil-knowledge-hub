@@ -4,7 +4,7 @@ description: "从肉桂醛、桂皮酸到 TRPA1、CGRP、NAAA 的现代证据：
 lang: zh-hans
 category: ingredients
 date: 2026-05-04
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 如果你认真读过几瓶华人擦剂的成分表，你大概会发现一个奇怪的现象：同一棵树上出来的两个名字，常常会同时出现在同一瓶药酒里。**肉桂**（Rou Gui，肉桂皮）是树皮，**桂枝**（Gui Zhi）是嫩枝。它们都来自同一棵 *Cinnamomum cassia*（中国肉桂），它们都以**肉桂醛**（cinnamaldehyde）为主要标志成分。可是从《伤寒论》到现代药典，方家始终把它们当作两味不同的药——而现代药理学也终于慢慢解释了为什么。

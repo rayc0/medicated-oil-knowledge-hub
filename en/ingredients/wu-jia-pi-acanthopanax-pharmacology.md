@@ -4,7 +4,7 @@ description: "A deep pharmacology guide to Wu Jia Pi (五加皮, Acanthopanax / 
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Wu Jia Pi (Acanthopanax gracilistylus) Pharmacology — The 'Five-Leaf Bark' Behind Joint Liniments, Wu Jia Pi Wine, and Elderly Knee-and-Lumbar Oils

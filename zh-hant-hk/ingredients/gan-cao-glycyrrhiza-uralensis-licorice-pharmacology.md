@@ -4,7 +4,7 @@ description: "深度藥理：甘草（Gan Cao / Glycyrrhiza uralensis / Radix Gl
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-21
-author: 藥油編輯部
+author: 藥油大全編輯部
 ---
 
 # 甘草（Gan Cao / Glycyrrhiza uralensis）藥理全解 —— 外用方裡的『國老』究竟在做什麼

@@ -4,7 +4,7 @@ description: "針對女性經期腹痛（原發性與繼發性痛經）的藥油
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Helen Cheung
+author: 藥油大全編輯部
 tags:
 - 痛經
 - 經期腹痛

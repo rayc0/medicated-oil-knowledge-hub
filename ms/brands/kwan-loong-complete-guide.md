@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Angin Kwan Loong: Bahan, Sejarah, Kegunaan dan Keselamatan"
 description: "Panduan Bahasa Melayu untuk Minyak Angin Kwan Loong — sejarah, bahan aktif (metil salisilat, mentol, kafor), pendaftaran NPRA Malaysia, cara guna yang betul, dan amaran keselamatan untuk bayi dan ibu mengandung."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

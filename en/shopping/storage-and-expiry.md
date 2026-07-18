@@ -5,7 +5,7 @@ category: shopping
 slug: storage-and-expiry
 date: 2026-04-14
 license: CC BY 4.0
-author: Helen Cheung
+author: Yaoyou Editorial Team
 ---
 
 # Medicated Oil Storage and Expiry: Shelf Life, Stability, and When to Throw It Out

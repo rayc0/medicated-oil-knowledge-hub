@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Dua Pari (法國雙飛人 / Ricqlès Alcool de Menthe): Sejarah Perancis 1838, Bahan, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Double Prince Peppermint Water (法國雙飛人藥水) — produk Perancis yang diasaskan pada 1838 oleh Heyman de Ricqlès di Lyon dan dijual sebagai Ricqlès Alcool de Menthe. Formulasi minyak peppermint dalam etanol ~80%, pendaftaran NPRA Malaysia, status Halal, amaran keselamatan untuk bayi/kanak-kanak, ibu mengandung, pesakit G6PD, interaksi disulfiram/metronidazole, perbandingan dengan Tiger Balm, Wong To Yick, Po Sum On."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

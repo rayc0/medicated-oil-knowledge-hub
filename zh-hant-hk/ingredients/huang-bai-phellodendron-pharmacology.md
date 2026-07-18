@@ -4,7 +4,7 @@ description: "從川黃柏與關黃柏的來源差異，到小檗鹼、掌葉防
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Knowledge Hub
+author: 藥油大全編輯部
 ---
 
 # 黃柏（Phellodendron amurense / chinense）藥理全解

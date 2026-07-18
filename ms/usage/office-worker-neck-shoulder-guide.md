@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Pekerja Pejabat: Panduan Lengkap Sakit Leher dan Bahu"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional untuk melegakan sakit leher, bahu, dan belakang akibat kerja berpejabat — termasuk teknik sapuan, senaman regangan, dan pencegahan"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

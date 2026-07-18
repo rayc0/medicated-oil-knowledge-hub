@@ -4,7 +4,7 @@ description: "頭痛是藥油最常見的使用場景。本指南系統介紹如
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: Raymond Fong
+author: 藥油大全編輯部
 tags: [頭痛, 藥油, 白花油, 太陽穴, 風池穴, 偏頭痛, 緊張型頭痛]
 ---
 

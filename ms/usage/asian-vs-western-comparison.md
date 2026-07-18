@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat Asia vs Analgesik Topikal Barat: Perbandingan Lengkap"
 description: "Perbandingan komprehensif antara minyak ubat tradisional Asia (Tiger Balm, Kwan Loong, minyak angin) dengan produk Barat (Voltaren, Deep Heat, Salonpas) — ramuan, mekanisme, keberkesanan, dan kesesuaian"
-author: Peter Kwok
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

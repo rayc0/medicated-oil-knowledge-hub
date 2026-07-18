@@ -4,7 +4,7 @@ description: "深度解析中药苦参（Sophora flavescens）的现代药理：
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: "Yaoyou 药油百科"
+author: 药油大全编辑部
 ---
 
 # 苦参（Sophora flavescens）药理全解 — 苦参碱、氧化苦参碱与那味与蛇床子搭档『清热燥湿、杀虫止痒』的豆科根

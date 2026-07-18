@@ -1,7 +1,7 @@
 ---
 title: "三腳標（三腳標牌 / Cap Kaki Tiga）完全指南：由新加坡清涼水到三腳標藥膏的成份、歷史、藥理與安全用法"
 description: "全面解析新加坡文德集團（Wen Ken Group）三腳標牌（三腳標 / Cap Kaki Tiga）的 1937 年四家移民創業史、清涼水與綠/黃/白三色三腳標藥膏的成份配比、薄荷腦樟腦水楊酸甲酯藥理、官方使用方法、與虎標和斧標的差異、孕婦嬰幼兒與蠶豆症禁忌及辨別真偽要點"
-author: Helen Cheung
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-05-18"

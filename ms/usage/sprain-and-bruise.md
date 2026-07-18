@@ -1,7 +1,7 @@
 ---
 title: "Minyak Angin untuk Terseliuh, Terkehel, dan Lebam: Apa yang Berkesan, Apa yang Tidak, Bila Perlu ke Doktor — Panduan untuk Pengguna Malaysia"
 description: "Panduan berbukti tentang penggunaan minyak angin (Tiger Balm Merah, 黃道益 Wong To Yick, Po Sum On 保心安, White Flower 白花油, Ricqlès/雙飛人, Kwan Loong, Minyak Cap Kapak) untuk terseliuh pergelangan kaki, urat tertarik, dan lebam — rangka kerja PEACE & LOVE 2019 BJSM, ulasan Cochrane Derry 2014, monograf FDA 21 CFR Part 348, amaran G6PD dan bayi, serta talian kecemasan Pusat Racun Kebangsaan untuk keluarga Malaysia."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-17"

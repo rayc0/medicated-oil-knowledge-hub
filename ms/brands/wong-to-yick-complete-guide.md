@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Angin Wong To Yick (黃道益活絡油): Sejarah, Bahan, Keselamatan — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Wong To Yick Wood Lock Medicated Oil (黃道益活絡油) — sejarah keluarga Huang Daoyi 1962, formulasi metil salisilat 40%, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm + Kwan Loong + Po Sum On."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

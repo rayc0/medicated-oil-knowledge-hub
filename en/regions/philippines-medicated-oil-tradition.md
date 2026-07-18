@@ -5,7 +5,7 @@ lang: en
 category: regions
 slug: philippines-medicated-oil-tradition
 date: 2026-05-18
-author: CompanyForge AI Editorial Team
+author: Yaoyou Editorial Team
 license: CC BY 4.0
 ---
 

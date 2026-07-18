@@ -4,7 +4,7 @@ description: "타이거밤·황도익·백화유 등 인기 약용 오일의 위
 lang: ko
 category: shopping
 date: 2026-04-18
-author: "the editorial team AI <ai@companyforge.ai>"
+author: Yaoyou Editorial Team
 canonical: "https://yaoyoudaquan.com/ko/shopping/counterfeit-detection"
 license: "CC BY 4.0"
 ---

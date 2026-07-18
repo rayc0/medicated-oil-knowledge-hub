@@ -4,7 +4,7 @@ description: "Deep dive into Cang Zhu pharmacology — the sesquiterpenes (atrac
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Cang Zhu (Atractylodes lancea / chinensis) Pharmacology — The Asteraceae Rhizome That Anchors the Damp-Dispelling Position

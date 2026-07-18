@@ -4,7 +4,7 @@ description: "Eagle Brand Medicated Oil is one of Singapore's most iconic topica
 lang: en
 category: brands
 date: 2026-05-03
-author: Raymond Fong
+author: Yaoyou Editorial Team
 tags:
   - Eagle Brand
   - Singapore medicated oil

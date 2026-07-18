@@ -1,7 +1,7 @@
 ---
 title: "薄荷醇：作用機制、涼感原理與安全使用指南"
 description: "薄荷醇（Menthol）完整藥理指南 — TRPM8受體機制、安全濃度、嬰幼兒喉痙攣風險、G6PD蠶豆症注意事項。香港繁體中文版。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"

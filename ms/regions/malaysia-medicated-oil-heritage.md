@@ -1,7 +1,7 @@
 ---
 title: "Warisan Minyak Ubat di Malaysia: Sejarah, Budaya, dan Peranan dalam Masyarakat"
 description: "Sejarah dan warisan budaya penggunaan minyak ubat tradisional di Malaysia — pengaruh Cina, Melayu, India, dan Arab, peranan dalam perubatan rakyat, dan evolusi dari kedai sinseh ke farmasi moden"
-author: Editorial Team
+author: Yaoyou Editorial Team
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"

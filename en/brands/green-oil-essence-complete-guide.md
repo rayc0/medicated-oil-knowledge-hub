@@ -4,7 +4,7 @@ description: "Complete guide to Hsin Wan Jen Green Oil Essence: the menthol–ca
 lang: en
 category: brands
 date: 2026-05-18
-author: Medicated Oil Knowledge Hub Editorial Team
+author: Yaoyou Editorial Team
 ---
 
 # Green Oil Essence (綠油精) — Taiwan's National Medicated Oil

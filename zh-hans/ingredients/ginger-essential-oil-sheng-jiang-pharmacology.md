@@ -4,7 +4,7 @@ description: "深入解析生姜精油在中式与亚洲药油中的药理：姜
 lang: zh-hans
 category: ingredients
 date: 2026-05-03
-author: 药油知识中心
+author: 药油大全编辑部
 ---
 
 # 生姜精油（姜油）药理 — 月子油、姜活络油与亚洲温通油的真正主角

@@ -4,7 +4,7 @@ description: "权威解读跌打酒（跌打药酒）：它不是单一品牌，
 lang: zh-hans
 category: brands
 date: 2026-05-18
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 跌打酒：武术伤科流传数百年的化瘀药酒

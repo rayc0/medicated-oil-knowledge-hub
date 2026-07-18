@@ -4,7 +4,7 @@ description: "从味连、雅连、云连的来源差异，到小檗碱、黄连
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Knowledge Hub
+author: 药油大全编辑部
 ---
 
 # 黄连（Coptis chinensis / deltoidea / teeta）药理全解

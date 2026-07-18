@@ -4,7 +4,7 @@ description: "深入拆解地龙（地龙 / 蚯蚓 / Pheretima）的三重身份
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: Yaoyou 编辑部
+author: 药油大全编辑部
 ---
 
 # 地龙（蚯蚓 / Pheretima）药理全解 — 大活络丹里的「土龙」、蚓激酶溶栓传奇与外用通络的真实证据

@@ -1,7 +1,7 @@
 ---
 title: "嬰幼兒可以用藥油嗎？2歲以下完全禁忌清單"
 description: "BB搽藥油安全嗎？完整解析嬰幼兒藥油禁忌 — 樟腦致死劑量、薄荷醇喉痙攣風險、水楊酸甲酯危害。香港家長必讀安全指南。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"

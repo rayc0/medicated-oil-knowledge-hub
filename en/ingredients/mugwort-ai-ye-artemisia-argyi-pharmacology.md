@@ -4,7 +4,7 @@ description: "A pharmacology-first guide to Artemisia argyi (Ai Ye / Chinese mug
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Mugwort (Ai Ye / Artemisia argyi) Pharmacology — The Warming Leaf Behind Moxibustion Oils, Postpartum Liniments, and Chinese Medicated Patches

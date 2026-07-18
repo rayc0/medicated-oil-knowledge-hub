@@ -4,7 +4,7 @@ description: "A complete pharmacology, history, and safety review of She Xiang (
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 Of all the ingredients listed on the label of a high-end Chinese medicated oil or plaster, none carries more cultural weight than 麝香 (**She Xiang**, "Musk"). It sits at the top of the aromatic-resuscitation (*kai qiao*) category in the Chinese Materia Medica, has been priced by weight against gold for most of the last millennium, and its presence on a tube of *She Xiang Hu Gu Gao* (Musk Tiger Bone Plaster) or a bottle of *She Xiang Feng Shi You* (Musk Rheumatism Oil) is the single strongest signal a Chinese consumer reads for "premium grade." The biology behind that reputation is more specific than romance: musk's principal active, **muscone (3-methylcyclopentadecanone)**, is a macrocyclic ketone that does two pharmacologically distinct things at once — it suppresses the NF-κB / NLRP3 inflammatory axis at the cellular level, and it disrupts the lipid packing of the stratum corneum, dragging every other ingredient in the formula deeper into the skin than they could travel alone. This article unpacks the chemistry, the mechanism, the CITES-driven shift from natural to artificial musk, and what the label "含麝香" (contains musk) actually means on a modern bottle.

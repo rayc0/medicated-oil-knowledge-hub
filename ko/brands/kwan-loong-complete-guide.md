@@ -1,7 +1,7 @@
 ---
 title: "驅風油(관풍유) 완전 가이드: 성분, 효능, Tiger Balm과 비교 및 한국 구매처"
 description: "Kwan Loong Oil(驅風油, 관풍유) 완전 가이드（한국어）— 주성분 멘톨 40%·유칼립투스 40% 약리 효과, 두통·근육통·멀미·모기 물림 사용법, Tiger Balm White vs Kwan Loong 비교 표, 한국 구매 방법(쿠팡·올리브영·직구), 사용 주의사항"
-author: Helen Cheung
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

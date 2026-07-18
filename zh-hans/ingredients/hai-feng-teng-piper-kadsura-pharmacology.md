@@ -4,7 +4,7 @@ description: "深入解析风湿药酒与跌打外用方里的海风藤（Caulis
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 海风藤（Piper kadsura，风藤）药理全解 — 海风藤酮（kadsurenone）、PAF 受体拮抗剂的鼻祖，与风湿药酒里那味会「祛风湿、通经络」的胡椒藤

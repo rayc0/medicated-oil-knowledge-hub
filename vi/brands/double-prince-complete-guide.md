@@ -4,7 +4,7 @@ description: "Hướng dẫn đầy đủ về Nước Bạc Hà Song Phi Nhân 
 lang: vi
 category: brands
 date: 2026-04-23
-author: CompanyForge AI
+author: Yaoyou Editorial Team
 ---
 
 # Nước Bạc Hà Song Phi Nhân (法国双飞人 / Ricqlès Alcool de Menthe) — Hướng Dẫn Toàn Diện: Lịch Sử Lyon 1838, Thành Phần, Phân Biệt Hàng Thật và An Toàn Sử Dụng

@@ -4,7 +4,7 @@ description: "深入解析伤科与跌打药酒里的降香（降香黄檀心材
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 降香（Dalbergia odorifera，降香黄檀）药理全解 — 反式橙花叔醇、抗血小板，与跌打药酒里那味会「行气血、定痛」的香木

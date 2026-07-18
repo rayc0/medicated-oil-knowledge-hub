@@ -4,7 +4,7 @@ description: "Arnica montana is the classic Western topical for bruises, sprains
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Arnica montana Pharmacology: Helenalin, NF-κB Inhibition, and the Evidence Behind the Bruise Remedy

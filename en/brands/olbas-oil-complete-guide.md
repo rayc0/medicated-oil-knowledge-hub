@@ -4,7 +4,7 @@ description: "An evidence-based deep dive into Olbas Oil — the eucalyptus/caju
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Olbas Oil Complete Guide: Ingredients, the Swiss History, How It Works, and Safe Use

@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive into Quan Xie (全蝎 / Buthus martensii 
 lang: en
 category: ingredients
 date: 2026-05-05
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Quan Xie (Buthus martensii) Pharmacology — The 'Whole Scorpion' Behind Anti-Spasmodic Pills, Trigeminal-Neuralgia Topicals, and Modern Nav1.7 Pain Research

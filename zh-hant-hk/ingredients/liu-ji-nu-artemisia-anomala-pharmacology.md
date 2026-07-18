@@ -4,7 +4,7 @@ description: "深入解讀劉寄奴（劉寄奴 / 奇蒿 Artemisia anomala）嘅
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-19
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 劉寄奴（奇蒿 / Artemisia anomala）藥理全解 — 香豆素、黃酮與跌打藥酒入面嗰味戰場止血草

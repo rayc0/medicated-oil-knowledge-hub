@@ -4,7 +4,7 @@ description: "An evidence-based deep dive into minyak telon, Indonesia's traditi
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Minyak Telon Complete Guide: The Indonesian Baby Oil — Ingredients, the Cajuput Safety Question, and Evidence-Based Use

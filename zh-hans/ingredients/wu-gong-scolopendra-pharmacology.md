@@ -4,7 +4,7 @@ description: "深入解析蜈蚣（少棘蜈蚣 / Scolopendra subspinipes mutila
 lang: zh-hans
 category: ingredients
 date: 2026-05-05
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 蜈蚣（Wu Gong / Scolopendra subspinipes mutilans）药理全解 —— 那一味藏在大活络丹、止痉散、顽固性头痛和现代 Kv2.1 镇痛肽研究底下的'红头将军'

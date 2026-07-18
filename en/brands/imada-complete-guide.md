@@ -4,7 +4,7 @@ description: "A deep dive into Imada (依馬打), the Hong Kong house of medicat
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Imada (依馬打) Medicated Oils — Complete Guide

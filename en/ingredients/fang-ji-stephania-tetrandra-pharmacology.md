@@ -4,7 +4,7 @@ description: "A deep pharmacology brief on Stephania tetrandra (粉防己 / Han 
 lang: en
 category: ingredients
 date: 2026-05-20
-author: "Yaoyou Medicated Oil Knowledge Hub"
+author: Yaoyou Editorial Team
 ---
 
 # Fang Ji (Stephania tetrandra) Pharmacology

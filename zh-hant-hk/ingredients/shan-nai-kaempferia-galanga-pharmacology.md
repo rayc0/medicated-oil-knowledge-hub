@@ -4,7 +4,7 @@ description: "深入解析跌打藥油、嶺南風濕外洗酒、印尼 minyak k
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-20
-author: 藥油編輯團隊
+author: 藥油大全編輯部
 ---
 
 # 山柰（Kaempferia galanga / 沙薑）藥理全解 — 對甲氧基肉桂酸乙酯（EPMC）、肉桂酸乙酯與那味組成『跌打風濕外洗酒』和印尼 Minyak Kencur 的薑科芳香根莖

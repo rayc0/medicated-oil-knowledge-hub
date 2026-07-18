@@ -4,7 +4,7 @@ description: "权威解读跌打万花油（万花油）：从广州敬修堂、
 lang: zh-hans
 category: brands
 date: 2026-05-03
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 跌打万花油（萬花油）：能贴在烫伤上的'万花'伤药

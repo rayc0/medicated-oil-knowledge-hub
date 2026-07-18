@@ -1,7 +1,7 @@
 ---
 title: "Keselamatan Minyak Ubat untuk Warga Emas: Panduan Lengkap"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional yang selamat untuk warga emas — interaksi ubat, kulit sensitif, dos yang sesuai, dan langkah keselamatan khusus"
-author: Peter Kwok
+author: Yaoyou Editorial Team
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"

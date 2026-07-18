@@ -4,7 +4,7 @@ description: "山金車是西方治療瘀傷、扭傷與關節痛的經典外用
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-19
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 # 山金車（Arnica montana）藥理完整指南：海蘭素、NF-κB 抑制機制與跌打瘀傷的真實證據

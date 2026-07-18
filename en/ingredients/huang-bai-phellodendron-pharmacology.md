@@ -4,7 +4,7 @@ description: "Deep dive into Huang Bai (Cortex Phellodendri) pharmacology — th
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Huang Bai (Phellodendron amurense / chinense) — The Yellow Bark That Turns Three Anti-Itch Herbs Into a Damp-Heat Quartet

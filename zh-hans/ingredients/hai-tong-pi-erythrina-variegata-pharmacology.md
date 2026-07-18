@@ -4,7 +4,7 @@ description: "深入解析风湿药酒与跌打外用方里的海桐皮（刺桐
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: 药油编辑团队
+author: 药油大全编辑部
 ---
 
 # 海桐皮（Erythrina variegata，刺桐皮）药理全解 — 红厹宁碱、异黄酮，与风湿药酒里那味会「祛风湿、通经络、止痛杀虫」的乔木树皮

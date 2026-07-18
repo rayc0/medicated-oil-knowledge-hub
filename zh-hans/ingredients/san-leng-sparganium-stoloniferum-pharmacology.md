@@ -4,7 +4,7 @@ description: "三棱（Sparganium stoloniferum 干燥块茎）药理深度解析
 lang: zh-hans
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Knowledge Hub
+author: 药油大全编辑部
 ---
 
 # 三棱（Sparganium stoloniferum / 黑三棱 / 荆三棱）—— 与莪术结对、破血中之气的最锋利块茎锚

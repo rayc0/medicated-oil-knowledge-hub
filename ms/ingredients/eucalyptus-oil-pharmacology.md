@@ -4,7 +4,7 @@ description: "Panduan farmakologi minyak eucalyptus untuk pengguna Malaysia: kan
 lang: ms
 category: ingredients
 date: 2026-04-17
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 ---
 
 # Minyak Eucalyptus (Eucalyptus Oil): 1,8-Sineol, Tindakan Pernafasan, dan Keselamatan dalam Minyak Angin — Termasuk Penjelasan "Minyak Kayu Putih ≠ Eucalyptus" untuk Pengguna Malaysia

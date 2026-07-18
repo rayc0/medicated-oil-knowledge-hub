@@ -4,7 +4,7 @@ description: "A complete pharmacological deep-dive into Tou Gu Cao (透骨草 / 
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 If you have ever held a Hong Kong or Yunnan dit da jow up to the light and read the Chinese script on the label, you have almost certainly seen 透骨草 — *Tou Gu Cao*, the "through-bone herb." The name alone tells you why classical bone-setters loved it: this is the plant that, in the language of the old *die da* (跌打) traditions, **sends the formula past the skin, past the muscle, and down to where the bone aches**. It is one of the few external-use herbs whose name is its job description.

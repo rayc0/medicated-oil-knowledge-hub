@@ -1,7 +1,7 @@
 ---
 title: "Kit Minyak Ubat untuk Perjalanan: Panduan Lengkap Penyediaan dan Penggunaan"
 description: "Panduan lengkap menyediakan kit minyak ubat untuk perjalanan — pilihan produk, peraturan penerbangan, kesesuaian iklim, dan penggunaan semasa melancong"
-author: Editorial Team
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

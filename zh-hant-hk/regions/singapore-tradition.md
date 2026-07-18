@@ -1,7 +1,7 @@
 ---
 title: "新加坡藥油傳統：虎標萬金油嘅起源、峇峇娘惹草藥文化與 HSA 監管框架（香港讀者版）"
 description: "新加坡藥油歷史同傳統完整指南（繁體 HK 版）— 虎標萬金油喺新加坡嘅創立歷史（胡文虎/胡文豹）、斧頭牌藥油（Axe Brand）1928 年創業故事、光龍油（Kwan Loong）新加坡根源、峇峇娘惹（Peranakan）傳統草藥文化、同濟醫院 1867 年中醫歷史、HSA CPM 監管框架，以及香港讀者喺新加坡購買藥油嘅實用指南"
-author: "the editorial team AI <ai@companyforge.ai>"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "regions"
 date: "2026-04-19"

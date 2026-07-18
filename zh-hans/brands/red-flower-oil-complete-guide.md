@@ -4,7 +4,7 @@ description: "正红花油（红花油）是华人家庭常备跌打药油。本
 lang: "zh-Hans"
 category: "brands"
 date: "2026-05-02"
-author: "药油 AI 编辑团队"
+author: 药油大全编辑部
 ---
 
 # 正红花油完整指南：成分药理、依马打品牌历史、48 小时使用法则与安全警示

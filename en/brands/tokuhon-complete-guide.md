@@ -4,7 +4,7 @@ description: "An evidence-based deep dive into Tokuhon, Japan's classic methyl-s
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Tokuhon (トクホン) Medicated Plaster — Complete Guide

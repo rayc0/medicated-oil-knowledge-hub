@@ -4,7 +4,7 @@ description: "A full clinical explanation of camphor: how it works on skin and a
 lang: en
 category: ingredients
 date: 2026-04-14
-author: Dr. James Wu
+author: Yaoyou Editorial Team
 ---
 
 # Camphor Pharmacology — Mechanism, Safe Topical Dosing, and the Real Infant Toxicity Risk

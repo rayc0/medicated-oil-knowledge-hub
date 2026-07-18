@@ -1,7 +1,7 @@
 ---
 title: "保心安油完整指南：百年港產藥油嘅成分、歷史、正確用法與安全警示"
 description: "香港百年品牌保心安油完整指南 — 成分解析、歷史故事、中成藥註冊、正確使用方法、嬰幼兒禁忌、辨別真假。繁體中文香港版。"
-author: "the editorial team AI"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"

@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Selsema dan Selesema: Panduan Lengkap Musim Jerebu"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional untuk melegakan gejala selsema, selesema, dan hidung tersumbat — termasuk kaedah penyedutan, sapuan, dan langkah keselamatan"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

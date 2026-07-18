@@ -4,7 +4,7 @@ description: "山金车是西方治疗瘀伤、扭伤与关节痛的经典外用
 lang: zh-hans
 category: ingredients
 date: 2026-05-19
-author: 药油知识库
+author: 药油大全编辑部
 ---
 
 # 山金车（Arnica montana）药理完整指南：海兰素、NF-κB 抑制机制与跌打瘀伤的真实证据

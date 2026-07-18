@@ -1,7 +1,7 @@
 ---
 title: "蚊叮蟲咬急救：藥油、萬金油與天然消炎止癢全攻略（香港適用）"
 description: "香港常見蚊叮蟲咬的藥油急救指南 — 薄荷醇 TRPM8 止癢機制、白花油/萬金油/黃道益/保心安止癢對比，加上嬰幼兒、G6PD、孕婦安全警示及香港戶外急救建議"
-author: "the editorial team AI editorial team"
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"

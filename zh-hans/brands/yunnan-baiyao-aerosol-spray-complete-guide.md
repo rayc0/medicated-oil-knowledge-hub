@@ -4,7 +4,7 @@ description: "权威解读云南白药气雾剂：曲焕章 1902 年百宝丹的
 lang: zh-hans
 category: brands
 date: 2026-05-03
-author: 药油编辑部
+author: 药油大全编辑部
 ---
 
 # 云南白药气雾剂完全指南：双罐跌打系统的药理与用法

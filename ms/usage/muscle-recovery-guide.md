@@ -1,7 +1,7 @@
 ---
 title: "Minyak Ubat untuk Pemulihan Otot: Panduan Lengkap Selepas Senaman"
 description: "Panduan komprehensif penggunaan minyak ubat tradisional untuk pemulihan otot selepas senaman — teknik urutan, masa sapuan yang optimum, dan perbandingan produk untuk atlet dan pengguna kasual"
-author: Helen Cheung
+author: Yaoyou Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"

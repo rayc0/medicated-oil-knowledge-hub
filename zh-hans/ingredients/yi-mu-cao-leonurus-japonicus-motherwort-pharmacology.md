@@ -4,7 +4,7 @@ description: "益母草（Leonurus japonicus）药理全景：益母草碱（leo
 lang: zh-hans
 category: ingredients
 date: 2026-05-21
-author: 药油知识团队
+author: 药油大全编辑部
 ---
 
 # 益母草（Leonurus japonicus）：贯通妇科与跌打外敷传统的『益母之草』

@@ -4,7 +4,7 @@ description: "A pharmacology and safety deep-dive on Aconitum carmichaelii and A
 lang: en
 category: ingredients
 date: 2026-05-03
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Aconite (Chuan Wu / Cao Wu / Fu Zi) Pharmacology and Safety

@@ -4,7 +4,7 @@ description: "深入拆解地龍（地龍 / 蚯蚓 / Pheretima）的三重身份
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-19
-author: Yaoyou 編輯部
+author: 藥油大全編輯部
 ---
 
 # 地龍（蚯蚓 / Pheretima）藥理全解 — 大活絡丹裡的「土龍」、蚓激酶溶栓傳奇與外用通絡的真實證據

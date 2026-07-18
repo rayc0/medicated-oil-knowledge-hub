@@ -4,7 +4,7 @@ description: "辣椒素（Capsaicin）藥理與外用鎮痛機制深度解析。
 lang: zh-hant-hk
 category: ingredients
 date: 2026-05-03
-author: 藥油知識庫
+author: 藥油大全編輯部
 ---
 
 # 辣椒素（Capsaicin）藥理全解 — 那一抹辣到流淚的辣椒，如何變成鎮痛處方貼

@@ -4,7 +4,7 @@ description: "日本药油与中国、东南亚的医药油有什么不同？本
 lang: zh-hans
 category: regions
 date: 2026-04-15
-author: Raymond
+author: 药油大全编辑部
 tags:
   - 日本药油
   - Kampo

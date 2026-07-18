@@ -4,7 +4,7 @@ description: "从黄芩、子芩、枯芩的等级差异，到黄芩苷、黄芩
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Knowledge Hub
+author: 药油大全编辑部
 ---
 
 # 黄芩（Scutellaria baicalensis）药理全解

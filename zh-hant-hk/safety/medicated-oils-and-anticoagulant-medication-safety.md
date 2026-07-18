@@ -1,7 +1,7 @@
 ---
 title: "藥用油與抗凝血藥物的相互作用：華法林、阿斯匹靈患者使用指引"
 description: "深度解析水楊酸甲酯/冬青油經皮吸收後與華法林的 INR 上升機制、JAMA 病例證據、阿斯匹靈/抗血小板藥物叠加風險及中國房顫/DVT 患者的實用建議。"
-author: Raymond Fong
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"

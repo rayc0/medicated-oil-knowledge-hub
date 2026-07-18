@@ -4,7 +4,7 @@ description: "Methyl nicotinate is the warming rubefacient in many analgesic med
 lang: en
 category: ingredients
 date: 2026-05-19
-author: Yaoyou Knowledge Hub
+author: Yaoyou Editorial Team
 ---
 
 # Methyl Nicotinate Pharmacology: Rubefacient Vasodilation, Safe Topical Concentration, and Burn Risk

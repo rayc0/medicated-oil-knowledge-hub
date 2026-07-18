@@ -4,7 +4,7 @@ description: "Deep pharmacology of Tian Nan Xing (天南星 / Rhizoma Arisaemati
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Tian Nan Xing (Arisaema heterophyllum / A. erubescens / A. amurense / Jack-in-the-Pulpit Rhizome) Pharmacology

@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive into Liang Mian Zhen (两面针 / Zanthox
 lang: en
 category: ingredients
 date: 2026-05-05
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Liang Mian Zhen (Zanthoxylum nitidum) Pharmacology — The 'Two-Faced Thorn' Behind Zheng Gu Shui, Dit-Da Liniments, and Toothache Tinctures

@@ -4,7 +4,7 @@ description: "A full reference on Double Prince Peppermint Water, the Chinese na
 lang: en
 category: brands
 date: 2026-04-14
-author: Peter Kwok
+author: Yaoyou Editorial Team
 ---
 
 # Double Prince Peppermint Water (法国双飞人) — Complete Guide to Ricqlès Alcool de Menthe and Its Chinese Identity

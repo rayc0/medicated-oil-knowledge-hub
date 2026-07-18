@@ -1,7 +1,7 @@
 ---
 title: "황도익(黃道益) 활락유 완전 가이드: 성분·근육통·관절통 효능·Tiger Balm과 비교"
 description: "황도익(Wong To Yick) 활락유 완전 가이드（한국어）— 성분(수양산메틸 50%+멘톨 16%+캠퍼 10%), 근육통·관절통·삐임 집중 효능, Tiger Balm Red vs 황도익 비교, 와파린 복용자 금지(수양산메틸 고농도), G6PD 결핍증 주의, 홍콩/한국 구매처"
-author: Dr. Amy Tsui
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

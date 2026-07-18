@@ -4,7 +4,7 @@ description: "Deep pharmacology guide to San Leng (Sparganium stoloniferum) — 
 lang: en
 category: ingredients
 date: 2026-05-21
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # San Leng (Sparganium stoloniferum) Pharmacology — The Blood-Breaking Bur-Reed Rhizome Behind Dit Da Plasters, Zheng-Jia Liniments, and Modern Anti-Angiogenic Research

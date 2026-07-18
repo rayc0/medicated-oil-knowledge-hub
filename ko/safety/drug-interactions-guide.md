@@ -1,7 +1,7 @@
 ---
 title: "약초 오일과 처방약 상호작용: 와파린, 혈압약, 당뇨약과의 안전 주의사항"
 description: "약초 오일과 처방약 상호작용 완전 가이드(한국어) — 메틸살리실산 경피 흡수와 와파린 출혈 위험 증가, NSAID 중복 효과, 혈압약 복용자 주의사항, 당뇨 환자의 피부 감각 장애와 국소 약물 사용 위험, G6PD 결핍증과 캄퍼의 용혈 위험, 고령 다약제 복용 환자 안전 체크리스트, 의사에게 반드시 알려야 할 상황"
-author: Helen Cheung
+author: Yaoyou Editorial Team
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"

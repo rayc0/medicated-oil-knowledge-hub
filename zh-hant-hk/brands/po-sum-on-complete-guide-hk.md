@@ -4,7 +4,7 @@ description: "香港家庭常備藥油之一『保心安油』嘅全面指南：
 lang: zh-hant-hk
 category: brands
 date: 2026-04-15
-author: Editorial Team
+author: 藥油大全編輯部
 tags:
   - 保心安油
   - 香港藥油

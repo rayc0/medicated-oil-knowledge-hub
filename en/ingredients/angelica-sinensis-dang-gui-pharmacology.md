@@ -4,7 +4,7 @@ description: "A pharmacology deep-dive on Angelica sinensis (Dang Gui, 当归): 
 lang: en
 category: ingredients
 date: 2026-05-04
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Angelica sinensis (Dang Gui / 当归) Pharmacology — The Blood-Moving Root Behind Dit Da Jow, Postpartum Warming Oils, and Modern Circulation Liniments

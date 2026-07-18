@@ -5,7 +5,7 @@ category: shopping
 slug: counterfeit-detection
 date: 2026-04-14
 license: CC BY 4.0
-author: Dr. James Wu
+author: Yaoyou Editorial Team
 ---
 
 # How to Spot Counterfeit Medicated Oils: 5 Universal Red Flags + Brand-by-Brand Authentication

@@ -4,7 +4,7 @@ description: "Comprehensive pharmacology guide to Shan Nai (Kaempferia galanga, 
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Shan Nai (Kaempferia galanga): The Aromatic Zingiberaceae Rhizome That Anchors Die-Da Wash Wines and Indonesian Minyak Kencur

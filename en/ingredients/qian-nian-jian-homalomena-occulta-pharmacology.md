@@ -4,7 +4,7 @@ description: "Deep dive into Qian Nian Jian (Rhizoma Homalomenae) pharmacology â
 lang: en
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Editorial
+author: Yaoyou Editorial Team
 ---
 
 # Qian Nian Jian (Homalomena occulta) â€” The Quiet Sinew-and-Bone Herb Behind Southern Chinese Die Da Oils

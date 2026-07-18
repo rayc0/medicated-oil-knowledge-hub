@@ -1,7 +1,7 @@
 ---
 title: "兒童使用藥油完全安全指南：禁忌成分與年齡限制"
 description: "系統介紹兒童皮膚高通透性機制、年齡分級禁忌矩陣、薄荷腦/樟腦/桉葉油三項絕對禁忌、誤食緊急處置流程及中國中毒控制中心聯絡方式。"
-author: Dr. James Wu
+author: 藥油大全編輯部
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"

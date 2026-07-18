@@ -4,7 +4,7 @@ description: "Panduan klinikal untuk ibu bapa Malaysia tentang keselamatan minya
 lang: ms
 category: safety
 date: 2026-04-17
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 ---
 
 # Bolehkah Bayi Guna Minyak Angin? Senarai Lengkap Bahan Terlarang untuk Kanak-Kanak Bawah 2 Tahun — Panduan untuk Ibu Bapa Malaysia

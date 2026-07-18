@@ -4,7 +4,7 @@ description: "A deep dive into Zam-Buk, the green herbal balm born in Leeds in 1
 lang: en
 category: brands
 date: 2026-05-18
-author: Yaoyou Content Team
+author: Yaoyou Editorial Team
 ---
 
 # Zam-Buk Herbal Balm — Complete Guide

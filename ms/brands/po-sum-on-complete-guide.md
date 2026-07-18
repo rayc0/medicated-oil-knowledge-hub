@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Minyak Po Sum On (保心安油): Bahan, Sejarah 1907, Penggunaan Selamat — Panduan untuk Pengguna Malaysia"
 description: "Panduan Bahasa Melayu untuk Po Sum On Medicated Oil (保心安油) — produk Hong Kong yang diasaskan pada 1907 oleh Kwok Siu Kui. Formulasi mentol 15% + enam herba tradisional, pendaftaran NPRA Malaysia, amaran keselamatan untuk bayi, ibu mengandung, pesakit G6PD, cara kenal produk asli/tiruan, dan perbandingan dengan Tiger Balm, Wong To Yick, Kwan Loong."
-author: "the editorial team AI"
+author: Yaoyou Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-17"

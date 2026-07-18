@@ -4,7 +4,7 @@ description: "从川黄柏与关黄柏的来源差异，到小檗碱、掌叶防
 lang: zh-hans
 category: ingredients
 date: 2026-05-20
-author: Yaoyou Knowledge Hub
+author: 药油大全编辑部
 ---
 
 # 黄柏（Phellodendron amurense / chinense）药理全解

@@ -4,7 +4,7 @@ description: "為中國內地家庭準備的夜間咳嗽與感冒護理藥油指
 lang: zh-hant-hk
 category: usage
 date: 2026-04-15
-author: 藥油知識中心
+author: 藥油大全編輯部
 tags:
 - 感冒
 - 咳嗽

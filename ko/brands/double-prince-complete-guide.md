@@ -1,7 +1,7 @@
 ---
 title: "쌍비인(双飞人) 완전 가이드: 프랑스산 페퍼민트 워터 리클레스(Ricqlès)의 역사·성분·안전 사용법"
 description: "쌍비인(双飞人) / 리클레스 알콜 드 망트(Ricqlès Alcool de Menthe) 완전 가이드 — 1838년 프랑스 리옹 기원, 홍콩 이름의 유래, 성분(페퍼민트 에센셜 오일 약 80% 에탄올), 외용·구강 전통 사용법, 에탄올 기반 안전 주의사항(소아·임산부·와파린·무슬림), 중국 상표 분리(본토 '双飞人' vs 정품 '리클레스'), 한국 구매처 안내"
-author: "the editorial team AI editorial team"
+author: Yaoyou Editorial Team
 language: "ko"
 category: "brands"
 last_updated: "2026-04-18"

@@ -4,7 +4,7 @@ description: "Menstrual cramps (dysmenorrhea) affect the majority of menstruatin
 lang: en
 category: usage
 date: 2026-04-15
-author: Peter Kwok
+author: Yaoyou Editorial Team
 tags:
   - menstrual cramps
   - dysmenorrhea

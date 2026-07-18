@@ -4,7 +4,7 @@ description: "Menthol and camphor are the two most common active ingredients in 
 lang: en
 category: comparison
 date: 2026-04-15
-author: Helen Cheung
+author: Yaoyou Editorial Team
 tags: [medicated-oil, menthol, camphor, comparison, pharmacology, ingredients, TRPM8, TRPV1]
 ---
 
