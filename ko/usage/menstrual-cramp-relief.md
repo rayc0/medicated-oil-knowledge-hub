@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/menstrual-cramp-relief"
+canonical: "https://yaoyoudaquan.com/ko/usage/menstrual-cramp-relief"
 ---
 
 # 생리통에 대한 약용 오일 활용 가이드: 온열 효과 성분과 사용법

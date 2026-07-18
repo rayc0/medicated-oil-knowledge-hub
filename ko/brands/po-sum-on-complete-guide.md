@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/po-sum-on-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/po-sum-on-complete-guide"
 ---
 
 # 보심안유(保心安油) 완전 가이드

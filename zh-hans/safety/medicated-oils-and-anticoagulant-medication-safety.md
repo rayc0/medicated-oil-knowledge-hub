@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hans/safety/medicated-oils-and-anticoagulant-medication-safety"
+canonical: "https://yaoyoudaquan.com/zh-hans/safety/medicated-oils-and-anticoagulant-medication-safety"
 ---
 
 # 药用油与抗凝血药物的相互作用：华法林、阿司匹林患者使用指南

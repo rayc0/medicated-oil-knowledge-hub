@@ -5,7 +5,7 @@ author: Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/travel-kit-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/travel-kit-guide"
 ---
 
 # Kit Minyak Ubat untuk Perjalanan: Panduan Lengkap Penyediaan dan Penggunaan

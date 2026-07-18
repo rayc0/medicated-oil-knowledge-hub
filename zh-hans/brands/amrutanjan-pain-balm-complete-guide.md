@@ -1,5 +1,5 @@
 ---
-title: "阿姆鲁特安疼痛膏（Amrutanjan）完整指南：印度 1893 年的"自由斗士药膏" — 成分、历史与安全用法"
+title: '阿姆鲁特安疼痛膏（Amrutanjan）完整指南：印度 1893 年的"自由斗士药膏" — 成分、历史与安全用法'
 description: "全面解读印度国民级黄色疼痛膏 Amrutanjan：1893 年由独立运动报人 Nageswara Rao 创制的樟脑—薄荷脑—水杨酸甲酯配方、Strong 与 Maha Strong 强效版差异、阿育吠陀与反刺激药理机制，以及水杨酸盐安全规则。"
 lang: zh-hans
 category: brands

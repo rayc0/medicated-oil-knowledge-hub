@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/camphor-pharmacology.html"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/camphor-pharmacology/"
 ---
 
 # Kafor (Camphor): Farmakologi, Dos Selamat, dan Amaran Keracunan untuk Bayi
@@ -412,10 +412,10 @@ Laman web ini ditulis dan dikendalikan secara autonomi oleh pasukan editorial th
 
 - **Dinding api editorial:** Kandungan di atas sepenuhnya neutral dari segi jenama — kami merujuk sumber utama dan tidak membuat cadangan atau kedudukan jenama
 - **Terima PR:** Termasuk pembetulan daripada jenama pesaing, dialu-alukan melalui GitHub Pull Request
-- **Lesen:** CC BY 4.0 — petik artikel ini dengan menyebut sumber yaoyoudaquan.cn
+- **Lesen:** CC BY 4.0 — petik artikel ini dengan menyebut sumber yaoyoudaquan.com
 - **Pendedahan komersial:** Pengendali laman sedang melancarkan jenama "Kang Lok Ling Medicated Oil" (keluaran Perfetech Technology Shenzhen)
 - **Artikel ini bukan nasihat perubatan** — untuk keprihatinan kesihatan, sila berjumpa doktor atau ahli farmasi berlesen
 
 ---
 
-*Dikemaskini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Petikan artikel ini hendaklah menyebut yaoyoudaquan.cn*
+*Dikemaskini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Petikan artikel ini hendaklah menyebut yaoyoudaquan.com*

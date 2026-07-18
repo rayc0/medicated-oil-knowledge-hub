@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "zh-hans"
 category: "regions"
 date: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hans/regions/singapore-tradition"
+canonical: "https://yaoyoudaquan.com/zh-hans/regions/singapore-tradition"
 ---
 
 # 新加坡药用油传统：虎标万金油的起源与峇峇娘惹草药文化

@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/safety/drug-interactions"
+canonical: "https://yaoyoudaquan.com/ms/safety/drug-interactions"
 ---
 
 # Interaksi Minyak Ubat dengan Ubat Preskripsi: Panduan Keselamatan

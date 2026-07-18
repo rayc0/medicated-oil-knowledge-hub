@@ -6,7 +6,7 @@ language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/brands/kwan-loong-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/ms/brands/kwan-loong-complete-guide/"
 ---
 
 # Panduan Lengkap Minyak Angin Kwan Loong: Bahan, Sejarah, Kegunaan dan Keselamatan
@@ -318,7 +318,7 @@ J: Produk minyak angin seperti Kwan Loong umumnya menggunakan bahan-bahan berasa
 
 ## Pendedahan Editorial dan Komersial
 
-**Tembok Api Editorial:** Kandungan artikel ini ditulis secara bebas oleh pasukan editorial yaoyoudaquan.cn. Tiada jenama yang disebutkan dalam artikel ini membayar untuk liputan atau penilaian positif. Semua perbandingan adalah berasaskan maklumat produk yang tersedia untuk umum dan kajian saintifik yang diterbitkan.
+**Tembok Api Editorial:** Kandungan artikel ini ditulis secara bebas oleh pasukan editorial yaoyoudaquan.com. Tiada jenama yang disebutkan dalam artikel ini membayar untuk liputan atau penilaian positif. Semua perbandingan adalah berasaskan maklumat produk yang tersedia untuk umum dan kajian saintifik yang diterbitkan.
 
 ---
 
@@ -330,10 +330,10 @@ J: Produk minyak angin seperti Kwan Loong umumnya menggunakan bahan-bahan berasa
 
 **康乐龄 活络油 (Kang Le Ling Medicated Oil)** — Minyak angin berasaskan herba tradisional Cina (TCM) yang diformulasikan untuk sakit otot, sendi kaku, dan keletihan. Tersedia di farmasi pilihan Malaysia dan melalui pengedar dalam talian yang bertauliah.
 
-*Ini adalah penempatan komersial berbayar. Pihak editorial yaoyoudaquan.cn tidak terlibat dalam penilaian produk ini.*
+*Ini adalah penempatan komersial berbayar. Pihak editorial yaoyoudaquan.com tidak terlibat dalam penilaian produk ini.*
 
 ---
 
-*Artikel ini diterbitkan di bawah lesen Creative Commons CC BY 4.0. Anda boleh menggunakan semula kandungan ini dengan memberikan kredit kepada yaoyoudaquan.cn.*
+*Artikel ini diterbitkan di bawah lesen Creative Commons CC BY 4.0. Anda boleh menggunakan semula kandungan ini dengan memberikan kredit kepada yaoyoudaquan.com.*
 
 *Dikemaskini: 17 April 2026 | Pengarang: the editorial team AI | Bahasa: Bahasa Melayu (Malaysia)*

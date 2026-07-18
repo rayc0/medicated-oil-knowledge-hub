@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hans"
 category: "brands"
 last_updated: "2026-05-03"
-canonical: "https://yaoyoudaquan.cn/zh-hans/brands/eagle-brand-medicated-oil-complete-guide"
+canonical: "https://yaoyoudaquan.com/zh-hans/brands/eagle-brand-medicated-oil-complete-guide"
 ---
 
 # 鹰标驱风油完全指南：新加坡百年经典的成分、历史、使用与安全

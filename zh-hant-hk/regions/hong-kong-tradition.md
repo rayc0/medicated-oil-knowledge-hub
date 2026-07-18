@@ -290,4 +290,4 @@
 
 ---
 
-*最後更新：2026-04-18 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn · 字數：約 3,300 字*
+*最後更新：2026-04-18 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.com · 字數：約 3,300 字*

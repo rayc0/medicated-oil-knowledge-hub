@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/peppermint-oil-versus-menthol-crystal-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/peppermint-oil-versus-menthol-crystal-guide"
 ---
 
 # 薄荷油 vs 薄荷腦晶體：臨床差異與選擇指南

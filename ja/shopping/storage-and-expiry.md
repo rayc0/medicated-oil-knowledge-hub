@@ -266,4 +266,4 @@ USP <1079> が定めるように、元の容器・クロージャーの組み合
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する場合は出典として yaoyoudaquan.cn を明記してください*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する場合は出典として yaoyoudaquan.com を明記してください*

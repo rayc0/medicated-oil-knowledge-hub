@@ -16,8 +16,8 @@ Ported the dysphagia-knowledge-hub template with these medicated-oil-specific su
 
 | Item | Value |
 |---|---|
-| `site_url` | `https://yaoyoudaquan.cn` |
-| `og:site_name` | `藥油大全 yaoyoudaquan.cn` |
+| `site_url` | `https://yaoyoudaquan.com` |
+| `og:site_name` | `藥油大全 yaoyoudaquan.com` |
 | Organization name | `藥油大全知識庫` |
 | Organization description | `香港常用藥油品牌、成分、用法、地區特色 — 完整知識庫。文化教育內容，CC BY 4.0。` |
 | WebSite name | `藥油大全 — 香港藥油知識庫` |
@@ -85,7 +85,7 @@ Created a branded 1200×630 OG image at `assets/img/og-default.png`.
 - **Content:**
   - Main title: 藥油大全 (160 pt, cream)
   - Tagline: 香港藥油文化知識庫 (42 pt, gold)
-  - URL: yaoyoudaquan.cn (36 pt, amber)
+  - URL: yaoyoudaquan.com (36 pt, amber)
   - Disclaimer label: 文化資料 · 非醫療建議 (24 pt, cream-dim)
 - **Decoration:** double-border frame, corner diamond ornaments, flanking vertical bars, horizontal divider with centre diamond
 - **Generation method:** Python Pillow (PIL) script — fully reproducible, no health claims

@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/safety/pregnancy-safety"
+canonical: "https://yaoyoudaquan.com/ms/safety/pregnancy-safety"
 ---
 
 # Keselamatan Minyak Ubat Semasa Kehamilan dan Penyusuan: Panduan Lengkap

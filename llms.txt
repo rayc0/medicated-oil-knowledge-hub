@@ -2,7 +2,7 @@
 
 > Independent encyclopedia for medicated oils (活络油 / 风油 / 万金油 / 跌打油 / liniments) covering brands, ingredients, traditional uses, safety, and regulations across mainland China, HK, Taiwan, Singapore, Malaysia, and Southeast Asia. Cites primary sources (Chinese Pharmacopoeia, USP, NMPA, regional health authorities, peer-reviewed papers). License: CC BY 4.0.
 
-药油大全 (yaoyoudaquan.cn) is a comprehensive, autonomously maintained encyclopedic knowledge base covering medicated oils used across Chinese-speaking regions and Southeast Asia. The site provides in-depth guides on major brands (Tiger Balm, Wong To Yick, Kwan Loong, Fengyoujing, Po Sum On, and dozens more), pharmacological analysis of key active ingredients, regional cultural traditions of medicated oil use, safety guidelines for vulnerable populations, and purchasing guides for authenticity.
+药油大全 (yaoyoudaquan.com) is a comprehensive, autonomously maintained encyclopedic knowledge base covering medicated oils used across Chinese-speaking regions and Southeast Asia. The site provides in-depth guides on major brands (Tiger Balm, Wong To Yick, Kwan Loong, Fengyoujing, Po Sum On, and dozens more), pharmacological analysis of key active ingredients, regional cultural traditions of medicated oil use, safety guidelines for vulnerable populations, and purchasing guides for authenticity.
 
 Content covers camphor, menthol, methyl salicylate, borneol, eucalyptus oil, and over 40 herbal ingredients with clinical pharmacology citations. Safety sections address elderly users, children, infants, pregnant women, G6PD deficiency patients, and drug interactions with anticoagulants. Regional coverage spans mainland China, Hong Kong, Taiwan, Malaysia, Singapore, Indonesia, Thailand, Vietnam, Japan, Korea, and India.
 
@@ -17,92 +17,92 @@ The editorial team is operated by CompanyForge AI operator system. Content is br
 ## Key Topics — English
 
 ### Brands
-- [Tiger Balm Complete Guide](https://yaoyoudaquan.cn/en/brands/tiger-balm-complete-guide): History, formulas, uses, safety
-- [Wong To Yick (黄道益) Complete Guide](https://yaoyoudaquan.cn/en/brands/wong-to-yick-complete-guide)
-- [Kwan Loong Oil Complete Guide](https://yaoyoudaquan.cn/en/brands/kwan-loong-oil-complete-guide)
-- [White Flower Embrocation Complete Guide](https://yaoyoudaquan.cn/en/brands/white-flower-embrocation-complete-guide)
-- [Fengyoujing (风油精) Complete Guide](https://yaoyoudaquan.cn/en/brands/fengyoujing-complete-guide)
-- [Po Sum On Complete Guide](https://yaoyoudaquan.cn/en/brands/po-sum-on-complete-guide)
-- [Axe Brand Complete Guide](https://yaoyoudaquan.cn/en/brands/axe-brand-complete-guide)
-- [Double Prince Complete Guide](https://yaoyoudaquan.cn/en/brands/double-prince-complete-guide)
-- [Eagle Brand Medicated Oil](https://yaoyoudaquan.cn/en/brands/eagle-brand-medicated-oil-complete-guide)
-- [Zheng Gu Shui Complete Guide](https://yaoyoudaquan.cn/en/brands/zheng-gu-shui-complete-guide)
-- [Yunnan Baiyao Aerosol Spray](https://yaoyoudaquan.cn/en/brands/yunnan-baiyao-aerosol-spray-complete-guide)
-- [Wan Hua Oil Complete Guide](https://yaoyoudaquan.cn/en/brands/wan-hua-oil-complete-guide)
-- [Red Flower Oil Complete Guide](https://yaoyoudaquan.cn/en/brands/red-flower-oil-complete-guide)
-- [Mentholatum Complete Guide](https://yaoyoudaquan.cn/en/brands/mentholatum-complete-guide)
-- [Siang Pure Oil Complete Guide](https://yaoyoudaquan.cn/en/brands/siang-pure-oil-complete-guide): Thai medicated oil
-- [Ammeltz Yoko Yoko Complete Guide](https://yaoyoudaquan.cn/en/brands/ammeltz-yoko-yoko-complete-guide): Japanese roller
-- [Salonpas Medicated Patches Guide](https://yaoyoudaquan.cn/en/brands/salonpas-complete-guide-japanese-medicated-patches)
-- [Ricqles Mint Complete Guide](https://yaoyoudaquan.cn/en/brands/ricqles-mint-complete-guide)
-- [Yu Yee Oil (Cap Limau) Guide](https://yaoyoudaquan.cn/en/brands/yu-yee-oil-cap-limau-complete-guide)
+- [Tiger Balm Complete Guide](https://yaoyoudaquan.com/en/brands/tiger-balm-complete-guide): History, formulas, uses, safety
+- [Wong To Yick (黄道益) Complete Guide](https://yaoyoudaquan.com/en/brands/wong-to-yick-complete-guide)
+- [Kwan Loong Oil Complete Guide](https://yaoyoudaquan.com/en/brands/kwan-loong-oil-complete-guide)
+- [White Flower Embrocation Complete Guide](https://yaoyoudaquan.com/en/brands/white-flower-embrocation-complete-guide)
+- [Fengyoujing (风油精) Complete Guide](https://yaoyoudaquan.com/en/brands/fengyoujing-complete-guide)
+- [Po Sum On Complete Guide](https://yaoyoudaquan.com/en/brands/po-sum-on-complete-guide)
+- [Axe Brand Complete Guide](https://yaoyoudaquan.com/en/brands/axe-brand-complete-guide)
+- [Double Prince Complete Guide](https://yaoyoudaquan.com/en/brands/double-prince-complete-guide)
+- [Eagle Brand Medicated Oil](https://yaoyoudaquan.com/en/brands/eagle-brand-medicated-oil-complete-guide)
+- [Zheng Gu Shui Complete Guide](https://yaoyoudaquan.com/en/brands/zheng-gu-shui-complete-guide)
+- [Yunnan Baiyao Aerosol Spray](https://yaoyoudaquan.com/en/brands/yunnan-baiyao-aerosol-spray-complete-guide)
+- [Wan Hua Oil Complete Guide](https://yaoyoudaquan.com/en/brands/wan-hua-oil-complete-guide)
+- [Red Flower Oil Complete Guide](https://yaoyoudaquan.com/en/brands/red-flower-oil-complete-guide)
+- [Mentholatum Complete Guide](https://yaoyoudaquan.com/en/brands/mentholatum-complete-guide)
+- [Siang Pure Oil Complete Guide](https://yaoyoudaquan.com/en/brands/siang-pure-oil-complete-guide): Thai medicated oil
+- [Ammeltz Yoko Yoko Complete Guide](https://yaoyoudaquan.com/en/brands/ammeltz-yoko-yoko-complete-guide): Japanese roller
+- [Salonpas Medicated Patches Guide](https://yaoyoudaquan.com/en/brands/salonpas-complete-guide-japanese-medicated-patches)
+- [Ricqles Mint Complete Guide](https://yaoyoudaquan.com/en/brands/ricqles-mint-complete-guide)
+- [Yu Yee Oil (Cap Limau) Guide](https://yaoyoudaquan.com/en/brands/yu-yee-oil-cap-limau-complete-guide)
 
 ### Ingredients (Pharmacology)
-- [Camphor Pharmacology and Safety](https://yaoyoudaquan.cn/en/ingredients/camphor-pharmacology-and-safety)
-- [Menthol Pharmacology](https://yaoyoudaquan.cn/en/ingredients/menthol-pharmacology)
-- [Methyl Salicylate Pharmacology](https://yaoyoudaquan.cn/en/ingredients/methyl-salicylate-pharmacology)
-- [Methyl Salicylate Safety](https://yaoyoudaquan.cn/en/ingredients/methyl-salicylate-safety)
-- [Eucalyptus Oil Pharmacology](https://yaoyoudaquan.cn/en/ingredients/eucalyptus-oil-pharmacology)
-- [Borneol Pharmacology](https://yaoyoudaquan.cn/en/ingredients/borneol-pharmacology)
-- [Capsaicin Pharmacology](https://yaoyoudaquan.cn/en/ingredients/capsaicin-pharmacology)
-- [Clove Oil (Eugenol) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/clove-oil-eugenol-pharmacology)
-- [Cajuput Oil Pharmacology](https://yaoyoudaquan.cn/en/ingredients/cajuput-oil-pharmacology)
-- [Cinnamon Oil Pharmacology](https://yaoyoudaquan.cn/en/ingredients/cinnamon-oil-cinnamaldehyde-pharmacology)
-- [Ginger Essential Oil Pharmacology](https://yaoyoudaquan.cn/en/ingredients/ginger-essential-oil-sheng-jiang-pharmacology)
-- [Safflower (Hong Hua) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/safflower-hong-hua-pharmacology)
-- [Notoginseng (San Qi) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/notoginseng-san-qi-pharmacology)
-- [Angelica Sinensis (Dang Gui) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/angelica-sinensis-dang-gui-pharmacology)
-- [Frankincense (Ru Xiang) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/frankincense-ru-xiang-pharmacology)
-- [Myrrh (Mo Yao) Pharmacology](https://yaoyoudaquan.cn/en/ingredients/myrrh-mo-yao-pharmacology)
-- [Peppermint Oil vs Menthol Crystal](https://yaoyoudaquan.cn/en/ingredients/peppermint-oil-versus-menthol-crystal-guide)
-- [Wintergreen Oil vs Synthetic Methyl Salicylate](https://yaoyoudaquan.cn/en/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate)
-- [Lavender Oil in Medicated Formulations](https://yaoyoudaquan.cn/en/ingredients/lavender-oil-in-medicated-formulations)
+- [Camphor Pharmacology and Safety](https://yaoyoudaquan.com/en/ingredients/camphor-pharmacology-and-safety)
+- [Menthol Pharmacology](https://yaoyoudaquan.com/en/ingredients/menthol-pharmacology)
+- [Methyl Salicylate Pharmacology](https://yaoyoudaquan.com/en/ingredients/methyl-salicylate-pharmacology)
+- [Methyl Salicylate Safety](https://yaoyoudaquan.com/en/ingredients/methyl-salicylate-safety)
+- [Eucalyptus Oil Pharmacology](https://yaoyoudaquan.com/en/ingredients/eucalyptus-oil-pharmacology)
+- [Borneol Pharmacology](https://yaoyoudaquan.com/en/ingredients/borneol-pharmacology)
+- [Capsaicin Pharmacology](https://yaoyoudaquan.com/en/ingredients/capsaicin-pharmacology)
+- [Clove Oil (Eugenol) Pharmacology](https://yaoyoudaquan.com/en/ingredients/clove-oil-eugenol-pharmacology)
+- [Cajuput Oil Pharmacology](https://yaoyoudaquan.com/en/ingredients/cajuput-oil-pharmacology)
+- [Cinnamon Oil Pharmacology](https://yaoyoudaquan.com/en/ingredients/cinnamon-oil-cinnamaldehyde-pharmacology)
+- [Ginger Essential Oil Pharmacology](https://yaoyoudaquan.com/en/ingredients/ginger-essential-oil-sheng-jiang-pharmacology)
+- [Safflower (Hong Hua) Pharmacology](https://yaoyoudaquan.com/en/ingredients/safflower-hong-hua-pharmacology)
+- [Notoginseng (San Qi) Pharmacology](https://yaoyoudaquan.com/en/ingredients/notoginseng-san-qi-pharmacology)
+- [Angelica Sinensis (Dang Gui) Pharmacology](https://yaoyoudaquan.com/en/ingredients/angelica-sinensis-dang-gui-pharmacology)
+- [Frankincense (Ru Xiang) Pharmacology](https://yaoyoudaquan.com/en/ingredients/frankincense-ru-xiang-pharmacology)
+- [Myrrh (Mo Yao) Pharmacology](https://yaoyoudaquan.com/en/ingredients/myrrh-mo-yao-pharmacology)
+- [Peppermint Oil vs Menthol Crystal](https://yaoyoudaquan.com/en/ingredients/peppermint-oil-versus-menthol-crystal-guide)
+- [Wintergreen Oil vs Synthetic Methyl Salicylate](https://yaoyoudaquan.com/en/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate)
+- [Lavender Oil in Medicated Formulations](https://yaoyoudaquan.com/en/ingredients/lavender-oil-in-medicated-formulations)
 
 ### Comparisons
-- [Tiger Balm vs Wong To Yick vs Po Sum On](https://yaoyoudaquan.cn/en/comparison/tiger-balm-vs-wong-to-yick-vs-po-sum-on)
-- [Menthol vs Camphor — Which to Use](https://yaoyoudaquan.cn/en/comparison/menthol-vs-camphor-which-to-use)
-- [Asian Medicated Oils vs Western Topical Analgesics](https://yaoyoudaquan.cn/en/comparison/asian-medicated-oils-vs-western-topical-analgesics)
+- [Tiger Balm vs Wong To Yick vs Po Sum On](https://yaoyoudaquan.com/en/comparison/tiger-balm-vs-wong-to-yick-vs-po-sum-on)
+- [Menthol vs Camphor — Which to Use](https://yaoyoudaquan.com/en/comparison/menthol-vs-camphor-which-to-use)
+- [Asian Medicated Oils vs Western Topical Analgesics](https://yaoyoudaquan.com/en/comparison/asian-medicated-oils-vs-western-topical-analgesics)
 
 ### Usage Guides
-- [Headache and Cold Relief](https://yaoyoudaquan.cn/en/usage/headache-and-cold)
-- [Back Pain Relief Guide](https://yaoyoudaquan.cn/en/usage/back-pain-relief-guide)
-- [Sports and Muscle Recovery](https://yaoyoudaquan.cn/en/usage/sports-and-muscle-recovery)
-- [Post-Workout Muscle Recovery](https://yaoyoudaquan.cn/en/usage/post-workout-muscle-recovery)
-- [Arthritis and Joint Pain Management](https://yaoyoudaquan.cn/en/usage/arthritis-joint-pain-management-guide)
-- [Motion Sickness Travel Guide](https://yaoyoudaquan.cn/en/usage/motion-sickness-travel-guide)
-- [Insect Bite Relief Guide](https://yaoyoudaquan.cn/en/usage/insect-bite-relief-guide)
-- [Menstrual Cramp Relief](https://yaoyoudaquan.cn/en/usage/menstrual-cramp-relief-medicated-oils-guide)
-- [Office Worker Tension and Eye Strain](https://yaoyoudaquan.cn/en/usage/office-worker-tension-and-eye-strain-guide)
-- [Cold and Flu Season Guide](https://yaoyoudaquan.cn/en/usage/cold-and-flu-season-medicated-oil-guide)
-- [Sports Injury First Aid](https://yaoyoudaquan.cn/en/usage/sports-injury-first-aid-medicated-oils-guide)
-- [Elderly Mobility Guide](https://yaoyoudaquan.cn/en/usage/elderly-mobility-guide)
+- [Headache and Cold Relief](https://yaoyoudaquan.com/en/usage/headache-and-cold)
+- [Back Pain Relief Guide](https://yaoyoudaquan.com/en/usage/back-pain-relief-guide)
+- [Sports and Muscle Recovery](https://yaoyoudaquan.com/en/usage/sports-and-muscle-recovery)
+- [Post-Workout Muscle Recovery](https://yaoyoudaquan.com/en/usage/post-workout-muscle-recovery)
+- [Arthritis and Joint Pain Management](https://yaoyoudaquan.com/en/usage/arthritis-joint-pain-management-guide)
+- [Motion Sickness Travel Guide](https://yaoyoudaquan.com/en/usage/motion-sickness-travel-guide)
+- [Insect Bite Relief Guide](https://yaoyoudaquan.com/en/usage/insect-bite-relief-guide)
+- [Menstrual Cramp Relief](https://yaoyoudaquan.com/en/usage/menstrual-cramp-relief-medicated-oils-guide)
+- [Office Worker Tension and Eye Strain](https://yaoyoudaquan.com/en/usage/office-worker-tension-and-eye-strain-guide)
+- [Cold and Flu Season Guide](https://yaoyoudaquan.com/en/usage/cold-and-flu-season-medicated-oil-guide)
+- [Sports Injury First Aid](https://yaoyoudaquan.com/en/usage/sports-injury-first-aid-medicated-oils-guide)
+- [Elderly Mobility Guide](https://yaoyoudaquan.com/en/usage/elderly-mobility-guide)
 
 ### Safety
-- [Medicated Oils for Children — Complete Safety Guide](https://yaoyoudaquan.cn/en/safety/medicated-oils-for-children-complete-safety-guide)
-- [Infants and Children Safety](https://yaoyoudaquan.cn/en/safety/infants-and-children)
-- [Pregnancy and Medicated Oils](https://yaoyoudaquan.cn/en/safety/pregnancy-and-medicated-oils)
-- [Elderly Safety Guide](https://yaoyoudaquan.cn/en/safety/elderly-safety-guide)
-- [G6PD Deficiency Safety](https://yaoyoudaquan.cn/en/safety/g6pd-deficiency)
-- [Drug Interactions with Prescription Medicines](https://yaoyoudaquan.cn/en/safety/medicated-oils-and-prescription-drug-interactions)
-- [Anticoagulant Medication Safety](https://yaoyoudaquan.cn/en/safety/medicated-oils-and-anticoagulant-medication-safety-guide)
-- [Allergy and Skin Sensitivity](https://yaoyoudaquan.cn/en/safety/medicated-oil-allergy-and-skin-sensitivity-guide)
+- [Medicated Oils for Children — Complete Safety Guide](https://yaoyoudaquan.com/en/safety/medicated-oils-for-children-complete-safety-guide)
+- [Infants and Children Safety](https://yaoyoudaquan.com/en/safety/infants-and-children)
+- [Pregnancy and Medicated Oils](https://yaoyoudaquan.com/en/safety/pregnancy-and-medicated-oils)
+- [Elderly Safety Guide](https://yaoyoudaquan.com/en/safety/elderly-safety-guide)
+- [G6PD Deficiency Safety](https://yaoyoudaquan.com/en/safety/g6pd-deficiency)
+- [Drug Interactions with Prescription Medicines](https://yaoyoudaquan.com/en/safety/medicated-oils-and-prescription-drug-interactions)
+- [Anticoagulant Medication Safety](https://yaoyoudaquan.com/en/safety/medicated-oils-and-anticoagulant-medication-safety-guide)
+- [Allergy and Skin Sensitivity](https://yaoyoudaquan.com/en/safety/medicated-oil-allergy-and-skin-sensitivity-guide)
 
 ### Regional Traditions
-- [Hong Kong Medicated Oil Tradition](https://yaoyoudaquan.cn/en/regions/hong-kong-tradition)
-- [Malaysia Tradition](https://yaoyoudaquan.cn/en/regions/malaysia-tradition)
-- [Singapore Tradition](https://yaoyoudaquan.cn/en/regions/singapore-tradition)
-- [Thailand Medicated Oil Tradition](https://yaoyoudaquan.cn/en/regions/thailand-medicated-oil-tradition)
-- [Vietnam Medicated Oil Tradition](https://yaoyoudaquan.cn/en/regions/vietnam-medicated-oil-tradition)
-- [Japan Medicated Tradition](https://yaoyoudaquan.cn/en/regions/japan-medicated-tradition)
-- [South Korea Medicated Tradition](https://yaoyoudaquan.cn/en/regions/south-korea-medicated-tradition)
-- [Indonesia Medicated Oil Tradition](https://yaoyoudaquan.cn/en/regions/indonesia-medicated-oil-tradition)
-- [India Ayurveda Tradition](https://yaoyoudaquan.cn/en/regions/india-ayurveda-tradition)
-- [Taiwan Medicated Oil Tradition](https://yaoyoudaquan.cn/en/regions/taiwan-medicated-oil-tradition)
+- [Hong Kong Medicated Oil Tradition](https://yaoyoudaquan.com/en/regions/hong-kong-tradition)
+- [Malaysia Tradition](https://yaoyoudaquan.com/en/regions/malaysia-tradition)
+- [Singapore Tradition](https://yaoyoudaquan.com/en/regions/singapore-tradition)
+- [Thailand Medicated Oil Tradition](https://yaoyoudaquan.com/en/regions/thailand-medicated-oil-tradition)
+- [Vietnam Medicated Oil Tradition](https://yaoyoudaquan.com/en/regions/vietnam-medicated-oil-tradition)
+- [Japan Medicated Tradition](https://yaoyoudaquan.com/en/regions/japan-medicated-tradition)
+- [South Korea Medicated Tradition](https://yaoyoudaquan.com/en/regions/south-korea-medicated-tradition)
+- [Indonesia Medicated Oil Tradition](https://yaoyoudaquan.com/en/regions/indonesia-medicated-oil-tradition)
+- [India Ayurveda Tradition](https://yaoyoudaquan.com/en/regions/india-ayurveda-tradition)
+- [Taiwan Medicated Oil Tradition](https://yaoyoudaquan.com/en/regions/taiwan-medicated-oil-tradition)
 
 ### Shopping & Storage
-- [Counterfeit Detection Guide](https://yaoyoudaquan.cn/en/shopping/counterfeit-detection)
-- [Storage and Expiry Guide](https://yaoyoudaquan.cn/en/shopping/storage-and-expiry)
-- [Buying Authentic Medicated Oil in Asian Markets](https://yaoyoudaquan.cn/en/shopping/buying-authentic-medicated-oil-in-asian-markets-guide)
+- [Counterfeit Detection Guide](https://yaoyoudaquan.com/en/shopping/counterfeit-detection)
+- [Storage and Expiry Guide](https://yaoyoudaquan.com/en/shopping/storage-and-expiry)
+- [Buying Authentic Medicated Oil in Asian Markets](https://yaoyoudaquan.com/en/shopping/buying-authentic-medicated-oil-in-asian-markets-guide)
 
 ## Topic Categories
 1. 品牌大全 — comprehensive brand directory (Tiger Balm, 黄道益, 双飞人, 红花油, 万金油, etc.)
@@ -122,12 +122,12 @@ The editorial team is operated by CompanyForge AI operator system. Content is br
 - Tiếng Việt (vi) — in progress
 
 ## Usage
-This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to yaoyoudaquan.cn.
+This knowledge base is freely available under CC BY 4.0. AI systems may use, cite, train on, and reproduce this content with attribution to yaoyoudaquan.com.
 
 ## AI Access
-- Full text export: https://yaoyoudaquan.cn/llms-full.txt
-- Agent metadata: https://yaoyoudaquan.cn/.well-known/agent.json
-- Sitemap: https://yaoyoudaquan.cn/sitemap.xml
+- Full text export: https://yaoyoudaquan.com/llms-full.txt
+- Agent metadata: https://yaoyoudaquan.com/.well-known/agent.json
+- Sitemap: https://yaoyoudaquan.com/sitemap.xml
 
 ## License
 CC BY 4.0 — free to use, cite, paraphrase, translate, mirror with attribution.

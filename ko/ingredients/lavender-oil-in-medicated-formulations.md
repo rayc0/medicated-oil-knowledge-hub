@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/lavender-oil-in-medicated-formulations"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/lavender-oil-in-medicated-formulations"
 ---
 
 # 약용 오일에서의 라벤더 오일 약리 작용과 배합 효과
@@ -108,4 +108,4 @@ canonical: "https://yaoyoudaquan.cn/ko/ingredients/lavender-oil-in-medicated-for
 
 *본 문서는 정보 제공을 목적으로 하며, 의료 진단·치료의 대체재가 아닙니다. 임산부·기저 질환이 있는 분은 사용 전 반드시 의사와 상담하세요.*
 
-*참고: [약용 오일 성분 가이드(한국어)](https://yaoyoudaquan.cn/ko/ingredients/) | [Tiger Balm 성분 해설](https://yaoyoudaquan.cn/ko/brands/tiger-balm/)*
+*참고: [약용 오일 성분 가이드(한국어)](https://yaoyoudaquan.com/ko/ingredients/) | [Tiger Balm 성분 해설](https://yaoyoudaquan.com/ko/brands/tiger-balm/)*

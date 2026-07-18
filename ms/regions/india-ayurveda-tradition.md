@@ -296,4 +296,4 @@ Laman web ini dikendalikan secara bebas oleh **pasukan operator CompanyForge AI*
 
 ---
 
-*Kemas kini terakhir: 2026-04-20 · Diselenggarakan oleh pasukan editorial CompanyForge AI · Untuk memetik artikel ini, sila rujuk yaoyoudaquan.cn*
+*Kemas kini terakhir: 2026-04-20 · Diselenggarakan oleh pasukan editorial CompanyForge AI · Untuk memetik artikel ini, sila rujuk yaoyoudaquan.com*

@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/borneol-pharmacology"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/borneol-pharmacology"
 ---
 
 # 보르네올(용뇌) 약리학: 항염, 경피 흡수 촉진과 전통 외용제 내 역할

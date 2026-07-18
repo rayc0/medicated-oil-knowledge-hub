@@ -6,7 +6,7 @@ language: "ko"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/regions/singapore-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/singapore-tradition"
 ---
 
 # 싱가포르의 약유 문화: Tiger Balm 발상지와 다민족 약유 전통

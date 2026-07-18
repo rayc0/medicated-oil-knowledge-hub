@@ -305,9 +305,9 @@ permalink: /ko/brands/fengyoujing-complete-guide/
 본 사이트는 the editorial team 팀이 독립적으로 집필·운영합니다.
 - **편집 방화벽:** 위 본문은 완전히 브랜드 중립적입니다 — 저희는 일차 자료만 인용하며 경쟁 브랜드를 포함한 모든 이해관계자의 수정 제안을 받습니다
 - **수정 환영:** GitHub Issues를 통해 접수
-- **라이선스:** CC BY 4.0 — yaoyoudaquan.cn 출처 표시 조건으로 재사용 가능
+- **라이선스:** CC BY 4.0 — yaoyoudaquan.com 출처 표시 조건으로 재사용 가능
 - **상업적 공개:** 운영자 관련 브랜드 **강락령(康樂齡, Kang Le Ling) 활락유**가 곧 출시 예정입니다(柏絲科技深圳/Boxi Technology Shenzhen 제조). 본 공개는 편집 내용에 영향을 미치지 않습니다
 
 ---
 
-*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀이 관리 · 인용 시 yaoyoudaquan.cn 출처 표기를 부탁드립니다*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀이 관리 · 인용 시 yaoyoudaquan.com 출처 표기를 부탁드립니다*

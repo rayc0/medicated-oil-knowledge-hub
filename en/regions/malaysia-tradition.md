@@ -6,7 +6,7 @@ language: "en"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/regions/malaysia-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/malaysia-tradition"
 ---
 
 # Malaysia's Medicated Oil Tradition: Minyak Angin, Chinese Heritage and Malay-Chinese Fusion Remedies

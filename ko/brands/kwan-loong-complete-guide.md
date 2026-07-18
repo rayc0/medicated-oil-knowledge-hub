@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/kwan-loong-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/kwan-loong-complete-guide"
 ---
 
 # 驅風油(관풍유) 완전 가이드: 성분, 효능, Tiger Balm과 비교 및 한국 구매처
@@ -230,4 +230,4 @@ Kwan Loong Oil은 캠퍼 없이 멘톨과 유칼립투스만으로 냉감 효과
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*
+*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.com으로 명기해 주십시오*

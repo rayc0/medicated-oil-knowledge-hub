@@ -528,4 +528,4 @@ Trước khi sử dụng bất kỳ sản phẩm MS nào, hãy kiểm tra:
 
 ---
 
-*Last updated: 2026-04-21 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn · License: CC BY 4.0*
+*Last updated: 2026-04-21 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.com · License: CC BY 4.0*

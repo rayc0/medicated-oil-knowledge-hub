@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/medicated-oils-for-children-complete-safety-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/medicated-oils-for-children-complete-safety-guide"
 ---
 
 # 兒童使用藥油全面安全指南：禁忌成分、年齡限制及緊急處理

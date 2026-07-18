@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/sprain-and-bruise-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/sprain-and-bruise-guide"
 ---
 
 # 捻挫・打撲への薬用オイル応急処置ガイド：RICE法との組み合わせと回復促進

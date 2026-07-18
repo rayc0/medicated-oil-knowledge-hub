@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hans"
 category: "brands"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hans/brands/axe-brand-complete-guide"
+canonical: "https://yaoyoudaquan.com/zh-hans/brands/axe-brand-complete-guide"
 ---
 
 # 斧标驱风油完全指南：成分解析、功效评测与使用方法

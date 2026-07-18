@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/pregnancy-guide"
+canonical: "https://yaoyoudaquan.com/ja/safety/pregnancy-guide"
 ---
 
 # 妊娠中の薬用オイル安全ガイド：トリメスター別の成分別リスクと禁忌
@@ -195,4 +195,4 @@ canonical: "https://yaoyoudaquan.cn/ja/safety/pregnancy-guide"
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 本記事を引用する際は出典 yaoyoudaquan.cn を明記してください*
+*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 本記事を引用する際は出典 yaoyoudaquan.com を明記してください*

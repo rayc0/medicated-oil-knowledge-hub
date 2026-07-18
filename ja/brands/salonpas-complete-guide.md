@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-05-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/salonpas-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/salonpas-complete-guide"
 ---
 
 # サロンパス（Salonpas）完全ガイド：成分・製品ラインナップ・効能・安全な使い方

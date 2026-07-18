@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
 ---
 
 # ウィンターグリーン精油と合成メチルサリチル酸の比較：薬用オイル配合の違いと安全性

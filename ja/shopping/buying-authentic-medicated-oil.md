@@ -6,7 +6,7 @@ language: "ja"
 category: "shopping"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/shopping/buying-authentic-medicated-oil"
+canonical: "https://yaoyoudaquan.com/ja/shopping/buying-authentic-medicated-oil"
 ---
 
 # 正規薬用オイルの見分け方と購入ガイド：偽造品対策と信頼できる購入先

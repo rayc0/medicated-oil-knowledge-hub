@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/post-workout-muscle-recovery"
+canonical: "https://yaoyoudaquan.com/ko/usage/post-workout-muscle-recovery"
 ---
 
 # 운동 후 근육 회복에 약용 오일 활용 가이드: DOMS 완화와 스포츠 퍼포먼스 향상

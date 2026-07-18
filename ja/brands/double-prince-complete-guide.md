@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/double-prince-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/double-prince-complete-guide"
 ---
 
 # 双獅標（Double Prince）活絡油完全ガイド

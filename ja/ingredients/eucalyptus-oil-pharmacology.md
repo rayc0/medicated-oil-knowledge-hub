@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/eucalyptus-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/eucalyptus-oil-pharmacology"
 ---
 
 # ユーカリオイルの薬理学：1,8-シネオール、抗炎症・鎮痛効果と外用薬での使用

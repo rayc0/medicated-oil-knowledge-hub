@@ -2,7 +2,7 @@
 title: "G6PD欠乏症と薬用オイル：使用禁忌成分・安全な代替製品ガイド"
 description: "G6PD欠乏症（グルコース-6-リン酸脱水素酵素欠乏症）と薬用オイル安全ガイド（日本語）— G6PD欠乏症の薬理メカニズム、薬用オイル中の禁忌成分（ユーカリ油・メントール・カンファー）、Tiger Balm White禁忌の理由、G6PD患者に安全な代替製品、日本でのG6PD検査情報"
 author: Editorial Team
-canonical: "https://yaoyoudaquan.cn/ja/safety/g6pd-deficiency"
+canonical: "https://yaoyoudaquan.com/ja/safety/g6pd-deficiency"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 lang: "ja"

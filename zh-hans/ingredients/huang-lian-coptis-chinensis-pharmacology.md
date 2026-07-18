@@ -1,5 +1,5 @@
 ---
-title: "黄连（Coptis chinensis / deltoidea / teeta）药理全解 — 小檗碱、黄连碱与那味"苦如黄连"组『三黄清热』之首的毛茛科根茎"
+title: '黄连（Coptis chinensis / deltoidea / teeta）药理全解 — 小檗碱、黄连碱与那味"苦如黄连"组『三黄清热』之首的毛茛科根茎'
 description: "从味连、雅连、云连的来源差异，到小檗碱、黄连碱、表小檗碱、药根碱的协同作用，详解黄连在外用药油、眼用与口腔制剂、湿疹软膏中的现代药理机制与配伍逻辑——为什么它是天然小檗碱含量最高的中药材，也是『三黄』清热燥湿系统的核心枢纽。"
 lang: zh-hans
 category: ingredients

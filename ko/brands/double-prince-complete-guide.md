@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/double-prince-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/double-prince-complete-guide"
 ---
 
 # 쌍비인(双飞人) 완전 가이드: 프랑스산 페퍼민트 워터 리클레스(Ricqlès Alcool de Menthe)
@@ -304,4 +304,4 @@ IATA 규정에 따라 에탄올 70% 초과 액체는 Class 3 가연성 위험물
 
 ---
 
-*최종 업데이트: 2026-04-18 · 유지관리: the editorial team AI 편집팀 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*
+*최종 업데이트: 2026-04-18 · 유지관리: the editorial team AI 편집팀 · 본 문서 인용 시 yaoyoudaquan.com 출처 명시 바랍니다*

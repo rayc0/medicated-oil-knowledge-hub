@@ -6,7 +6,7 @@ category: ingredients
 date: 2026-05-18
 author: Raymond Fong
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/cinnamon-oil-cinnamaldehyde-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/cinnamon-oil-cinnamaldehyde-pharmacology"
 ---
 
 # 肉桂油藥理學：桂皮醛的溫通機制、TRPA1 作用通路與外用藥安全濃度

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/eucalyptus-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/eucalyptus-oil-pharmacology"
 ---
 
 # 尤加利油藥理學：1,8-桉葉素的抗炎鎮痛、呼吸道舒緩與外用藥應用（香港版）

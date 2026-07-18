@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/elderly-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/elderly-joint-pain-guide"
 ---
 
 # Panduan Minyak Ubat untuk Sakit Sendi & Arthritis Warga Emas

@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/children-complete-safety-guide"
+canonical: "https://yaoyoudaquan.com/ja/safety/children-complete-safety-guide"
 ---
 
 # 子どもへの薬用オイル使用完全安全ガイド

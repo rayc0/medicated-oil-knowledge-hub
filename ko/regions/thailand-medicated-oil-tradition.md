@@ -2,7 +2,7 @@
 title: "태국의 약용 오일 전통 완전 가이드 — 야몽(Yaa-Mong)·야돔(Yaa-Dom)·남만무아이(Namman Muay)·시앙퓨어(Siang Pure)·카운터페인(Counterpain) + 태국 FDA B.E. 2562 (2019)"
 description: "태국 약용 오일 문화에 대한 한국 독자용 결정판 가이드 — Siang Pure, Poy-Sian Mark II 비강 흡입제, Namman Muay 무에타이 리니먼트, Counterpain, 태국 FDA 허브 제품법 B.E. 2562 (2019), 그리고 장뇌·멘톨·메틸살리실산의 안전 경고를 MFDS(식약처)·한국중독정보센터 연락처와 함께 정리."
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/ko/regions/thailand-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/thailand-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
 lang: "ko"
@@ -347,4 +347,4 @@ A. 2026년 4월 기준, 식약처 정식 수입 허가 Namman Muay 제품은 일
 
 ---
 
-*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 본문 인용 시 yaoyoudaquan.cn을 출처로 명시해 주십시오.*
+*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 본문 인용 시 yaoyoudaquan.com을 출처로 명시해 주십시오.*

@@ -5,7 +5,7 @@ author: Editorial Team
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/office-worker-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/office-worker-guide"
 ---
 
 # 打工仔藥油急救指南：辦公室頸痛膊痛頭痛全攻略

@@ -240,4 +240,4 @@ author: CompanyForge AI editorial team
 
 ---
 
-*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 引用本文請註明來源 yaoyoudaquan.com*

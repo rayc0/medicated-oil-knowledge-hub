@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/skin-care-and-itching"
+canonical: "https://yaoyoudaquan.com/ms/usage/skin-care-and-itching"
 ---
 
 # Minyak Ubat untuk Gatal-Gatal dan Penjagaan Kulit: Panduan Lengkap

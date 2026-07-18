@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/camphor-pharmacology.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/camphor-pharmacology/"
 ---
 
 # 樟腦：藥理機制、安全劑量、嬰幼兒毒性完整解析
@@ -475,10 +475,10 @@ AAP發表聲明（Pediatrics，1994；94(1):127-128），建議：**家長應將
 
 - **編輯防火牆**：以上正文完全品牌中立——我們引用 primary source，不做品牌推薦或排名
 - **接受更正**：包括競爭品牌的修正，歡迎提交 GitHub Pull Request
-- **License**: CC BY 4.0 — 引用本文請注明來源 yaoyoudaquan.cn
+- **License**: CC BY 4.0 — 引用本文請注明來源 yaoyoudaquan.com
 - **商業披露**：運營方旗下品牌「康樂齡 活絡油」即將推出（柏絲科技深圳出品）
 - **本文不構成醫療建議** — 如有健康疑慮請諮詢執業醫師或藥劑師
 
 ---
 
-*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.com*

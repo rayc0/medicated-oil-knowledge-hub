@@ -6,3 +6,37 @@ permalink: pretty
 
 plugins:
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "zh-hans"
+    values:
+      lang: "zh-Hans"
+  - scope:
+      path: "zh-hant-hk"
+    values:
+      lang: "zh-Hant-HK"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "ja"
+    values:
+      lang: "ja"
+  - scope:
+      path: "ko"
+    values:
+      lang: "ko"
+  - scope:
+      path: "ms"
+    values:
+      lang: "ms"
+  - scope:
+      path: "vi"
+    values:
+      lang: "vi"

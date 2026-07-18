@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/clove-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/clove-oil-pharmacology"
 ---
 
 # 정향 오일(클로브 오일) 약리학: 유게놀 기전, 항염·진통 효과와 한국 외용제 활용

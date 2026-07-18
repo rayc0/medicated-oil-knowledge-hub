@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
 ---
 
 # Minyak Gandarusa vs Metil Salisilat Sintetik: Perbandingan Klinikal dan Panduan Keselamatan

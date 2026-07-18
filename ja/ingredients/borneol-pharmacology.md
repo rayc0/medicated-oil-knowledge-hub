@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/borneol-pharmacology"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/borneol-pharmacology"
 ---
 
 # ボルネオール（竜脳）の薬理学：抗炎症・鎮痛と伝統的外用薬

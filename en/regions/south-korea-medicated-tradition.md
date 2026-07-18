@@ -320,4 +320,4 @@ A: Hanbang (Korean traditional medicine) practitioners at registered 한의원 (
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 본 문서를 인용하실 때 yaoyoudaquan.cn을 출처로 표기해 주세요.*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 본 문서를 인용하실 때 yaoyoudaquan.com을 출처로 표기해 주세요.*

@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/shift-workers-sleep-alertness"
+canonical: "https://yaoyoudaquan.com/ja/usage/shift-workers-sleep-alertness"
 ---
 
 # 夜勤・シフトワーカーのための薬用オイル活用ガイド：睡眠改善と覚醒促進の両立

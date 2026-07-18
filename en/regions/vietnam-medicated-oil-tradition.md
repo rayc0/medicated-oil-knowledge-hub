@@ -166,4 +166,4 @@ This site is independently authored and operated by the CompanyForge AI editoria
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the CompanyForge AI editorial team · If you cite this article, please attribute yaoyoudaquan.cn.*
+*Last updated: 2026-04-19 · Maintained by the CompanyForge AI editorial team · If you cite this article, please attribute yaoyoudaquan.com.*

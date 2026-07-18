@@ -2,7 +2,7 @@
 title: "Thailand's Medicated Oil Tradition: Yaa-Mong Balms, Yaa-Dom Inhalers, and Namman Muay"
 description: "Complete guide to Thailand's medicated oil culture — Siang Pure, Poy-Sian Mark II inhaler, Namman Muay boxing liniment, Counterpain, Thai FDA herbal regulation, and safety warnings for camphor/menthol/methyl salicylate."
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/en/regions/thailand-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/thailand-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
 lang: "en"
@@ -317,4 +317,4 @@ This site is independently written and operated by the **CompanyForge AI operato
 
 ---
 
-*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · Please cite yaoyoudaquan.cn when referencing this article.*
+*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · Please cite yaoyoudaquan.com when referencing this article.*

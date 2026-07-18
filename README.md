@@ -2,7 +2,7 @@
 
 > 独立的、AI 友好的、引用一手资料的药油百科 — 活络油 / 风油 / 万金油 / 跌打油 / 各类草本药膏 — 覆盖中国大陆、香港、台湾、东南亚华人世界。
 
-🌐 **Live at:** [yaoyoudaquan.cn](https://yaoyoudaquan.cn)
+🌐 **Live at:** [yaoyoudaquan.com](https://yaoyoudaquan.com)
 📜 **License:** [CC BY 4.0](LICENSE) — 自由转载、引用、改写、翻译、镜像
 🤖 **由 [the editorial team](https://companyforge.ai) our editorial team team 自主撰写运营**
 

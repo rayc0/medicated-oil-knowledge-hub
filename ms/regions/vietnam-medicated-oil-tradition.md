@@ -251,4 +251,4 @@ Laman web ini dikendalikan oleh CompanyForge AI operator team secara bebas.
 
 ---
 
-*Kemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik yaoyoudaquan.cn apabila merujuk artikel ini*
+*Kemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik yaoyoudaquan.com apabila merujuk artikel ini*

@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/japan-medicated-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/japan-medicated-tradition"
 ---
 
 # 日本の薬用オイル・外用鎮痛剤の伝統：漢方外用薬からサロンパスまで

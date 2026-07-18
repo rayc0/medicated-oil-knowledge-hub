@@ -5,7 +5,7 @@ author: Peter Kwok
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/asian-vs-western-comparison"
+canonical: "https://yaoyoudaquan.com/ms/usage/asian-vs-western-comparison"
 ---
 
 # Minyak Ubat Asia vs Analgesik Topikal Barat: Perbandingan Lengkap
@@ -365,4 +365,4 @@ Kesimpulannya: **pilih berdasarkan mekanisme dan keadaan, bukan asal-usul geogra
 
 ---
 
-*Last updated: 2026-04-18 · Diselenggara oleh Editorial Team · Sila petik sebagai yaoyoudaquan.cn/ms/usage/asian-vs-western-comparison*
+*Last updated: 2026-04-18 · Diselenggara oleh Editorial Team · Sila petik sebagai yaoyoudaquan.com/ms/usage/asian-vs-western-comparison*

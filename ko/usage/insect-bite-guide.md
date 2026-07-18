@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/insect-bite-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/insect-bite-guide"
 ---
 
 # 벌레 물림·모기에 약용 오일 활용 가이드

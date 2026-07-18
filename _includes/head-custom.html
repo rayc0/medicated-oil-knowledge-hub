@@ -1,28 +1,14 @@
-<style>
-#lang-bar{position:sticky;top:0;z-index:9999;background:#1a1a2e;padding:7px 16px;text-align:right;font-size:13px;line-height:1.6;box-shadow:0 1px 4px rgba(0,0,0,.4)}
-#lang-bar a{color:#a8d8ea;text-decoration:none;margin:0 4px;padding:2px 7px;border-radius:3px}
-#lang-bar a:hover{background:#16213e;color:#fff}
-</style>
 <script>
+// auto-redirect on first visit to homepage based on browser language
+// (lang-bar + footer credit are now static server-rendered includes — see _includes/lang-bar.html, _includes/site-footer.html)
 document.addEventListener('DOMContentLoaded',function(){
-  var bar=document.createElement('div');
-  bar.id='lang-bar';
-  bar.innerHTML='<a href="/zh-hans/">简体中文</a> <span style="color:#666">|</span> <a href="/zh-hant-hk/">繁體中文</a> <span style="color:#666">|</span> <a href="/en/">English</a>';
-  document.body.insertBefore(bar,document.body.firstChild);
-  // auto-redirect on first visit
   if(sessionStorage.getItem('lang-redirected')) return;
   sessionStorage.setItem('lang-redirected','1');
   var l=(navigator.language||'').toLowerCase();
   var p=window.location.pathname;
-  if(p!='/'&&p!='') return;
+  if(p!=='/'&&p!=='') return;
   if(l.startsWith('zh-tw')||l.startsWith('zh-hk'))window.location.href='/zh-hant-hk/';
   else if(l.startsWith('zh'))window.location.href='/zh-hans/';
-});
-document.addEventListener('DOMContentLoaded',function(){
-  var f=document.createElement('p');
-  f.style.cssText='font-size:0.72rem;color:#9ca3af;text-align:center;margin:2rem 0 1rem;';
-  f.innerHTML='Founded by <a href="https://ycchau.com/en/about/" rel="me" style="color:#9ca3af;text-decoration:underline;">Raymond Chau Yik-Chun (周益俊)</a>.';
-  document.body.appendChild(f);
 });
 </script>
 
@@ -33,7 +19,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <!-- Baidu webmaster verification — uncomment and replace [BAIDU_TOKEN] with token from ziyuan.baidu.com -->
 <!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
 
-{% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
+{% assign page_lang = page.lang | default: page.language | default: "zh-Hans" %}
 {% assign site_url = "https://yaoyoudaquan.com" %}
 {% if page.canonical %}
   {% assign full_url = page.canonical %}

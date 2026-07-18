@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/insect-bite-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/insect-bite-guide"
 ---
 
 # 虫刺されに薬用オイル：Tiger Balm White・斧標萬金油の正しい使い方と効果

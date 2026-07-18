@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/medicated-oils-and-prescription-drug-interactions"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/medicated-oils-and-prescription-drug-interactions"
 ---
 
 # 藥油與處方藥的相互作用：華法林、阿司匹靈及常用藥物風險指南

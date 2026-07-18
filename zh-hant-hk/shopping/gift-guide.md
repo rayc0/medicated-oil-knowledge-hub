@@ -5,7 +5,7 @@ author: Peter Kwok
 language: "zh-hant-hk"
 category: "shopping"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/shopping/gift-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/shopping/gift-guide"
 ---
 
 # 藥油手信指南：送禮必選、包裝比較與購買渠道全攻略

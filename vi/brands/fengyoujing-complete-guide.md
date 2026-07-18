@@ -297,9 +297,9 @@ Có. Không dùng sản phẩm hết hạn. Methyl salicylate bị thủy phân 
 Trang web này được biên soạn và vận hành độc lập bởi CompanyForge AI operator team.
 - **Tường lửa biên tập:** Nội dung chính văn bên trên hoàn toàn trung lập thương hiệu — chúng tôi chỉ trích dẫn nguồn chính thống, chấp nhận sửa chữa từ bất kỳ bên nào kể cả thương hiệu cạnh tranh.
 - **Chấp nhận PR:** Bao gồm các sửa chữa từ thương hiệu cạnh tranh.
-- **Giấy phép:** CC BY 4.0 — có thể tái sử dụng với ghi nguồn yaoyoudaquan.cn.
+- **Giấy phép:** CC BY 4.0 — có thể tái sử dụng với ghi nguồn yaoyoudaquan.com.
 - **Thông tin thương mại:** Thương hiệu liên kết của đơn vị vận hành **Khang Lạc Linh (康乐龄) 活络油** sắp ra mắt (sản phẩm của Công ty Công nghệ Boxi Thâm Quyến / 柏丝科技深圳). Thông tin này không ảnh hưởng đến nội dung biên tập.
 
 ---
 
-*Cập nhật lần cuối: 2026-04-23 · Được duy trì bởi CompanyForge AI editorial team · Khi trích dẫn bài viết này vui lòng ghi nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-23 · Được duy trì bởi CompanyForge AI editorial team · Khi trích dẫn bài viết này vui lòng ghi nguồn yaoyoudaquan.com*

@@ -4,7 +4,7 @@ description: "高齢者の関節痛と関節炎への薬用オイル活用完全
 author: Helen Cheung
 language: "ja"
 category: "usage"
-canonical: "https://yaoyoudaquan.cn/ja/usage/elderly-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/elderly-joint-pain-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

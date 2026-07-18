@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/lavender-oil-in-medicated-formulations"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/lavender-oil-in-medicated-formulations"
 ---
 
 # Minyak Lavender dalam Ubat Gosok: Kesan Analgesik, Anti-radang, dan Aromaterapi

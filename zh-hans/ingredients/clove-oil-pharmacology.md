@@ -6,7 +6,7 @@ category: ingredients
 date: 2026-04-18
 author: Raymond Fong
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hans/ingredients/clove-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hans/ingredients/clove-oil-pharmacology"
 ---
 
 # 丁香油药理学：丁香酚的作用机制、抗炎镇痛效果与外用药

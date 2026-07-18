@@ -202,4 +202,4 @@ This site is independently written and operated by the **the editorial team team
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · Please cite yaoyoudaquan.cn when referencing this article.*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · Please cite yaoyoudaquan.com when referencing this article.*

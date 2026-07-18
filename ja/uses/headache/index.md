@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/uses/headache"
+canonical: "https://yaoyoudaquan.com/ja/uses/headache"
 ---
 
 # 薬用オイルで頭痛を和らげる方法：種類別の使い方ガイド

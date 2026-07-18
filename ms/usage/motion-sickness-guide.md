@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/motion-sickness-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/motion-sickness-guide"
 ---
 
 # Minyak Ubat untuk Mabuk Kenderaan dan Rasa Loya

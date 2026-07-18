@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/hakka-yu-shiro-hana"
+canonical: "https://yaoyoudaquan.com/ja/brands/hakka-yu-shiro-hana"
 ---
 
 # 白花油（ペナン伝統漢方オイル）完全ガイド

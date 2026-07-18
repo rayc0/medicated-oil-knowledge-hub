@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/axe-brand-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/axe-brand-complete-guide"
 ---
 
 # 도끼표 만금유(Axe Brand Universal Oil) 완전 가이드: 성분·효능·사용법·한국 구매처

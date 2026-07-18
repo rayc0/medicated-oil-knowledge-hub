@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/g6pd-deficiency.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/g6pd-deficiency/"
 ---
 
 # 蠶豆症（G6PD缺乏）患者藥油使用禁忌完整列表
@@ -359,9 +359,9 @@ G6PD檢測陰性（即正常）意味著酵素活性充足，**無需**特別避
 
 - **編輯防火牆**：以上正文完全品牌中立——我們引用primary source，風險評級基於成份氧化應激潛力，並非品牌立場
 - **接受PR**：包括競爭品牌的修正，歡迎醫療專業人士提供更新研究
-- **License**: CC BY 4.0 — 轉載請註明來源 yaoyoudaquan.cn
+- **License**: CC BY 4.0 — 轉載請註明來源 yaoyoudaquan.com
 - **商業披露**：運營方旗下品牌「康樂齡 活絡油」即將推出（柏絲科技深圳出品），本文為獨立編輯內容，與該產品無關聯
 
 ---
 
-*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-17 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.com*

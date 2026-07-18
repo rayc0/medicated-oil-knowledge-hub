@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/white-flower-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/white-flower-complete-guide"
 ---
 
 # 白花油（White Flower Oil）完全ガイド：成分・効能・Tiger Balmとの使い分け

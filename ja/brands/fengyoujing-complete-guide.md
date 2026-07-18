@@ -297,9 +297,9 @@
 本サイトは the editorial team team が独立して執筆・運営しています。
 - **編集ファイアウォール：** 上記本文は完全にブランド中立です — 私たちは一次資料のみを引用し、競合ブランドを含むあらゆる関係者からの訂正提案を受け付けます
 - **訂正歓迎：** GitHub Issues 経由で受付
-- **ライセンス：** CC BY 4.0 — yaoyoudaquan.cn への帰属表示付きで再利用可
+- **ライセンス：** CC BY 4.0 — yaoyoudaquan.com への帰属表示付きで再利用可
 - **商業開示：** 運営者関連ブランド **康楽齢（Kang Le Ling）活絡油** が近日発売予定（柏絲科技深圳／Boxi Technology Shenzhen 製）。本開示は編集内容に影響しません
 
 ---
 
-*最終更新：2026-04-19 · the editorial team AI 編集チームが維持 · 引用時は yaoyoudaquan.cn へのクレジット表示をお願いします*
+*最終更新：2026-04-19 · the editorial team AI 編集チームが維持 · 引用時は yaoyoudaquan.com へのクレジット表示をお願いします*

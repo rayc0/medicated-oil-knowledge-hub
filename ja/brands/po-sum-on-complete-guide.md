@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/po-sum-on-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/po-sum-on-complete-guide"
 ---
 
 # 保心安油（Po Sum On Oil）完全ガイド：香港伝統薬用オイルの成分・効能と使い方

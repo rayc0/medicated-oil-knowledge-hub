@@ -187,9 +187,9 @@ This site is independently operated by the **the editorial team team**.
 
 - **Editorial firewall**: the body above is strictly brand-neutral. We cite primary government, regulatory, and peer-reviewed sources only, and we treat all brands by the same authentication standard.
 - **Corrections welcome**: we accept PRs including from the brand holders named in this article and their competitors.
-- **License**: CC BY 4.0 — reuse with attribution to yaoyoudaquan.cn.
+- **License**: CC BY 4.0 — reuse with attribution to yaoyoudaquan.com.
 - **Commercial disclosure**: our operator's own forthcoming product, **Kangleling Huoluo Oil (康乐龄 活络油)** by Baisi Technology Shenzhen (柏丝科技深圳), is not yet on the market and is not compared in the authentication checks above.
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.com*

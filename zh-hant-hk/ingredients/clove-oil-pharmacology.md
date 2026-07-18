@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/clove-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/clove-oil-pharmacology"
 ---
 
 # 丁香油藥理學：丁香酚的鎮痛抗炎機制與外用藥安全使用指南（香港版）

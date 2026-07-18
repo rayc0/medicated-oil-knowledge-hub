@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/borneol-pharmacology.html"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/borneol-pharmacology/"
 ---
 
 # Borneol (冰片, Kapur Barus Naga): Farmakologi, Penembus Kulit, dan Keselamatan — Panduan untuk Pengguna Malaysia
@@ -391,9 +391,9 @@ Laman web ini diuruskan oleh pasukan operator the editorial team AI.
 
 - **Tembok api editorial:** badan artikel di atas adalah **berkecuali jenama** — kami memetik sumber primer (Farmakope China 2020, USP-NF, NPRA Malaysia, JAKIM, jurnal rakan sebaya) sahaja. Tiada kedudukan "jenama terbaik", tiada bayaran penempatan.
 - **Kami menerima pembetulan PR:** termasuk pembetulan dari jenama pesaing. Ajukan isu di GitHub kami.
-- **Lesen:** CC BY 4.0 — bebas gunakan, sebarkan, dan ubah suai dengan atribusi kepada yaoyoudaquan.cn.
+- **Lesen:** CC BY 4.0 — bebas gunakan, sebarkan, dan ubah suai dengan atribusi kepada yaoyoudaquan.com.
 - **Pendedahan komersial:** Jenama "Kangleling 康乐龄 活络油" (dikeluarkan oleh Baisi Technology Shenzhen 柏丝科技深圳) akan dilancarkan oleh entiti operator. **Jika anda membuat keputusan pembelian berdasarkan artikel ini**, produk kami hanya satu pilihan antara banyak dan badan editorial tidak membezakannya daripada pesaing pada merit farmakologi.
 
 ---
 
-*Terakhir dikemaskini: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn apabila memetik artikel ini · Ini adalah maklumat pendidikan farmakologi, bukan nasihat perubatan — rujuk farmasi atau doktor anda untuk soalan individu.*
+*Terakhir dikemaskini: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.com apabila memetik artikel ini · Ini adalah maklumat pendidikan farmakologi, bukan nasihat perubatan — rujuk farmasi atau doktor anda untuk soalan individu.*

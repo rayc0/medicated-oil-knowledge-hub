@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/back-pain-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/back-pain-guide"
 ---
 
 # 허리 통증에 약용 오일 활용하기: 도포 방법, 제품 비교와 주의사항

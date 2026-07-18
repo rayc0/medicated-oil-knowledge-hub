@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% assign page_lang = page.lang | default: page.language | default: "zh-Hans" %}
+<html lang="{{ page_lang }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | default: site.title | escape }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700;900&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}">
+{% include head-custom.html %}
+</head>
+<body class="{% if page.name == 'index.md' %}is-home{% else %}is-article{% endif %}">
+{% include lang-bar.html %}
+<main class="site-main">
+{{ content }}
+</main>
+{% include site-footer.html %}
+</body>
+</html>

@@ -2,7 +2,7 @@
 title: "Tradisi Minyak Angin Taiwan — Qingcao (青草藥), Yu Yee Oil (如意油), Tiger Balm & TFDA: Panduan untuk Pengguna Malaysia"
 description: "Panduan lengkap budaya minyak angin Taiwan untuk pembaca Malaysia — 青草藥 herba jalanan Longshan, 如意油 Yu Yee Oil, rangka kerja TFDA, dan amaran keselamatan untuk camphor, menthol, dan metil salisilat. Termasuk nota pemeriksaan halal, import NPRA Malaysia, dan perbandingan harga pelancong."
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/ms/regions/taiwan-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/ms/regions/taiwan-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
 lang: "ms"
@@ -248,4 +248,4 @@ Laman web ini ditulis dan dijalankan secara bebas oleh pasukan operator **Compan
 
 ---
 
-*Kemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebut sumber yaoyoudaquan.cn apabila memetik.*
+*Kemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila sebut sumber yaoyoudaquan.com apabila memetik.*

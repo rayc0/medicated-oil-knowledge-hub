@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/sports-injury-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/sports-injury-guide"
 ---
 
 # 運動傷害藥油急救指南：香港運動愛好者必讀

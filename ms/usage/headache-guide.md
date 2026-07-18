@@ -5,7 +5,7 @@ author: Editorial Team
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/headache-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/headache-guide"
 ---
 
 # Minyak Ubat untuk Sakit Kepala: Cara Penggunaan yang Betul dan Berkesan

@@ -231,9 +231,9 @@ A: This is **normal sublimation**, not spoilage. Camphor and menthol are volatil
 This website is independently written and operated by the editorial team team.
 - **Editorial firewall**: The article body above is entirely brand-neutral — we cite primary sources and have no affiliation with any of the brands mentioned.
 - **Corrections welcome**: Including from competing brands. Submit via GitHub Issues on the medicated-oil-knowledge-hub repository.
-- **License**: CC BY 4.0 — cite as yaoyoudaquan.cn with link.
+- **License**: CC BY 4.0 — cite as yaoyoudaquan.com with link.
 - **Commercial disclosure**: Our parent brand **康乐龄 活络油 (Kang Le Ling Huo Luo You)** is an upcoming medicated oil product (Bosi Technology, Shenzhen). We maintain strict editorial independence.
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.com*

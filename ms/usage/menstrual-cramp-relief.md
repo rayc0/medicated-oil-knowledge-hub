@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/menstrual-cramp-relief"
+canonical: "https://yaoyoudaquan.com/ms/usage/menstrual-cramp-relief"
 ---
 
 # Minyak Ubat untuk Sakit Haid (Dismenore): Mekanisme, Bukti Klinikal, dan Panduan Aplikasi yang Selamat
@@ -256,4 +256,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial the e
 
 ---
 
-*Kemas kini terakhir: 2026-04-19 · Diselenggarakan oleh pasukan editorial the editorial team AI · Untuk merujuk artikel ini, sila nyatakan sumber yaoyoudaquan.cn*
+*Kemas kini terakhir: 2026-04-19 · Diselenggarakan oleh pasukan editorial the editorial team AI · Untuk merujuk artikel ini, sila nyatakan sumber yaoyoudaquan.com*

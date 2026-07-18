@@ -260,4 +260,4 @@ Olowe & Ransome-Kuti (1980) 연구는 멘톨 함유 제품이 G6PD 결핍 신생
 
 ---
 
-*최종 업데이트: 2026-04-18 · the editorial team AI 편집팀 관리 · 본 문서 인용 시 출처 yaoyoudaquan.cn 명기 바랍니다*
+*최종 업데이트: 2026-04-18 · the editorial team AI 편집팀 관리 · 본 문서 인용 시 출처 yaoyoudaquan.com 명기 바랍니다*

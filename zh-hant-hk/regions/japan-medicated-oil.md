@@ -5,7 +5,7 @@ author: Peter Kwok
 language: "zh-hant-hk"
 category: "regions"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/regions/japan-medicated-oil"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/regions/japan-medicated-oil"
 ---
 
 # 日本藥油與外用貼劑文化：撒隆巴斯、清涼油膏與漢方外用藥的香港視角

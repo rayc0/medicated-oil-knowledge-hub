@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/india-ayurveda-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/india-ayurveda-tradition"
 ---
 
 # インドのアーユルヴェーダと薬用オイル：マハナラヤナ油・ニーム油・カスターオイルの伝統医学的背景

@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/methyl-salicylate-pharmacology"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/methyl-salicylate-pharmacology"
 ---
 
 # Farmakologi Metil Salisilat: Mekanisme Tindakan dan Kesan Analgesik

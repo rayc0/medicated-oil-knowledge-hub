@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/cold-flu-season-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/cold-flu-season-guide"
 ---
 
 # Minyak Ubat untuk Selsema dan Selesema: Panduan Lengkap Musim Jerebu

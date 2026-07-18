@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/methyl-salicylate-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/methyl-salicylate-pharmacology"
 ---
 
 # 水楊酸甲酯藥理學：COX抑制機制、經皮吸收與華法林相互作用警告（香港版）

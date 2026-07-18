@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/medicated-oils-and-anticoagulant-medication-safety"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/medicated-oils-and-anticoagulant-medication-safety"
 ---
 
 # 藥用油與抗凝血藥物的相互作用：華法林、阿斯匹靈患者使用指引

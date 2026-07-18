@@ -5,7 +5,7 @@ author: Raymond Fong
 language: "zh-hans"
 category: "usage"
 date: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hans/usage/back-pain-guide"
+canonical: "https://yaoyoudaquan.com/zh-hans/usage/back-pain-guide"
 ---
 
 # 药用油缓解腰痛指南：涂抹方法、产品对比与注意事项

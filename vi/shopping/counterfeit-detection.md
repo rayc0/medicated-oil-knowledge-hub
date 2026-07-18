@@ -226,9 +226,9 @@ Website này được biên soạn và vận hành độc lập bởi **CompanyF
 
 - **Tường lửa biên tập**: Toàn bộ nội dung chính văn trên đây hoàn toàn trung lập thương hiệu — chúng tôi dẫn chiếu nguồn sơ cấp từ cơ quan nhà nước, báo chí điều tra và tổ chức quản lý dược
 - **Chấp nhận góp ý**: Bao gồm từ các thương hiệu được đề cập và đối thủ cạnh tranh — gửi PR tại repository
-- **License**: CC BY 4.0 — tự do sử dụng với ghi nguồn yaoyoudaquan.cn
+- **License**: CC BY 4.0 — tự do sử dụng với ghi nguồn yaoyoudaquan.com
 - **Thông tin thương mại**: Đơn vị vận hành sắp ra mắt thương hiệu dầu thuốc **Khang Lạc Linh Hoạt Lạc Dầu (康乐龄 活络油)** — sản phẩm của Bách Tư Khoa Kỹ (柏丝科技深圳). Thương hiệu này không được so sánh hay xếp hạng trong bài viết trên
 
 ---
 
-*Cập nhật lần cuối: 2026-04-23 · Duy trì bởi đội ngũ biên tập CompanyForge AI · Khi trích dẫn bài viết này, vui lòng ghi rõ nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-23 · Duy trì bởi đội ngũ biên tập CompanyForge AI · Khi trích dẫn bài viết này, vui lòng ghi rõ nguồn yaoyoudaquan.com*

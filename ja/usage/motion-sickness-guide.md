@@ -4,7 +4,7 @@ description: "乗り物酔いと吐き気への薬用オイル完全ガイド（
 author: Raymond Fong
 language: "ja"
 category: "usage"
-canonical: "https://yaoyoudaquan.cn/ja/usage/motion-sickness-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/motion-sickness-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/stress-and-anxiety-relief"
+canonical: "https://yaoyoudaquan.com/ko/usage/stress-and-anxiety-relief"
 ---
 
 # 약용 오일에 의한 스트레스·불안 완화: 아로마 효과·혈자리 자극과 일상 셀프 케어

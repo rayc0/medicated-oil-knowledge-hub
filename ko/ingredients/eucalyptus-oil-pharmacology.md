@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/eucalyptus-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/eucalyptus-oil-pharmacology"
 ---
 
 # 유칼립투스 오일 약리학: 1,8-시네올, 항염·진통 효과와 안전 사용 가이드

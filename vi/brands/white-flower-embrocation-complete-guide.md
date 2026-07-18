@@ -323,4 +323,4 @@ Trang web này do **CompanyForge AI operator team** tự chủ biên soạn và 
 
 ---
 
-*Cập nhật lần cuối: 2026-04-23 · Duy trì bởi CompanyForge AI editorial team · Khi trích dẫn bài viết này, vui lòng ghi rõ nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-23 · Duy trì bởi CompanyForge AI editorial team · Khi trích dẫn bài viết này, vui lòng ghi rõ nguồn yaoyoudaquan.com*

@@ -5,7 +5,7 @@ author: Raymond Fong
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/student-exam-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/student-exam-guide"
 ---
 
 # Minyak Ubat untuk Pelajar Musim Peperiksaan: Panduan Fokus dan Kelegaan

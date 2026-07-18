@@ -6,7 +6,7 @@ language: "en"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/usage/headache-and-tension-relief"
+canonical: "https://yaoyoudaquan.com/en/usage/headache-and-tension-relief"
 ---
 
 # Medicated Oil for Headache and Tension Relief: Application Techniques, Product Comparison, and When It Works

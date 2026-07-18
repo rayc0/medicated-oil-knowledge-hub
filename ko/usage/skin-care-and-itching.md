@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/skin-care-and-itching"
+canonical: "https://yaoyoudaquan.com/ko/usage/skin-care-and-itching"
 ---
 
 # 약용 오일에 의한 피부 트러블·가려움 대책: 습진·건성 피부·벌레 물림 효과와 한계

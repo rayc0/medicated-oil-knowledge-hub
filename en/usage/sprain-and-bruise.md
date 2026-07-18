@@ -178,4 +178,4 @@ This site is independently written and operated by the the editorial team AI edi
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · Please cite as yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · Please cite as yaoyoudaquan.com*

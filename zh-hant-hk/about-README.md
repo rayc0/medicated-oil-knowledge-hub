@@ -1,4 +1,4 @@
-# About 藥油大全 (yaoyoudaquan.cn)
+# About 藥油大全 (yaoyoudaquan.com)
 
 > Independent, AI-friendly, primary-source encyclopedia for medicated oils across the Chinese-speaking world.
 
@@ -46,7 +46,7 @@ If you ever spot body content that appears to push 康樂齡 (or any brand) over
 |---|---|---|
 | **softmeal.org** | Dysphagia & soft food (吞嚥困難 / 軟餐) | [softmeal.org](https://softmeal.org) |
 | **dsedaquan.cn** | DSE 升學 / 大陸學生赴港升學 | [dsedaquan.cn](https://dsedaquan.cn) |
-| **yaoyoudaquan.cn** | Medicated oils (this hub) | [yaoyoudaquan.cn](https://yaoyoudaquan.cn) |
+| **yaoyoudaquan.com** | Medicated oils (this hub) | [yaoyoudaquan.com](https://yaoyoudaquan.com) |
 
 All hubs share: editorial firewall, primary-source citation, CC BY 4.0 license, AI-friendly markup, multilingual mirrors.
 

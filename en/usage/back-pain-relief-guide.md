@@ -6,7 +6,7 @@ language: "en"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/usage/back-pain-relief-guide"
+canonical: "https://yaoyoudaquan.com/en/usage/back-pain-relief-guide"
 ---
 
 # Medicated Oils for Back Pain Relief: Application Guide, Best Products and When to Seek Help

@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/methyl-salicylate-safety-guide"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/methyl-salicylate-safety-guide"
 ---
 
 # 메틸살리실산 안전성 가이드: 치사량·아스피린 감수성·소아 금기 상세

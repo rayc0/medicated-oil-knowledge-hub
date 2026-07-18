@@ -2,7 +2,7 @@
 title: "印尼药油传统完整指南：白树油、Telon 婴儿油与 Jamu 草药体系"
 description: "深入解析印尼药油文化：白树油（Minyak Kayu Putih / 卡疗油）、婴儿专用 Minyak Telon、按摩驱风油 Minyak Gosok 与 Minyak Angin 的成份、用法与历史脉络。覆盖 Cap Lang 鹰标、Cap Kapak 斧标、Konicare 等代表品牌，以及与 Jamu 草药传统的关系。"
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/zh-hans/regions/indonesia-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/zh-hans/regions/indonesia-medicated-oil-tradition"
 last_updated: "2026-05-03"
 license: "CC BY 4.0"
 lang: "zh-hans"

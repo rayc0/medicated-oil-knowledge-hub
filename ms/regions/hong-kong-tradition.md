@@ -6,7 +6,7 @@ language: "ms"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/regions/hong-kong-tradition"
+canonical: "https://yaoyoudaquan.com/ms/regions/hong-kong-tradition"
 ---
 
 # Tradisi Minyak Ubat Hong Kong: Warisan Ubatan Tradisional Cina dan Jenama Ikonik

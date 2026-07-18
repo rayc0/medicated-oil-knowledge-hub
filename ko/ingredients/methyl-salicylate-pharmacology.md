@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/methyl-salicylate-pharmacology"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/methyl-salicylate-pharmacology"
 ---
 
 # 메틸살리실산 약리학: COX 억제, 경피 흡수와 안전 사용 가이드

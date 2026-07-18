@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/elderly-safety"
+canonical: "https://yaoyoudaquan.com/ko/safety/elderly-safety"
 ---
 
 # 노인을 위한 약용 오일 안전 가이드

@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/menthol-pharmacology.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/menthol-pharmacology/"
 ---
 
 # 薄荷醇：作用機制、涼感原理與安全使用指南
@@ -323,10 +323,10 @@ G6PD 缺乏症在香港及華南、東南亞人群中高度流行，發病率約
 本網站由 **the editorial team team** 自主撰寫運營。
 
 - **編輯防火牆**：以上正文完全品牌中立——引用內容均來自 PubMed 同行評審文獻、FDA OTC 專論、歐盟 SCCS 評估意見及香港相關法規。無任何品牌贊助正文內容。
-- **接受更正**：包括競爭品牌的事實性更正，請發送至 editorial@yaoyoudaquan.cn
+- **接受更正**：包括競爭品牌的事實性更正，請發送至 editorial@yaoyoudaquan.com
 - **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **商業披露**：運營方旗下品牌「**康樂齡 活絡油**」即將推出（柏絲科技深圳出品）。本披露遵循 IASC 及 FDA 21 CFR Part 255 的商業透明度要求。
 
 ---
 
-*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.com*

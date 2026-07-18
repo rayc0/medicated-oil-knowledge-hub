@@ -6,7 +6,7 @@ language: "en"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/usage/headache-relief"
+canonical: "https://yaoyoudaquan.com/en/usage/headache-relief"
 ---
 
 # Medicated Oil for Headache Relief: White Flower Oil, Tiger Balm and the Science Behind Topical Menthol

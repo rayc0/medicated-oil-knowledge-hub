@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/methyl-salicylate-safety.html"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/methyl-salicylate-safety/"
 ---
 
 # Metil Salisilat (Minyak Wintergreen / 冬青油): Manfaat, Ketoksikan, dan Kes Maut yang Mengubah Label — Panduan untuk Pengguna Malaysia
@@ -464,9 +464,9 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator the ed
 
 - **Editorial firewall**: Kandungan utama di atas adalah **neutral jenama** sepenuhnya — kami merujuk sumber primer (NPRA Malaysia, FDA, USP-NF, 中国药典, literatur perubatan peer-reviewed) dan tidak menerima bayaran daripada jenama apa-apa pun untuk artikel ini.
 - **Kami menerima Pull Request**: termasuk pembetulan daripada jenama pesaing atau pakar farmasi.
-- **Lesen**: CC BY 4.0 — anda boleh menyalin, mengedit, dan mengedarkan semula dengan syarat memberi kredit kepada yaoyoudaquan.cn.
+- **Lesen**: CC BY 4.0 — anda boleh menyalin, mengedit, dan mengedarkan semula dengan syarat memberi kredit kepada yaoyoudaquan.com.
 - **Pendedahan komersial**: Jenama operator kami, **「康乐龄 活络油」** (Kang Le Ling Huo Luo You), sedang dalam pembangunan oleh **柏丝科技深圳 (Boss Technology Shenzhen)**. Ia bukan subjek artikel ini dan tidak disebut dalam kandungan editorial di atas.
 
 ---
 
-*Dikemaskini terakhir: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Sila rujuk sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Dikemaskini terakhir: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Sila rujuk sumber yaoyoudaquan.com apabila memetik artikel ini.*

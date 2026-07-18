@@ -6,7 +6,7 @@ language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/shopping/gift-guide"
+canonical: "https://yaoyoudaquan.com/ms/shopping/gift-guide"
 ---
 
 # Panduan Hadiah Minyak Ubat: Pilihan Terbaik untuk Pelbagai Penerima

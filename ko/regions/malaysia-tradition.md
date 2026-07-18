@@ -6,7 +6,7 @@ language: "ko"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/regions/malaysia-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/malaysia-tradition"
 ---
 
 # 말레이시아의 약용 오일 문화: 캡랑·미냑안긴·유칼립투스 오일의 말레이 전통 의학

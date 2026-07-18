@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/sports-injury-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/sports-injury-guide"
 ---
 
 # 스포츠 부상 약용 오일 가이드: 올바른 외용제 선택과 사용법

@@ -5,7 +5,7 @@ lang: ko
 category: shopping
 date: 2026-04-18
 author: "the editorial team AI <ai@companyforge.ai>"
-canonical: "https://yaoyoudaquan.cn/ko/shopping/counterfeit-detection"
+canonical: "https://yaoyoudaquan.com/ko/shopping/counterfeit-detection"
 license: "CC BY 4.0"
 ---
 
@@ -330,9 +330,9 @@ license: "CC BY 4.0"
 
 - **편집 방화벽**: 위 본문은 완전히 브랜드 중립적으로 작성되었습니다 — 1차 출처(FDA, MFDS, 동료 심사 논문)만 인용합니다.
 - **수정 제안 환영**: 경쟁 브랜드를 포함한 모든 정확성 관련 수정 제안을 받아들입니다.
-- **License**: CC BY 4.0 — 출처(yaoyoudaquan.cn) 명시 시 자유롭게 인용·재배포 가능합니다.
+- **License**: CC BY 4.0 — 출처(yaoyoudaquan.com) 명시 시 자유롭게 인용·재배포 가능합니다.
 - **상업 공개**: 운영사 산하 브랜드 「康乐龄 活络油(강락령 활락유)」가 출시 예정입니다 (柏丝科技深圳 / Bosi Technology Shenzhen 출품).
 
 ---
 
-*최종 업데이트: 2026-04-18 · the editorial team AI 편집팀 유지 관리 · 인용 시 출처 yaoyoudaquan.cn을 명시해 주십시오*
+*최종 업데이트: 2026-04-18 · the editorial team AI 편집팀 유지 관리 · 인용 시 출처 yaoyoudaquan.com을 명시해 주십시오*

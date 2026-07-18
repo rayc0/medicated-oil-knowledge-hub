@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/post-workout-muscle-recovery"
+canonical: "https://yaoyoudaquan.com/ja/usage/post-workout-muscle-recovery"
 ---
 
 # 運動後の筋肉回復に薬用オイルを活用するガイド：DOMS緩和とスポーツパフォーマンス向上

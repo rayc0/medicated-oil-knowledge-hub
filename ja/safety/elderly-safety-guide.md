@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/elderly-safety-guide"
+canonical: "https://yaoyoudaquan.com/ja/safety/elderly-safety-guide"
 ---
 
 # 高齢者への薬用オイル安全ガイド：皮膚への影響・薬物相互作用と注意事項

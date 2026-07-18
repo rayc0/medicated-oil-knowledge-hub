@@ -5,7 +5,7 @@ author: "the editorial team AI editorial team"
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/insect-bite-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/insect-bite-guide"
 ---
 
 # 蚊叮蟲咬急救：藥油、萬金油與天然消炎止癢全攻略（香港適用）
@@ -315,4 +315,4 @@ A：使用後需確保藥油完全吸收（5–10 分鐘）才讓貓咪接近。
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.com*

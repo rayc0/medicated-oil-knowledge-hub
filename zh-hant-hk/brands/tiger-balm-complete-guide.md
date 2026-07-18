@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/brands/tiger-balm-complete-guide/"
 ---
 
 # 虎標萬金油完整指南：成分、歷史、辨別真假、安全使用（2026年版）
@@ -323,4 +323,4 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/tiger-balm-complete-guide.
 
 ---
 
-*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請註明來源 yaoyoudaquan.com*

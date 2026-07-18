@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/en/regions/hong-kong-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/hong-kong-tradition"
 ---
 
 # Medicated Oil Traditions in Hong Kong: White Flower Oil, Wood Lock Oil and the City's Pharmacy Culture

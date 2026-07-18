@@ -252,4 +252,4 @@ Bài viết này do đội biên tập **CompanyForge AI operator team** tự ch
 
 ---
 
-*Cập nhật lần cuối: 2026-04-21 · Duy trì bởi đội biên tập CompanyForge AI · Trích dẫn bài viết này vui lòng ghi nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-21 · Duy trì bởi đội biên tập CompanyForge AI · Trích dẫn bài viết này vui lòng ghi nguồn yaoyoudaquan.com*

@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/kwan-loong-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/kwan-loong-complete-guide"
 ---
 
 # 驅風油（Kwan Loong Oil）完全ガイド：成分分析・効能・Tiger Balmとの比較

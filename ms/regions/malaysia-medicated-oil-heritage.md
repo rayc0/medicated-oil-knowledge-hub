@@ -5,7 +5,7 @@ author: Editorial Team
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/regions/malaysia-medicated-oil-heritage"
+canonical: "https://yaoyoudaquan.com/ms/regions/malaysia-medicated-oil-heritage"
 ---
 
 # Warisan Minyak Ubat di Malaysia: Sejarah, Budaya, dan Peranan dalam Masyarakat

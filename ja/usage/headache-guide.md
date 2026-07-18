@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ja/usage/headache-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/headache-guide"
 ---
 
 # 頭痛・肩こりに効く薬用オイル完全ガイド：タイガーバーム・白花油・関亮油の比較と使い方

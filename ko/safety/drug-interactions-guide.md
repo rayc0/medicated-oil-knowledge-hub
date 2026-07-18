@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/drug-interactions-guide"
+canonical: "https://yaoyoudaquan.com/ko/safety/drug-interactions-guide"
 ---
 
 # 약초 오일과 처방약 상호작용: 와파린, 혈압약, 당뇨약과의 안전 주의사항

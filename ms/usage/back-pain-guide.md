@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/back-pain-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/back-pain-guide"
 ---
 
 # Minyak Ubat untuk Sakit Belakang: Panduan Penggunaan, Perbandingan Produk dan Amaran Bahaya

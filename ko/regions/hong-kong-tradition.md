@@ -6,7 +6,7 @@ language: "ko"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/regions/hong-kong-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/hong-kong-tradition"
 ---
 
 # 홍콩의 약유(藥油) 문화: 백화유·구풍유·만금유의 사용법과 약국 문화

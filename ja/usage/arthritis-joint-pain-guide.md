@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/arthritis-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/arthritis-joint-pain-guide"
 ---
 
 # 関節炎・関節痛への薬用オイル活用ガイド：変形性関節症・リウマチへの外用療法

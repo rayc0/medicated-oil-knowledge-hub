@@ -5,7 +5,7 @@ lang: zh-hans
 category: regions
 date: 2026-04-18
 author: Dr. James Wu
-canonical: "https://yaoyoudaquan.cn/zh-hans/regions/malaysia-tradition"
+canonical: "https://yaoyoudaquan.com/zh-hans/regions/malaysia-tradition"
 ---
 
 # 马来西亚药油文化：华人社区传统、马来草药油与现代市场

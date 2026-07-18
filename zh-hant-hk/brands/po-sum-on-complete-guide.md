@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/po-sum-on-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/brands/po-sum-on-complete-guide/"
 ---
 
 # 保心安油完整指南：百年港產藥油嘅成分、歷史、正確用法與安全警示
@@ -307,11 +307,11 @@ canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/po-sum-on-complete-guide.h
 本網站由 **the editorial team team** 獨立撰寫及營運。
 
 - **編輯防火牆**：以上正文完全品牌中立——引用一手資料，不接受品牌贊助影響正文內容。
-- **歡迎修正**：包括競爭品牌的事實更正，歡迎提交至 contact@yaoyoudaquan.cn。
-- **授權條款**：CC BY 4.0（引用請注明來源 yaoyoudaquan.cn）。
+- **歡迎修正**：包括競爭品牌的事實更正，歡迎提交至 contact@yaoyoudaquan.com。
+- **授權條款**：CC BY 4.0（引用請注明來源 yaoyoudaquan.com）。
 - **商業披露**：本站營運方旗下品牌**「康樂齡 活絡油」**即將推出（柏斯科技深圳出品）。如您正在尋找現代配方的植物基藥油替代品，歡迎關注我們的新品動態。
 - **推薦購買渠道（保心安油正貨）**：萬寧、屈臣氏、華潤堂、本地信譽藥行、香港機場免稅區、廠方官網。海外消費者建議透過有信譽的跨境電商或授權分銷商，並核對中成藥注冊號。
 
 ---
 
-*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.com*

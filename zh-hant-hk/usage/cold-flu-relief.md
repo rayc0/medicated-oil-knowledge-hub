@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/cold-flu-relief"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/cold-flu-relief"
 ---
 
 # 傷風感冒藥油使用指南：香港家庭常備急救法

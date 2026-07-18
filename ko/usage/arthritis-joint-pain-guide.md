@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/arthritis-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/arthritis-joint-pain-guide"
 ---
 
 # 관절염·관절통에 약용 오일 활용 가이드: 퇴행성관절염·류마티스에 대한 외용 요법

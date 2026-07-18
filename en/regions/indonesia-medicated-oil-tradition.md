@@ -2,7 +2,7 @@
 title: "Indonesia's Medicated Oil Tradition: Minyak Kayu Putih, Minyak Telon, and the Jamu Heritage"
 description: "Complete guide to Indonesia's medicated oil culture — minyak kayu putih (cajuput), minyak telon for infants, minyak gosok for kerokan coin-massage, brands like Cap Lang and Konicare, plus safety considerations for travellers and diaspora buyers."
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/en/regions/indonesia-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/indonesia-medicated-oil-tradition"
 last_updated: "2026-05-03"
 license: "CC BY 4.0"
 lang: "en"

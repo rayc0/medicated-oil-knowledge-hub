@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/lavender-oil-in-medicated-formulations"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/lavender-oil-in-medicated-formulations"
 ---
 
 # 薬用オイルにおけるラベンダーオイルの薬理作用と配合効果
@@ -102,4 +102,4 @@ canonical: "https://yaoyoudaquan.cn/ja/ingredients/lavender-oil-in-medicated-for
 
 *本記事は情報提供を目的としており、医療診断・治療の代替となるものではありません。妊娠中・疾患をお持ちの方は使用前に医師にご相談ください。*
 
-*参考: [薬用オイル成分ガイド（日本語）](https://yaoyoudaquan.cn/ja/ingredients/) | [Tiger Balm成分解説](https://yaoyoudaquan.cn/ja/brands/tiger-balm/)*
+*参考: [薬用オイル成分ガイド（日本語）](https://yaoyoudaquan.com/ja/ingredients/) | [Tiger Balm成分解説](https://yaoyoudaquan.com/ja/brands/tiger-balm/)*

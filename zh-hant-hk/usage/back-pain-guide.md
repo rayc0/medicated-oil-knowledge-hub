@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/back-pain-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/back-pain-guide"
 ---
 
 # 藥油紓緩腰痛完全指南：塗法、產品比較同危險警號

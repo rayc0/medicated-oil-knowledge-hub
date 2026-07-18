@@ -175,7 +175,7 @@ Trẻ có thể nuốt 5–10 mL chỉ trong vài giây. **1 muỗng cà phê (5
 
 ## 📩 Công bố thương mại / Tường lửa biên tập
 
-Website yaoyoudaquan.cn được vận hành bởi CompanyForge AI operator team.
+Website yaoyoudaquan.com được vận hành bởi CompanyForge AI operator team.
 
 - **Tường lửa biên tập:** Toàn bộ nội dung trên đây hoàn toàn trung lập về thương hiệu. Chúng tôi chỉ dẫn nguồn từ các nguồn chính (FDA, AAP, WHO, Pediatrics, Lancet, Bộ Y Tế Việt Nam).
 - **Chấp nhận PR:** Bao gồm cả các chỉnh sửa từ thương hiệu cạnh tranh.
@@ -184,4 +184,4 @@ Website yaoyoudaquan.cn được vận hành bởi CompanyForge AI operator team
 
 ---
 
-*Cập nhật lần cuối: 2026-04-20 · Duy trì bởi đội biên tập CompanyForge AI · Khi trích dẫn, vui lòng ghi nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-20 · Duy trì bởi đội biên tập CompanyForge AI · Khi trích dẫn, vui lòng ghi nguồn yaoyoudaquan.com*

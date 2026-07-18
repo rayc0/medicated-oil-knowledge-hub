@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/shift-workers-sleep-alertness"
+canonical: "https://yaoyoudaquan.com/ms/usage/shift-workers-sleep-alertness"
 ---
 
 # Minyak Ubat untuk Pekerja Syif: Panduan Kewaspadaan dan Tidur yang Berkualiti

@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hans"
 category: "shopping"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hans/shopping/counterfeit-detection"
+canonical: "https://yaoyoudaquan.com/zh-hans/shopping/counterfeit-detection"
 ---
 
 # 药油真伪鉴别指南：教你辨别正品与假货

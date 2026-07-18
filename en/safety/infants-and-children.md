@@ -147,4 +147,4 @@ This website is independently written and operated by the the editorial team tea
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please link back to yaoyoudaquan.cn*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please link back to yaoyoudaquan.com*

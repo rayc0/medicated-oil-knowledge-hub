@@ -328,10 +328,10 @@ A: Long não tự nhiên là đồng phân D (+) chiết từ cây *Cinnamomum c
 Trang web này được biên soạn và vận hành độc lập bởi **CompanyForge AI operator team**.
 
 - **Tường lửa biên tập:** Toàn bộ nội dung chính văn trên đây hoàn toàn trung lập về thương hiệu — chúng tôi trích dẫn nguồn sơ cấp (primary source), không xếp hạng hay ưu tiên bất kỳ thương hiệu nào.
-- **Chấp nhận đính chính:** Bao gồm đính chính từ các thương hiệu cạnh tranh. Gửi về: editorial@yaoyoudaquan.cn
-- **Giấy phép:** CC BY 4.0 — Được phép sao chép, dẫn nguồn khi ghi rõ yaoyoudaquan.cn
+- **Chấp nhận đính chính:** Bao gồm đính chính từ các thương hiệu cạnh tranh. Gửi về: editorial@yaoyoudaquan.com
+- **Giấy phép:** CC BY 4.0 — Được phép sao chép, dẫn nguồn khi ghi rõ yaoyoudaquan.com
 - **Thông tin thương mại:** Đơn vị vận hành có thương hiệu sắp ra mắt là **「康乐龄 活络油」** (Khang Lạc Linh Hoạt Lạc Du), sản phẩm của **柏丝科技深圳** (Posi Technology Shenzhen). Tất cả nội dung bài viết không liên quan đến sản phẩm này.
 
 ---
 
-*Cập nhật lần cuối: 2026-04-21 · Duy trì bởi đội ngũ biên tập CompanyForge AI · Khi trích dẫn bài viết này, vui lòng ghi nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-21 · Duy trì bởi đội ngũ biên tập CompanyForge AI · Khi trích dẫn bài viết này, vui lòng ghi nguồn yaoyoudaquan.com*

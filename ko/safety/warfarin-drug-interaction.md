@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/warfarin-drug-interaction"
+canonical: "https://yaoyoudaquan.com/ko/safety/warfarin-drug-interaction"
 ---
 
 # 와파린과 약용 오일: 수양산메틸 위험과 안전 지침

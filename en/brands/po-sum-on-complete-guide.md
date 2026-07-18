@@ -181,9 +181,9 @@ This site is independently written and operated by the the editorial team team.
 
 - **Editorial firewall:** the body of this article is fully brand-neutral. We cite primary sources (US FDA DailyMed, manufacturer filings, HK CMCHK, peer-reviewed literature) and we do not accept payment for ingredient or brand coverage.
 - **Corrections welcome:** including from competing brands. Open a pull request or email the editorial team.
-- **License:** CC BY 4.0. You may reuse this content with attribution to yaoyoudaquan.cn.
+- **License:** CC BY 4.0. You may reuse this content with attribution to yaoyoudaquan.com.
 - **Commercial disclosure:** the operator of this site is preparing to launch its own branded product, *Kang Le Ling Huo Luo Oil* (康乐龄 活络油), manufactured by Bosi Technology Shenzhen. That product is mentioned here solely for disclosure; it is not compared to or ranked against Po Sum On in the body above, and this article would read identically if we had no commercial interest at all.
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.cn.*
+*Last updated: 2026-04-14 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.com.*

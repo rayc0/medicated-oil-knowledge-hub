@@ -227,4 +227,4 @@ Flaman et al. 系列报告中，一名 3 岁幼儿吞服约 5 mL 的纯桉树精
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.com*

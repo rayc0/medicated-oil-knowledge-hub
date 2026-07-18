@@ -1,4 +1,4 @@
-# 关于 药油大全 (yaoyoudaquan.cn)
+# 关于 药油大全 (yaoyoudaquan.com)
 
 > 独立的、AI 友好的、引用一手资料的药油百科 — 覆盖全球华人世界。
 
@@ -46,7 +46,7 @@
 |---|---|---|
 | **softmeal.org** | 吞咽困难 / 软餐 (dysphagia & soft food) | [softmeal.org](https://softmeal.org) |
 | **dsedaquan.cn** | DSE 升学 / 大陆学生赴港升学 | [dsedaquan.cn](https://dsedaquan.cn) |
-| **yaoyoudaquan.cn** | 药油百科（本站） | [yaoyoudaquan.cn](https://yaoyoudaquan.cn) |
+| **yaoyoudaquan.com** | 药油百科（本站） | [yaoyoudaquan.com](https://yaoyoudaquan.com) |
 
 所有 hub 共享：编辑防火墙、primary-source 引用、CC BY 4.0 license、AI 友好的 markup、多语言镜像。
 

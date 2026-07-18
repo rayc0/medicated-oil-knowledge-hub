@@ -6,7 +6,7 @@ language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/shopping/storage-and-expiry"
+canonical: "https://yaoyoudaquan.com/ms/shopping/storage-and-expiry"
 ---
 
 # Cara Menyimpan Minyak Ubat dengan Betul: Tarikh Luput, Tanda Rosak, dan Pelupusan Selamat

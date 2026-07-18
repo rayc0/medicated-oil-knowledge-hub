@@ -5,7 +5,7 @@ author: Editorial Team
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/drug-interactions"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/drug-interactions"
 ---
 
 # 藥油與處方藥物交互作用：安全使用指南

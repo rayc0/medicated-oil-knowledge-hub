@@ -6,7 +6,7 @@ category: ingredients
 date: 2026-04-19
 author: "the editorial team AI editorial team"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/methyl-salicylate-safety"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/methyl-salicylate-safety"
 ---
 
 # 메틸살리실산(冬青油) 완전 가이드: 약리 기전, 치사 독성, 아리엘 뉴먼 사건, 와파린 상호작용
@@ -299,4 +299,4 @@ A. 한국 MFDS 기준 만 2세 미만은 모든 MS 함유 제품 금기입니다
 
 ---
 
-*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 운영 · 인용 시 출처 yaoyoudaquan.cn 명기 바랍니다*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 운영 · 인용 시 출처 yaoyoudaquan.com 명기 바랍니다*

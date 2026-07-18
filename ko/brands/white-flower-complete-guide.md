@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/white-flower-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/white-flower-complete-guide"
 ---
 
 # 화이트 플라워 오일(白花油) 완전 가이드: 효능, 성분 분석과 Tiger Balm 비교
@@ -243,4 +243,4 @@ White Flower Oil은 1927년 창업 이래 거의 변하지 않은 5가지 정유
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.cn으로 명기해 주십시오*
+*Last updated: 2026-04-18 · Maintained by Editorial Team editorial team · 인용 시 출처를 yaoyoudaquan.com으로 명기해 주십시오*

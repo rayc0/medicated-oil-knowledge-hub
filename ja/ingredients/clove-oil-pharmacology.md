@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/clove-oil-pharmacology"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/clove-oil-pharmacology"
 ---
 
 # 丁香オイルの薬理学：オイゲノール、抗炎症・鎮痛効果と外用薬

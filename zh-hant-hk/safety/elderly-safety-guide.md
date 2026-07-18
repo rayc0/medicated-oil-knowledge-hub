@@ -5,7 +5,7 @@ author: Raymond Fong
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/elderly-safety-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/elderly-safety-guide"
 ---
 
 # 長者藥油安全使用指南：年齡相關風險同注意事項

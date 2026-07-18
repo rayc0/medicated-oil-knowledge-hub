@@ -6,7 +6,7 @@ language: "ms"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/safety/medicated-oil-allergy-skin-sensitivity"
+canonical: "https://yaoyoudaquan.com/ms/safety/medicated-oil-allergy-skin-sensitivity"
 ---
 
 # Alahan dan Sensitiviti Kulit terhadap Ubat Gosok: Panduan Ujian Tampalan dan Pencegahan

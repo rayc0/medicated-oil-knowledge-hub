@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/ingredients/borneol-pharmacology"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/ingredients/borneol-pharmacology"
 ---
 
 # 冰片（龍腦）藥理學：抗炎鎮痛、經皮吸收促進與外用藥應用

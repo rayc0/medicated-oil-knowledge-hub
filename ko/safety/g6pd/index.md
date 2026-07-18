@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/g6pd"
+canonical: "https://yaoyoudaquan.com/ko/safety/g6pd"
 ---
 
 # G6PD 결핍증과 약용 오일 안전 가이드

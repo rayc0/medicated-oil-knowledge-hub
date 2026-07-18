@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "zh-hant-hk"
 category: "shopping"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/shopping/online-purchase-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/shopping/online-purchase-guide"
 ---
 
 # 香港網購藥油完全指南：正貨辨別、平台比較與跨境購物注意事項

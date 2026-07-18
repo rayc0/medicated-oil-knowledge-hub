@@ -53,4 +53,4 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://yaoyoudaquan.cn/sitemap.xml
+Sitemap: https://yaoyoudaquan.com/sitemap.xml

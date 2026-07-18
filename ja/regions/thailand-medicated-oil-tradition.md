@@ -2,7 +2,7 @@
 title: "タイの薬用オイル伝統完全ガイド — ヤーモン(Yaa-Mong)・ヤードム(Yaa-Dom)・ナムマンムアイ(Namman Muay)・シアンピュア・カウンターペイン + タイ FDA B.E. 2562 (2019)"
 description: "タイ薬用オイル文化の決定版ガイド（日本の読者向け）— Siang Pure、Poy-Sian Mark II 鼻通、Namman Muay ムエタイ用リニメント、Counterpain、タイ FDA ハーブ製品法 B.E. 2562 (2019)、および樟脳・メントール・メチルサリチル酸の安全警告を PMDA / MHLW / 中毒情報センター連絡先と合わせて解説。"
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/ja/regions/thailand-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/thailand-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
 lang: "ja"
@@ -342,4 +342,4 @@ A. Namman Muay（31% MS）のような高濃度品を大量輸入すると薬監
 
 ---
 
-*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 本稿を引用する際は yaoyoudaquan.cn を出典として明記されたい。*
+*Last updated: 2026-04-20 · Maintained by CompanyForge AI editorial team · 本稿を引用する際は yaoyoudaquan.com を出典として明記されたい。*

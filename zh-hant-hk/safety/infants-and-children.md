@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/infants-and-children.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/infants-and-children/"
 ---
 
 # 嬰幼兒可以用藥油嗎？2歲以下完全禁忌清單
@@ -308,4 +308,4 @@ Flaman等人的系列報告共記錄41例幼兒桉樹油中毒事件，平均涉
 
 ---
 
-*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-17 · 由 the editorial team AI 編輯團隊維護 · 引用本文請注明來源 yaoyoudaquan.com*

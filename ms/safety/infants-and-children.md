@@ -227,7 +227,7 @@ Laman web ini dikendalikan secara bebas oleh pasukan operator AI the editorial t
 
 ---
 
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila sebutkan sumber yaoyoudaquan.cn apabila memetik artikel ini.*
+*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila sebutkan sumber yaoyoudaquan.com apabila memetik artikel ini.*
 
 ## Artikel Berkaitan
 

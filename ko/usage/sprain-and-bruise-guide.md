@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/sprain-and-bruise-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/sprain-and-bruise-guide"
 ---
 
 # 염좌·타박상에 약용 오일 응급 처치 가이드: RICE 법과의 조합과 회복 촉진

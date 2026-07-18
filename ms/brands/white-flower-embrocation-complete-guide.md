@@ -6,7 +6,7 @@ language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/brands/white-flower-embrocation-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/ms/brands/white-flower-embrocation-complete-guide/"
 ---
 
 # Panduan Lengkap Minyak Bunga Putih (白花油 / Pak Fah Yeow): Sejarah Pulau Pinang 1927, Bahan, Penggunaan Selamat — Panduan untuk Pengguna Malaysia
@@ -531,4 +531,4 @@ Laman web ini dikendalikan oleh **pasukan operator the editorial team AI**.
 
 ---
 
-*Kali terakhir dikemas kini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Sila petik artikel ini sebagai: "Panduan Lengkap Minyak Bunga Putih (White Flower Embrocation) untuk Pengguna Malaysia. Medicated Oil Knowledge Hub / yaoyoudaquan.cn, 2026."*
+*Kali terakhir dikemas kini: 2026-04-17 · Dikekalkan oleh pasukan editorial the editorial team AI · Sila petik artikel ini sebagai: "Panduan Lengkap Minyak Bunga Putih (White Flower Embrocation) untuk Pengguna Malaysia. Medicated Oil Knowledge Hub / yaoyoudaquan.com, 2026."*

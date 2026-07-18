@@ -2,7 +2,7 @@
 title: "Tradisi Minyak Angin Thailand — Yaa-Mong, Yaa-Dom, Namman Muay, Siang Pure & Counterpain: Panduan untuk Pengguna Malaysia"
 description: "Panduan lengkap budaya minyak angin Thailand untuk pembaca Malaysia — Siang Pure, Poy-Sian Mark II, Namman Muay, Counterpain, rangka kerja FDA Thailand di bawah Akta Produk Herba B.E. 2562 (2019), dan amaran keselamatan untuk camphor, menthol, dan metil salisilat. Termasuk panduan pemeriksaan halal, kastam Malaysia, dan harga pasaran."
 author: CompanyForge AI Editorial Team
-canonical: "https://yaoyoudaquan.cn/ms/regions/thailand-medicated-oil-tradition"
+canonical: "https://yaoyoudaquan.com/ms/regions/thailand-medicated-oil-tradition"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
 lang: "ms"
@@ -360,4 +360,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh **pasukan operator Comp
 
 ---
 
-*Dikemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik yaoyoudaquan.cn apabila merujuk artikel ini.*
+*Dikemaskini terakhir: 2026-04-20 · Diselenggara oleh pasukan editorial CompanyForge AI · Sila petik yaoyoudaquan.com apabila merujuk artikel ini.*

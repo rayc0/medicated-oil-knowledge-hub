@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-05-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/three-legs-brand-complete-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/brands/three-legs-brand-complete-guide"
 ---
 
 # 三腳標完全指南：由新加坡清涼水到三腳標藥膏的成份、歷史、藥理與安全用法

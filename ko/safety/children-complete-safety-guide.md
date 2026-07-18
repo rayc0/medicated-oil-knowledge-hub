@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/children-complete-safety-guide"
+canonical: "https://yaoyoudaquan.com/ko/safety/children-complete-safety-guide"
 ---
 
 # 어린이에게 약용 오일 사용 완전 안전 가이드

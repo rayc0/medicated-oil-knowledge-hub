@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/hong-kong-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/hong-kong-tradition"
 ---
 
 # 香港の薬油文化：白花油・驅風油・萬金油の使い方と薬局文化

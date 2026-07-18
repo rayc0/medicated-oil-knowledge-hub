@@ -1,0 +1,9 @@
+{% assign page_lang = page.lang | default: page.language | default: "zh-Hans" %}
+<nav class="lang-bar" aria-label="Language switcher">
+  <a href="/" class="lang-bar__brand">藥油大全</a>
+  <div class="lang-bar__links">
+    <a href="/zh-hans/"{% if page_lang == "zh-Hans" %} class="active" aria-current="page"{% endif %}>简体中文</a>
+    <a href="/zh-hant-hk/"{% if page_lang == "zh-Hant-HK" %} class="active" aria-current="page"{% endif %}>繁體中文</a>
+    <a href="/en/"{% if page_lang == "en" %} class="active" aria-current="page"{% endif %}>English</a>
+  </div>
+</nav>

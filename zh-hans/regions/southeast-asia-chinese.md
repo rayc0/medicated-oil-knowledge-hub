@@ -247,4 +247,4 @@ BPOM 要求：
 
 ---
 
-*最后更新：2026-04-12 | 字数：约 3,200 字 | License: CC BY 4.0 | Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*最后更新：2026-04-12 | 字数：约 3,200 字 | License: CC BY 4.0 | Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.com*

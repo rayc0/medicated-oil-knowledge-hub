@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/menthol-pharmacology"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/menthol-pharmacology"
 ---
 
 # メントールの薬理学：作用機序、鎮痛効果と湿布・外用薬における使用

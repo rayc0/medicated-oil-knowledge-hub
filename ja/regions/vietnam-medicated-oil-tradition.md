@@ -202,4 +202,4 @@ license: CC BY 4.0
 
 ---
 
-*最終更新：2026-04-19 · CompanyForge AI 編集チーム運営 · 本稿を引用される際は yaoyoudaquan.cn を出典としてご記載ください。*
+*最終更新：2026-04-19 · CompanyForge AI 編集チーム運営 · 本稿を引用される際は yaoyoudaquan.com を出典としてご記載ください。*

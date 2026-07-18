@@ -4,7 +4,7 @@ description: "멀미 및 메스꺼움에 약용 오일 완전 가이드（한국
 author: Dr. James Wu
 language: "ko"
 category: "usage"
-canonical: "https://yaoyoudaquan.cn/ko/usage/motion-sickness-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/motion-sickness-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

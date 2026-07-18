@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/sprain-and-bruise.html"
+canonical: "https://yaoyoudaquan.com/ms/usage/sprain-and-bruise/"
 ---
 
 # Minyak Angin untuk Terseliuh, Terkehel, dan Lebam: Apa yang Berkesan, Apa yang Tidak, Bila Perlu ke Doktor — Panduan untuk Pengguna Malaysia
@@ -292,4 +292,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial the e
 
 ---
 
-*Last updated: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik sebagai yaoyoudaquan.cn*
+*Last updated: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik sebagai yaoyoudaquan.com*

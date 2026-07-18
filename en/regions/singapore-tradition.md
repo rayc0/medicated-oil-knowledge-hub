@@ -6,7 +6,7 @@ language: "en"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/regions/singapore-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/singapore-tradition"
 ---
 
 # Singapore's Medicated Oil Tradition: Tiger Balm Heritage, Peranakan Remedies and the Modern Market

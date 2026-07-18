@@ -5,7 +5,7 @@ author: Raymond Fong
 language: "ms"
 category: "shopping"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/shopping/where-to-buy-guide"
+canonical: "https://yaoyoudaquan.com/ms/shopping/where-to-buy-guide"
 ---
 
 # Di Mana Beli Minyak Ubat Asli di Malaysia: Panduan Lengkap Saluran Pembelian

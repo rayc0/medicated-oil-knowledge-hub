@@ -5,7 +5,7 @@ author: Peter Kwok
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ja/usage/sports-injury-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/sports-injury-guide"
 license: "CC BY 4.0"
 ---
 

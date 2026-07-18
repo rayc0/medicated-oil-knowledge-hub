@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/shift-workers-sleep-alertness"
+canonical: "https://yaoyoudaquan.com/ko/usage/shift-workers-sleep-alertness"
 ---
 
 # 야간 근무·교대 근무자를 위한 약용 오일 활용 가이드: 수면 개선과 각성 유지

@@ -6,7 +6,7 @@ language: "en"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/en/usage/sports-and-muscle-recovery"
+canonical: "https://yaoyoudaquan.com/en/usage/sports-and-muscle-recovery"
 ---
 
 # Medicated Oil for Sports and Muscle Recovery: Pre-Workout, Post-Workout, and Injury First Aid

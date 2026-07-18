@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/office-worker-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/office-worker-guide"
 ---
 
 # デスクワーカーのための薬用オイル活用ガイド：肩こり・首の張り・頭痛の対処法

@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/elderly-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/elderly-joint-pain-guide"
 ---
 
 # 노인 관절통 약용 오일 가이드: 무릎·어깨·손가락 안전 사용법

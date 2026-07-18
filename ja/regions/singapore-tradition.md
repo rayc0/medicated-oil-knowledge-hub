@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/singapore-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/singapore-tradition"
 ---
 
 # シンガポールの薬油文化：Tiger Balmの本拠地と多民族薬油文化

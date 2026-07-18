@@ -299,9 +299,9 @@ Do not use expired product. Methyl salicylate undergoes ester hydrolysis in warm
 This website is independently written and operated by the the editorial team team.
 - **Editorial firewall:** The body content above is entirely brand-neutral — we cite primary sources only, accept corrections from any party including competing brands.
 - **Corrections welcome:** Submit via GitHub Issues on our repository.
-- **License:** CC BY 4.0 — you may reuse with attribution to yaoyoudaquan.cn.
+- **License:** CC BY 4.0 — you may reuse with attribution to yaoyoudaquan.com.
 - **Commercial disclosure:** The operator's affiliated brand **Kang Le Ling (康乐龄) 活络油** is forthcoming (a product of Boxi Technology Shenzhen / 柏丝科技深圳). This disclosure does not affect editorial content.
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · When citing this article please credit yaoyoudaquan.com*

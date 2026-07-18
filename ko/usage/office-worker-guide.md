@@ -6,7 +6,7 @@ language: "ko"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/usage/office-worker-guide"
+canonical: "https://yaoyoudaquan.com/ko/usage/office-worker-guide"
 ---
 
 # 직장인을 위한 약용 오일 가이드: 목·어깨 통증, 눈 피로, 두통 완화법

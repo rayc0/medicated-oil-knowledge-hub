@@ -6,7 +6,7 @@ language: "ms"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/safety/children-complete-safety-guide"
+canonical: "https://yaoyoudaquan.com/ms/safety/children-complete-safety-guide"
 ---
 
 # Panduan Keselamatan Lengkap Ubat Gosok untuk Kanak-Kanak: Had Umur dan Bahan Berbahaya

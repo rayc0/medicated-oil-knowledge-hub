@@ -187,4 +187,4 @@ This encyclopaedia is independently written and operated by the the editorial te
 
 ---
 
-*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.cn.*
+*Last updated: 2026-04-14 · Maintained by the the editorial team AI editorial team · When citing this article, please credit yaoyoudaquan.com.*

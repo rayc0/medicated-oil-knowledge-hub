@@ -6,7 +6,7 @@ language: "ms"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/safety/pregnancy-guide"
+canonical: "https://yaoyoudaquan.com/ms/safety/pregnancy-guide"
 ---
 
 # Minyak Ubat Semasa Kehamilan: Panduan Keselamatan, Bahan Berbahaya, dan Pilihan Selamat

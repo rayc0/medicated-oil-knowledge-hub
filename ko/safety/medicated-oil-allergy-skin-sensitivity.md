@@ -6,7 +6,7 @@ language: "ko"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/safety/medicated-oil-allergy-skin-sensitivity"
+canonical: "https://yaoyoudaquan.com/ko/safety/medicated-oil-allergy-skin-sensitivity"
 ---
 
 # 약용 오일 알레르기·피부 과민증 대책 가이드

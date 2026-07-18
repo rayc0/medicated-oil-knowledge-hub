@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/wong-to-yick-complete-guide"
+canonical: "https://yaoyoudaquan.com/ko/brands/wong-to-yick-complete-guide"
 ---
 
 # 황도익(黃道益) 활락유 완전 가이드: 성분·근육통·관절통 효능·Tiger Balm과 비교

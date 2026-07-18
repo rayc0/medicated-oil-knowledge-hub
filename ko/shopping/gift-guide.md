@@ -6,7 +6,7 @@ language: "ko"
 category: "shopping"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/shopping/gift-guide"
+canonical: "https://yaoyoudaquan.com/ko/shopping/gift-guide"
 ---
 
 # 약용 오일 선물 가이드: 아시아 기념품으로 최적 약용 오일 선택법

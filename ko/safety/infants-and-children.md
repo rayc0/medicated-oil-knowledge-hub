@@ -5,7 +5,7 @@ author: "the editorial team AI editorial team"
 language: "ko"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ko/safety/infants-and-children"
+canonical: "https://yaoyoudaquan.com/ko/safety/infants-and-children"
 ---
 
 # 영아·유아에게 약용 오일 사용 가능한가요? 2세 미만 금지 성분 완전 목록
@@ -254,4 +254,4 @@ canonical: "https://yaoyoudaquan.cn/ko/safety/infants-and-children"
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 인용 시 출처 yaoyoudaquan.cn 명시 필요*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 인용 시 출처 yaoyoudaquan.com 명시 필요*

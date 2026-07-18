@@ -5,7 +5,7 @@ author: Dr. James Wu
 language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/muscle-recovery-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/muscle-recovery-guide"
 ---
 
 # 運動後肌肉恢復藥油指南：減輕DOMS同加速恢復

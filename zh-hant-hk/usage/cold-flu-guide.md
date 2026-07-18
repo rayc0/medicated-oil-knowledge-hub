@@ -4,7 +4,7 @@ description: "感冒流感症狀藥用油應用完全指南（香港繁體中文
 author: Editorial Team
 language: "zh-hant-hk"
 category: "usage"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/cold-flu-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/cold-flu-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 tags: ["感冒", "流感", "鼻塞", "頭痛", "Tiger Balm", "驅風油", "白花油", "藥用油", "香港"]

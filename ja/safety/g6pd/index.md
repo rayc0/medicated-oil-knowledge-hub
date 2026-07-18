@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/g6pd"
+canonical: "https://yaoyoudaquan.com/ja/safety/g6pd"
 ---
 
 # G6PD欠損症と薬用オイル：安全な使い方ガイド

@@ -4,7 +4,7 @@ description: "華法林（薄血藥）使用者與藥用油完全安全指南（
 author: Peter Kwok
 language: "zh-hant-hk"
 category: "safety"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/warfarin-drug-interaction"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/warfarin-drug-interaction"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

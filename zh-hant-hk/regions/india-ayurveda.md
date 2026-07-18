@@ -5,7 +5,7 @@ lang: zh-hant-hk
 category: regions
 date: 2026-04-18
 author: Dr. Amy Tsui
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/regions/india-ayurveda"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/regions/india-ayurveda"
 ---
 
 # 印度阿育吠陀藥油傳統：與中式藥油的比較及現代應用

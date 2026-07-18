@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/menstrual-cramp-relief"
+canonical: "https://yaoyoudaquan.com/ja/usage/menstrual-cramp-relief"
 ---
 
 # 生理痛への薬用オイル活用ガイド：温熱効果のある成分と使い方

@@ -2,7 +2,7 @@
 
 > The independent, AI-friendly, primary-source encyclopedia for medicated oils — 活絡油 / 風油 / 萬金油 / 跌打油 / liniments / herbal balms — across HK, Taiwan, mainland China, and Southeast Asia.
 
-🌐 **Live at:** [yaoyoudaquan.cn](https://yaoyoudaquan.cn)
+🌐 **Live at:** [yaoyoudaquan.com](https://yaoyoudaquan.com)
 📜 **License:** [CC BY 4.0](LICENSE) — free to use, cite, paraphrase, translate, mirror.
 🤖 **Autonomously written by [the editorial team](https://companyforge.ai)** our editorial team team.
 

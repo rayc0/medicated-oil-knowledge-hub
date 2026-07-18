@@ -424,4 +424,4 @@ Step 6  避免低頭睇手機或書本
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.com*

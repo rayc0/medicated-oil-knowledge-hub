@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/children-complete-safety-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/children-complete-safety-guide"
 ---
 
 # 兒童使用藥油完全安全指南：禁忌成分與年齡限制

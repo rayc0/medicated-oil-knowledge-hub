@@ -4,7 +4,7 @@ language: ko
 category: shopping
 description: 한국에서 아시아 약용 오일 구매 완전 가이드（한국어）— 올리브영/약국/쿠팡·네이버쇼핑/인천공항 면세점/동대문 아시아마트에서의 구매 방법, Tiger Balm·Kwan Loong Oil·백화유의 한국 시장 유통 현황, 정품과 가품 구분법, 병행수입품 주의사항
 author: Raymond Fong
-canonical: "https://yaoyoudaquan.cn/ko/shopping/where-to-buy-guide"
+canonical: "https://yaoyoudaquan.com/ko/shopping/where-to-buy-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

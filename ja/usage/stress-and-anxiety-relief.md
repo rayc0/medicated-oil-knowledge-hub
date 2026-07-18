@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/stress-and-anxiety-relief"
+canonical: "https://yaoyoudaquan.com/ja/usage/stress-and-anxiety-relief"
 ---
 
 # 薬用オイルによるストレス・不安緩和：アロマ効果・ツボ刺激と日常のセルフケア

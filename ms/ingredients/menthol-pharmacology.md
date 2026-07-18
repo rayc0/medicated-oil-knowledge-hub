@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/menthol-pharmacology.html"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/menthol-pharmacology/"
 ---
 
 # Mentol (Menthol): Farmakologi TRPM8, Sensasi Sejuk, dan Penggunaan Topikal Selamat
@@ -430,7 +430,7 @@ Laman web ini dikendalikan oleh pasukan operator the editorial team AI.
 
 ---
 
-*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan kanak-kanak, asma, kehamilan, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
+*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.com jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan kanak-kanak, asma, kehamilan, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
 
 ## Artikel Berkaitan
 

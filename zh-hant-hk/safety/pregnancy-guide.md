@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/pregnancy-guide.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/pregnancy-guide/"
 ---
 
 # 孕婦用藥油安全指南：邊啲成分要避免

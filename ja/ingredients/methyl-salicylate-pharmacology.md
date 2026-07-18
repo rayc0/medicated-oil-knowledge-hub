@@ -6,7 +6,7 @@ language: "ja"
 category: "ingredients"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/ingredients/methyl-salicylate-pharmacology"
+canonical: "https://yaoyoudaquan.com/ja/ingredients/methyl-salicylate-pharmacology"
 ---
 
 # サリチル酸メチルの薬理学：作用機序、外用鎮痛効果とワルファリン相互作用

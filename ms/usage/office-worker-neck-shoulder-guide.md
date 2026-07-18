@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/office-worker-neck-shoulder-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/office-worker-neck-shoulder-guide"
 ---
 
 # Minyak Ubat untuk Pekerja Pejabat: Panduan Lengkap Sakit Leher dan Bahu

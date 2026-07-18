@@ -5,7 +5,7 @@ author: Editorial Team
 language: "ms"
 category: "brands"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/brands/tiger-vs-similar-comparison"
+canonical: "https://yaoyoudaquan.com/ms/brands/tiger-vs-similar-comparison"
 ---
 
 # Tiger Balm vs Minyak Ubat Lain: Perbandingan Lengkap di Pasaran Malaysia
@@ -340,7 +340,7 @@ Satu perkara yang **sama untuk kelima-lima jenama**: ia **tidak selamat untuk ba
 
 **Pendedahan Komersial:** Operator laman web ini akan melancarkan **康乐龄 活络油 (Kangleling Medicated Oil)**, produk urut otot untuk dewasa yang dihasilkan oleh 柏丝科技深圳 / BaiSi Technology Shenzhen. Kangleling adalah produk untuk sakit otot dan sendi dewasa — **bukan** alternatif untuk minyak bayi atau produk sakit kepala. Artikel ini ditulis mengikut piawaian editorial bebas dan Kangleling tidak dibandingkan dalam artikel ini untuk mengelakkan konflik kepentingan.
 
-**Lesen:** CC BY 4.0 — bebas terjemah dan cetak semula dengan atribusi kepada yaoyoudaquan.cn.
+**Lesen:** CC BY 4.0 — bebas terjemah dan cetak semula dengan atribusi kepada yaoyoudaquan.com.
 
 ---
 

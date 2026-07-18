@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/warfarin-drug-interaction"
+canonical: "https://yaoyoudaquan.com/ja/safety/warfarin-drug-interaction"
 ---
 
 # ワルファリンと薬用オイル：メチルサリチル酸の危険性と安全指針

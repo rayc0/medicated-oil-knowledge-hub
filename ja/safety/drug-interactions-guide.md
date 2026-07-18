@@ -6,7 +6,7 @@ language: "ja"
 category: "safety"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/safety/drug-interactions-guide"
+canonical: "https://yaoyoudaquan.com/ja/safety/drug-interactions-guide"
 ---
 
 # 薬草油・外用薬と処方薬の相互作用：ワルファリン・降圧薬・糖尿病薬との注意点

@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "safety"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hans/safety/medicated-oil-allergy-skin-sensitivity"
+canonical: "https://yaoyoudaquan.com/zh-hans/safety/medicated-oil-allergy-skin-sensitivity"
 ---
 
 # 药用油的过敏与皮肤敏感：斑贴测试与预防指南

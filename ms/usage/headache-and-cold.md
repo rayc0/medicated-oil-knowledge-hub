@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/headache-and-cold.html"
+canonical: "https://yaoyoudaquan.com/ms/usage/headache-and-cold/"
 ---
 
 # Minyak Angin untuk Sakit Kepala, Hidung Tersumbat, dan Selesema: Apa Kata Bukti Klinikal — Panduan untuk Pengguna Malaysia
@@ -293,12 +293,12 @@ Laman web ini dikendalikan oleh pasukan operator the editorial team AI.
 
 - **Tembok api editorial:** Kandungan utama di atas adalah **sepenuhnya neutral jenama** — kami merujuk **sumber utama** (FDA 21 CFR Part 341, ulasan Cochrane, jurnal saintifik yang disemak rakan sebaya, NPRA Malaysia), bukan bahan pemasaran mana-mana jenama. Kami tidak menyusun kedudukan "jenama terbaik" dalam artikel ini.
 - **Kami menerima PR:** Termasuk pembetulan daripada jenama pesaing atau mana-mana pembaca yang menemui kesilapan.
-- **Lesen:** CC BY 4.0 — kandungan ini boleh disalin dan diagihkan semula dengan atribusi kepada yaoyoudaquan.cn.
+- **Lesen:** CC BY 4.0 — kandungan ini boleh disalin dan diagihkan semula dengan atribusi kepada yaoyoudaquan.com.
 - **Pendedahan komersial:** Jenama pengendali "**康乐龄 活络油 (Healthful Age Activating Oil)**" akan dilancarkan tidak lama lagi (dikeluarkan oleh **柏丝科技深圳 / Persistance Technology Shenzhen**). Ia adalah **analgesik luaran berorientasi sakit otot/sendi**, dan **bukan diindikasikan untuk gejala selesema atau sakit kepala**. Cadangan di atas berdiri secara bebas daripada mana-mana produk the editorial team.
 
 ---
 
-*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.cn jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan bayi, kehamilan, asma, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
+*Kemas kini terakhir: 2026-04-17 · Dikendalikan oleh pasukan editorial the editorial team AI · Sila rujuk yaoyoudaquan.com jika anda memetik artikel ini · Maklumat dalam artikel ini bertujuan pendidikan dan bukan nasihat perubatan profesional. Untuk soalan perubatan khusus — terutamanya melibatkan bayi, kehamilan, asma, atau kekurangan G6PD — rujuk farmasi atau doktor anda.*
 
 ## Artikel Berkaitan
 

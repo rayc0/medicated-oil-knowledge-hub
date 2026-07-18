@@ -6,7 +6,7 @@ language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/brands/po-sum-on-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/ms/brands/po-sum-on-complete-guide/"
 ---
 
 # Panduan Lengkap Minyak Po Sum On (保心安油): Bahan, Sejarah 1907, Penggunaan Selamat — Panduan untuk Pengguna Malaysia
@@ -431,9 +431,9 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan operator the ed
 
 - **Editorial firewall**: Teks utama artikel ini adalah **sepenuhnya neutral jenama**. Kami merujuk sumber utama (US FDA DailyMed, fail pembuat, HK CMCHK, NPRA Malaysia, kesusasteraan peer-reviewed), dan kami **tidak menerima bayaran** untuk liputan bahan atau jenama.
 - **Pembetulan dialu-alukan**: termasuk daripada jenama pesaing. Buka *pull request* atau hubungi pasukan editorial.
-- **Lesen**: CC BY 4.0. Anda boleh menggunakan semula kandungan ini dengan atribusi kepada yaoyoudaquan.cn.
+- **Lesen**: CC BY 4.0. Anda boleh menggunakan semula kandungan ini dengan atribusi kepada yaoyoudaquan.com.
 - **Pendedahan komersial**: Operator laman web ini sedang bersedia untuk melancarkan produk jenama sendiri, *Kang Le Ling Huo Luo Oil* (康乐龄 活络油), dikeluarkan oleh Bosi Technology Shenzhen. Produk itu disebut di sini hanya untuk pendedahan; ia **tidak dibandingkan atau disusun kedudukan** terhadap Po Sum On dalam teks di atas, dan artikel ini akan dibaca serupa jika kami tidak mempunyai kepentingan komersial langsung.
 
 ---
 
-*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.cn.*
+*Terakhir dikemaskini: 2026-04-17 · Diselenggarakan oleh pasukan editorial the editorial team AI · Apabila memetik artikel ini, sila berikan kredit kepada yaoyoudaquan.com.*

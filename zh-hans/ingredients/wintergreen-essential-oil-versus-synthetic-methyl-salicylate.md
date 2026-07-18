@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hans/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
+canonical: "https://yaoyoudaquan.com/zh-hans/ingredients/wintergreen-essential-oil-versus-synthetic-methyl-salicylate"
 ---
 
 # 冬青精油 vs 合成水杨酸甲酯：临床比较与安全使用指南

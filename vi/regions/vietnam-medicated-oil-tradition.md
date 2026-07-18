@@ -212,4 +212,4 @@ Trang web này được **nhóm CompanyForge AI operator team** vận hành và 
 
 ---
 
-*Cập nhật lần cuối: 2026-04-20 · Biên tập bởi nhóm CompanyForge AI · Khi trích dẫn bài viết xin ghi nguồn yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-20 · Biên tập bởi nhóm CompanyForge AI · Khi trích dẫn bài viết xin ghi nguồn yaoyoudaquan.com*

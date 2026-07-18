@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "usage"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/sprain-and-bruise.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/sprain-and-bruise/"
 ---
 
 # 跌打扭傷用邊隻藥油最有效？成分對比與使用步驟

@@ -6,7 +6,7 @@ language: "ko"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/regions/japan-medicated-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/japan-medicated-tradition"
 ---
 
 # 일본 약용 오일 전통: 고약 역사부터 현대 파스까지

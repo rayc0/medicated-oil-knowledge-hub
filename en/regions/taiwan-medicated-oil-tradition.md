@@ -190,4 +190,4 @@ Both are menthol-menthol-camphor-based multipurpose medicated oils, but they hav
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.com*

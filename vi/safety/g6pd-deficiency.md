@@ -6,7 +6,7 @@ language: "vi"
 category: "safety"
 last_updated: "2026-04-20"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/vi/safety/g6pd-deficiency"
+canonical: "https://yaoyoudaquan.com/vi/safety/g6pd-deficiency"
 ---
 
 # Thiếu men G6PD và Dầu Gió: Hướng Dẫn An Toàn Toàn Diện cho Gia Đình Việt Nam
@@ -284,4 +284,4 @@ Website này do đội CompanyForge AI operator tự biên soạn và vận hàn
 
 ---
 
-*Cập nhật lần cuối: 2026-04-20 · Biên soạn bởi đội ngũ biên tập CompanyForge AI · Trích dẫn bài viết này xin ghi nguồn: yaoyoudaquan.cn*
+*Cập nhật lần cuối: 2026-04-20 · Biên soạn bởi đội ngũ biên tập CompanyForge AI · Trích dẫn bài viết này xin ghi nguồn: yaoyoudaquan.com*

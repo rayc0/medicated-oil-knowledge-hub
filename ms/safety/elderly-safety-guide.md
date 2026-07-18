@@ -5,7 +5,7 @@ author: Peter Kwok
 language: "ms"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/safety/elderly-safety-guide"
+canonical: "https://yaoyoudaquan.com/ms/safety/elderly-safety-guide"
 ---
 
 # Keselamatan Minyak Ubat untuk Warga Emas: Panduan Lengkap

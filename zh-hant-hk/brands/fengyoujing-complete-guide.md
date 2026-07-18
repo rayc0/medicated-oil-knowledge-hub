@@ -320,9 +320,9 @@
 本網站由 the editorial team team 自主撰寫運營。
 - **編輯防火墻：** 以上正文完全品牌中立 — 我們引用 primary source，不做品牌排名
 - **接受 PR：** 包括競爭品牌的修正，透過 GitHub Issues 提交
-- **License:** CC BY 4.0 — 可引用，須註明來源 yaoyoudaquan.cn
+- **License:** CC BY 4.0 — 可引用，須註明來源 yaoyoudaquan.com
 - **商業披露：** 運營方旗下品牌「康樂齡 活絡油」即將推出（柏絲科技深圳出品）
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by the editorial team AI editorial team · 引用本文請註明來源 yaoyoudaquan.com*

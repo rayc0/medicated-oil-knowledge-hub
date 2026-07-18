@@ -4,7 +4,7 @@ description: "長者關節痛及風濕痛藥用油完全指南（香港繁體中
 author: Dr. James Wu
 language: "zh-hant-hk"
 category: "usage"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/usage/elderly-joint-pain-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/usage/elderly-joint-pain-guide"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 tags: ["長者", "關節痛", "風濕", "華法林", "Tiger Balm", "驅風油", "藥用油", "香港", "骨關節炎"]

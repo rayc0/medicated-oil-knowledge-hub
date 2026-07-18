@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/south-korea-medicated-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/south-korea-medicated-tradition"
 ---
 
 # 韓国の薬用オイル文化：パス文化・Tiger Balm受容と外用薬市場の変遷

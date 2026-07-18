@@ -6,7 +6,7 @@ language: "ja"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/regions/malaysia-tradition"
+canonical: "https://yaoyoudaquan.com/ja/regions/malaysia-tradition"
 ---
 
 # マレーシアの薬用オイル文化：Cap Lang・Minyak Angin・ユーカリオイルのマレー伝統医学

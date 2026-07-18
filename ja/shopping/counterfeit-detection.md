@@ -4,7 +4,7 @@ description: "偽造薬用オイル識別完全ガイド（日本語）— Tiger
 author: Raymond Fong
 language: "ja"
 category: "shopping"
-canonical: "https://yaoyoudaquan.cn/ja/shopping/counterfeit-detection"
+canonical: "https://yaoyoudaquan.com/ja/shopping/counterfeit-detection"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
 ---

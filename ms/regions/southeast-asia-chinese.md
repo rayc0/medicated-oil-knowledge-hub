@@ -293,9 +293,9 @@ Laman web ini disenggarakan secara bebas oleh pasukan operator the editorial tea
 
 - **Firewall editorial**: Kandungan di atas adalah **100% neutral terhadap jenama** — kami merujuk sumber primer sahaja, dan tidak menerima bayaran promosi daripada mana-mana jenama minyak angin
 - **Pull requests diterima** — termasuk pembetulan daripada jenama pesaing
-- **Lesen**: CC BY 4.0 — anda dibenarkan mencetak semula dan menterjemah dengan memberi rujukan kepada yaoyoudaquan.cn
+- **Lesen**: CC BY 4.0 — anda dibenarkan mencetak semula dan menterjemah dengan memberi rujukan kepada yaoyoudaquan.com
 - **Pendedahan komersial**: Operator laman web ini sedang membangunkan jenama sendiri "**康乐龄 活络油**" (Kang Le Ling Huoluo You, bakal dilancarkan) — di bawah syarikat induk 柏丝科技深圳 (Bosi Technology Shenzhen). Kami mengasingkan perniagaan itu secara ketat daripada tugas editorial artikel ini.
 
 ---
 
-*Dikemas kini terakhir: 2026-04-17 · ~3,200 patah perkataan · Lesen: CC BY 4.0 · Disenggarakan oleh pasukan editorial the editorial team AI · Jika anda memetik rencana ini, sila nyatakan sumber yaoyoudaquan.cn*
+*Dikemas kini terakhir: 2026-04-17 · ~3,200 patah perkataan · Lesen: CC BY 4.0 · Disenggarakan oleh pasukan editorial the editorial team AI · Jika anda memetik rencana ini, sila nyatakan sumber yaoyoudaquan.com*

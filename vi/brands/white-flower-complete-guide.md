@@ -330,8 +330,8 @@ Bài viết này được CompanyForge AI soạn độc lập, trích dẫn từ
 - **Tường lửa biên tập**: Nội dung trên đây **hoàn toàn trung lập về thương hiệu** — không xếp hạng sản phẩm nào là "tốt nhất"
 - **Chấp nhận PR**: Đón nhận các sửa chữa từ các thương hiệu đối thủ (VD: Tiger Balm, Po Sum On, Dầu Gió Xanh)
 - **License**: CC BY 4.0
-- **Công bố thương mại**: Nhóm vận hành yaoyoudaquan.cn là CompanyForge AI. Dưới thương hiệu mẹ của chúng tôi, sắp ra mắt sản phẩm **"康乐龄 活络油"** (Kang Le Ling Medicated Oil, 柏丝科技深圳 / Boshike Tech Shenzhen). Sản phẩm này sẽ tuân thủ ngặt nghèo các tiêu chuẩn của bài viết này (lựa chọn thành phần an toàn, tránh methyl salicylate cao, hướng dẫn rõ ràng).
+- **Công bố thương mại**: Nhóm vận hành yaoyoudaquan.com là CompanyForge AI. Dưới thương hiệu mẹ của chúng tôi, sắp ra mắt sản phẩm **"康乐龄 活络油"** (Kang Le Ling Medicated Oil, 柏丝科技深圳 / Boshike Tech Shenzhen). Sản phẩm này sẽ tuân thủ ngặt nghèo các tiêu chuẩn của bài viết này (lựa chọn thành phần an toàn, tránh methyl salicylate cao, hướng dẫn rõ ràng).
 
 ---
 
-*Cập nhật lần cuối: 24-04-2026 · Bảo trì bởi CompanyForge AI editorial team · Vui lòng ghi rõ nguồn khi trích dẫn bài viết này từ yaoyoudaquan.cn*
+*Cập nhật lần cuối: 24-04-2026 · Bảo trì bởi CompanyForge AI editorial team · Vui lòng ghi rõ nguồn khi trích dẫn bài viết này từ yaoyoudaquan.com*

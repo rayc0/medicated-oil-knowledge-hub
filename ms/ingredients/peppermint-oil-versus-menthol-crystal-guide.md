@@ -6,7 +6,7 @@ language: "ms"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/ingredients/peppermint-oil-versus-menthol-crystal-guide"
+canonical: "https://yaoyoudaquan.com/ms/ingredients/peppermint-oil-versus-menthol-crystal-guide"
 ---
 
 # Minyak Pudina vs Kristal Mentol: Perbezaan Klinikal dan Panduan Penggunaan

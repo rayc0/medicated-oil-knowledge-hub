@@ -228,9 +228,9 @@ A: Do NOT induce vomiting. Call your local poison control line immediately. In t
 
 - **Editorial firewall:** The article body above is entirely brand-neutral. All product mentions are illustrative and based on publicly available formulation data, not commercial arrangements. We accept corrections from any brand, including competitors.
 - **Commercial disclosure:** The operator's own brand, 「康乐龄 活络油」(Editorial Team Medicated Oil), is a to-launch product by 柏丝科技深圳 (Bosi Technology Shenzhen). It does not appear in the body of this article.
-- **License:** CC BY 4.0 — cite as: *yaoyoudaquan.cn/en/usage/elderly-mobility-guide*
-- **Corrections & PR:** Open issues at the repository or email editorial@yaoyoudaquan.cn
+- **License:** CC BY 4.0 — cite as: *yaoyoudaquan.com/en/usage/elderly-mobility-guide*
+- **Corrections & PR:** Open issues at the repository or email editorial@yaoyoudaquan.com
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · Cite this article: yaoyoudaquan.cn/en/usage/elderly-mobility-guide*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · Cite this article: yaoyoudaquan.com/en/usage/elderly-mobility-guide*

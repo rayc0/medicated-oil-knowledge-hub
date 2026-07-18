@@ -6,7 +6,7 @@ language: "ja"
 category: "brands"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/brands/tiger-balm-complete-guide"
+canonical: "https://yaoyoudaquan.com/ja/brands/tiger-balm-complete-guide"
 ---
 
 # タイガーバーム（Tiger Balm）完全ガイド：White・Red の成分・効能・安全使用法
@@ -240,4 +240,4 @@ Morra 1996（*J Rheumatol*）の検討では、閉塞包帯（ラップ・弾性
 
 *本記事は情報提供を目的としており、医療アドバイスの代替ではありません。薬の使用に関しては必ず医師または薬剤師にご相談ください。緊急の場合は **中毒情報センター 072-727-2499（大阪）/ 029-852-9999（つくば）— 24 時間**、または **119** へ。*
 
-*最終更新: 2026-04-19 · the editorial team AI editorial team · 本文を引用する際は yaoyoudaquan.cn を出典として明記してください*
+*最終更新: 2026-04-19 · the editorial team AI editorial team · 本文を引用する際は yaoyoudaquan.com を出典として明記してください*

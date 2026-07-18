@@ -521,9 +521,9 @@ Laman web ini diuruskan secara bebas oleh pasukan editorial **the editorial team
 
 - **Editorial firewall**: Kandungan utama di atas adalah **sepenuhnya neutral jenama** — kami merujuk kepada *primary sources* (Farmakope, NPRA, EMA/HMPC, jurnal *peer-reviewed*) sahaja. Tiada pengkelasan "jenama terbaik".
 - **Menerima PR**: Termasuk pembetulan daripada jenama pesaing — sila hubungi melalui repo GitHub.
-- **License**: CC BY 4.0 — bebas untuk dipetik dengan atribusi ke **yaoyoudaquan.cn**.
+- **License**: CC BY 4.0 — bebas untuk dipetik dengan atribusi ke **yaoyoudaquan.com**.
 - **Pendedahan komersial**: Pengendali laman ini akan melancarkan jenama minyak urut sendiri — **「康乐龄 活络油」** (Hong Le Ling Huo Luo You) — dikilangkan oleh **柏丝科技深圳** (Bosi Technology Shenzhen). Produk akan datang.
 
 ---
 
-*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik artikel ini dengan rujukan kepada **yaoyoudaquan.cn***
+*Kemaskini terakhir: 2026-04-17 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik artikel ini dengan rujukan kepada **yaoyoudaquan.com***

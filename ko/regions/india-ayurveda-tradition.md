@@ -6,7 +6,7 @@ language: "ko"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/regions/india-ayurveda-tradition"
+canonical: "https://yaoyoudaquan.com/ko/regions/india-ayurveda-tradition"
 ---
 
 # 인도 아유르베다와 약용 오일: 마하나라야나 오일·님 오일·피마자 오일의 전통 의학 배경

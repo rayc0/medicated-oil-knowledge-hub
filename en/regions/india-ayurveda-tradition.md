@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "en"
 category: "regions"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/en/regions/india-ayurveda-tradition"
+canonical: "https://yaoyoudaquan.com/en/regions/india-ayurveda-tradition"
 ---
 
 # Indian Ayurvedic Oils and Their Relationship to Asian Medicated Oils

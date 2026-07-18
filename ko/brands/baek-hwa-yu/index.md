@@ -6,7 +6,7 @@ language: "ko"
 category: "brands"
 last_updated: "2026-05-13"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/brands/baek-hwa-yu"
+canonical: "https://yaoyoudaquan.com/ko/brands/baek-hwa-yu"
 ---
 
 # 백화유 (白花油) 완벽 가이드

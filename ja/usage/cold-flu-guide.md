@@ -5,7 +5,7 @@ author: Raymond Fong
 language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ja/usage/cold-flu-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/cold-flu-guide"
 license: "CC BY 4.0"
 ---
 

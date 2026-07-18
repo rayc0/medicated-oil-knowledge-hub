@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "zh-hant-hk"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/safety/drug-interactions-guide"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/safety/drug-interactions-guide"
 ---
 
 # 藥油與藥物相互作用：安全用藥指南

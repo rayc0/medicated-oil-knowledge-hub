@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/skin-care-and-itching"
+canonical: "https://yaoyoudaquan.com/ja/usage/skin-care-and-itching"
 ---
 
 # 薬用オイルによる皮膚トラブル・かゆみ対策：湿疹・ドライスキン・虫刺されへの効果と限界

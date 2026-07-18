@@ -6,7 +6,7 @@ language: "ms"
 category: "usage"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/usage/stress-and-anxiety-relief"
+canonical: "https://yaoyoudaquan.com/ms/usage/stress-and-anxiety-relief"
 ---
 
 # Minyak Ubat untuk Tekanan dan Kebimbangan: Panduan Aromaterapi dan Akupresur

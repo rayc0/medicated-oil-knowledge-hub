@@ -6,7 +6,7 @@ language: "zh-hant-hk"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hant-hk/brands/double-prince-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/zh-hant-hk/brands/double-prince-complete-guide/"
 ---
 
 # 雙飛人藥水完整指南：法國百年薄荷精華嘅成分、歷史與安全使用

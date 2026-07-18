@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/muscle-recovery-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/muscle-recovery-guide"
 ---
 
 # Minyak Ubat untuk Pemulihan Otot: Panduan Lengkap Selepas Senaman

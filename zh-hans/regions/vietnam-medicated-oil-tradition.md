@@ -168,4 +168,4 @@ license: CC BY 4.0
 
 ---
 
-*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-19 · Maintained by CompanyForge AI editorial team · 引用本文请注明来源 yaoyoudaquan.com*

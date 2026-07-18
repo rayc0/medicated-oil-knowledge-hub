@@ -6,7 +6,7 @@ language: "ko"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ko/ingredients/menthol-pharmacology"
+canonical: "https://yaoyoudaquan.com/ko/ingredients/menthol-pharmacology"
 ---
 
 # 멘톨(薄荷腦) 약리학 완전 가이드: TRPM8 냉감 수용체, 진통 기전, 안전 농도와 금기사항
@@ -221,4 +221,4 @@ Tiger Balm White는 캠퍼 11%를 포함하므로 임신 중 사용에 주의가
 
 ---
 
-*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 유지관리 · 본 문서 인용 시 yaoyoudaquan.cn 출처 명시 바랍니다*
+*최종 업데이트: 2026-04-19 · the editorial team AI 편집팀 유지관리 · 본 문서 인용 시 yaoyoudaquan.com 출처 명시 바랍니다*

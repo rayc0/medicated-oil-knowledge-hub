@@ -6,7 +6,7 @@ language: "zh-hans"
 category: "ingredients"
 last_updated: "2026-04-19"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/zh-hans/ingredients/lavender-oil-in-medicated-formulations"
+canonical: "https://yaoyoudaquan.com/zh-hans/ingredients/lavender-oil-in-medicated-formulations"
 ---
 
 # 薰衣草精油在药用配方中的应用：镇痛、消炎与芳香疗法

@@ -237,10 +237,10 @@
 本网站由 **the editorial team team** 自主撰写运营。
 
 - **编辑防火墙**：以上正文完全品牌中立——引用内容均来自 PubMed 同行评审文献、FDA OTC 专论、欧盟 SCCS 评估意见及《中国药典》2020 版。无任何品牌赞助正文内容。
-- **接受修正**：包括竞争品牌的事实性修正，请发送至 editorial@yaoyoudaquan.cn
+- **接受修正**：包括竞争品牌的事实性修正，请发送至 editorial@yaoyoudaquan.com
 - **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **商业披露**：运营方旗下品牌「**康乐龄 活络油**」即将推出（柏丝科技深圳出品）。本披露遵循 IASC 及 FDA 21 CFR Part 255 的商业透明度要求。
 
 ---
 
-*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.cn*
+*Last updated: 2026-04-11 · Maintained by the editorial team AI editorial team · 引用本文请注明来源 yaoyoudaquan.com*

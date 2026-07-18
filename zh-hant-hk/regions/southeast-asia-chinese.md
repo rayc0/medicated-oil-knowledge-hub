@@ -312,4 +312,4 @@ BPOM 要求：
 
 ---
 
-*最後更新：2026-04-18 · 字數：約 3,300 字 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.cn*
+*最後更新：2026-04-18 · 字數：約 3,300 字 · Maintained by the editorial team AI editorial team · 引用本文請注明來源 yaoyoudaquan.com*

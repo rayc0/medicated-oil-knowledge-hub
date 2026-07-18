@@ -5,7 +5,7 @@ author: Dr. Amy Tsui
 language: "ms"
 category: "usage"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/usage/sports-injury-first-aid-guide"
+canonical: "https://yaoyoudaquan.com/ms/usage/sports-injury-first-aid-guide"
 ---
 
 # Minyak Ubat untuk Kecederaan Sukan: Panduan Pertolongan Cemas dan Pemulihan
@@ -426,4 +426,4 @@ Laman web ini ditulis dan dikendalikan secara bebas oleh pasukan editorial Edito
 
 ---
 
-*Last updated: 2026-04-18 · Diselenggara oleh pasukan editorial Editorial Team · Sila petik sebagai yaoyoudaquan.cn*
+*Last updated: 2026-04-18 · Diselenggara oleh pasukan editorial Editorial Team · Sila petik sebagai yaoyoudaquan.com*

@@ -6,7 +6,7 @@ language: "ms"
 category: "brands"
 last_updated: "2026-04-17"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/brands/wong-to-yick-complete-guide.html"
+canonical: "https://yaoyoudaquan.com/ms/brands/wong-to-yick-complete-guide/"
 ---
 
 # Panduan Lengkap Minyak Angin Wong To Yick (黃道益活絡油): Sejarah, Bahan, Keselamatan — Panduan untuk Pengguna Malaysia
@@ -486,9 +486,9 @@ J: **TIDAK.** Kawasan dubur mempunyai membran mukus yang menyerap metil salisila
 Laman web ini diurus secara bebas oleh **pasukan operator the editorial team AI**.
 
 - **Tembok api editorial:** Kandungan artikel di atas adalah **neutral dari segi jenama**. Kami menyebut Wong To Yick, Tiger Balm, Kwan Loong, Po Sum On, dan jenama lain secara objektif berdasarkan pelabelan produk awam dan literatur saintifik yang diterbitkan. Tiada jenama membayar untuk liputan positif. Kami juga menerima PR pembetulan — termasuk daripada jenama yang disebut.
-- **Lesen:** CC BY 4.0. Anda boleh menggunakan semula dengan memberi kredit kepada yaoyoudaquan.cn.
+- **Lesen:** CC BY 4.0. Anda boleh menggunakan semula dengan memberi kredit kepada yaoyoudaquan.com.
 - **Pendedahan komersial:** Pengendali laman ini bakal melancarkan jenama **「康乐龄 活络油」(Kang Le Ling Huoluo Oil)** — dikeluarkan oleh **Bosi Technology Shenzhen (柏絲科技深圳)** — sebuah produk minyak angin berasaskan resipi TCM tradisional yang diformulasikan untuk sakit otot/sendi. Produk ini **tidak disebut dalam bahagian editorial di atas** sebagai langkah pematuhan firewall. Maklumat produk akan dikeluarkan secara berasingan setelah pelancaran rasmi.
 
 ---
 
-*Dikemaskini: 17 April 2026 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik: yaoyoudaquan.cn/ms/brands/wong-to-yick-complete-guide*
+*Dikemaskini: 17 April 2026 · Diselenggara oleh pasukan editorial the editorial team AI · Sila petik: yaoyoudaquan.com/ms/brands/wong-to-yick-complete-guide*

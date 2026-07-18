@@ -5,7 +5,7 @@ author: "the editorial team AI editorial team"
 language: "ja"
 category: "safety"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ja/safety/infants-and-children"
+canonical: "https://yaoyoudaquan.com/ja/safety/infants-and-children"
 ---
 
 # 乳幼児に薬用オイルは使えますか？2歳未満の禁忌成分完全ガイド
@@ -264,4 +264,4 @@ canonical: "https://yaoyoudaquan.cn/ja/safety/infants-and-children"
 
 ---
 
-*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する際は出典として yaoyoudaquan.cn を明記してください*
+*Last updated: 2026-04-18 · Maintained by the editorial team AI editorial team · 本記事を引用する際は出典として yaoyoudaquan.com を明記してください*

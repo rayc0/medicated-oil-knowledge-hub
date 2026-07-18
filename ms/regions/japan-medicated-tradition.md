@@ -6,7 +6,7 @@ language: "ms"
 category: "regions"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ms/regions/japan-medicated-tradition"
+canonical: "https://yaoyoudaquan.com/ms/regions/japan-medicated-tradition"
 ---
 
 # Tradisi Minyak Ubat Jepun: Dari Kouyaku Kuno hingga Paas Moden

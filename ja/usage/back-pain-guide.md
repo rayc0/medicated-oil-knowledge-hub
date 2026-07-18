@@ -6,7 +6,7 @@ language: "ja"
 category: "usage"
 last_updated: "2026-04-18"
 license: "CC BY 4.0"
-canonical: "https://yaoyoudaquan.cn/ja/usage/back-pain-guide"
+canonical: "https://yaoyoudaquan.com/ja/usage/back-pain-guide"
 ---
 
 # 薬用オイルで腰痛を和らげる：塗布方法・製品比較・注意すべき症状

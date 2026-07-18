@@ -5,7 +5,7 @@ author: Helen Cheung
 language: "ms"
 category: "regions"
 last_updated: "2026-04-18"
-canonical: "https://yaoyoudaquan.cn/ms/regions/singapore-tradition"
+canonical: "https://yaoyoudaquan.com/ms/regions/singapore-tradition"
 ---
 
 # Tradisi Minyak Ubat di Singapura: Warisan Tiger Balm, Kebudayaan Peranakan dan Pasaran Moden
