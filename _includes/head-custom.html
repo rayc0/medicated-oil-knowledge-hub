@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <!-- <meta name="baidu-site-verification" content="[BAIDU_TOKEN]"> -->
 
 {% assign page_lang = page.lang | default: page.language | default: "zh-hans" %}
-{% assign site_url = "https://yaoyoudaquan.cn" %}
+{% assign site_url = "https://yaoyoudaquan.com" %}
 {% if page.canonical %}
   {% assign full_url = page.canonical %}
 {% else %}
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded',function(){
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ full_url }}">
 <meta property="og:image" content="{{ site_url }}/assets/img/og-default.png">
-<meta property="og:site_name" content="藥油大全 yaoyoudaquan.cn">
+<meta property="og:site_name" content="藥油大全 yaoyoudaquan.com">
 <meta property="og:locale" content="{{ page_lang | replace: '-', '_' }}">
 
 <!-- Twitter Card -->
@@ -84,12 +84,12 @@ document.addEventListener('DOMContentLoaded',function(){
   "author": {
     "@type": "Organization",
     "name": "藥油大全知識庫",
-    "url": "https://yaoyoudaquan.cn"
+    "url": "https://yaoyoudaquan.com"
   },
   "publisher": {
     "@type": "Organization",
     "@id": "{{ site_url }}/#org",
-    "name": "藥油大全 yaoyoudaquan.cn"
+    "name": "藥油大全 yaoyoudaquan.com"
   },
   {% if page.tags %}"keywords": {{ page.tags | join: ', ' | jsonify }},{% endif %}
   "license": "https://creativecommons.org/licenses/by/4.0/",
