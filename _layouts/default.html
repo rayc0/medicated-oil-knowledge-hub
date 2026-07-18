@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 {% assign page_lang = page.lang | default: page.language | default: "zh-Hans" %}
+{% assign fallback_description = page.content | default: "" | strip_html | strip_newlines | strip | truncate:155, '' %}
+{% assign meta_description = page.description | default: fallback_description %}
+{% if meta_description == "" %}
+  {% assign meta_description = fallback_description %}
+{% endif %}
 <html lang="{{ page_lang }}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title | default: site.title | escape }}</title>
+<meta name="description" content="{{ meta_description | escape }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700;900&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif:wght@600;700&display=swap" rel="stylesheet">
@@ -12,8 +18,9 @@
 {% include head-custom.html %}
 </head>
 <body class="{% if page.name == 'index.md' %}is-home{% else %}is-article{% endif %}">
+<a class="skip-link" href="#content">Skip to content</a>
 {% include lang-bar.html %}
-<main class="site-main">
+<main id="content" class="site-main" tabindex="-1">
 {{ content }}
 </main>
 {% include site-footer.html %}
