@@ -19,28 +19,17 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.3'
           bundler-cache: true
 
-      - name: Create Gemfile if missing
-        run: |
-          if [ ! -f Gemfile ]; then
-            cat > Gemfile << 'EOF'
-          source "https://rubygems.org"
-          gem "jekyll", "~> 4.3"
-          gem "webrick"
-          EOF
-          fi
-
-      - name: Install dependencies
-        run: bundle install
-
       - name: Build Jekyll
+        env:
+          JEKYLL_ENV: production
         run: bundle exec jekyll build
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages deploy _site/ --project-name medicated-oil-hub --branch main
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --project-name=yaoyoudaquan --branch=main
